@@ -1,0 +1,16 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+138071644,"{'steamid': '76561198075255380', 'num_games_owned': 257, 'num_reviews': 262, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",english,Free cosmetics but none of them are really great.,1683679421,1683679421,True,0,0,0,0,False,False,False,True,,,
+90995055,"{'steamid': '76561198007996214', 'num_games_owned': 0, 'num_reviews': 232, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",russian,топ,1619515678,1619515678,True,1,1,0.454312562942504883,0,False,False,False,False,,,
+85675505,"{'steamid': '76561198086805481', 'num_games_owned': 0, 'num_reviews': 95, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",english,"Purely cosmetic. All head-related accessories.
+
+It's free so it's up to you if you want it.",1612076561,1612076561,False,0,0,0.360934168100357056,0,True,False,False,False,,,
+83546004,"{'steamid': '76561197991271982', 'num_games_owned': 566, 'num_reviews': 570, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",russian,Шляпы за бабло. Привет TF2!,1609313246,1609313246,False,2,2,0.420726090669631958,0,False,False,False,False,,,
+65332575,"{'steamid': '76561198144779968', 'num_games_owned': 363, 'num_reviews': 45, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",brazilian,Sinitroooo!!!!,1584628615,1584628615,True,0,0,0,0,False,False,False,False,,,
+50303301,"{'steamid': '76561198016644244', 'num_games_owned': 672, 'num_reviews': 732, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",russian,5 из 10,1556123488,1556123488,False,1,0,0.410001665353775024,0,False,False,False,False,,,
+23125959,"{'steamid': '76561198085914067', 'num_games_owned': 0, 'num_reviews': 149, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1463869558}",english,"████████████████████████████████████
+████████████████████████████████████
+████████████████10/10████████████████
+████████████████████████████████████
+████████████████████████████████████",1463869587,1463869587,True,8,6,0.269105732440948486,0,False,False,False,False,,,
+1771035,"{'steamid': '76561197997740965', 'num_games_owned': 7969, 'num_reviews': 2015, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",russian,"Бред вообще, на кой черт делать такое длс, да еще и халявным. Могли бы и просто обновить игру, сунув в нее такое дополнение.",1353098628,1353098628,True,83,6,0.691031813621520996,3,False,False,False,False,,,
+1646731,"{'steamid': '76561197995820083', 'num_games_owned': 1825, 'num_reviews': 583, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",english,HD fedora simulation,1352301332,1352301332,True,82,21,0.480699837207794189,0,False,False,False,False,,,

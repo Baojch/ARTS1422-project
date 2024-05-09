@@ -1,0 +1,2 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+150449269,"{'steamid': '76561198063297413', 'num_games_owned': 187, 'num_reviews': 4, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1674477370}",french,A quand une mise a jour ?,1700422671,1700422671,False,0,0,0,0,True,False,True,True,,,

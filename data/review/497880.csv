@@ -1,0 +1,46 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+123787552,"{'steamid': '76561199369103523', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1665694977}",english,"this will not connect to twitch,. i should have read the reviews ... no gucci.",1665695593,1665695593,False,0,0,0,0,True,False,True,True,,,
+115026549,"{'steamid': '76561198122092726', 'num_games_owned': 3554, 'num_reviews': 242, 'playtime_forever': 666, 'playtime_last_two_weeks': 0, 'playtime_at_review': 666, 'last_played': 1560112604}",polish,"Gra, która doskonale nadaje się na streamy z widzami.
+Ty rysujesz - oni zgadują!",1651823499,1651823499,True,2,1,0.546178340911865234,0,False,False,True,False,,,
+93972959,"{'steamid': '76561198138497864', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1624051356}",english,"Do not recommend. Bought to use on my stream as a game to play with my audience and it does not have the ability to connect to Twitch anymore. It will not finish the Twitch authentication step and therefore can not be intorgrated with Twitch. Steam should remove this game as it looks like this has been a problem for a very long time (looks like 2+ years) and the devs clearly do not intend to fix the issue.
+
+Was super excited to try this game, instead I ended up immediately requesting a refund.",1624051632,1624051632,False,0,0,0,0,True,False,True,False,,,
+89667337,"{'steamid': '76561198301713238', 'num_games_owned': 417, 'num_reviews': 60, 'playtime_forever': 257, 'playtime_last_two_weeks': 0, 'playtime_at_review': 257, 'last_played': 1609597190}",turkish,Yaklaşık 10000 TL değerinde bir kartı vardı bunun belki düşer diye aldım düşmedi bide zarar ettim tü aq,1617491604,1617491604,True,1,0,0.525862038135528564,0,True,False,True,False,,,
+81155863,"{'steamid': '76561198073358092', 'num_games_owned': 56, 'num_reviews': 4, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1606702928}",english,Good idea badly executed. The UI is ugly with no customisation options and no option to fullscreen the game. Thankfully I found Gartic online that is free and much better in several ways.,1606702943,1606704240,False,0,0,0,0,True,False,True,False,,,
+69335820,"{'steamid': '76561198306230529', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 177, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1610043641}",english,not twitch connect..!! white screen error,1589758349,1589758349,False,2,0,0.545454561710357666,0,True,False,True,False,,,
+65184900,"{'steamid': '76561198163023429', 'num_games_owned': 209, 'num_reviews': 23, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1582676095}",english,"An unfortunate find...
+
+I got this game because I thought it would be fun to play it with my chat on twitch stream. WARNING: DEVS HAVE STOPPED TO CARE ABOUT THIS GAME. It has not been updated for a few years now. It does not connect to twitch no more, or YouTube. The methodology behind it is niche and creative, but I just wish someone cared about it to update it periodically. I do not recommend this to anyone to it gets an update.",1584416743,1584416743,False,7,0,0.629629611968994141,0,True,False,True,False,,,
+61831322,"{'steamid': '76561198121398682', 'num_games_owned': 19753, 'num_reviews': 1577, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 186, 'last_played': 1557699401}",english,"Pictionary is a fun game to play at parties but what if you can't get people to come over? The internet can solve that, Doodle WHAT?! is essentially an online Pictionary so it's fun! Draw and guess!
+https://youtu.be/MNQg_mJeL6Q",1578984834,1578984834,True,3,0,0.532363951206207275,0,False,False,True,False,,,
+52379225,"{'steamid': '76561197966003868', 'num_games_owned': 9642, 'num_reviews': 20, 'playtime_forever': 268, 'playtime_last_two_weeks': 0, 'playtime_at_review': 268, 'last_played': 1561889168}",french,"J'ai tester mais pour moi ceci n'est pas un jeu
+j'ai pas aimer du tout
+description ""Un jeu de dessin social intégré à Twitch.tv et YouTube Gaming.""
+Moi perso j'ai pas, apres peut etre que certain vont aimer",1561889431,1561889431,False,4,0,0.555095493793487549,0,False,False,True,False,,,
+49954682,"{'steamid': '76561198120965116', 'num_games_owned': 615, 'num_reviews': 52, 'playtime_forever': 433, 'playtime_last_two_weeks': 0, 'playtime_at_review': 433, 'last_played': 1537649734}",brazilian,"o jogo é bacana, mas tem uns bugs meio chatos que não interferem tanto. Pra jogar em livestream é legal, bem interativo com o pessoal",1554405368,1554405368,True,0,0,0,0,True,False,True,False,,,
+49097064,"{'steamid': '76561198006286029', 'num_games_owned': 1597, 'num_reviews': 106, 'playtime_forever': 1004, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1004, 'last_played': 1526696881}",english,"Simple Twitch integrated Charades game, you draw, viewers guess.
+Fun if you have active chatters ;)
+
+~ General M-13
+Twitch.TV/GeneralM13",1550566224,1550566224,True,1,0,0.511278212070465088,0,False,True,True,False,,,
+48229726,"{'steamid': '76561198156526345', 'num_games_owned': 246, 'num_reviews': 5, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1547068823}",english,"This game does NOT work properly when too many viewers..... Garbage.
+The lag comes from the chat being omnipresent from what I can tell, and with no way of disabling it of course. Paying for this should be illegal.",1547150048,1547150048,False,3,0,0.544767975807189941,1,True,False,True,False,,,
+35007470,"{'steamid': '76561198012647319', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1505596652}",english,"The concept is fun, but when people spam your chat with guesses, it starts lagging your drawing, making it very difficult to actually draw.
+
+Can't recommend the game with that kinda issue.",1505596708,1505596708,False,5,1,0.535654425621032715,0,False,False,True,False,,,
+30949518,"{'steamid': '76561198034149722', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1499937981}",english,"Game just had an update and now you can use hook the game into your twitch channle. This game is a wonderful idea to get your chat involved in your game play. Like i said, I would change my thumbs down to an up if they would fix that one issue. 
+
+Hopefully the makers of the game are going to keep up the work that they have done. If anything faster respons time to issues. would be the best thing.
+
+
+
+
+
+April 5th, 2017: I would love to give this a Thumbs up because it is a good idea to play a game involing your Twitch chat room. 
+
+Down side the game will no contect to Twitch.
+Even tried to change my password and log into the game the next day, and it still would not work.
+
+No help in discussion have been given after Aug, 2016",1491337668,1499938882,True,1,0,0.514851510524749756,0,True,False,True,False,,,
+24832315,"{'steamid': '76561198135958587', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 175, 'playtime_last_two_weeks': 0, 'playtime_at_review': 175, 'last_played': 1471033754}",english,"This game was a ton of fun to play while streaming. My talent at drawing sucked, but that added to the fun. Will definitely play this and stream it again. The only downside to the game is the amount of options. I found that quite often I would be stuck with 3 words options I have had before especially in the country section. I think more modes would do well for the game so it can be streamed for longer periods of time. Currently after playing each mode once all the available options were used. The food mode seemed to have the most options, but even that ran into occasions with multiple repeat words. Other than that which I would easily assume is just a new release issue (with more words and content to come) the game is beyond great for any streamer.",1470948855,1470948855,True,1,0,0.474561333656311035,0,True,False,True,False,,,
+24727413,"{'steamid': '76561198160092652', 'num_games_owned': 1882, 'num_reviews': 80, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1470612978}",english,Great game and amazing  support!! Had a blast playing this game on stream with my chat..I draw like a 3 year old..but the chat stayed engaged the whole time! Def would recommend for streamers who want to keep their chat hopping. Can't wait to start adding words into the custom list! Great work!!,1470414605,1470414605,True,5,1,0.548303961753845215,0,False,False,True,False,,,

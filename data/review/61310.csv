@@ -1,0 +1,627 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location
+152254977,"{'steamid': '76561198042317098', 'num_games_owned': 0, 'num_reviews': 852, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1701102104}",polish,3/10,1701102122,1701102122,False,0,0,0,0,False,False,False,True,
+144681780,"{'steamid': '76561198066202521', 'num_games_owned': 3383, 'num_reviews': 674, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1690072482}",brazilian,"[h1][b]Fractal: Make Blooms Not War[/b][/h1]
+
+Um jogo simples, a trilha sonora é boa e relaxante, normalmente seria um jogo que eu recomendaria, mas o jogo é muito aleatório e em diversos momentos tive que reiniciar o nível por que a não dava pra continuar. Poderia ser um bom jogo, mas não vale a pena perder meu tempo com esse jogo.
+
+[b]Nota: [u]5/10[/u][/b]",1692577704,1692577704,False,2,0,0.545454561710357666,0,False,False,False,True,
+144277318,"{'steamid': '76561198000998015', 'num_games_owned': 0, 'num_reviews': 1520, 'playtime_forever': 232, 'playtime_last_two_weeks': 0, 'playtime_at_review': 232, 'last_played': 1510283944}",english,"Simple Puzzle Game 
+Cab Be Fun
+If Your Bored",1692120343,1692120343,True,1,0,0.527559041976928711,0,False,True,False,True,
+137027969,"{'steamid': '76561198106656909', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 261, 'playtime_last_two_weeks': 0, 'playtime_at_review': 249, 'last_played': 1709188389}",english,"This game is super zen, relaxing and fun!",1682032754,1682032754,True,0,0,0,0,False,False,False,True,
+130421150,"{'steamid': '76561198018059205', 'num_games_owned': 1158, 'num_reviews': 37, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1673174670}",english,"A mobile game port, with a very nice and chilling soundtrack, yet it lacks a proper tutorial for the mechanics (you'd have to trial and error yourself throught the game). And again, I will be harsh towards games that lack Steamworks, where the bare minimum is Steam Cloud saves. Especially for these kind of games, where progression tracking is crucial and you'd be loosing your stuff upon reinstall.",1673174895,1673174895,False,0,0,0.454545468091964722,0,False,False,False,True,
+113655240,"{'steamid': '76561198046365359', 'num_games_owned': 163, 'num_reviews': 9, 'playtime_forever': 499, 'playtime_last_two_weeks': 0, 'playtime_at_review': 79, 'last_played': 1685042463}",english,"Simple, casual game to play when you have a break in work and need to reset your brain or travel in a bus and need something to do. Not extremely easy, not really hard. Just poking colourful hexagons around. If you want a challenge, you can try puzzles/push the campaign on. If you just want to chill, re-play some of the start of the campaign.",1649620538,1649620538,True,1,0,0.523809552192687988,0,False,False,False,False,
+112490837,"{'steamid': '76561197998455758', 'num_games_owned': 1566, 'num_reviews': 1960, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1556128919}",english,Mobile style puzzle. Better than most of mobile game ports.,1647716191,1647716191,True,0,0,0,0,True,False,False,False,
+105739931,"{'steamid': '76561198021869742', 'num_games_owned': 0, 'num_reviews': 61, 'playtime_forever': 181, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1639356948}",english,"If there is a way to control the sound settings, I never found it.",1639356990,1639356990,False,0,0,0,0,False,False,False,False,
+103347664,"{'steamid': '76561198010103407', 'num_games_owned': 707, 'num_reviews': 9, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 162, 'last_played': 1637702953}",english,"It's RNG on top of RNG on top of RNG
+
+It's a great concept that is hindered by the developer's lack of desire to create an algorithm to handle all of the systems intelligently.
+
+Remember kids - using the Random function does equate good game design. I needs to be tempered!",1637694689,1637694689,False,0,0,0,0,True,False,False,False,
+101669182,"{'steamid': '76561197999366289', 'num_games_owned': 0, 'num_reviews': 127, 'playtime_forever': 105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1635264330}",english,"I don't want it, sir.",1635264354,1635264354,False,0,0,0.471014469861984253,0,False,False,False,False,
+98690697,"{'steamid': '76561198055639643', 'num_games_owned': 22, 'num_reviews': 1, 'playtime_forever': 2899, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2340, 'last_played': 1692596233}",english,fun,1630630042,1630630042,True,0,0,0,0,True,False,False,False,
+97560147,"{'steamid': '76561198330888468', 'num_games_owned': 0, 'num_reviews': 501, 'playtime_forever': 105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1628959079}",english,"A very interesting game, that certainly makes me feel like I am stretching my brain.
+The goal is to make 'blooms', a solid hex of hexes, by pushing a smaller hex (or more than one) and the space behind fills up with a new hex. 
+So far they need to be of the same color, which makes two color maps a bit tricky, but fun.
+The game has three modes, puzzles, arcade and campaign. All of them are dun in their own way.
+Controls are tight, graphics are simple and clean.
+An easy recommendation.",1628959265,1628959265,True,0,0,0,0,False,False,False,False,
+95999147,"{'steamid': '76561198024340430', 'num_games_owned': 2058, 'num_reviews': 7335, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1337842800}",english,"LAST TIME I PLAYED THIS GAME WAS 2012 CAW CAW 
+
+I WAS STILL CRINGE BUT LESS FAT CAW CAW 
+
+THOSE FROZEN MEALS DO A NUMBER ON YOU CAW CAW",1626669437,1626669437,True,1,2,0.227368414402008057,0,True,False,False,False,
+90531391,"{'steamid': '76561198002004759', 'num_games_owned': 177, 'num_reviews': 24, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1618762820}",russian,Для пазла слишком много рандома,1618762884,1618762884,False,0,0,0,0,False,False,False,False,
+87387082,"{'steamid': '76561198009664563', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 2918, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2763, 'last_played': 1684742514}",english,A relaxing and enjoyable little puzzle game. Every so often I find myself going back to it and just playing it for a bit.,1614218090,1614218090,True,0,0,0,0,True,False,False,False,
+84043323,"{'steamid': '76561198025089345', 'num_games_owned': 2174, 'num_reviews': 2932, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1609820879}",schinese,"很烧脑的消除类游戏，难度很高。
+通过挤入方块，让方块合并成特定的花朵形状后消除得分！
+分为战役，阶级，谜题3种方式！！
+战役我只能摸到第四关卡住了！街机算分数和限时！
+谜题~emmm~难~但是很有意思~（我是说简单的那种~）
+[h1]~可惜没成就~[/h1]",1609820892,1609820892,True,19,2,0.671679854393005371,0,False,False,False,False,
+82314600,"{'steamid': '76561197975960529', 'num_games_owned': 1441, 'num_reviews': 10, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1607911614}",english,"I've tried to get into this game multiple times.  It's just not for me.  The puzzle mode should be done first, but the campaign is the first one from the left.  The puzzle mode is more of a tutorial than the campaign provides.  I'd get somewhat into the campaign, not knowing what I was doing, and then I'd just hit a wall.  I'm sure someone who can grasp the strategy of making these ""blooms"" will find this entertaining - but I cannot recommend this game.",1607911786,1607911786,False,0,0,0,0,False,False,False,False,
+69954532,"{'steamid': '76561198042344608', 'num_games_owned': 215, 'num_reviews': 116, 'playtime_forever': 308, 'playtime_last_two_weeks': 0, 'playtime_at_review': 308, 'last_played': 1590688181}",english,"It's an okay idea, worth it during a sale.",1590690354,1590690354,True,0,0,0,0,False,False,False,False,
+67359323,"{'steamid': '76561197970187433', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 241, 'playtime_last_two_weeks': 0, 'playtime_at_review': 241, 'last_played': 1442450411}",english,"I enjoyed it a lot. a good balance between casual and challenging. it was reasonably short, but i had fun.",1586949978,1586949978,True,0,0,0,0,False,False,False,False,
+66650135,"{'steamid': '76561198041049384', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 740, 'playtime_last_two_weeks': 0, 'playtime_at_review': 723, 'last_played': 1586069565}",english,good time killer :),1586068553,1586068553,True,0,0,0,0,False,False,False,False,
+66156947,"{'steamid': '76561197985639246', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 163, 'last_played': 1684800685}",english,"One of the most fun and relaxing puzzle games I've ever played on Steam. Highly recommended if you love indie brain teasers. Also, the soundtrack is incredible!",1585568962,1585568962,True,1,0,0.511784493923187256,0,False,False,False,False,
+62664216,"{'steamid': '76561198083274639', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1580367684}",koreana,"기존작 (Splice, Auditorium)의 장점은 없고 왠 이상한 퍼즐을 들고왔다.
+
+프랙탈패턴에서 벌어지는 퍼즐을 맞춰라는 것인데
+문제는 운의 요소가 플레이에 많은 영향을 끼친다는 것이다.
+
+정해진 횟수에 요구하는 타일의 갯수를 맞추려면 크래시를 연쇄적으로 해야하는데
+그것은 생각보다 운이 많이 필요하다 그 넓은 프랙탈 도형에서 내가 클릭한 타일이 어디로 이동할지까지 계산하지 않는이상
+그냥 운으로 맞기를 빌뿐이다.
+
+또한 UI는 촌스럽다. 
+특히 (작전으로 해석된) 미션에서 실패했을때 나오는 연출은 정말 플래시 게임에서나 볼 법한 연출이었다.
+(플래시 게임을 비하하려고 하는 말은아니다. 다만, 약2만원주고 사는데 무료로 플레이하는 플래시게임의 연출을 보고 싶어하는 사람은 없을것이다.)
+
+음악은 유려한 피아노 선율에서 일렉트로닉으로 바뀌었는데 사실 처음 든 생각은 ""음악담당이 회사를 나갔나?""였다.
+음악은 어짜피 호불호 갈리는 부분이지만 나는 불호에 가깝다.
+
+퍼즐의 난이도는 운의 요소때문에 운을 이겨내는 두뇌싸움을 벌여야해서 그냥 무의미한거 같다.
+
+전체적으로 실망을 준 게임이었다.",1580368777,1580368777,False,0,0,0,0,True,False,False,False,
+61725626,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11093, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1702465448}",english,"Fractal: Make Blooms Not War is a minimalist mobile app ported onto Steam.  Fill up the empty hexagons and create ""blooms"" (groups of 7 hexagons arranged in a concentric shape) by clicking on empty hexes and ""pushing"" new hexagons out from the hex you clicked.   Create as many as you can with as few moves possible to earn a high score.
+
+This is a browser/flash/mobile app tier game but the developers think you should pay $10 for the kind of game you can play for free in a web browser or on mobile.  This kind of disregard for PC gamers from mobile app developers makes gaming worse for everyone.  PC gamers are not here to be unfairly gouged.",1578808145,1628648363,False,0,1,0.22169668972492218,0,False,False,False,False,
+60000589,"{'steamid': '76561198090449330', 'num_games_owned': 36, 'num_reviews': 5, 'playtime_forever': 284, 'playtime_last_two_weeks': 0, 'playtime_at_review': 262, 'last_played': 1691745207}",english,I like war but I guess this is fine,1576555335,1576555335,True,0,1,0,0,True,False,False,False,
+59898617,"{'steamid': '76561198040801370', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 1314, 'playtime_last_two_weeks': 0, 'playtime_at_review': 885, 'last_played': 1704625520}",english,It's a fun way to waste time for people who like colors and patterns,1576411900,1576411900,True,0,0,0,0,True,False,False,False,
+59259942,"{'steamid': '76561198014992141', 'num_games_owned': 190, 'num_reviews': 12, 'playtime_forever': 805, 'playtime_last_two_weeks': 0, 'playtime_at_review': 738, 'last_played': 1608095937}",english,"It's fun, light, music is snazzy, and the puzzles are hard but not insane.",1575520142,1575520142,True,0,0,0,0,True,False,False,False,
+57458439,"{'steamid': '76561198065958794', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 830, 'playtime_last_two_weeks': 0, 'playtime_at_review': 754, 'last_played': 1672481999}",english,"I love this game, so relaxing and yet not… I wish they could updated it for 64-bit…",1574142222,1574142222,True,0,0,0,0,False,False,False,False,
+55294840,"{'steamid': '76561198044266038', 'num_games_owned': 757, 'num_reviews': 259, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1417757507}",english,didnt understand the game cant recommend as i didnt enjoy,1569540630,1569540630,False,0,0,0.476190477609634399,0,False,False,False,False,
+54832857,"{'steamid': '76561197974484281', 'num_games_owned': 2311, 'num_reviews': 1398, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1561669432}",english,Okay,1566881522,1566881522,True,0,0,0.455200225114822388,0,False,False,False,False,
+54437371,"{'steamid': '76561198013146396', 'num_games_owned': 1655, 'num_reviews': 2126, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1564837381}",russian,"Ну, я уже писал в обзоре на какую-то головоломку раньше (upd: LYNE), что игровой опыт от них получается по одинаковому, в принципе, сценарию: десяток уровней балдеешь, на следующем застреваешь и навсегда забрасывешь...
+
+Плюсую за интересный концепт, душевное отношение к геймплею (если приглядываться, можно найти несколько интересных геймдизайнерских решений) и всё такое. Но до конца не прошёл - забросил.",1564837784,1565517497,True,0,0,0,0,True,False,False,False,
+53036442,"{'steamid': '76561198025662288', 'num_games_owned': 245, 'num_reviews': 29, 'playtime_forever': 1521, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1521, 'last_played': 1446242756}",english,this is some weird ass lsd,1562028165,1562028165,True,0,0,0,0,False,False,False,False,
+51395177,"{'steamid': '76561198037337894', 'num_games_owned': 941, 'num_reviews': 37, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1561266426}",english,Kind of fun. Has an amazing soundtrack.,1561266463,1561266463,True,0,0,0.456965386867523193,0,False,False,False,False,
+49400265,"{'steamid': '76561197970425141', 'num_games_owned': 2913, 'num_reviews': 166, 'playtime_forever': 423, 'playtime_last_two_weeks': 0, 'playtime_at_review': 393, 'last_played': 1587311660}",english,"Super chill puzzler. Totally zen, a great place to go to on any size screen on most any machine :)",1551900064,1551900064,True,0,0,0,0,True,False,False,False,
+49305752,"{'steamid': '76561198025812458', 'num_games_owned': 1977, 'num_reviews': 445, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1551372136}",english,"Fractal: Make Blooms Not War is an enjoyable casual puzzle game. It's not one you're likely to pour hours and hours into, but it has enough content and a worthwhile enough concept that you will find some fun here.",1551491737,1551491737,True,1,0,0.52173912525177002,0,False,False,False,False,
+45091353,"{'steamid': '76561198005439390', 'num_games_owned': 987, 'num_reviews': 1264, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1538606372}",english,"Only runs at 30 fps and lacks waifus. Props for the original idea, I look forward to someone doing it better.",1538606412,1538607986,False,1,0,0.453493058681488037,0,False,False,False,False,
+41849589,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 23594, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1413, 'last_played': 1527834403}",romanian,Very nice game,1525449457,1525449457,True,0,0,0.431632965803146362,0,False,False,False,False,
+41537730,"{'steamid': '76561198052007123', 'num_games_owned': 6823, 'num_reviews': 1307, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1523973092}",english,"At first Fractal: Make Blooms Not War feels like an easy puzzle game - just click there, and there, twice over here and boom, level complete. After few levels it gets to the point where you start to doubt your skills. Be it campaing or puzzle mode, there are sure to be levels which will make you head hurts. But if you ask me, that's actually a good thing in this genre. The harder it gets, the more fun you get upon finishing it. And it will take longer than few hours to complete everything this game can offer.",1523966538,1523966538,True,0,0,0,0,False,False,False,False,
+40781093,"{'steamid': '76561198021422660', 'num_games_owned': 3620, 'num_reviews': 1228, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1520922194}",russian,"Простенькая аркада, где двигаем фракталы и собираем шестиугольники. Меню на русском, а остальное в игре на английском. Нет полного экрана и облачного сохранения. 
+
+Не рекомендую.",1520922290,1520922290,False,2,0,0.435026794672012329,0,True,False,False,False,
+40458965,"{'steamid': '76561197983574011', 'num_games_owned': 1086, 'num_reviews': 235, 'playtime_forever': 181, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1519454218}",japanese,"爽快感のあるカジュアルなタイル消しパズルゲームです。
+３０ステージを進んでいくモードをやりました。終盤において若干爽快感にブレーキがかかったものの、全体としては面白いゲームでした。
+
+タイルは六角形に並べると消えるのが基本ルールです。タイルの操作はすでにタイルがある場所に押し込むように入れるだけです。色もゲームの方であらかじめ決められているので、必ずしも同じ色を連続して並べられる訳ではありません。どの色でも場のタイルを押し出す効果は同じのため、押し出しで効率よく色を集めるのが基本のプレイングです。
+
+爽快感があるのはタイル消しの効果音と演出がまず一つですが、消したあとにランダム配置されるタイルで連鎖が発生するところも、なにもしてない割に良いです。ステージが進むと、色がつながったところは全部消すボーナスタイルや、爆発して周囲を一掃するタイルなどの新要素もでてきて、これらが連鎖するとさらに爽快感が増します。
+
+しかし終盤になってくると考えることを若干要求されます。最初に与えられる手数が明らかに少なくなっていて、場のボーナスタイルを消すことで手数を回復しなければならないステージや、場に3色あるのに押し込めるタイルが2色しかなく、レアな色は場からよせ集めなければならないステージなど、ある程度意図を持った盤面操作が求められます。パズルゲームとしては成り立っているので面白いのですが、ゲーム性が変わるのに戸惑いました。",1519816505,1519816505,True,2,1,0.519519507884979248,0,True,False,False,False,
+39636687,"{'steamid': '76561197998116681', 'num_games_owned': 3140, 'num_reviews': 597, 'playtime_forever': 174, 'playtime_last_two_weeks': 0, 'playtime_at_review': 174, 'last_played': 1516974746}",english,"A tile matcher with unusual mechanics and pretty simple and stylish art. Though, last 3-5 levels are heavily reliant on RNG and are luck-based.",1516997416,1516997416,True,0,0,0.476190477609634399,0,False,False,False,False,
+39567475,"{'steamid': '76561197960931103', 'num_games_owned': 483, 'num_reviews': 213, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1516743115}",english,"It's tough for me to review puzzle games as they usually fall into a few categories
+-Too hard
+-I'm terrible at it
+-Not fun
+
+Fractal comes off as a competent puzzle game at its core. There's no tutorial but you quickly figure out what the goal is. It's just not fun for me. I tried a few levels but just didn't like it. 
+
+There is a random factor to fractal. Which can be good for replay value but also bad because it's partially luck based. 
+
+Not sure why this game only runs at 30fps either.
+
+I won't be giving this game a score. Even though I wouldn't recommend it, I don't consider it a bad game either.",1516744140,1516744140,False,2,0,0.549180328845977783,0,False,False,False,False,
+38683749,"{'steamid': '76561198093939741', 'num_games_owned': 0, 'num_reviews': 183, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1514263522}",thai,"ถือว่าเป็นเกมส์คุ้มค่าในราคา ณ ที่ซื้อไว้ เล่นสนุก เล่นเพลิน
+ใช้เวลาเพลิดเพลินไปกับเกมส์นี้ โดยรวมแล้วถือว่าเป็นเกมส์ที่ดี",1514263332,1514263332,True,0,0,0,0,False,False,False,False,
+37902767,"{'steamid': '76561198056275841', 'num_games_owned': 723, 'num_reviews': 10, 'playtime_forever': 1222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 882, 'last_played': 1628133784}",koreana,"클릭으로 타일들을 만들고, 7개의 타일을 육각형 모양으로 모아서 터트리는 퍼즐게임입니다.
+
+크게 작전(Campaign), 아케이드, 퍼즐의 세 가지 게임 모드가 있는데,
+작전은 여러 번 시도하다보면 쉽게 클리어되는 난이도입니다. 점수를 매기기는 하지만 무작위성이 너무 심해서 점수를 내기 위해 플레이한다면 불공평하다고 느끼게 될 것 같네요. 무작위성 때문에 여러 번 해야만 하는 것 자체도 불공평하게 느껴질 수 있습니다. 대신 시간 제한이 없고 난이도 자체도 어렵지 않기 때문에 BGM을 들으며 육각형 타일들이 터져나가는 모습을 감상하기에는 최적입니다.
+
+아케이드는 정해진 시간 안에 많은 블룸을 만들어서 점수를 내는 타임 어택 방식입니다. 클릭 횟수에 제한이 없고, 시간을 늘려주는 시간타일이 있기 때문에 시간 타일을 많이 터트려서 시간을 버는 게 주가 됩니다. 시간의 압박이 상당하기 때문에 손과 뇌의 민첩성이 중요합니다. 
+
+퍼즐은 정해진 클릭 횟수 내에서 여러 목표들을 달성하면 되는 방식이고, 난이도는 평소 퍼즐게임을 즐기시는 분들에게는 어렵지 않을 듯 합니다. 
+
+터트린 타일들이 퍼져나가서 콤보가 이어지거나, 하나의 육각형보다 더 큰 모양을 만들어 터트릴 수 있는 요소도 있지만, 퍼즐들을 푸는 데에만 핵심적으로 사용할 뿐, 작전이나 아케이드에서 생각을 해서 만들기에는 복잡하고 어렵습니다. 운이 좋으면 점수를 많이 얻게 해주는 정도죠.
+
+게임 내에 점수판이 있고 작전과 아케이드의 하이스코어, 퍼즐의 진행정도를 기록해주기는 하지만, 스코어링을 하는데 필수적인 요소인 온라인 리더보드는 존재하지 않습니다. 
+
+한국어 번역이 되어있기는 하지만, 말 그대로 못봐줄 수준입니다. 왜냐하면 영어를 기준으로 만들어서, 보여줘야 할 글의 길이보다 텍스트 창의 길이가 짧은 경우가 태반이거든요. 특히 이 문제는 퍼즐 모드에서 심각한데, 달성해야 할 목표들을 제대로 알 수가 없습니다. 게임 내에서 언어설정을 바꾸는 방법은 없고, 제 PC의 언어설정을 영어로 바꿔야만 했습니다. 
+
+요약하자면,
++ 편안하게 플레이할 수 있는 작전
++ 스코어링 할 수 있는 아케이드
++ 적절한 난이도의 퍼즐
++ 깔끔한 그래픽
+o 취향을 탈 수 있는 음악
+- 반복 플레이를 강요하는 작전
+- 오직 퍼즐 모드에서만 의미있는 콤보 등의 퍼즐 요소 
+- 온라인 리더보드 없음
+-- 플레이에 지장을 주는 번역 수준 (언어 설정도 불가능)",1511889856,1511889856,True,0,0,0,0,False,False,False,False,
+36749729,"{'steamid': '76561197966036809', 'num_games_owned': 169, 'num_reviews': 8, 'playtime_forever': 125, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1582724705}",english,A take on the Match-Three that actually encourages you to seek out and set up chain reactions rather than just hope they're going to happen.,1511378484,1511378484,True,1,0,0.523809552192687988,0,False,False,False,False,
+35993089,"{'steamid': '76561198036425502', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1509058824}",english,"Fractal is one of those easy to pick up puzzle games that you can get into in only a few minutes. It reminds me of hexcells in  presentation, but has its own unique game play. It looks good and plays well. The aspect of the game that keeps me playing though is the music. It kind of zones me into the game and keeps me going back for one more go.",1508950359,1508950359,True,0,0,0,0,False,False,False,False,
+35356502,"{'steamid': '76561198035655574', 'num_games_owned': 1323, 'num_reviews': 204, 'playtime_forever': 308, 'playtime_last_two_weeks': 0, 'playtime_at_review': 280, 'last_played': 1557066391}",english,"Well, I own it because I enjoy all of Cipher Prime Studios other games and keep myself up to date on what they got going on... but do I enjoy it?
+
+Nah.
+
+It's a pretty alright game but it's just not the kind of puzzle game for me. I can respect the idea of it, as it's a little different to other puzzle games but for some reason this one just didn't strike me as fun. I always told myself to go back to it, try to complete the campaign so it can live in the puzzle category with all the other puzzle games i've completed that I'll probably never go back to. 
+I just can't bring myself to do it. Installing and opening this game is kind of a chore to me.
+
+To the right people I think this game would probably be great. If you like a challenge, arn't easily deterred and have a stategic mind then you might enjoy it. For me, I like puzzle games but they have to be interesting enough to keep me pea-brain's attention.
+
+It's nowhere near terrible, you could always give it a try.
+
+
+TL;DR: Little boring won't lie.",1506811125,1506811125,True,5,0,0.594262301921844482,0,False,False,False,False,
+35053312,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1505769805}",english,"Tags: Clicker - Slow
+Additional Tags: Delete Local Content & Remove from Library
+
+TLDR: Very simple gameplay. Somewhat bland engine. Dubious entertainment value. Somewhere between match3, minesweeper and a very simple single player board game.  
+
+Does not look all that good despite the resolution support and the audio is half decent. Thing is the gameplay is just a simple clicker where you spawn hexcells next to rows of hexes, in some strange othello-inspired manner. Goal is to fill up a large hex made out of 9 smaller hexes, which then ""blooms"" which is just a fancy term for it breaking down and giving you score points.",1505770092,1507237940,False,0,0,0.495465248823165894,0,False,False,False,False,
+34092068,"{'steamid': '76561198143702787', 'num_games_owned': 0, 'num_reviews': 98, 'playtime_forever': 382, 'playtime_last_two_weeks': 0, 'playtime_at_review': 382, 'last_played': 1452474039}",italian,"Dal trailer la musica sembra avere un ruolo importante, in realtà serve solo a dare un po' di ritmo alla partita e a renderla più piacevole e rilassante fungendo da sottofondo musicale.
+
+Titolo carino ma non imperdibile, se il trailer vi incuriosisce prendetelo a prezzo budget.",1502150104,1502150104,False,0,0,0,0,True,False,False,False,
+33896075,"{'steamid': '76561198030691885', 'num_games_owned': 2035, 'num_reviews': 650, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1501385964}",english,It's a pretty solid puzzle game however when it comes to Hexagon based puzzle games I prefer HEXIC 2 over this. However that aside it's good the puzzle mode really stumped me too.,1501386036,1501386036,True,0,0,0,0,False,False,False,False,
+33529683,"{'steamid': '76561198033111448', 'num_games_owned': 863, 'num_reviews': 156, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1502700674}",english,"did i have fun?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+no",1500013746,1500013746,False,0,2,0.29681888222694397,0,False,False,False,False,
+32331930,"{'steamid': '76561197998382465', 'num_games_owned': 313, 'num_reviews': 38, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1496959010}",english,"Reminds me of those mobile games I do not like. Also I'm really terrible at this, which hardly makes anything any better. It's like bejeweled with a twist, kind of. Not my cup of tea.",1497146209,1497146209,False,2,0,0.517143309116363525,0,False,False,False,False,
+30982159,"{'steamid': '76561198094803808', 'num_games_owned': 4045, 'num_reviews': 5310, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1456507105}",english,-,1491497030,1491497030,False,3,0,0.242295742034912109,0,False,False,False,False,
+28169033,"{'steamid': '76561198031001958', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1480795702}",english,"Satisfying and simple effects.  Nice visual design, and the sound effects/music mesh with everything well.
+
+The core gameplay mechanic of filling the board relies too much on randomness for me, though.  I can be calculating and strategic with the deterministic pushing and powerups, but the random placement of tiles after a bloom pops feels like a lottery I can't control.",1480795955,1480795955,False,1,0,0.536780416965484619,0,True,False,False,False,
+27313035,"{'steamid': '76561198052001022', 'num_games_owned': 294, 'num_reviews': 6, 'playtime_forever': 184, 'playtime_last_two_weeks': 0, 'playtime_at_review': 142, 'last_played': 1581875633}",english,Really good chill game. Some kind of meditative. But its better on tablets.,1480020364,1480020364,True,0,1,0.463219612836837769,0,False,False,False,False,
+26171426,"{'steamid': '76561198057321625', 'num_games_owned': 367, 'num_reviews': 30, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1477172612}",english,"Nope. Quite a cheap and shallow concept for a 'puzzle' game. But hey, I guess candy crush counts as a 'puzzle' game too.
+
+EDIT: Tried candy crush, and nope, candy crush is actually a lot better than this.",1477172745,1605215691,False,0,1,0.394217461347579956,0,False,False,False,False,
+25033202,"{'steamid': '76561198041512403', 'num_games_owned': 1837, 'num_reviews': 2456, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1510405620}",koreana,"6각 타일 구성을 만들어 터트리자!
+
+바닥 타일은 2종류가 존재합니다.
+검은 타일은 소멸 타일로, 해당 위치로 색 타일이 들어서면 소멸되죠.
+비어있는 타일은 생존 타일로, 이 곳에서는 타일이 소멸되지 않습니다.
+색 타일 근처의 비어있는 바닥 타일로 마우스를 가져가면,
+타일들 위로 화살표가 표시되어 어디로 처져나갈 지 표시되죠.
+
+타일이 퍼져나가면 원래 타일이 있던 곳에 새로운 타일이 배정됩니다.
+이렇게 타일이 퍼지는 것을 이용하여 7개가 6각형을 이루게 하면
+타일이 터지면서 점수를 얻게 됩니다.
+
+이때, 중앙의 타일은 소멸되지만 외곽의 타일들은 퍼지게 됩니다.
+퍼져나간 타일들이 다른 타일들과 합펴져 또 6각을 만들면 소멸!
+이를 활용해서 연속적인 폭파를 만들어낼 수 있죠.
+참고로, 육각은 서로 연결되어 파괴되기도 합니다.
+
+초기에는 1종류의 타일만 등장하지만,
+후반으로 가면 2종류 이상의 타일이 등장하기에
+다음 타일은 어떤 것인지 확인하면서 플레이해야하죠.
+
+특수 타일도 존재합니다.
+주변 일정 범위에 존재하는 타일들을 파괴하는 폭탄 타일,
+연결된 같은 색의 타일을 모두 소멸시키는 연쇄 타일.
+참고로, 해당 타일은 통합 타일이기에 색에 상관없이 육각만 만들면 터트릴 수 있죠.
+
+아쉬운 점
+-딱히 없음",1471702234,1510403295,True,0,0,0,0,False,False,False,False,
+25030383,"{'steamid': '76561198039617280', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1323072000}",russian,вялый вялый экшен пазл. ему самое место на мобилках. году так в 2009.,1471691435,1471691435,False,4,0,0.566372990608215332,0,True,False,False,False,
+24771922,"{'steamid': '76561198130429752', 'num_games_owned': 821, 'num_reviews': 14, 'playtime_forever': 242, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1470766611}",english,"nice, easy and logic game...:)",1470634707,1470634707,True,1,0,0.424416512250900269,0,False,False,False,False,
+23877124,"{'steamid': '76561198063465895', 'num_games_owned': 0, 'num_reviews': 461, 'playtime_forever': 125, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1705865568}",english,"Very simple, very colourful and a lovely experience. Would highly recommend for people who like challenging, and excellently made puzzle games",1467070117,1706910351,True,2,0,0.519774019718170166,0,False,False,False,False,
+23551281,"{'steamid': '76561198031313794', 'num_games_owned': 8502, 'num_reviews': 3385, 'playtime_forever': 519, 'playtime_last_two_weeks': 0, 'playtime_at_review': 519, 'last_played': 1465904215}",russian,"[h1]Описание:[/h1]
+Казуальная головоломка представленная в трех режимах игры. Основная компания с 30 уровнями, режим головоломки и бесконечный аркадный режим. Вся суть игры заключается в том, что на представленном игровом поле мы должны используя цветные кубики собрать одноцветные ромбы на поле. Устанавливая кубик на поле мы толкаем ближайшие кубы по направлению стрелки, а также генерируем сами кубы в количестве равном количеству толкаемых кубов. Сложность состоит в том, что каждый уровень игровое поле построено по разному, а количество ходов ограниченно.
+
+[h1]Плюсы:[/h1]
+¥ Самый главный плюс в том, что это действительно интересная и сложная головоломка.
+¥ Приятная ненавязчивая музыка.
+¥ Нет никаких таймеров, развлекайся в свое удовольствие и думай сколько влезет.
+¥ Приятная простая графика.
+¥ Три режима игры, с интересными и проработанными уровнями.
+¥ Нет достижений (редкая игра в которой они не нужны).
+
+[h1]Минусы:[/h1]
+¥ Нет.
+
+[h1]Итог:[/h1]
+Приятная игра. Получил изрядную порцию удовольствия от прохождения. Если вы хоть немного неравнодушны к головоломкам - вам понравится. Крайне рекомендую.
+
+[h1]Оценка: 8/10[/h1]
+
+[h1]Послесловие:[/h1]
+Если вам понравился этот обзор добро пожаловать в группу
+http://steamcommunity.com/groups/uojer - тут вы сможете увидеть рекомендованные мною игры, другие обзоры, а также просто пообщаться в хорошей компании.",1465907235,1465907235,True,18,1,0.631959617137908936,3,False,False,False,False,
+23512920,"{'steamid': '76561197970880630', 'num_games_owned': 1060, 'num_reviews': 417, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1465698000}",english,"Puzzle game with no ""hook"", feels a bit like candy crush with no real grab to keep going, made it a few levels and deleted.",1465698052,1465698052,False,1,0,0.474696308374404907,0,False,False,False,False,
+22756177,"{'steamid': '76561198081101019', 'num_games_owned': 0, 'num_reviews': 64, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'last_played': 1464591121}",english,VEry much belongs on mobile.,1462165317,1462165317,False,2,0,0.429625391960144043,0,False,False,False,False,
+22005963,"{'steamid': '76561198134340513', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1458749088}",russian,"Очень интересная, простая игра. В этой игре нет глубокого смысла.
+Убить время можно!",1458749176,1458749176,True,0,0,0,0,False,False,False,False,
+21388605,"{'steamid': '76561198049590272', 'num_games_owned': 119, 'num_reviews': 11, 'playtime_forever': 159, 'playtime_last_two_weeks': 0, 'playtime_at_review': 159, 'last_played': 1330675200}",english,I really enjoyed this game alot,1456158146,1456158146,True,1,0,0.484486877918243408,0,False,False,False,False,
+21121485,"{'steamid': '76561197993849874', 'num_games_owned': 713, 'num_reviews': 18, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1455174624}",tchinese,"優點
+
+1.介面簡單清晰
+2.遊戲音樂不錯
+3.遊戲玩法與眾不同，透過組成六邊形來得分
+4.ARCADE模式提供多種模式挑戰
+
+缺點
+
+1.遊戲中的某些機制須花時間理解，特別是組成六角型後的爆炸路線
+2.不像解謎遊戲，許多時候運氣佔蠻大因素",1455175366,1455175366,False,0,1,0.463510841131210327,0,False,False,False,False,
+20942382,"{'steamid': '76561197998598944', 'num_games_owned': 2056, 'num_reviews': 1144, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1454548580}",english,"I love puzzle games, but this one has a mechanic that is distracting.  You could do better putting your money towards something else.",1454548614,1454548614,False,0,0,0.469119131565093994,0,False,False,False,False,
+20818299,"{'steamid': '76561198012339022', 'num_games_owned': 1646, 'num_reviews': 148, 'playtime_forever': 55, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1453999494}",koreana,,1454037616,1454037616,False,0,0,0,0,False,False,False,False,
+20529355,"{'steamid': '76561198133910393', 'num_games_owned': 991, 'num_reviews': 96, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1452818807}",english,"This is a fun puzzle game, with a range of gamemodes, and lots of levels.",1452807465,1452807465,True,0,0,0.484486877918243408,0,False,False,False,False,
+20354283,"{'steamid': '76561197970405201', 'num_games_owned': 689, 'num_reviews': 11, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1452097963}",english,"Played a little, lost interest really fast since the game forces its ""localized"" version onto you, which is quite horrible. It is missing options for audio and framerate is locked to 30fps.
+Not my kindof thing.
+Seems kinda polished at first, but is rather half hearted",1452098399,1452098399,False,0,0,0.479041904211044312,0,False,False,False,False,
+20307896,"{'steamid': '76561198035483872', 'num_games_owned': 433, 'num_reviews': 4, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1451274674}",english,"I really wanted to like this game but it is really just not that engaging. It strikes a really odd blend between a fast-paced arcade puzzle game and a deeper mind game, but not in a fun or satisfying way at all.
+
+The first few levels set you up with easy, single-color ""puzzles"" that are a thin excuse to blast away some pieces into beautiful, Tony Hawk-like combos. So far so good! I'm getting ready for the game to ramp up into a big clusterfuck of hard but super explosive and rewarding action.
+
+Nope. You get through about a handful of levels before it quickly fizzles into a large and very tedious puzzler. I will admit that it is intricate - perhaps I simply lack the tens of hours of investment needed to really enjoy the game - but all it really was to me was a big turnoff. The patterns are simply too large and convoluted to make sense of intuitively, very early in the game, and having to deal with different colors that interfere with each other makes every single move a punishment. The tantalizing but undelivered promise of explodey-comboey arcade action only makes it more frustrating.
+
+Don't expect this game to be what it appears to be from previews but if you enjoy very intricate games like Sudoku, Kakuro, maybe Go, and you don't mind spending quite a while to either pore over a single puzzle or learn all the pattern-matching you'd need to play this game somewhat fast, go for it.",1451949586,1451949586,False,0,0,0,1,True,False,False,False,
+20225459,"{'steamid': '76561198025403939', 'num_games_owned': 940, 'num_reviews': 388, 'playtime_forever': 157, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1451757833}",english,"The game seems to be very basic, the soundtrack is good, visuals are good, but the puzzles seem somewhat disappointing.
+
+I rate it 5 fractals out of 10.",1451758120,1451758120,False,0,0,0,0,False,False,False,False,
+20187147,"{'steamid': '76561198059939640', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1527411438}",german,Wahnsinn! Pure Entspannung! Immer wieder gern!,1451671496,1451671496,True,0,0,0,0,False,False,False,False,
+19281711,"{'steamid': '76561197977597227', 'num_games_owned': 1416, 'num_reviews': 134, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1452848664}",german,"Mein erster Eindruck war: ein interessantes Denkspiel. Aber nach einiger Zeit gefiel es mir immer weniger, weil ich entweder zu viele Züge voraus denken musste oder es einfach auf gut Glück versuchte.",1448526495,1656344461,False,1,0,0.523809552192687988,0,False,False,False,False,
+19226385,"{'steamid': '76561198052657754', 'num_games_owned': 89, 'num_reviews': 5, 'playtime_forever': 3763, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3146, 'last_played': 1582344516}",english,"Pretty decent game to play when you are bored and want something simple to do yet challenging enough to keep you awake. Music in this game is reactive based on what you do or how much time is left which is a cool feature. Challenges, campaign, and arcade are very nice although the only downside would be the fact there are no achievements for this game. 8/10 worth playing.",1448239014,1606874754,True,0,0,0,0,False,False,False,False,
+19201293,"{'steamid': '76561198011595325', 'num_games_owned': 2468, 'num_reviews': 928, 'playtime_forever': 344, 'playtime_last_two_weeks': 0, 'playtime_at_review': 344, 'last_played': 1448139701}",brazilian,"Peguei em um bundle e gostei muito, ótimo para passar o tempo, visual simples e bonito, mecânica funcional e varias fases divididas em modo campanha e puzzles (não completei a maioria). Recomendo pegar com um bom desconto.
+----------------------------------
+I get it in a bundle and really enjoyed it, great to spend time, simple look and beautiful, functional mechanics and various levels divided into campaign mode and puzzles (not completed most). I recommend picking up with a good discount.
+",1448140397,1448140397,True,5,0,0.594004809856414795,0,False,False,False,False,
+19143495,"{'steamid': '76561198052744110', 'num_games_owned': 663, 'num_reviews': 9, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1467479513}",german,Cooles Spiel mit Rätselspaß.,1447850541,1447850541,True,1,1,0.502487540245056152,0,False,False,False,False,
+19129039,"{'steamid': '76561198025482702', 'num_games_owned': 0, 'num_reviews': 143, 'playtime_forever': 344, 'playtime_last_two_weeks': 0, 'playtime_at_review': 344, 'last_played': 1445863168}",english,"I really love puzzle games, and also arcade games, but this one just isn't that great. There is very little actual strategy or thinking that is involved. After a bit of gameplay, you figure out how to get big chain reactions and explosions. However, even in these cases, the game does at least 50% of the work. Most of your victories seem more by chance than careful thinking.",1447768206,1447768206,False,0,0,0,0,True,False,False,False,
+19044696,"{'steamid': '76561197984505368', 'num_games_owned': 1529, 'num_reviews': 226, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 226, 'last_played': 1447420996}",english,"I've owned Fractal since it was a standalone Flash game (it's since been redone in Unity) - I like the concept and I've played a fair-bit but there are some gotchas with the game as-a-whole which make it hard to recommend to others.
+
+First-up, the game has power-ups which are not explained in any way.  You're simply expected to guess what they do!?  You shouldn't have to ask in the forums to find-out how a game works!?
+
+The career mode seems designed to teach you how to play (once you figure out the power-ups) and it works upto a point, but by Level 23/24 it's descended into a horrible potluck mess of a thing. Level 24 is, imo, impossible 99% of the time - you need a very lucky layout to be able to clear it (23 isn't much better)
+
+The game is also missing some basic features such as the ability to adjust music/sfx levels and any sort of online highscoring - this seems odd in an otherwise polished product when schoolboy designed games have this stuff?
+
+It's all a bit disappointing really - I struggle to recommend it but I emphasise the the game at the core is a fine puzzle, it's just let down by a feeling of being half-baked and abandoned.",1447385798,1447385798,False,27,2,0.685354471206665039,0,False,False,False,False,
+18960748,"{'steamid': '76561198057500412', 'num_games_owned': 0, 'num_reviews': 49, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1382825299}",english,A really fucking boring puzzle game.,1447017314,1447017314,False,0,0,0,0,False,False,False,False,
+18101404,"{'steamid': '76561198030862623', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 408, 'playtime_last_two_weeks': 0, 'playtime_at_review': 313, 'last_played': 1442705032}",english,"Visually appealling, fun puzzles. Difficulty ramped up fast.",1442677936,1442677936,True,0,0,0,0,False,False,False,False,
+17885181,"{'steamid': '76561198083647595', 'num_games_owned': 879, 'num_reviews': 59, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1421793113}",italian,"[h1]Semplice ma neanche troppo[/h1]
+Un puzzlegame stile ""puzzlebubble"" dove bisogna comporre ""fiori"" esagonali con ""petali"" esagonali. Non troppo impegnativo  e infatti niente male come passatempo. Belle le diverse modalità di gioco tra cui campagna, arcade e rompicapo che lo rendo più impegnativo e longevo.",1441412620,1441412620,True,3,0,0.561050057411193848,0,False,False,False,False,
+17601584,"{'steamid': '76561197969307618', 'num_games_owned': 3010, 'num_reviews': 681, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1371904835}",english,"Puzzle game, did not enjoy",1439919274,1439919274,False,0,0,0.433355212211608887,0,False,False,False,False,
+17403595,"{'steamid': '76561198012363945', 'num_games_owned': 2117, 'num_reviews': 404, 'playtime_forever': 346, 'playtime_last_two_weeks': 0, 'playtime_at_review': 329, 'last_played': 1459959847}",english,"It seems i can't get enough of this game.  Played much more than it's simple design should warrant for. 
+
+Annoying in the beginning as you can't quite get into the flow of making blooms. (fill up blobs of 7 to make a 'block' which make them dissapear). Also just when the game starts to feel stale they introduce bombs, lightning and suddenly you start getting chains.  
+
+Campaign game is nice as it introduces new elements slowly. For variance one can  just try the arcade or puzzles too. 
+
+Great value for it's price really. Just be warned that it takes awhile for this game to start shining. early game  is entirely different to bombing clusters and chain-electrocuting large areas of the map.",1438802665,1438802665,True,7,1,0.568725705146789551,0,False,False,False,False,
+17245485,"{'steamid': '76561198036142461', 'num_games_owned': 515, 'num_reviews': 25, 'playtime_forever': 468, 'playtime_last_two_weeks': 0, 'playtime_at_review': 462, 'last_played': 1576864147}",english,"A perfect casual game for when you just want to chill out and relax and do some puzzles.
+
+",1437968405,1437968405,True,0,0,0,0,True,False,False,False,
+16406968,"{'steamid': '76561197991383113', 'num_games_owned': 355, 'num_reviews': 22, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1403027865}",english,"A music game is about speed and rhythm right? Nothing in this game rewards you for speed. I played it slowly, looking at how each push of a hexagon would effect things and worked out the best moves. I don't think I tried arcade. I can't be bothered. The central mechanic seems like it goes against the selling point. Even if it wasn't sold as a rhythm game, the mechanic is dull. I guess if you mastered it like those kids that can do rubix cubes really fast... Nah.
+
+I might have played this like a dumbass. I might have missed the point. But I'm here, telling you it's garbage anyway.",1434337216,1434510392,False,1,0,0.49977487325668335,0,False,False,False,False,
+16053908,"{'steamid': '76561197968835753', 'num_games_owned': 565, 'num_reviews': 23, 'playtime_forever': 243, 'playtime_last_two_weeks': 0, 'playtime_at_review': 178, 'last_played': 1570976527}",english,"Fractal is peaceful, thoughtful puzzling.
+
+I'd like to have the music (which seems pretty stellar) playing more often, but it varies depending on how well you're doing... and I'm not very good. 
+
+Still - it's short, hard, enjoyable, and a game I keep coming back to when I just want something to wind down with.",1432894310,1432894310,True,0,0,0,0,False,False,False,False,
+15892871,"{'steamid': '76561198006934852', 'num_games_owned': 0, 'num_reviews': 111, 'playtime_forever': 637, 'playtime_last_two_weeks': 0, 'playtime_at_review': 637, 'last_played': 1406106482}",english,"A fun little puzzler with adaptive music that matches the gameplay beautifully.
+
+- Skinny from the Fat B*stard [url=http://steamcommunity.com/groups/skinnyfat#](curator link)[/url]",1431993814,1431993814,True,2,0,0.517770230770111084,0,False,False,False,False,
+15661291,"{'steamid': '76561197960577060', 'num_games_owned': 0, 'num_reviews': 103, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1430608666}",english,"fun puzzle game, similar to a lot of others though.",1430608699,1430608699,False,0,0,0,0,False,False,False,False,
+15367830,"{'steamid': '76561198051967510', 'num_games_owned': 0, 'num_reviews': 65, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1429059543}",english,Nothing interesting to see here. Move along please.,1429059571,1429059571,False,0,0,0,0,True,False,False,False,
+15040889,"{'steamid': '76561198067660569', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 589, 'playtime_last_two_weeks': 0, 'playtime_at_review': 589, 'last_played': 1427482982}",english,I just keep coming back to this one.  Innovative point and click puzzle game with cool music.,1427241917,1427241917,True,0,0,0,0,False,False,False,False,
+14938999,"{'steamid': '76561198063522855', 'num_games_owned': 122, 'num_reviews': 4, 'playtime_forever': 201, 'playtime_last_two_weeks': 0, 'playtime_at_review': 201, 'last_played': 1438523598}",polish,"Gdy pierwszy raz zobaczyłem tę grę nie za bardzo wiedziałem o co w niej chodzi. Po kilku pierwszych razach na komputerze nie wiązałem z nią wielkich nadziei. Potem kupiłem sobie tablet, zainstalowałem na nim tę grę. Tablet wzięłem pewnego razu do pracy i, wstyd się przyznać, ale zaiskrzyło! Ta gra jest genialna!
+
+Fractal to prosta logiczna gra z kilkoma trybami rozgrywki. Dla mnie najbardziej przemawia tryb kampanii. Kilkanaście plasz do przejścia. Zaczynami od prostej, a kończymy na dość trudnej.
+
+Zabawa polega na czyszczeniu planszy z heksagonalnych klocków. Aby je wyrzucić z planszy, musimy je połączyć w odpowiedni kształt. Niby brzmi prosto, ale tak nie jest. Każda z rund ma ograniczoną ilość ruchów na zdobycie minimalnej ilości punktów. Jeśli nie uda nam się zdobyć wystarczająco dużej ilości punktów przed wykorzystaniem wszystkich ruchów, przegrywamy i musimy zaczynać od nowa.
+
+Planszę czyścimy poprzez dostawianie nowych klocków i przesuwanie innych. Należy zwracać uwagę na to, gdzie chcemy dostawić klocki. W miarę pokonywania kolejnych plasz pojawiają się klocki o różnych kolorach lub właściwościach - np. klocki wybuchające.
+
+Ważnym elementem gry jest oprawa graficzna, która zmienia się wraz z malejącą ilością ruchów oraz podkład muzyczny, który również jest zupełnie zależny od stanu rozgrywki.
+
+Z grą Fractal warto spędzić trochę czasu. Każde kolejne podejście do tej samej planszy będzie zupełnie inne.",1426626489,1426626489,True,2,0,0.545454561710357666,0,False,False,False,False,
+14854555,"{'steamid': '76561197995089520', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1426187257}",english,boring,1426187271,1426187271,False,0,0,0,0,False,False,False,False,
+14747908,"{'steamid': '76561198038604011', 'num_games_owned': 914, 'num_reviews': 232, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1425577117}",english,"If you look through my library you’ll see that I’m a bit of a sucker for Cipher Primes magically atmospheric puzzle design. Splice single handedly made me realize that I don’t dislike puzzle games, I just can’t stand how bland and uninspired they have become.
+It kind of saddens me to see fractal return to the mundane. The game is gorgeous, don’t get me wrong, but pushing around hexagons to make bigger hexagons and clear a board is not exactly a game changing mechanic. After only the first few levels of the “campaign” and a couple puzzle levels I was bored and back to my cynical opinions of puzzle games.
+Cipher Prime is awesome and they have some great talent on their team but they gotta keep taking the risks; Fractal was a safe game and it shows in it’s stale gameplay.",1425578994,1425578994,False,12,0,0.629694640636444092,0,False,False,False,False,
+14720315,"{'steamid': '76561198169342422', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1441858809}",english,"fun, cute, and easy to learn.  Scales difficulty very smoothly, there are both plenty of hard and easy puzzles to play.",1425271453,1425271453,True,0,0,0,0,True,False,False,False,
+14439068,"{'steamid': '76561198042138970', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 3042, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2562, 'last_played': 1702149732}",english,"I always recommend this game to friends. Some bullets
+- relaxing
+- stimulating
+- always interesting to replay when bored",1423784786,1423784786,True,0,0,0,0,True,False,False,False,
+14353985,"{'steamid': '76561198090591750', 'num_games_owned': 830, 'num_reviews': 55, 'playtime_forever': 173, 'playtime_last_two_weeks': 0, 'playtime_at_review': 173, 'last_played': 1375014297}",english,Fun puzzler. I almost beat the whole thing but got way too frustrated in the last level.,1423238365,1423238365,True,0,0,0,0,False,False,False,False,
+13685162,"{'steamid': '76561198067854662', 'num_games_owned': 231, 'num_reviews': 61, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1421089516}",english,One of the trashiest game I have from Humble Bundle.,1419850200,1419850200,False,0,0,0.452961653470993042,0,False,False,False,False,
+13611424,"{'steamid': '76561197964567895', 'num_games_owned': 290, 'num_reviews': 26, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1419601426}",english,"Devoid of any real gameplay other than pushing some hexagons around until the RNG decides you'll get a combo and complete the level for you. Great accompanent to your candy crushes, penny slots and other crippling skinner's box addictions.",1419601588,1419601870,False,0,0,0,0,False,False,False,False,
+13431861,"{'steamid': '76561198096090908', 'num_games_owned': 39, 'num_reviews': 7, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1418988594}",russian,Ну вообще норм,1418921199,1418921199,True,0,0,0,0,False,False,False,False,
+12358252,"{'steamid': '76561198069404526', 'num_games_owned': 807, 'num_reviews': 66, 'playtime_forever': 146, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1379858286}",koreana,"PC판 대신 Android판을 플레이했습니다.
+기대한 것 이상으로 재밌게 플레이할 수 있었습니다.
+단순한 룰을 통해 계속해서 다양한 퍼즐을 만들어냅니다.
+레벨 난이도도 딱 적당해서 클리어할 때의 쾌감이 훌륭합니다.",1412412349,1412412349,True,0,0,0,0,False,False,False,False,
+11895605,"{'steamid': '76561198081096012', 'num_games_owned': 250, 'num_reviews': 47, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1407333779}",russian,"игра хороша,но дорога!",1409224403,1409224403,True,0,0,0,0,False,False,False,False,
+11786587,"{'steamid': '76561198025127090', 'num_games_owned': 241, 'num_reviews': 1, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1414692831}",english,An addictive puzzle game,1408489075,1408489075,True,2,0,0.452783763408660889,1,False,False,False,False,
+11571662,"{'steamid': '76561197971078343', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 1493, 'playtime_last_two_weeks': 0, 'playtime_at_review': 440, 'last_played': 1656672643}",english,"There is something about casual puzzle games that gets me in.
+
+Fractal drags me in more than usual.
+
+A game that seems simple on the surface provides a level of difficulty that is both frustrating, and rewarding when levels are completed.
+
+I liked it so much I also got a copy for the iPad when away from the computer.",1407312400,1407312400,True,0,0,0,0,False,False,False,False,
+11519564,"{'steamid': '76561198090301442', 'num_games_owned': 373, 'num_reviews': 10, 'playtime_forever': 243, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1449058802}",schinese,"　　Fractal : Make Blooms Not War 这个名字很难翻译，不过看起来是借鉴了美国越战时期的反战口号Make love not war，通俗一点，本人是将其翻译为“织花者：做你的花朵，不要战争” 听起来有点长，其实总的来说，这就是个消除类游戏。
+
+　　游戏风格是清新淡雅的，与Pulse近似，但不是那么深邃幽远的感觉，几何图形配上涂鸦，简洁明快，看起来很舒服。音乐自然是他家的强项了，整体风格很舒缓，令人身心放松，游戏玩法表面看也简简单单，不过你要觉得这个游戏的难度跟画风一样简单，那你就是大错特错了。
+
+　　游戏的元素以若干不同颜色的六边形色块组成，玩家要做的，就是使用按序列给出的色块来推动原有的色块，把同色的六边形组合成“梅花”状，或者包含至少一个梅花形状的更大形状，就可以爆掉得分。每关所需要的过关分数在左下角标注，达到分数才能过关。
+
+　　难度就在于，这个游戏中的色块并不是单色的，事实上玩到后期更有三种、四中颜色，不同的颜色相互干扰，让人很难用限定数目的色块达到要求的得分。
+
+　　可以说，玩这款游戏的初衷是为了益智休闲，可是玩多了却更加的累，是不是违背了当初的想法呢？",1406980708,1406980708,True,6,0,0.624917566776275635,1,False,False,False,False,
+11447779,"{'steamid': '76561198032835217', 'num_games_owned': 0, 'num_reviews': 261, 'playtime_forever': 470, 'playtime_last_two_weeks': 0, 'playtime_at_review': 449, 'last_played': 1486449179}",english,"Great game, highly recommended!",1406544262,1406544262,True,1,0,0.470588237047195435,0,True,False,False,False,
+11339204,"{'steamid': '76561198057313049', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 379, 'playtime_last_two_weeks': 0, 'playtime_at_review': 379, 'last_played': 1359705600}",english,Very fun and creative puzzle game. Addicting and the music is wonderful.,1405896412,1405896412,True,6,0,0.52121657133102417,1,True,False,False,False,
+11326788,"{'steamid': '76561198063179227', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 230, 'last_played': 1408144751}",english,"Very fun and addicting game. It does however turn into an endurance test towards the end which I wasn't a fan of. For what it is meant for, it's very well done and I would recommend it to anyone.",1405823648,1405823648,True,0,0,0,0,False,False,False,False,
+11313508,"{'steamid': '76561198040859758', 'num_games_owned': 1738, 'num_reviews': 46, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 226, 'last_played': 1405746629}",french,"Un énième puzzle game. Je l'avais d'abord fait sur tablette et ensuite je m'y été essayé sur mon phone (le tactil est efficace pour ce genre). 
+Design sobre, principe efficace. Finalement, le jeu est court. on peut bloqué quelques fois sur un ou deux tableaux, mais se complète très vite sur sa campagne de 30 niveaux. 
+
+Sympa. A prendre sans hésitation pour s'y essayer (via un pack bundle par exemple).",1405746887,1405746887,True,0,0,0,0,False,False,False,False,
+11298361,"{'steamid': '76561198052999626', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1405657255}",english,"A combination of complete lack of instructions and dull, dreary boring graphics made me quit this game almost as son as 
+I had started it. Awful",1405657511,1405657511,True,0,0,0,0,False,False,False,False,
+10904049,"{'steamid': '76561198024794083', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 52445, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43135, 'last_played': 1651268324}",english,not bad.,1403957892,1519586335,True,0,0,0,0,False,False,False,False,
+10784944,"{'steamid': '76561198007209359', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 530, 'playtime_last_two_weeks': 0, 'playtime_at_review': 262, 'last_played': 1440393945}",english,Surprisingly addictive once you start playing and get a grasp on the mechanics. New mechanics are introduced at a good pace to keep the gameplay varied.,1403678979,1403678979,True,0,0,0,0,False,False,False,False,
+10751418,"{'steamid': '76561197978965043', 'num_games_owned': 216, 'num_reviews': 179, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1324540800}",german,Selten so ein langweiliges Spiel gespielt es macht 0 spaß und sieht auch scheiße aus. 0 Punkte,1403611720,1403611720,False,0,0,0,2,True,False,False,False,
+10748959,"{'steamid': '76561198000631920', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 145, 'playtime_last_two_weeks': 0, 'playtime_at_review': 145, 'last_played': 1403712427}",koreana,"6각형 퍼즐게임을 표방하고 나왔지만 실제로는 룰이 너무 까다롭다.
+
+한글화 번역 수준도 발퀄.
+
+일단 게임내 ""작전""은 클리어하는데 보드가 일정하지 않기 때문에 운이 어느정도 요구된다.
+
+""작전""으로 점수를 내려고 하는 사람들에게는 꽤 스트레스가 될 사안.
+
+연쇄를 만족시키기 위한 6각형 구조를 만드는데 드는 피스가 비이상적으로 많기 때문에 단일 콤보라면 모를까
+
+인위적으로 콤보를 하는 것은 무리에 가깝다.
+
+게임내 룰에 대해서는 한줄도 써져있지 않기에 퍼즐 부분에서 조금이나마 익숙해질 기회가 있었나 싶었지만. 
+
+성의 없는 목표 표시로 파악하는데 시간이 걸린것도 단점.
+
+개인적으로는 애니메이션을 통해서 피스들이 어떻게 상쇄되고 어떻게 움직이고. 어떻게 반응하는 지에 대해서 보여주었으면
+
+조금이나마 더 나은게임이 되지 않았을까 싶은데.
+
+애초에 퍼즐의 룰 자체에서 너무 까다롭기 때문에 이 이상 더 재미를 요구하는것은 불가능해보인다.",1403606133,1403606133,False,7,0,0.625668466091156006,0,False,False,False,False,
+10746641,"{'steamid': '76561198007232571', 'num_games_owned': 1122, 'num_reviews': 5, 'playtime_forever': 559, 'playtime_last_two_weeks': 0, 'playtime_at_review': 295, 'last_played': 1700673636}",english,"Great game to pass some time with.
+The music really fits the overall setup",1403601106,1403601106,True,0,0,0,0,False,False,False,False,
+10640625,"{'steamid': '76561197993297524', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 416, 'playtime_last_two_weeks': 0, 'playtime_at_review': 416, 'last_played': 1322985600}",english,http://blog.mckaysalisbury.com/2011/12/fractal-make-blooms-not-war.html,1403397087,1403397087,False,0,0,0.204286351799964905,7,False,False,False,False,
+10507717,"{'steamid': '76561198060268278', 'num_games_owned': 840, 'num_reviews': 53, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1403037647}",brazilian,Não recomendo,1403037684,1403037684,False,0,0,0,0,False,False,False,False,
+10397482,"{'steamid': '76561198088466030', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1402296546}",russian,Норм игра,1402252268,1402252268,True,0,0,0,0,False,False,False,False,
+10345286,"{'steamid': '76561198057216723', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 93, 'playtime_last_two_weeks': 0, 'playtime_at_review': 93, 'last_played': 1367564400}",polish,http://www.youtube.com/watch?v=Km0Io1JF-Zs,1401895589,1401895589,True,2,0,0.552238762378692627,0,False,False,False,False,
+10114539,"{'steamid': '76561198004663985', 'num_games_owned': 2730, 'num_reviews': 138, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1400109952}",english,Fractal is a puzzle game where you push hexagons a row to make a hexagon bloom. Maybe I didn't play it enough but making combo's just feels more luck based than skill. I guess the game is fine if you are looking for another puzzler. But there are puzzle games with a more fun mechanic out there. Also what worth mentioning is that save games are stored in the registry and it has no cloud save.,1400110892,1400110892,False,1,0,0.500952720642089844,0,False,False,False,False,
+10058525,"{'steamid': '76561197995915980', 'num_games_owned': 663, 'num_reviews': 13, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1460184714}",english,Somewhat repetitive. Great time waster. I quickly got bored although that might be my ADD in action.,1399607701,1399607701,False,0,0,0,0,False,False,False,False,
+10006736,"{'steamid': '76561198035515461', 'num_games_owned': 100, 'num_reviews': 12, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1424102420}",russian,Нравятся головоломки? Нравится играть на время? А может в выживаниях? Тогда эта игра для вас!,1399123970,1399123970,True,2,0,0.506373584270477295,0,False,False,False,False,
+9953444,"{'steamid': '76561198013839079', 'num_games_owned': 1179, 'num_reviews': 92, 'playtime_forever': 148, 'playtime_last_two_weeks': 0, 'playtime_at_review': 148, 'last_played': 1398624416}",spanish,Te gustan esos juegos en los que no sabes lo que haces pero te pasas los niveles? Este es perfeto para ti y para perder el tiempo,1398615944,1398615944,True,0,1,0,0,False,False,False,False,
+9567825,"{'steamid': '76561198051307671', 'num_games_owned': 1395, 'num_reviews': 22, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1395191518}",english,"This game didn't hold my attention for very long.  For my personal taste, it was too simplistic.  The game itself is not difficult to grasp, but becomes complex quickly.  Basically, you have to ""push"" a row of tiles over a grid in order to create ""fractals"" which are worth points.  Once you earn a certain number of points you can progress to a new grid where you will have to make more fractal combos/larger fractals in order to get enough points.  It's a neat idea for a puzzle game, but if you're looking for something bright and engaging, this may not be the puzzler for you.  It's a minimalist brain-teaser for sure.",1395280125,1395280125,False,0,0,0,0,False,False,False,False,
+9286723,"{'steamid': '76561198096264814', 'num_games_owned': 577, 'num_reviews': 23, 'playtime_forever': 400, 'playtime_last_two_weeks': 0, 'playtime_at_review': 341, 'last_played': 1444514722}",english,Love it!,1393557140,1393557140,True,2,0,0.533260345458984375,0,False,False,False,False,
+9140304,"{'steamid': '76561198035243279', 'num_games_owned': 284, 'num_reviews': 7, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 174, 'last_played': 1456093024}",spanish,Excelente juego de puzzles. Relajante a la par que desafiante.,1392564216,1392564216,True,0,0,0,0,False,False,False,False,
+8807295,"{'steamid': '76561198019181288', 'num_games_owned': 657, 'num_reviews': 43, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1390396870}",english,"Wow, this game was unexpectedly awesome! A really smart variation of some classic puzzles turned it into a brand new one. I admit, though, that the game can be quite hard to understand at first. I was playing quite randomly. But as always, practice leads to perfection. If you're into those kind of games, this is a must have. If not, this can be an entertaining and relaxing time killer.",1390397154,1390397154,True,1,0,0.516509473323822021,0,False,False,False,False,
+8790901,"{'steamid': '76561198019205444', 'num_games_owned': 4251, 'num_reviews': 323, 'playtime_forever': 357, 'playtime_last_two_weeks': 0, 'playtime_at_review': 333, 'last_played': 1513732168}",english,"Fractal is a surprisingly enjoyable brain teaser, casual, puzzle like game where you make fractals of one color. A fractal is a diamond of 7 tiles / cubes / gems / whatever. 2 on the left, 2 on the right, 3 in the center. How do you arrange them? You simply click an empty space on the grid or the border of the level. When you click that empty space, the spaces around it push out with whatever color gem you have next in your cue. Let's say green gem in your cue you will push out in all directions shifting all the gems in all directions 1 space over. Like pushing lines in 6 directions. You only get a certain amount of 'pushes' per level. To beat a level you need to get X amount of points. When you make a fractal, other gems appear in the level, which may lead to a chain of fractals or mess you up. Sometimes you need to think 2 or 3 moves ahead and when different colored gems get involved you need to make sure one move doesn't mess up something else you've been planning.
+
+1
+
+The campaign won't take more than a few hours, but I can see there being replay value in the way that Tetris is replayable. While the score isn't a big focus of the game, it still gets your brain going. There's no pressure or time limit, its soothing. The puzzle mode has several continuous puzzles.
+
+Eventually the game throws different kinds of tiles your way. If those special tiles are in your fractals, you will get their bonuses. Things like adding more tiles to your cue, exploding all connected tiles of the same color, pushing tiles apart from the fractal and so on. It adds a needed level of depth. 
+
+Luckily there are two other modes, arcade and puzzle. Puzzle mode has you completing objectives such as making a triple fractal in X number of pushes or clearing all of the diamonds. It is a nice diversion, but hardly the meat of the game. The arcade is more of a time attack to get as many fractals in a limited amount of time. There are time tiles that will add to the clock when they're in a fractal.
+
+Fractal feels like its more suited for relaxing with a touch screen and mobile devices rather than for people sitting in a chair at a computer. Its still an engaging and relaxing game for a while.",1390265502,1441203874,True,31,1,0.75365370512008667,0,False,False,False,False,
+8691082,"{'steamid': '76561198049151274', 'num_games_owned': 2149, 'num_reviews': 48, 'playtime_forever': 451, 'playtime_last_two_weeks': 0, 'playtime_at_review': 319, 'last_played': 1419628911}",english,"Very enjoyable, yet hard puzzle game. Some levels are so hard to accomplish that it requires several attempts to finish them. Afterall a very good casual game, strongly recommend it. I love all the games made by Cipher Prime studios (especially Auditorium and Splice).",1389609893,1389609893,True,0,0,0.457746505737304688,0,False,False,False,False,
+8602263,"{'steamid': '76561198050404611', 'num_games_owned': 2260, 'num_reviews': 12, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1434399899}",english,Uniquely awesome puzzle game with a twist.,1389079195,1389079195,True,0,0,0,0,False,False,False,False,
+8551458,"{'steamid': '76561198052473414', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 853, 'playtime_last_two_weeks': 0, 'playtime_at_review': 97, 'last_played': 1467756566}",english,"Awsome take on the Jewel type game, can be quite a challenge at times. Good graphix and music. The game can get hard, but that's part of the fun of it.",1388835495,1388835495,True,0,0,0,0,False,False,False,False,
+8489085,"{'steamid': '76561198022326399', 'num_games_owned': 0, 'num_reviews': 220, 'playtime_forever': 458, 'playtime_last_two_weeks': 0, 'playtime_at_review': 458, 'last_played': 1377537036}",czech,"Zábavná hra na 2 odpoledne. Neotřelý princip, doporučuji, ale 6 euro bych za tuhle ednohubku nedala.",1388606282,1388606282,True,0,0,0,0,False,False,False,False,
+8447813,"{'steamid': '76561198005258825', 'num_games_owned': 203, 'num_reviews': 11, 'playtime_forever': 651, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1425859636}",english,"Not bad for a color-matching hooray-you're-talented brain-numbing agent. I wouldn't mind having it on my phone rather than on my desktop -- it's more suited to passing the time than sitting down and gaming. I do like the soundtrack that's in a constant state of ""Amen Break"".",1388464926,1388464926,True,0,0,0,0,True,False,False,False,
+8428609,"{'steamid': '76561197970672146', 'num_games_owned': 1699, 'num_reviews': 16, 'playtime_forever': 359, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1395182161}",english,"Relaxing, yet challenging
+Wonderful soundtrack",1388414573,1388414573,True,0,0,0,0,False,False,False,False,
+8399382,"{'steamid': '76561198010824743', 'num_games_owned': 7494, 'num_reviews': 316, 'playtime_forever': 319, 'playtime_last_two_weeks': 0, 'playtime_at_review': 319, 'last_played': 1388248107}",german,"Ein nettes Puzzelspiel mit einem schönem klaren Grafikstil.
+Man kann das Gameplay schlecht erklären, doch macht es kurzzeitig immer mal wieder echt Spaß!
+
+Der Schwierigkeitsgrad ist nicht durchgehend steigend, sonder steigt und fällt, da in der ""Kampagne"" die Startfelder zufällig generiert werden und man teils Glück und teils Pech mit ihnen haben kann.
+
+Die Musik und die Grafik sowie diese Art von Puzzle haben mir sehr gefallen :)",1388332381,1388332381,True,1,0,0.48511919379234314,0,False,False,False,False,
+8348684,"{'steamid': '76561198012111055', 'num_games_owned': 0, 'num_reviews': 249, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1396378062}",spanish,"Está bien. A ver: lo de magníficos gráficos es una exageración como un mundo (con mirar los vídeos ya se comprueba) pero el juego, como puzzle, mola bastante y es enredante. La música se va adaptando a tus movimientos pero tampoco os penséis que es algo fuera del otro mundo. Se ve que han cuidado bastante el acabado para darle un toque... no sé decir como: ¿elegante? El juego mola pero sobre todo si viene en algún pack. No es que 2,00€ sea una fortuna pero en Steam hay cosas mucho más elaboradas por ese precio. 
+
+Eso sí: hubiera sido un detallazo que pusieran un tutorial inicial explicando un poco la cosa porque al principio estuve a punto de pasar de él porque no pillaba la mecánica del juego. Una vez te das cuenta de como va es bastante simple pero nadie nace adivino. Básicamente tienes que hacer grupos de fractales mediante empujones. Dependiendo de por donde empujes aparecen unas piezas y para que se 'fijen' tienen que tener otras fichas alrededor. Al completar una forma se crea el fractal, te dan puntos y a determinada cantidad pasas de nivel. Simple pero a medida que subes niveles se va complicando completar las jugadas con los 'empujones' disponibles.
+
+Aparte del modo campaña (con niveles) tiene otras modalidades para jugar de forma libre, con lo que en conjunto hay juego para pasar rato. 
+
+",1388185277,1388185277,True,3,0,0.544232666492462158,1,False,False,False,False,
+8132659,"{'steamid': '76561198048868480', 'num_games_owned': 287, 'num_reviews': 6, 'playtime_forever': 156, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1390381619}",english,"Pretty cool concept for sure.  This is definitely one of my favorite casual games, and seems like it'll keep me interested for quite a while.",1387514916,1387514916,True,1,0,0.452533364295959473,0,False,False,False,False,
+8116737,"{'steamid': '76561198025021122', 'num_games_owned': 2075, 'num_reviews': 21, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1388849121}",english,This reminds me of the sorts of apps that came out in the first couple years of the iphone. There's just not very much there.,1387465051,1387465051,False,1,0,0.499067753553390503,0,False,False,False,False,
+8017543,"{'steamid': '76561198064687410', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1386769648}",english,Got this one as part of a bundle - A fun little game with a nice mechanic to it. I will say that I wouldn't pay full price for it but if it's on offer or part of a bundle - Grab it!,1386864612,1386864612,True,0,0,0,0,False,False,False,False,
+8005895,"{'steamid': '76561197970582726', 'num_games_owned': 0, 'num_reviews': 50, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 274, 'last_played': 1387019383}",english,"Fractal: Make Blooms not War (Nth Review)
+
+This game has a few problems: The difficulty curve is rather wavy, going up and down through the levels. Some are ridiculously easy and some are not only pretty hard, but also depend on luck - because your starting field is randomized in campaign mode, you can get everything from a 60 points head start to an unsolvable mess.
+
+The graphical presentation is nice, but doesn't go beyong functional, really. Same goes for the Sound.
+
+The game modes are fairly diverse, though the campaign is rather ""puzzle""-y, safe for the previoulsly mentioned randomness - which can be really annoying and warrents constant restarts. The puzzles are pretty good and serve as the only ""sort-of"" tutorial, because a really detailed introdution is missing. The arcade mode is boiled down to frantic clicking, which becomes a bit more strategic with practice.
+
+All in all this is a nice puzzler, with some rather annoying problems. If you're looking for a small game to play in between other things to do, this fits the bill. But it is no game to sit back and relax, because it will annoy you from time to time.
+
+Rating: Only just recommendable.",1386782078,1386782078,True,12,2,0.691407978534698486,0,False,False,False,False,
+8004973,"{'steamid': '76561198038950623', 'num_games_owned': 124, 'num_reviews': 11, 'playtime_forever': 668, 'playtime_last_two_weeks': 0, 'playtime_at_review': 420, 'last_played': 1546870927}",english,"Quite an amazing game for it's price. Not too brain-racking at the start but it gets harder at the end trust me. ;) (The final stage got me raging a few times before finally completing it out of luck) But all-in-all it is a good strategy/puzzle game that will take your attention up for a few hours, so better prepare a few bottles of water before starting. :D",1386776601,1386776601,True,0,0,0,0,False,False,False,False,
+7977335,"{'steamid': '76561198073307790', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1384281741}",russian,Игра на логику.,1386552894,1386552894,True,0,0,0,0,False,False,False,False,
+7962308,"{'steamid': '76561197964121070', 'num_games_owned': 0, 'num_reviews': 128, 'playtime_forever': 280, 'playtime_last_two_weeks': 0, 'playtime_at_review': 280, 'last_played': 1372459454}",english,I enjoyed it.,1386466417,1386466417,True,0,0,0,0,False,False,False,False,
+7915411,"{'steamid': '76561197995578270', 'num_games_owned': 580, 'num_reviews': 15, 'playtime_forever': 656, 'playtime_last_two_weeks': 0, 'playtime_at_review': 537, 'last_played': 1420137322}",english,"I really like it. The gameplay ist very smooth, the music fits well and its quite challenging (not at the start of course). Very good time killer :)",1386188209,1386188209,True,0,0,0,0,False,False,False,False,
+7855805,"{'steamid': '76561198046808380', 'num_games_owned': 457, 'num_reviews': 1, 'playtime_forever': 344, 'playtime_last_two_weeks': 0, 'playtime_at_review': 344, 'last_played': 1385803016}",english,"I bought this game thinking it was just a cheap throwaway puzzle game. Well, boy was I wrong. This game is incredibiyl addicting, to the point where I beat the whole second half in one go. It is incredibly difficult, however, and I didn't really figure out to play strategically until a third of the way through. Highly recommended.",1385864544,1455821350,True,0,0,0,0,False,False,False,False,
+7777626,"{'steamid': '76561198040052804', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1385514050}",english,"Simple rules that still allow for strategy and complex game play, good graphics and background music",1385514109,1385514109,True,0,0,0,0,False,False,False,False,
+7773983,"{'steamid': '76561198041119655', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 85, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1388645912}",english,"Very enjoyable. This game didn't last me long; I quickly reached a stage where it was just too hard to complete the levels. However, I really enjoyed it. The music is enjoyable, the graphics are very aesthetically pleasing, and the gameplay itself is simple to understand but fun to play.
+
+I would be interested in seeing more from this developer.",1385499463,1385499463,True,13,2,0.688377916812896729,0,True,False,False,False,
+7760996,"{'steamid': '76561198013026902', 'num_games_owned': 0, 'num_reviews': 153, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1402044051}",english,Pretty decent puzzle-type game -- fun!,1385450481,1386046440,True,1,0,0.411388397216796875,0,True,False,False,False,
+7581380,"{'steamid': '76561198051832174', 'num_games_owned': 279, 'num_reviews': 10, 'playtime_forever': 752, 'playtime_last_two_weeks': 0, 'playtime_at_review': 608, 'last_played': 1517900757}",english,The puzzle section is pretty fun. Play it on a hot day and the music cools you down.,1383716898,1383716898,True,0,0,0,0,False,False,False,False,
+7576540,"{'steamid': '76561197967667543', 'num_games_owned': 892, 'num_reviews': 48, 'playtime_forever': 474, 'playtime_last_two_weeks': 0, 'playtime_at_review': 466, 'last_played': 1705553783}",english,Excellent puzzle game and interesting enough that I completed all of the levels.,1383671753,1383671753,True,0,0,0,0,False,False,False,False,
+7433114,"{'steamid': '76561198092460107', 'num_games_owned': 284, 'num_reviews': 15, 'playtime_forever': 327, 'playtime_last_two_weeks': 0, 'playtime_at_review': 242, 'last_played': 1504349671}",schinese,"有益你的智商的游戏哦
+就休闲游戏来说这款游戏已经很完美了
+一个休闲游戏所具备的一切必要要素都在这个游戏中得到了展现
+精美而又温馨的画面轻快令人愉悦的音乐以及在破解谜题时的成就感以及谜题的难度
+对我自己而言这是一个满分游戏。
+在一个喧嚣的下午你在忙完自己烦闷的工作之后，身心疲倦想要休息下
+这是来一杯咖啡放在桌前打开电脑打开这个游戏，让自己脱离工作的束缚忘记生活的烦恼
+享受一段自由的游戏时光。
+让自己的身心重新找回生命的愉悦",1382269135,1431518641,True,0,0,0,0,True,False,False,False,
+3867776,"{'steamid': '76561198028326753', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 0, 'playtime_last_two_weeks': 0, 'last_played': 0}",english,"The game is simple, but it also complex at the same time. I picked it up a while back and it's definitely been worth it so far.",1380316596,1380316596,True,0,0,0,0,False,False,False,False,
+5513820,"{'steamid': '76561198051089520', 'num_games_owned': 433, 'num_reviews': 15, 'playtime_forever': 169, 'playtime_last_two_weeks': 0, 'playtime_at_review': 169, 'last_played': 1374865952}",english,"A cool beautiful casual hexagonical game, after a long day of battling and what not chill out with this game.",1374858209,1374858209,True,2,0,0.506419718265533447,0,False,False,False,False,
+5173148,"{'steamid': '76561198045944938', 'num_games_owned': 758, 'num_reviews': 124, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1374717366}",japanese,"六角形の空間で六角形を作る六角形パズルゲー
+フラクタル状のタイルが並んでいて、その中の一点をクリックするとタイルが現れる
+同じ色のタイルを六角形に揃えるとポイント取得とともに、辺りのタイルを弾き飛ばしてさらなる連鎖を狙える
+残りの手数が少なくなってくると死にかけるような演出になるのが良い(意味不明)
+ちなみに死にかける演出は画面が暗くなってBGMがスロー再生になる
+クリアすると気持ちいい",1374726328,1387348419,True,1,0,0.502236723899841309,0,False,False,False,False,
+6431418,"{'steamid': '76561198066162839', 'num_games_owned': 0, 'num_reviews': 113, 'playtime_forever': 197, 'playtime_last_two_weeks': 0, 'playtime_at_review': 109, 'last_played': 1571023805}",english,Pretty neat little puzzle game.  Lots of game modes ensures plenty of playtime for your buck. Buy it during a sale if you're skeptical.,1374125677,1374125677,True,0,0,0,0,False,False,False,False,
+5731408,"{'steamid': '76561198054806984', 'num_games_owned': 100, 'num_reviews': 1, 'playtime_forever': 1124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 576, 'last_played': 1590641482}",english,"A great game for when you just want to sit down and relax with something that's simple to learn and easy to play, yet neither too mindless nor too challenging~
+
+",1373706062,1373706062,True,0,0,0,0,False,False,False,False,
+1175007,"{'steamid': '76561197988491740', 'num_games_owned': 0, 'num_reviews': 91, 'playtime_forever': 385, 'playtime_last_two_weeks': 0, 'playtime_at_review': 368, 'last_played': 1375644633}",english,such a good time killer and a pretty good puzzle game,1373333331,1373333331,True,0,1,0,0,False,False,False,False,
+145402,"{'steamid': '76561197963313946', 'num_games_owned': 1198, 'num_reviews': 93, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1389113615}",english,"This is a phone app game. It's not even remotely fun or captivating. Again, the use of oversimplified graphics in the name of ""art"". Useful only to increase your Steam library game count.",1373304374,1373304374,True,0,14,0.411568999290466309,5,False,False,False,False,
+458357,"{'steamid': '76561197970765727', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 372, 'playtime_last_two_weeks': 0, 'playtime_at_review': 341, 'last_played': 1373149985}",english,fun puzzle / casual game with a good difficulty curve. a total steal as part of the humble indie bundle,1373253678,1373253678,True,0,0,0,0,False,False,False,False,
+1875953,"{'steamid': '76561197999173289', 'num_games_owned': 1584, 'num_reviews': 18, 'playtime_forever': 369, 'playtime_last_two_weeks': 0, 'playtime_at_review': 369, 'last_played': 1372796459}",english,"A kind of musical adventure combined with a puzzle of hexagons!
+
+Fractal offers various types of gameplay which people with a sense for puzzle games will love. You get to move coloured hexagons around a playfield by placing new ones right next to them. The more connect, the more will spawn and move the others by a field in the given direction.
+
+Main goal is to get a bloom, a flower-type of shape out of at least seven of these hexagons. Several power-ups such as exploding tiles, electric tiles, bonus tiles or push-backs are there to make that easier to accomplish.
+
+Three given gamemodes are present, the puzzle, the campaign and the arcade mode.
+
+In the campaign you get to play through 30 levels of randomly generated fields with given conditions, like limited turns or several colours. Goal is to get enough tiles cleared in a given amount of turns to proceed.
+
+In the puzzle mode you have a limited amount of turns, where you get to fulfill puzzles or given conditions in order to unlock harder and longer ones. The fields are not randomly generated.
+
+The arcade mode offers you unlimited turns, but a timer that runs out. By playing and clearing time tiles fast you get additional time and you manage to get higher scores and reach higher levels. This mode is totally recommended if you want to have a fast paced type of gameplay.
+
+As you proceed in a level, the music will change, the closer you are to failing a stage the music will get slower in campaign and faster in arcade mode. The more progress you make, the more you will hear instruments and beats added to the current rythym, racking up combo spices up that beat too.
+
+In general you get a great game with eye-candy, interactively changing music, wonderful game-mechanic and  a decent variety of gamemodes that should keep you occupied for a quick game or two, or maybe a long-term sitting for a high-score hunt.
+
+Puzzle away folks, it is fun and worth it!",1372774841,1372774841,True,0,0,0,0,False,False,False,False,
+210247,"{'steamid': '76561197965333225', 'num_games_owned': 966, 'num_reviews': 15, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1374792409}",english,"Super fun game guys, awesome puzzles.",1372690389,1372690389,True,0,0,0,0,False,False,False,False,
+3190335,"{'steamid': '76561198018720499', 'num_games_owned': 516, 'num_reviews': 15, 'playtime_forever': 180, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1562922283}",english,Is prettty awesome! Try it out!,1372433200,1372433200,True,0,0,0,0,False,False,False,False,
+4743304,"{'steamid': '76561198041354567', 'num_games_owned': 671, 'num_reviews': 47, 'playtime_forever': 100, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1379569331}",brazilian,"Joguinho de puzzle simples, bonito, elegante e com uma trilha sonora bem agradável, que reage à medida que você joga. Bem melhor do que acreditei ser olhando vídeos de gameplay. Além do modo campanha, também conta com outros modos pra diversificar o estilo de jogo - de movimentos friamente calculados e demorados à um orgasmo de combos frenéticos durante uma jogatina inicialmente durando apenas 1 minuto. Deve ser ótimo pra se ter no celular.",1372389519,1372389519,True,0,0,0,0,False,False,False,False,
+3529454,"{'steamid': '76561198024259068', 'num_games_owned': 1514, 'num_reviews': 93, 'playtime_forever': 516, 'playtime_last_two_weeks': 0, 'playtime_at_review': 180, 'last_played': 1529637872}",english,"This is one of those puzzle games that ha a bit of a learning curve, but once you get a feel for it, the game becomes very zen-like.",1372377386,1372377386,True,5,0,0.548439323902130127,0,True,False,False,False,
+1189338,"{'steamid': '76561197988827286', 'num_games_owned': 2857, 'num_reviews': 547, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1576971964}",english,"It's a fairly well-polished... casual puzzle game. Y'know, like Bejeweled or Tetris. The basic game mechanic  isn't amazing, but the presentation sure is! So I'd put this as a great casual puzzle game. Y'know, if you don't like puzzle games that involve actual thought.",1372372702,1385487240,False,0,0,0.401509284973144531,0,False,False,False,False,
+4133038,"{'steamid': '76561198032588673', 'num_games_owned': 278, 'num_reviews': 4, 'playtime_forever': 497, 'playtime_last_two_weeks': 0, 'playtime_at_review': 497, 'last_played': 1372412124}",english,"As far as puzzle games go, this may not be the most challenging one out there. It is, however, one of the most beautiful ones I have come across. The best part is the music, which is continuously generated and changes based upon overall playing style.",1372243534,1372243534,True,0,0,0,0,False,False,False,False,
+904501,"{'steamid': '76561197981577670', 'num_games_owned': 1117, 'num_reviews': 266, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1371677061}",english,somehow i made war instead,1371705162,1385408113,True,0,0,0.438124507665634155,0,False,False,False,False,
+1717625,"{'steamid': '76561197996899722', 'num_games_owned': 1436, 'num_reviews': 265, 'playtime_forever': 404, 'playtime_last_two_weeks': 0, 'playtime_at_review': 404, 'last_played': 1357718400}",english,"Fractal's an interesting little puzzler.  Not one that'll have you rivetted to the screen for hours, but one that you'll go away and leave, then come back to, to solve the next ""level"".  It feels almost too random sometimes, and you don't feel fully in control... which can make it a touch unrewarding.. But strategy really helps in the later levels, and some of them are real stinkers.  All-in-all, I'll say it's mediocre, but not bad if you want something you can jump into and faff with, then leave for a few weeks to come back to later. 60%",1357710341,1357710341,True,0,0,0,0,True,False,False,False,
+1430950,"{'steamid': '76561197993210051', 'num_games_owned': 647, 'num_reviews': 52, 'playtime_forever': 908, 'playtime_last_two_weeks': 0, 'playtime_at_review': 908, 'last_played': 1334473200}",english,"Another amazing puzzler, more laid back than say, Critter Crunch or Might and Magic: CoH. Music is soothing, combo system takes some getting used to but once you do you'll find yourself sucked in. As with a lot of puzzle games with ""objectives"", you can find yourself screwed over due to the random layout of the board sometimes, so expect some restarts on some levels.",1356626476,1385407210,True,1,0,0.516129016876220703,0,False,False,False,False,
+772866,"{'steamid': '76561197977945920', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 329, 'playtime_last_two_weeks': 0, 'playtime_at_review': 329, 'last_played': 1331452800}",english,"Excellent game, everybody should play it.
+",1356614237,1356614237,True,0,0,0,0,False,False,False,False,
+5749443,"{'steamid': '76561198054908063', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 443, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1405151256}",english,"While Fractal it has its pros and cons, its low price point and addictive mechanics make it a must-play for anyone who enjoys casual puzzle games.
+
+One of the most noticable aspects of the game is its beautiful graphics. It runs excellently in full HD resolution on the highest graphics settings despite my machine's very limited processing and graphics memory. In addition to the sheer quality, unique little doodles on each campaign level add a little something extra.
+
+Unfortunately, these doodles tend to be the extent of the in-game instructionals. If you're like me, and prefer to learn to play a game by playing it instead of reading through a manual, it will take you some time to get acquainted with the mechanics. The addition of late-game mechanics hinders game progress, as I tended to die (and be forced to restart the level at a low point value, or replay the campaign from the beginning) several times before grasping the intricacies of utilizing new powerups.
+
+Also disappointing was the soundtrack: the game devs heavily push the soundtrack on the store page, insisting that it's ever-changing depending on how well you play. This simply isn't the case. It's the same soundtrack every single time, with slight changes in tempo if you really start to suck.
+
+However, the addictive gameplay mechanics more than make up for Fratal's failings. It makes for a great time-waster, and is well worth its sale price.",1356555732,1387508397,True,1,0,0.54256671667098999,0,False,False,False,False,
+668202,"{'steamid': '76561197974877784', 'num_games_owned': 1767, 'num_reviews': 54, 'playtime_forever': 343, 'playtime_last_two_weeks': 0, 'playtime_at_review': 343, 'last_played': 1354521600}",english,"A fun and satisfying game which is too forgiving for a very long time and then, near the end, suddenly becomes ridiculously hard. The last 5 levels are worth the price of admission once you're hip to what exactly they're asking of you. Until then they're infuriating.
+
+Don't forget to look at the manual as a few important details are left out of the ingame teaching, which is otherwise thorough. However, I suggest doing the puzzle levels before the campaign, as they shed light on the game's sometimes arbitrary-seeming behavior. They will also be boring if you save them for later.
+
+The music and sound effects are as lovely as the visuals, and the music changes fluidly with your progress. All in all, a beautifully made game with a bizarre learning curve and not as much challenge as it could have had, but easily worth the non-sale price.",1354485730,1490966616,True,0,0,0,2,False,False,False,False,
+3951028,"{'steamid': '76561198029635086', 'num_games_owned': 2982, 'num_reviews': 26, 'playtime_forever': 375, 'playtime_last_two_weeks': 0, 'playtime_at_review': 375, 'last_played': 1348642800}",english,fun and challenging puzzle game.,1348512448,1385407748,True,1,1,0.448883950710296631,0,False,False,False,False,
+1912342,"{'steamid': '76561197999635853', 'num_games_owned': 46, 'num_reviews': 5, 'playtime_forever': 991, 'playtime_last_two_weeks': 0, 'playtime_at_review': 326, 'last_played': 1503678960}",english,Nice stress buster.,1348408652,1348408652,True,0,0,0,0,True,False,False,False,
+5351211,"{'steamid': '76561198048355266', 'num_games_owned': 852, 'num_reviews': 13, 'playtime_forever': 62, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1368342000}",japanese,シンプルで、クールで、中毒性があって、リズミカルで。まあとにかくやってみることさ。,1348105409,1348105409,True,0,0,0,0,False,False,False,False,
+136270,"{'steamid': '76561197963000314', 'num_games_owned': 1421, 'num_reviews': 36, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1346050800}",english,Puzzle game.  Too hard. Gave up at level 5. Too nervous to try again. Want eat a burrito.,1345996182,1345996182,True,0,0,0,0,False,False,False,False,
+2723036,"{'steamid': '76561198011647032', 'num_games_owned': 12448, 'num_reviews': 868, 'playtime_forever': 217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 217, 'last_played': 1345359600}",english,This is a casual game that can be very hard close to the beginning of the game. The campaign is alright but can be challenging with the limited pushes you can do. The arcade mode in the game is alot of fun and keeps you engaged in the game with its different modes. This is a fun casual thinking game and can be complicated but fun all at the same time. I have enjoyed it but it has given me frustrating times. Its for people that like complicated puzzles. Its a good game to burn 5-10 minutes here and there. If you like puzzles and want a challenge then this game is for you.,1345332232,1345332232,True,0,0,0.486486494541168213,0,False,False,False,False,
+1742350,"{'steamid': '76561197997277236', 'num_games_owned': 1353, 'num_reviews': 27, 'playtime_forever': 713, 'playtime_last_two_weeks': 0, 'playtime_at_review': 246, 'last_played': 1460125693}",english,"Pretty middling game with a steep learning curve. It begins very simplistic but near the end the difficulty just shoots up.
+There is a challenge mode too which does the same although only a few of them are easy. It's not a terrible game, but I won't finish it as I'm 28/30 in the campaign and the level is now balls to the wall hard. 
+I got it for free which is a great price. Wait for the inevitable 75% off sale and you will get a few hours out of it at least.",1344890457,1344890457,True,1,0,0.53608250617980957,0,False,False,False,False,
+248364,"{'steamid': '76561197966550133', 'num_games_owned': 980, 'num_reviews': 128, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 154, 'last_played': 1342422000}",brazilian,"Um jogo diferente do convencional, com um visual atraente, e áudio reconfortante.
+Ótimo jogo casual para passar o tempo. No início parece complicado, mas logo se pega o jeito para jogá-lo, pois é um jogo simples.
+Possui alguns modos de jogar diferentes do padrão (campanha), tornando o jogo mais interessante.
+
+Tempo para concluir o jogo (Game Length): >3 h
+
+Arte: 3.5
+Desafio: 4
+Diversão: 4
+Gameplay: 3
+História: 0
+Jogabilidade: 3.5
+Trilha Sonora: 4
+Geral: 4/5
+
+Vontade de voltar a jogá-lo: média
+
+Jogo obtido via: Indie Royale #5 - New Year's Bundle",1343294978,1423445560,True,1,0,0.523809552192687988,0,False,False,False,False,
+4484926,"{'steamid': '76561198037903065', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 651, 'playtime_last_two_weeks': 0, 'playtime_at_review': 532, 'last_played': 1432032251}",english,"A surprisingly simple mechanic belies the complexity of this game. The challenge of creating the tile rosettes that score points is enduring, as each move warps the present array in a manner reminiscent of both Rubik's Cube and Othello. No annoying time limits and bare-bones game mechanics. A nice little challenge.",1342868221,1342868221,True,0,0,0,0,True,False,False,False,
+585506,"{'steamid': '76561197972469969', 'num_games_owned': 0, 'num_reviews': 82, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1352707200}",english,"This game is like an Apple product: sleek. modern, and not nearly as good as it fancies itself.",1342338243,1342338243,True,0,0,0.392992734909057617,0,True,False,False,False,
+3617186,"{'steamid': '76561198025283733', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1411606215}",english,Must... make... blooms...,1342138070,1342138070,True,0,0,0,0,True,False,False,False,
+206593,"{'steamid': '76561197965233645', 'num_games_owned': 498, 'num_reviews': 43, 'playtime_forever': 2, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2, 'last_played': 1448105199}",english,This game snuck up on me like a 6'7 280lb Bull-queen in prison. I was defenseless and spent mre then a week in the informery with Andy Dufresne.,1340496598,1340496598,True,0,0,0,0,True,False,False,False,
+215257,"{'steamid': '76561197965487582', 'num_games_owned': 786, 'num_reviews': 125, 'playtime_forever': 354, 'playtime_last_two_weeks': 0, 'playtime_at_review': 354, 'last_played': 1326960000}",english,"A neat little puzzle/casual game.  I had fun with it, though it does seem fairly luck based compared to some other ones I've played.",1336232346,1385404259,True,1,0,0.516129016876220703,0,False,False,False,False,
+1970020,"{'steamid': '76561198000422381', 'num_games_owned': 826, 'num_reviews': 229, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 218, 'last_played': 1334559600}",english,"This game is alright, but it's got a -serious- case of ""trying too hard to be cool.""
+
+The game basically has you using hex-based block matching to score points, with the 'campaign' as tutorial-become-challenge mode of sorts.  I'm not the best at hex matching, and that's alright, the game is fine anyway, but the stylization in the messages you get for making matches of various sizes are just really silly.  How is a certain pattern of hex-matching 'Old School!'?  Why does the game tell me to 'Do that again!' when I match some small cluster that was in no way creative or highscoring?  If seeing 'AAAaaaAAaaAAaAAAaaa!!!"" flash across my screen is supposed to make the player feel accomplished... well... you get the picture.  These messages come seemingly unscaled to the level of match made, and thus lack context in addition to being eye-rolling.
+
+There's a few UI bugs, otherwise fine.  No multiplayer mode, which is unfortunate and hurts replayability.",1334867701,1385457587,False,0,0,0,0,True,False,False,False,
+3425321,"{'steamid': '76561198022480821', 'num_games_owned': 1892, 'num_reviews': 115, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1365836400}",russian,Интересная головоломка. Советую любителям думать о том какой именно будет следующий ход.,1334445833,1334445833,True,0,0,0,0,True,False,False,False,
+4377704,"{'steamid': '76561198036176025', 'num_games_owned': 458, 'num_reviews': 4, 'playtime_forever': 169, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1496706349}",english,Relaxing and addictive. Dangerous combination.,1331111816,1331111816,True,0,0,0,0,True,False,False,False,
+4786412,"{'steamid': '76561198041834544', 'num_games_owned': 342, 'num_reviews': 66, 'playtime_forever': 286, 'playtime_last_two_weeks': 0, 'playtime_at_review': 286, 'last_played': 1327824000}",english,"If you look at the screenshots and just assume it's a generic match-3/5 game, I'd like to ask you to take a look at the video - it's a bit more unique than that. My only complaint about this game is that the difficulty really begins to ramp up 1/2 to 2/3 of the way through the main mode, and there is no way whatsoever to make it easier. Sometimes you'll even find yourself cornered by luck.",1330822571,1330822571,True,0,0,0,0,True,False,False,False,
+153666,"{'steamid': '76561197963550511', 'num_games_owned': 26517, 'num_reviews': 272, 'playtime_forever': 3, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3, 'last_played': 1330848000}",english,"I don't like being sold flash, unity, java games without warning. This is a unity game. Previously it was a flash game. Yeah. At least I didn't spend too much jolly dosh on this.",1330805260,1330805260,True,3,0,0.336527228355407715,0,False,False,False,False,
+3216539,"{'steamid': '76561198019047380', 'num_games_owned': 461, 'num_reviews': 24, 'playtime_forever': 110, 'playtime_last_two_weeks': 2, 'playtime_at_review': 91, 'last_played': 1710045279}",english,"Actually I don't play casual games like board puzzles and such...but Fractal has something more to offer.
+
+The objective are simple, you have to make ""blooms"" from pulling hexagons, but I like this game because of the beautiful graphics and music. Yes, especially the music. The music are composed based on how you play the game. When the gameplay become intense, the music follows.
+
+But I'm disappointed with Steam version though. The animations and the MusicBox engine are not that good than its original version which is built with Flash. I prefer the Flash build of Fractal instead the new one, unless they are going to update the engine to be more like its predecessor.",1326885528,1326885528,True,0,0,0,2,False,False,False,False,
+1490431,"{'steamid': '76561197993734650', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1326700800}",japanese,綺麗な糞,1326695014,1326695014,True,0,0,0,0,True,False,False,False,
+3082327,"{'steamid': '76561198017136716', 'num_games_owned': 459, 'num_reviews': 15, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1326009600}",english,"if you can find this for less than a dollar, its worth it to tool around for an hour or so, otherwise its just a casual game",1326042336,1326042336,True,0,0,0,0,False,False,False,False,
+3531652,"{'steamid': '76561198024289368', 'num_games_owned': 0, 'num_reviews': 57, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1326009600}",english,Not bad relax Indie game :),1325944624,1325944624,True,0,0,0,0,False,False,False,False,
+74446,"{'steamid': '76561197961167439', 'num_games_owned': 1579, 'num_reviews': 720, 'playtime_forever': 277, 'playtime_last_two_weeks': 0, 'playtime_at_review': 277, 'last_played': 1349161200}",english,"A pleasant color matching game. It lacks a proper tutorial, but only takes about 5 minutes to get the hang of it. The puzzle mode is kind of a pseudo-tutorial and I would suggest starting there if you want to slowly get the hang of things. The music melody is nice, but the drum samples are poor quality. Like the majority of these type of games, it is great at passing the time, but I haven't seen anything that made me say ""WOW.""",1325891505,1385428511,False,4,0,0.584594845771789551,0,False,False,False,False,
+2100409,"{'steamid': '76561198002302834', 'num_games_owned': 0, 'num_reviews': 75, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1326009600}",japanese,"石を六角形っぽい形にすると消えるパズルゲーム。
+消した石の周りにもなんか石が出てくるけど規則がよーわからん。
+それっぽくクリックしてればそれなりに分かったきになるしクリアできるっぽい。
+面白いような気もするけどなんだかよくわからんパズルゲー。
+ちなみに標準で日本語化されているがちょっぴり変な日本語も。
+http://steamcommunity.com/id/erogappa/screenshot/596958827141852825/?",1325877128,1325877128,True,0,0,0,0,False,False,False,False,
+2049334,"{'steamid': '76561198001479527', 'num_games_owned': 1029, 'num_reviews': 16, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1343113200}",english,The music in this aesthetic puzzler is awesome btw.,1325865669,1325865669,True,0,0,0,0,False,False,False,False,
+381501,"{'steamid': '76561197970149845', 'num_games_owned': 3732, 'num_reviews': 451, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1325836800}",english,"Very stylish with fitting music and atmosphere. Modern, abstract and lighty neon-colorized. Rather simple in game-play but fun. Different modes and some things adding to different gameplay styles and mechanics.",1325801425,1325801425,True,0,1,0,0,False,False,False,False,
+1694351,"{'steamid': '76561197996576329', 'num_games_owned': 660, 'num_reviews': 49, 'playtime_forever': 255, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1429467795}",english,Best Puzzle Game! Take it! Play It! :D and have fun! :D,1325774682,1325774682,True,1,0,0.523809552192687988,0,True,False,False,False,
+805958,"{'steamid': '76561197978906243', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1344322800}",english,Would be fun if there was an unlimited play without a time limit. I love puzzle games I can play when watching TV and the sort but this is not it at all. Will stick with the Zen mode of the Bejewled Twist Demo.,1325645909,1325645909,True,0,0,0,0,True,False,False,False,
+5949588,"{'steamid': '76561198056174512', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 572, 'playtime_last_two_weeks': 0, 'playtime_at_review': 520, 'last_played': 1471652552}",english,"Great music and graphics for it's casual style, it is also similar to the game Hexic. I recommend it if you love puzzle games :)",1325497809,1325497809,True,0,0,0,0,True,False,False,False,
+986680,"{'steamid': '76561197983729106', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 127, 'playtime_last_two_weeks': 0, 'playtime_at_review': 117, 'last_played': 1422350754}",english,"Too hip for Tetris?
+Well, you probably haven't ever heard of Fractal.",1325478976,1325478976,True,0,0,0,0,True,False,False,False,
+2564988,"{'steamid': '76561198009356974', 'num_games_owned': 555, 'num_reviews': 18, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1426489470}",english,Just bought this game from X'mas sales a few weeks ago. It's really zen & challenging at the same time.,1325415700,1325415700,True,0,0,0,0,True,False,False,False,
+2177393,"{'steamid': '76561198003530570', 'num_games_owned': 1302, 'num_reviews': 19, 'playtime_forever': 602, 'playtime_last_two_weeks': 0, 'playtime_at_review': 526, 'last_played': 1475921312}",portuguese,"Para amantes de hexágonos e all things related. Um design bonito, com explosões eye-candy, música dinâmica e mensagens fofis!
+u look cute when you're angry =)",1325369495,1325369495,True,0,0,0,0,False,False,False,False,
+619347,"{'steamid': '76561197973200565', 'num_games_owned': 0, 'num_reviews': 306, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1363417200}",english,"I like the hex style. I like puzzles. and I like flashy colourful explosions. so why dont I like this. maybe its the random aspect, maybe its the puzzly bits illude me, maybe I just dont see it. this is an alright game but its going to sit there on the shelf with the rest of my puzzle games collecting dust. dont get me wrong, I like the puzzles, I love hexic but I dont play it very often nor do I play anything I have on steam that often. not much to expect from a puzzle game other than the puzzle challenge. which fractal delivers very nicely. 
+
+6.5/10",1325189234,1325189234,True,0,0,0,0,True,False,False,False,
+310816,"{'steamid': '76561197968349369', 'num_games_owned': 1669, 'num_reviews': 16, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 140, 'last_played': 1623313856}",english,An interesting concept which while frustrating at times is rather fun. It takes a little getting used to and at times I felt the big scores I got were more down to luck than judgement but it's certainly worth a place in anyone's collection.,1325067139,1325067139,True,0,0,0,0,True,False,False,False,
+1826091,"{'steamid': '76561197998494501', 'num_games_owned': 1967, 'num_reviews': 73, 'playtime_forever': 969, 'playtime_last_two_weeks': 0, 'playtime_at_review': 776, 'last_played': 1508597676}",tchinese,"8.5/10.0   如果你覺得六角形很吸引你
+
+
+那你可以試試,不過...我個人還是認為這遊戲頗有難度
+
+
+BLOOM是一個很奧妙的組合,有意想玩的好友們我還是建議去看看再講",1325054784,1325054784,True,1,0,0.505169868469238281,0,True,False,False,False,
+4791241,"{'steamid': '76561198041889407', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 614, 'playtime_last_two_weeks': 0, 'playtime_at_review': 581, 'last_played': 1485032743}",french,Parfait pour se détendre... et se casser le tête !,1325018838,1388315632,True,0,0,0,0,True,False,False,False,
+806937,"{'steamid': '76561197978931510', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1324713600}",english,"This is a pretty neat little puzzle game. It's something like a cross between Othello and Bejeweled. It's got some pretty great background music. If you're looking for a casual puzzler, this is a pretty good one.",1325017559,1385417727,True,5,0,0.580876588821411133,0,True,False,False,False,
+2611515,"{'steamid': '76561198010016325', 'num_games_owned': 501, 'num_reviews': 3, 'playtime_forever': 223, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1456288928}",english,A good simple-to-learn-hard-to-master Puzzle game.,1323895709,1323895709,True,0,0,0,0,False,False,False,False,
+811347,"{'steamid': '76561197979084213', 'num_games_owned': 4492, 'num_reviews': 1009, 'playtime_forever': 104, 'playtime_last_two_weeks': 0, 'playtime_at_review': 104, 'last_played': 1323158400}",english,"Fractal is actually a very stylish looking game but it's missing a few important things; a tutorial. No, the game isn't that hard to figure out, but ask me what the power-ups do and I honestly couldn't tell you. Most of the times I just try to connect them with the other tiles, obviously, and it triggers several combos. It usually takes several tries to finish a level. A tutorial is A MUST.
+Another thing that bothered me is that if I notice things aren't going my way, I normally ike to retry a level. There's no button for this. There's only a pause button. So in the end I have to click up to 20-30 times in order to restart a level. This definitely needs to be implemented.
+Also, the text is a bit blurry, even on extremely high quality. If the developer can fix it, it will look smashing. I like the slowmotion endings, they look really cool.
+Now, would I recommend this game ? Yes and no. If none of my complaints is fixed, then no. If they do decide to fix them; yes.
+
+[Rating: 70/100]",1323126169,1402244518,True,2,0,0.514705896377563477,0,True,False,False,False,
+1497203,"{'steamid': '76561197993813869', 'num_games_owned': 0, 'num_reviews': 52, 'playtime_forever': 291, 'playtime_last_two_weeks': 0, 'playtime_at_review': 256, 'last_played': 1642886826}",english,"Fun.  Interesting.  Challening.  Frustrating.  Satisfying.  Everything you'd want in a puzzle game.  ;)
+
+No tutorial, but you learn as you go.",1323111900,1385410860,True,1,0,0.516129016876220703,0,True,False,False,False,

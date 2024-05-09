@@ -1,0 +1,23 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+136326182,"{'steamid': '76561198364602099', 'num_games_owned': 0, 'num_reviews': 75, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1680944387}",english,For the bundle,1680944439,1680944439,True,0,0,0,0,True,False,False,True,,,
+118571883,"{'steamid': '76561197962863821', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1699102277}",english,"Great fun in shared screen setup with 3-4 people.
+
+Easy to learn and hard to master, was happy to find this gem and had lots of laughs playing this.
+
+",1657459510,1657459510,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+34730989,"{'steamid': '76561198164444510', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1504517409}",english,"It's....a part of HELP: THE GAME, you're helping somebody. I can't be too harsh on the game, given the story behind how it was made and what it was made for.
+
+Pros:
+
+-Helping a worthy cause if purchased as part of HELP: THE GAME
+-Cute design, but not the cutest.
+-Working AI you can play against if you have nobody to play with 
+
+Not-Pros (Sort of Cons):
+
+-AI has unlimited ""bumping"" power, never runs out of water to propel itself with; AI has distinct advantage
+-Not much depth, very simple (Bump them into the water by propelling yourself with a water gun, don't get bumped into the water, 3 lives, up to 4 players, a powerup here and [kinda] there)
+-Not very thrilling
+-NOT a game for hours (or even minutes) of entertainment
+
+Supporting HELP: THE GAME gets you a copy of this.",1504517526,1504517645,False,5,1,0.605334222316741943,0,True,False,False,False,,,

@@ -1,0 +1,46 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+128844789,"{'steamid': '76561198042317098', 'num_games_owned': 0, 'num_reviews': 852, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1671445743}",english,1/10,1671445760,1671445760,False,0,0,0,0,False,False,True,True,,,
+32721121,"{'steamid': '76561198007788303', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1497459817}",japanese,"ミソロジーのようなゲームを期待された方は敬遠するのが正解です。
+特定の建物を建てる事で食糧が秒間いくら増加といった形で
+ユニットに必要なリソースを取得するため
+マップ上に資源などは配置されておらず、マップ上の立地は意味はありません。
+また現在のところテックツリー、上位ユニットなども存在せず
+ひたすら時間経過を待ち巨神を召喚するのに必要な資源が溜まるのを待つだけの
+ゲームになっています。ただ巨神を操作するという発想は面白いため今後の改善に期待です。
+",1498301012,1498301012,False,9,0,0.637579500675201416,0,True,False,True,False,,,
+32444083,"{'steamid': '76561198307180354', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1497539283}",english,"In it's current state it's not the best but it is a very good start, I  think after some patches it's going to be a great game.
+The Pathfinding is not the best.
+Trying to highlight your troops can be a nightmare at times as it dose not always work,
+
+But i think it's one to watch as the devs look like there dedicated to the game so i think it will be amazing.
+
+Youtube Review
+https://youtu.be/96fSWaJmDd4",1497546260,1497546260,True,9,0,0.549307763576507568,1,True,False,True,False,,,
+32390532,"{'steamid': '76561198000879315', 'num_games_owned': 338, 'num_reviews': 6, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1497364292}",english,"**** THIS GAME IS EARLY ACCESS *****   
+
+Devs are working hard to patch will update review after next patch
+
+
+First Impressions:   EARLY ACCESS 
+
+UI – 1/5
+Graphics – 2/5 
+Gameplay – 2/5
+Sound/music – 3/5
+
+The gameplay seems a little slow paced for my liking but I like the idea of having a main unit you control this concept is nice.
+
+Issues I have came across: 
+1.	Pathfinding seems a bit off
+2.	Some minions will randomly stop building houses
+3.	On bridge map camera zooms in quickly trying to navigate the under path
+4.	Cannot cancel unit creation
+5.	Unit balancing is needed 
+
+Other than the few issues ive come across the game plays like a game that’s in early access – I really hope the devs polish this up I believe it will be a fun RTS game to play with friends.  
+
+At this time i would not recommend this game due to the steep price and the current gameplay.
+
+NOTE: Game would crash at launch – Required a Reboot for some reason after the first time I played.
+
+Please see my video review: https://youtu.be/g3CiqyKVZLM",1497365952,1497469826,False,11,1,0.48633420467376709,0,True,False,True,False,,,

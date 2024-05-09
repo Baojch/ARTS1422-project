@@ -1,0 +1,327 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+153901666,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1690073474}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702964765,1702964765,True,1,0,0.444444417953491211,0,True,False,False,True,,,
+143254013,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 76, 'playtime_last_two_weeks': 0, 'playtime_at_review': 76, 'last_played': 1690973341}",spanish,"────────────█───────────────█
+────────────██─────────────██
+─────────────███████████████
+────────────█████████████████
+───────────███████████████████
+──────────████──█████████──████
+─────────███████████████████████
+────────█████████████████████████
+────────█████████████████████████
+───███──▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒──███
+──█████─█████████████████████████─█████
+──█████─████████████████──███████─█████
+──█████─██████────────█──█────███─█████
+──█████─█████─▓▓▓▓▓▓▓█──█▓▓─▓─███─█████
+──█████─███─█─▓▓▓▓▓▓█──█▓▓─▓▓─███─█████
+──█████─██──█─▓▓▓▓▓█──█▓▓─▓▓▓─███─█████
+──█████─███─█─▓▓▓▓█──█▓▓─▓▓▓▓─███─█████
+──█████─█████────█──█─────────███─█████
+──█████─█████████──██████████████─█████
+───███──████████──███████████████──███
+────────█████████████████████████
+─────────███████████████████████
+──────────█████████████████████
+─────────────██████───██████
+─────────────██████───██████
+─────────────██████───██████
+─────────────██████───██████
+──────────────████─────████
+",1690973719,1690973719,True,1,0,0.523809552192687988,0,True,False,False,True,,,
+140566106,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 309, 'playtime_last_two_weeks': 0, 'playtime_at_review': 309, 'last_played': 1575898433}",russian,нет,1687541741,1687541741,False,0,0,0.476190477609634399,0,True,False,False,True,,,
+130258150,"{'steamid': '76561198134694235', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 469, 'playtime_last_two_weeks': 0, 'playtime_at_review': 386, 'last_played': 1673937682}",english,"The game seems like a lazy port/remake of a mobile/Flash game or a very old game.
+
+[h3]Pros:[/h3]
+[list]
+[*] Arcade mode and Steam leaderboards (single-player or 2 player local co-op)
+
+[*] Difficulty selection for campaign mode (Normal, Hard)
+
+[*] You can select the campaign level you want to play
+
+[*] You can upgrade armor (HP), HP regeneration, speed, damage, rate of fire, multishot, cash magnet and cash bonus.
+
+[*] Its retro music is kinda catchy but lacks variety
+
+[*] Supports playing with a keyboard or a gamepad
+
+[*] Reasonable price
+[/list]
+
+[h3]Cons:[/h3]
+[list]
+
+[*] Sound effect glitches when you play it a for longer than about 30 minutes. Have to restart the game when that happens.
+
+[*] The Campaign level status bar (showing player's Armor, Fire Mode, Progress and Cash) is too close to the center of the screen and prevents you from seeing more important stuff such as incoming enemies and / or their projectiles.
+
+[*] Very low resolution and no settings for it
+
+[*] Low graphics quality
+
+[*] No alternate playable robot type
+
+[*] No alternate weapon type and no shields
+
+[*] Upgrades are very grindy since prices increase exponentially - especially in Hard mode. You have to repeat previously completed levels to be able to pay for the exorbitant upgrade prices.
+
+[*] Very very hard to survive the last few levels (especially Level 15) of the campaign in Hard mode. You either have to be a master of evasion (even that might not cut it) or a very lucky gamer.
+
+[*] Some of the achievements are unreasonable and almost impossible to get - such as getting perfect victories in 9 different Hard levels (not getting hit or crash into enemies even once in a bullet hell scenario where even the destroyed enemies release fire in every direction).
+
+[*] You can retry a level you failed to complete right away. However, you can't retry a level that you just completed but failed to perform a ""feat"" to get the achievement. You have to go back to the main menu, choose Level Select and then select the level. Is it so hard to add a button to retry a completed level?
+
+[*] Leaderboards only accessible through Steam's Global achievements page; not in game
+[/list]",1672999988,1673008125,False,1,0,0.523809552192687988,0,True,False,False,True,,,
+124130931,"{'steamid': '76561198382409181', 'num_games_owned': 0, 'num_reviews': 120, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1692881647}",english,"This is a fun game, I love these type of games where there is a very minimal learning curve.
+
+Worthy addition to any Twin Stick lovers collection.",1666299747,1666299747,True,0,0,0,0,True,False,False,True,,,
+93835275,"{'steamid': '76561198308628242', 'num_games_owned': 2811, 'num_reviews': 950, 'playtime_forever': 249, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1624337468}",brazilian,Análise.,1623817511,1623817511,True,5,0,0.415349274873733521,0,True,False,False,False,,,
+87875906,"{'steamid': '76561198107518773', 'num_games_owned': 0, 'num_reviews': 204, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1615031902}",russian,"[h1] Альтрон устроил [b]Ревизорро[/b] Скайнету![/h1] 
+
+Таже [i]Малиновка[/i], но менее богатая на режимы, с этакой прокачкой и БОССом!
+https://store.steampowered.com/app/262830/Crimsonland/
+Изи ачивки .Бодрый саундтрек отлично поддерживает темп игры. Незамысловатое управление, которое хоть и нельзя настроить, но интуитивно можно понять с первого уровня. Есть кампания для одиночного прохождения и ""аркада"" для совместной локальной перестрелки жестянок! Мне лично понравилось наличие переключения режима стрельбы. Полагаю сделали эту фичу в качестве компенсации отсутствия каких-либо модификаторов пушек.
+
+Итог такой: любителям таких стрелялок рекомендую к покупке. Игра гарантированно скрасит пару вечерков!",1614926464,1614926464,True,1,0,0.519999980926513672,0,False,False,False,False,,,
+84177355,"{'steamid': '76561198010315744', 'num_games_owned': 1309, 'num_reviews': 725, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1609967093}",english,"This game is a lot of fun and a steal for just $3!!!
+
+Destroy enemies, get cash and upgrade. 
+
+Would love to see a sequel with more upgrades, levels, difficulties, achievements and bosses.",1609967395,1609967494,True,2,0,0.519999980926513672,0,False,False,False,False,,,
+63911682,"{'steamid': '76561198372035160', 'num_games_owned': 560, 'num_reviews': 310, 'playtime_forever': 465, 'playtime_last_two_weeks': 0, 'playtime_at_review': 465, 'last_played': 1581336621}",schinese,"喜加一,这还有什么好说的",1582348741,1582348741,True,0,0,0,0,False,False,False,False,,,
+63189054,"{'steamid': '76561198002495715', 'num_games_owned': 807, 'num_reviews': 38, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 79, 'last_played': 1581208149}",english,Just really boring and devoid of content; a bare-bones twin-stick style shooter with nothing to offer.,1581208203,1581208203,False,0,1,0,0,True,False,False,False,,,
+54255802,"{'steamid': '76561197998455758', 'num_games_owned': 1566, 'num_reviews': 1960, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 274, 'last_played': 1526206448}",english,Classic Arena Twin Stick Shooter. One or two evenings.,1563898382,1563898382,True,1,0,0,0,True,False,False,False,,,
+49911817,"{'steamid': '76561198137285867', 'num_games_owned': 0, 'num_reviews': 2553, 'playtime_forever': 328, 'playtime_last_two_weeks': 0, 'playtime_at_review': 302, 'last_played': 1557515758}",english,6/10,1554216366,1554216366,True,1,0,0,0,True,False,False,False,,,
+45539912,"{'steamid': '76561197975171602', 'num_games_owned': 0, 'num_reviews': 486, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1521018151}",english,No,1540994332,1540994332,False,0,1,0.416793495416641235,0,True,False,False,False,,,
+45321323,"{'steamid': '76561198300270231', 'num_games_owned': 5388, 'num_reviews': 894, 'playtime_forever': 805, 'playtime_last_two_weeks': 0, 'playtime_at_review': 805, 'last_played': 1538503064}",koreana,"적절한 가성비를 뽐내면서도, 마케팅이 전혀 이루어지지 않아 스팀의 바닷속 깊은 곳에 묻힌 비운의 인디 게임 [b]《다시 태어난 로봇 군단》[/b]이다. 물론 나도 스팀 상점에서 구매한 건 아니다. 기억은 잘 안 나지만 아마 번들로 딸려 왔겠지. 하루는 이 게임의 상점 페이지를 보는데, 로그라이크 느낌의 갓-겜 처럼 보여지더라. 근데 실제로는 그냥 한정된 공간에서 싸우는 평범한 탑다운 슈팅게임이라 조금 허탈했다. 근데 계속 플레이하다 보니까 이게 로그라이크가 아니란 게 천만다행으로 느껴졌다.
+
+ + 정가 2,200원이라고는 믿기지 않는 볼륨(솔직히 5,500원인데 이것 보다 못한 게임도 허다하다)
+ + 부드럽게 움직이는 조작
+ + 생각 보다 괜찮은 타격감
+ + 크레딧을 모아 파츠 업그레이드ㅡ이동 및 공격 속도, 데미지 등ㅡ 가능
+ + 보스전이 존재(비록 한 번 뿐이지만 말이다)
+ + 트레이딩 카드 존재(플탐 대비 파밍시간 적절)
+
+ - 그렇다, 이 게임에는 '하드 모드'가 존재한다
+ - 하드 모드에서는 적 개체들의 공격 패턴이 달라지고, 데미지 및 리스폰 수가 증가한다
+ - 가뜩이나 좁은 맵에, 총알도 무수히 많이 날아와 '퍼펙트 클리어' 가 진짜 개 같이 힘들다
+ - 공략법을 알아도 당할 수밖에 없는 하드 모드 보스전(레알, 잡졸들의 거슬림이 차원이 다르다)
+ - 그리고 관련 도.전.과.제까지 있잖아 ㅎ.. ㅋㅋ .. ㅎㅎ .. ㅅ.ㅂ ..
+ 
+노말에서 '아, 가볍게 즐길만 하네' 라고 생각된 것이, 하드로 넘어오면서 '어 잠깐만 뭐지? 시벌, 총알을 피할 공간이 없어' 라고 5스테이지 이후부터 계속 느껴야만 했다. 아니 내가 못 피하는 게 아니라, 하드 모드에서 10스테이지 이후로는 피하는 게 '불가능' 하다. 만약 10스테이지 이후 아무 레벨에서 '퍼펙트 게임' 띄웠다면, 그 유저는 '어떤 슈팅 게임'을 하든 무조건 가볍게 끝판까지 클리어할 수 있다. 믿어라. 
+
+ 한 줄기 희망은 그래도 아무거나 '9개 스테이지에서 퍼펙트 클리어를 획득' 하면 된다는 거다. 우리는 초반 1~9스테이지에 사활을 걸어야 한다. 레알, 나도 이 희망만 믿고 트라이 반복하면서 노오오오오력으로 깼다. 십자광선 그리면서 다가오는 유닛 나올 때가 극한의 고비인데, 거기서 멘탈 안 부셔지면 해낼 수 있다고 본다. 5 스테이지부터 최소 20 트라이는 할 거라는 각오를 다지는 게 좋다. 그리고 하드모드 하는 내내 빡치고 빡치는, 빡침의 연속이었던 기억 밖에 안 나기 때문에 엄지는 내려갈기도록 하겠다. 정도껏 해야지 시벌. 피할 공간 찾는다고 눈깔 빠지는 줄 알았네.",1539853467,1599362865,False,55,0,0.86307990550994873,0,True,False,False,False,,,
+44533883,"{'steamid': '76561198025637878', 'num_games_owned': 821, 'num_reviews': 275, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1535906778}",german,"Super Action Spiel!!!
+Empfehle ich jeden weiter",1535906820,1535906820,True,0,0,0,0,True,False,False,False,,,
+41155903,"{'steamid': '76561197985939935', 'num_games_owned': 4189, 'num_reviews': 151, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1522423307}",german,"Langweiliger, repetitiver Arena-Twin-Stick Shooter ohne großes Alleinstellungsmerkmal.",1522423792,1522423792,False,0,0,0.471014469861984253,0,False,False,False,False,,,
+40889921,"{'steamid': '76561198015505862', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 202, 'playtime_last_two_weeks': 0, 'playtime_at_review': 202, 'last_played': 1521367162}",english,boring and repetitive,1521350729,1521350729,False,0,1,0,0,True,False,False,False,,,
+40731842,"{'steamid': '76561198343213772', 'num_games_owned': 173, 'num_reviews': 13, 'playtime_forever': 198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 184, 'last_played': 1653406668}",french,Nice,1520746597,1520746597,True,0,0,0,0,True,False,False,False,,,
+40617555,"{'steamid': '76561198079626400', 'num_games_owned': 175, 'num_reviews': 12, 'playtime_forever': 2019, 'playtime_last_two_weeks': 0, 'playtime_at_review': 659, 'last_played': 1625481571}",english,Pure arcade shooter fun,1520375586,1520375586,True,2,0,0.528985500335693359,0,False,False,False,False,,,
+40242373,"{'steamid': '76561198157392394', 'num_games_owned': 0, 'num_reviews': 908, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1599349173}",english,A pretty simple though enjoyable twin-stick shooter.,1519100065,1519100065,True,2,0,0.512195110321044922,0,True,False,False,False,,,
+39707953,"{'steamid': '76561198191937957', 'num_games_owned': 36, 'num_reviews': 23, 'playtime_forever': 322, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1555135904}",russian,"It's game, that a relax the evening. Not Bad!",1517239585,1517239585,True,0,0,0,0,True,False,False,False,,,
+39526359,"{'steamid': '76561197988064277', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 455, 'playtime_last_two_weeks': 17, 'playtime_at_review': 208, 'last_played': 1711852474}",english,"This game is well concieved and well executed. Yeah,there are prolly lotsa games like it. There is something about this game that playing it makes you better at it, and you keep playing and getting better. I HAVE NOT BEAT the BOSS on level 18 yet. But I wanted to write a good review of this game. Great use of tiny money. Buy it and try it. This one's a good keeper.",1516590411,1516590411,True,1,0,0,0,True,False,False,False,,,
+39272737,"{'steamid': '76561198405073176', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 827, 'playtime_last_two_weeks': 0, 'playtime_at_review': 550, 'last_played': 1606608238}",english,This game is stupid fun. I start playing it and don't where the time goes.,1515732027,1515732027,True,1,0,0,0,True,False,False,False,,,
+36038741,"{'steamid': '76561197969426613', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 93, 'playtime_last_two_weeks': 0, 'playtime_at_review': 93, 'last_played': 1509098678}",english,A simple but fun twin-stick bullet hell shooter. Short but easily worth the price paid.,1509098723,1509098723,True,1,0,0,0,True,False,False,False,,,
+35978288,"{'steamid': '76561198143317696', 'num_games_owned': 5, 'num_reviews': 3, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1527515218}",spanish,cghyfygygygyygy,1508893830,1508893830,True,0,0,0.476190477609634399,0,True,False,False,False,,,
+32007989,"{'steamid': '76561197967841293', 'num_games_owned': 0, 'num_reviews': 73, 'playtime_forever': 145, 'playtime_last_two_weeks': 0, 'playtime_at_review': 145, 'last_played': 1496041864}",english,"Little, dorky, cheap, and good.  I like it well enough.  It's easy to pick up and put down.",1495928757,1495928757,True,0,0,0.455228567123413086,0,True,False,False,False,,,
+31445437,"{'steamid': '76561198009596311', 'num_games_owned': 5864, 'num_reviews': 168, 'playtime_forever': 426, 'playtime_last_two_weeks': 0, 'playtime_at_review': 426, 'last_played': 1493486900}",english,"I bought this game long after I played the flash version. Seeing they 'improved' the game, I felt like giving it another go and why not add another perfect game to my list? Overal Score: 5/10
+
+The additional difficulty didn't feel balanced at all. The gimmick is that every dying enemy releases a sphere of projectiles on Hard and that certain enemies are even more cheap with their projectiles, be it adding a slight homing to them or additional bullets per volley. After Stage 4, all my attempts at perfect runs felt closer to luck than skill. I got a perfect score because the enemy didn't instantly spawn behind me and unleash their kamehameha while I attempted to dodge the exploding corpses. Stuff like that. Took about 5 hours of retrying stages to get 9 perfect victories.
+
+The flash version isn't that much different than the version on here and it's not worth buying for the update. Maybe for the local co-op survival mode, but again, it doesn't do anything special. It isn't a bad game by any means if you stop at Normal difficulty and Normal is what you get with the Flash version. I'm downvoting the enhanced version because of the many flaws that should have been fixed to justify a release like this. There isn't even a restart level option as a small example of some touch ups that the game should have been given.",1493487940,1493487940,False,3,2,0.579938888549804688,0,True,False,False,False,,,
+31250883,"{'steamid': '76561198202796580', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1492671345}",english,I wasnt expecting much but I like twin stick shooters so I got it as part of a $1 bundle...spent 1-2 hours and finished it...best .10 cents I ever spent.,1492671535,1492671535,True,0,0,0,0,False,False,False,False,,,
+30277925,"{'steamid': '76561198084630264', 'num_games_owned': 1032, 'num_reviews': 243, 'playtime_forever': 137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 136, 'last_played': 1680265422}",brazilian,"[h1]Robot Legions é um daqueles games que vale a pena ser jogado. Sua jogabilidade é simples mas o desafio de finalizá-lo é maior do que você possa imaginar.
+
+Jogue, você não vai se arrepender!",1488462793,1488462793,True,1,0,0.48908647894859314,0,True,False,False,False,,,
+30213912,"{'steamid': '76561198344559882', 'num_games_owned': 0, 'num_reviews': 85, 'playtime_forever': 514, 'playtime_last_two_weeks': 0, 'playtime_at_review': 514, 'last_played': 1496408961}",schinese,"好像是5元买的？午休杀时间神器，发呆必备游戏。刚通关了战役模式中的正常难度。
+1*正常难度一路不停也就能打到11或者12关吧。一共18关，最后一关是个BOSS。
+2*正常难度通了以后就是困难模式了，刚准备开始然后上班了。
+3*还能本地对战，这个还没有试。不知道是对战还是协作过关。
+
+总之，推荐。
+
+----------------------------
+3-28 更新 
+
+困难难度下，技能都升到最高了。第15关一直挑战不过去，求心得。
+-----------------------------
+
+5-29 更新
+困难难度第15关似乎是最难的，很多那种打爆了会分裂成N个小飞行器的机器。这一关打了10多次终于过了，后面的感觉都不太难。终于通关了。",1488175490,1496034620,True,6,0,0.544213235378265381,0,True,False,False,False,,,
+29331790,"{'steamid': '76561198042831386', 'num_games_owned': 598, 'num_reviews': 627, 'playtime_forever': 278, 'playtime_last_two_weeks': 0, 'playtime_at_review': 278, 'last_played': 1473966623}",english,"[h1]Short version: 73%[/h1]
+Robot Legions Reborn is the updated, standalone version of an otherwise free Flash game of the same name. With an additional difficulty and an endless mode, it doesn’t offer too much more, but plenty enough to justify its nominal price for those who love top-down arcade shooters.
+
+[h1]Long version:[/h1]
+The free Flash version of Robot Legions is a relatively popular title on those sites that specialise in similar games, so maybe it was natural to create a standalone, Flash-free version of it.
+
+Both versions are top-down arcade twin-stick shooters of the kind where you can collect money to buy different kind of upgrades. These upgrades are quite important to pass some later levels; to the point where some players may need to grind earlier stages to get enough firepower and health to survive later ones.
+Even shooter veterans can find sufficient challenge, thanks to the new difficulty added to the Steam release: enemies are more aggressive and shoot shrapnel upon death, turning each stage into lightweight bullet hells.
+
+Although the game only offers 18 stages (and an optional arcade mode), it is hard to argue that it offers more than enough for its two-dollar price. So, if you want something smaller to scratch that top-down shooter itch, Robot Legions Reborn offers one of the best bangs for its buck.",1484723261,1484723261,True,13,1,0.693296968936920166,0,False,False,False,False,,,
+29153864,"{'steamid': '76561198286200379', 'num_games_owned': 0, 'num_reviews': 1491, 'playtime_forever': 537, 'playtime_last_two_weeks': 0, 'playtime_at_review': 536, 'last_played': 1497789835}",brazilian,Jogo legalzin vale a pena pra passa tempo,1484014465,1484014465,True,0,1,0,0,True,False,False,False,,,
+28337230,"{'steamid': '76561198160468371', 'num_games_owned': 1004, 'num_reviews': 361, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1481598664}",brazilian,"Um jogo genérico e sem história alguma, apenas passar das fases fazendo upgrades em seu robô, até chegar ao level 18 e enfrentar um chefe OP, onde é desbloqueada a dificuldade Hard do jogo, eu não vi nenhum atrativo para o fator replay dele.
+
+Bem sem sal, ao menos que seja muito fã deste gênero. Como não existe nota meio termo, o avalio como positivo. 
+
+| [b]Valor pago:[/b] R$2,57
+| [b]Build:[/b] [url=https://steamcommunity.com/games/490880/announcements/detail/979916817369096950]Version 1.4.0 (Ago. 9, 2016)[/url]",1481598923,1609740985,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+26586346,"{'steamid': '76561198011965365', 'num_games_owned': 2442, 'num_reviews': 2092, 'playtime_forever': 250, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1479676436}",english,This is a too easy twin stick shooter! Upgrade your stuff to make you able to survive longer and earn things quick! Deff a game to get when its free or on sale. But the game itself should be on a flash game website,1479060674,1479060674,True,2,0,0.49750855565071106,0,False,True,False,False,,,
+25758069,"{'steamid': '76561197995970043', 'num_games_owned': 1024, 'num_reviews': 11, 'playtime_forever': 395, 'playtime_last_two_weeks': 0, 'playtime_at_review': 395, 'last_played': 1475106264}",english,"Simply Sadistic... is the Name of the Game when your Killing Machine is Fully Upgraded.
+Simply-Glorious-Arcade-Explosions are involved. Basic & Satisfying Twin-Stick Shooting.
+At the start, you're focused on collecting all the money from your enemy Robot-Piñatas.
+Eventually, you learn target prioritization... like how kamikaze bots really mean business.
+Further on, after dealing with hordes of various enemies, you find yourself in a Bullet-Hell.
+Tho by that point, killing becomes effortless. Just Dodge + Dance (of Death) the night away.",1475107215,1475107215,True,0,0,0,0,False,False,False,False,,,
+25109290,"{'steamid': '76561198030027926', 'num_games_owned': 0, 'num_reviews': 441, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1472031619}",english,"Well polished but a very basic wave-shooter
+
+Game cheeses out at Stage 11 with far too much on the screen at one time.",1472031717,1472031717,False,2,1,0.458261102437973022,0,False,False,False,False,,,
+24961416,"{'steamid': '76561198046480414', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 220, 'last_played': 1471453368}",spanish,"Entretenido, y aunque no tiene gran variedad por el precio que tiene es una buena inversion. Minimo 3 horas te tendra enganchado aniquilando robots...
+
+
+Los graficos aunque sencillos están bien realizados, funciona muy fluido (Imprescindible en este tipo de juegos)",1471381601,1471381601,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+24937367,"{'steamid': '76561197971561879', 'num_games_owned': 12356, 'num_reviews': 114, 'playtime_forever': 97, 'playtime_last_two_weeks': 0, 'playtime_at_review': 97, 'last_played': 1471013024}",german,"Bei Robot Legion Reborn handelt es sich um einen Twin-Stick Shooter, der einwandfrei sowohl mit Xbox One als auch mit Steam Controller funktioniert. Ihr steuert in Alien Breed-Manier einen Roboter in einer bildschirmgroßen Arena und müsst Horden von Feinden um die Ecke bringen. Auffallend gut in diesem Spiel ist die Varietät an Gegnern. Es ist unglaublich wie viele verschiedenartige Gegner es in diesem Spiel gibt. Im Kampagnen-Modus hinterlassen Eure Gegner nach Ableben Geld mit dem ihr Eure Waffen, Schild etc. upgraden könnt. Der Schwierigkeitsgrad zieht schnell an, lässt sich aber zum Glück regulieren.
+
+Richtig Spaß macht auch der 2-Spieler Coop-Modus, welchen ich bisher aber nur kurz mit meinem Sohn angespielt habe.
+
+Für den mehr als fairen Preis von knapp 2€ kann man absolut nicht meckern. Bemerkenswert was man bei diesem Spiel an Spielzeit & -spaß geboten bekommt. Hinzu kommen die motivierenden Steam-Features wie Achievements, Leaderboards & Trading Cards.
+
+Absolute Kaufempfehlung von mir für Ballerfreunde.",1471279471,1471279471,True,8,0,0.587860703468322754,0,False,False,False,False,,,
+24890695,"{'steamid': '76561198065535205', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 217, 'last_played': 1472307908}",english,"It is a solid game if you want to see some explosions. The controls are very smooth. 
+
+But note this genre is a bit over done and this game does not really bring anything new to it. The map is simple (just a square room with no obstructions) and the levels are some what repetitive. The only variation is enemy types.
+
+Arcade (coop) mode needs more feature as well (maybe weapon type?)
+
+I got like 1 hour of fun play. would recommend if it is $1.",1471109601,1471109601,True,0,0,0,0,False,False,False,False,,,
+24814742,"{'steamid': '76561198092539684', 'num_games_owned': 348, 'num_reviews': 80, 'playtime_forever': 857, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1477350582}",english,"Looks like it was made in construct 2.
+
+Pros
+>Lots of enemy types
+>Easy to learn controls (Wasd to move mouse to shoot)
+>Feel like an outright badass over wave level 10
+>Cheap price
+>nostagic retro feel put into todays technology
+
+Cons
+>It's a grind before level 10
+>enemys really dnt prove to much of a threat before level 10
+
+First thing I did was turn down the god awful loud muisc. Then procceded to jump into the single player mode. I was pretty annoyed on how easy it was, tu then level 10 it me. It started to get REALLY intense. MY eyes just kinda got stuck to to screen after that. Then the boss battle happened. LEt me explain what i was thinking during the entire boss battle.
+""I swear to god if you deploy that she- WHAT THE FUCK!??"" The boss has a sheild in with he deplys every so often thta bugged the hell out of me. All in all it was a hard boss battle. 
+
+To wrap it up it's a cheap twin stick shooter that can take up to an hour or so so complete and if you are not forever alone like me then you can do arcade mode!",1470855891,1470882039,True,1,1,0.457685291767120361,0,False,True,False,False,,,
+24699616,"{'steamid': '76561198062232099', 'num_games_owned': 5821, 'num_reviews': 291, 'playtime_forever': 862, 'playtime_last_two_weeks': 0, 'playtime_at_review': 862, 'last_played': 1470273474}",english,"[h1]What is Robot Legions Reborn?[/h1]
+
+Robot Legions Reborn is an indie twin stick shooter developed by Skyboy Games and Sentry Games. Skyboy Games are also in the role of publisher for the game. It is Skyboy Games's second title on steam with the October, 2015 release of Ookibloks being the other.  The game is set within an arena playing field. There are two primary game modes - campaign and arcade.
+
+[h1]Campaign Mode[/h1]
+
+I spent most of my time with the game playing campaign mode. This is where you have to complete missions and where you have the ability to upgrade and improve your robot. The levels become increasingly difficult. As a result of this increasing difficulty I recommend that you collect as much gold on each level in order to purchase upgrades as they offer a significant advantage. It seems like every time I would die and upgrade I would be unbeatable for the next few levels.
+
+Upgrades include: 
+
+[list]
+[*]Improved armor (essentially hit points)
+[*]Regeneration (slowly regenerate your armor when you're not taking damage)
+[*]Improved speed
+[*]Increased damage
+[*]Rate of Fire
+[*]Multishot
+[*]A Cash Magnet (makes getting the currency that drops off of mobs easier)
+[*]Cash bonus (increases value of currency dropped)
+[/list]
+
+Personally, I found multishot, damage, rate of fire and armor, in this order, to be the most important. However, your playing style may be different than mine and you may tend to favor higher speed. The campaign mode feels rewarding and as you play through and upgrade you will routinely unlock achievements related to kill numbers, upgrades and amount of money both spent and saved.
+
+[h1]Arcade Mode[/h1]
+
+I honestly didn't spend very much time with this mode. However, I played enough to know that it is essentially a score attack mode. Given that the game makes clever use of the Steam leaderboard if you're the competitive type then you'll find this to be an enjoyable mode. It works and it plays as intended. However, it is intended to be more difficult than the campaign modes as you can only be hit a few times before it's game over. As a result I would recommend that if you have any interest in the campaign mode that you use that to familiarize yourself with the game. This should net you better scores in the long run.
+
+[h1]Presentation[/h1]
+
+The graphics are more than suitable for a game of this type. I like the thumping soundtrack. Neither of which are going to be overly memorable but they are sufficient. The fun is in the gameplay hat's where a lot of the attention has been paid. Rightly so. 
+
+[h1]Is it Steamified?[/h1]
+
+Completely. Robot Legions Reborn has a set of six Steam trading cards. There are also 42 achievements for the hunters to unlock. As previously mentioned the game also utilizes the Steam leaderboard system very well. 
+
+[h1]Verdict[/h1]
+
+Robot Legions Reborn is an absolute bargain at its price tag. You're getting two game modes both of which are a lot of fun. If you like twin stick shooters you're going to get hours of entertainment from this title. For that it's an easy recommendation.
+
+For similar reviews and our popular giveaways (including hardware) please visit [url=http://www.steamified.com/]Steamified.com[/url]",1470270698,1470270698,True,14,0,0.671800971031188965,0,False,False,False,False,,,
+24608689,"{'steamid': '76561198153000334', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 127, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1468637031}",english,"Great GAme!!!!! There's no story, just pure bullet hell. RLR's arcade mode is really fun. I find myself debating what power ups to buy to get through the next round: Should I get speed to run away, or raise my fire rate to kill them quicker? The power ups are pretty standard for the most part; speed, money drop amount, fire rate, fire damage, etc. Although one that I found especially useful on the later levels was the money magnet. I no longer have to worry about picking up dat money.
+
+Overall Awesome Game!!!!",1469856175,1469856175,True,1,0,0.496327400207519531,0,False,True,False,False,,,
+24540167,"{'steamid': '76561198140908266', 'num_games_owned': 1742, 'num_reviews': 160, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1469552040}",russian,"Отличный экшен шутер. Убивайте роботов, собирайте деньги с их трупов и покупайте апгрейды. Порадовало большое разнообразие врагов и приятная графика. Также в игре присутствует режим для двоих что не может не радовать.
+Плюсы:
++Графика
++Режим для двоих
++Апгрейды
++Коллекционные карточки и ачивки
++Цена
+Минусы:
+-Отсутствие русского языка (хотя тут и без него можно обойтись)
+
+Игра своих денег стоит!
+Рекомендую!
+",1469551776,1469551776,True,3,0,0.533468544483184814,0,False,False,False,False,,,
+24530865,"{'steamid': '76561198072090498', 'num_games_owned': 756, 'num_reviews': 8, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1468989385}",english,"Loved this hidden gem on the 360.  And I love it here.  Definitely worth the price of admission if you're a sucker for Robotron-inspired games like I am.
+
+The arcade mode is just that.  You take on wave after wave of enemies until you die.  Check the video, and you get the idea.
+
+In the ""campaign"" mode (there is 0 story), you get to upgrade your robot with credits you pick up from killing enemies.  This is fun, but goes by very quickly.  If you die, you get to keep the credits you earned for the run making it just a matter of time before you'll be fully maxed out.  I would have preferred only keeping the credits that you earned upon completing the level, but I also realize that it probably would have been a huge pain to try and balance properly.
+
+Also, the alternating firing in campaign mode makes for some interesting strategic positioning being required during gameplay.
+
+The most important thing to point out here:  This is through-and-through an actual twin-stick shooter.  That is, you most definitely want to use a game controller for the ""twin sticks"".  Using a mouse for this particular game just isn't quite right.  It would be like playing Quake with a game pad, Street Fighter with keyboard, or driving with your feet.",1469508638,1469508638,True,3,0,0.518072307109832764,0,True,False,False,False,,,
+24527993,"{'steamid': '76561198044469409', 'num_games_owned': 0, 'num_reviews': 345, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1469493064}",russian,"Данная игра своей концепцией напомнила игру выпиленную из стима, а точнее Lands Of Devastation. Там мы убивали орды зомби,тут -орды роботов. В принципе тут не о чем долго говорить, так как игра жанра ""стреляй-уворачивайся"" служит лишь для убийства вашего времени. Валите разнообразных киборгов,собираете валюту, делаете апгрейды. Есть несколько режимов и возможность играть с другом (разделенный экран). Присутствует поддержка контроллера,ачивки и коллекционные карты. Стоит игра копейки, если вы любитель игр данного жанра- то приобретите себе.",1469491481,1469491481,True,2,0,0.375618189573287964,0,False,False,False,False,,,
+24491528,"{'steamid': '76561197972401871', 'num_games_owned': 9981, 'num_reviews': 73, 'playtime_forever': 334, 'playtime_last_two_weeks': 0, 'playtime_at_review': 106, 'last_played': 1488172432}",english,"If you like Robotron 2084, this is your kind of game!
+
+I've played it for a couple of hours now, and finished the Normal level Campaign.  There is also a Hard level Campaign, which I can tell is going to be a lot tougher, just based on the first few levels.  The game has an upgrade system, where you can buy upgrades with money(?) dropped by the robots you are destroying, so you are always progressing.  It's going to take a while to unlock all the achievements here, and I think that's the point of a game like this, besides just beating all the campaign stages.  Some people just don't get what arcade style games are about, and maybe some of those people won't like this.  But if you play arcade games, you know what you're getting here, heheh  
+
+There's also an Arcade Mode, which I have only played a bit so far but it has 2 Player Local Co-Op!  If you haven't tried Local Co-Op gaming, you really should, it's always a blast.  
+
+Oh, and did I mention the asking price on this game is about the same as a bottle of Coke?!  This should be at least $5 for the amount of content here.",1469329878,1469329878,True,6,0,0.537074089050292969,0,True,False,False,False,,,
+24454456,"{'steamid': '76561198095526011', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1469128326}",english,"Just bought this game, it did its job to waste about 10-15min. Pretty much the only reason I grabbed it was because had some left-over wallet cash.. Pretty simple top-down wave shooter, nothing more than that though super bare-bones game, would not recommend paying for this game definetly not worth the money.",1469167891,1469167891,False,3,1,0.404746025800704956,0,True,False,False,False,,,
+24436735,"{'steamid': '76561197991607095', 'num_games_owned': 485, 'num_reviews': 9, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1469078262}",japanese,ゲーム自体は面白いと感じたのにアーケードモードでESC押してもゲームがやめられずポーズするだけで抜け出せなかった,1469078062,1469078062,False,3,0,0.476322174072265625,1,True,False,False,False,,,
+24430375,"{'steamid': '76561198126318725', 'num_games_owned': 350, 'num_reviews': 111, 'playtime_forever': 971, 'playtime_last_two_weeks': 0, 'playtime_at_review': 525, 'last_played': 1471638429}",english,Fun arena shooter and very cheap aswell.,1469043600,1469043770,True,1,0,0.391938209533691406,0,True,False,False,False,,,
+24427869,"{'steamid': '76561198016096893', 'num_games_owned': 11947, 'num_reviews': 1422, 'playtime_forever': 235, 'playtime_last_two_weeks': 0, 'playtime_at_review': 235, 'last_played': 1469180701}",russian,"Robot Legions Reborn - футуристический аркадный экшен с видом сверху. Действие игры происходит на планете населенной роботами.
+
+Вам предстоит пробиваться через легионы роботов, участвовать в масштабных перестрелках, улучшать свою экипировку и модернизировать оружие.
+
+Убивалка вемени за 3 копейки, я недавно играл в подобную игру, только там курица бегала по лесу, ну а здесь, видать куры все вымерли и остались в живых только роботы. Всем любителям мяса, а данном случае груды метала посвящается. Плюс ко всему вы получите достижения и коллекционные карточки, а что еще нужно для инди игры за 3 копейки)))",1469033344,1469033344,True,6,1,0.41152721643447876,0,False,False,False,False,,,
+24421623,"{'steamid': '76561197970556523', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 149, 'playtime_last_two_weeks': 0, 'playtime_at_review': 149, 'last_played': 1469088728}",english,"Great little game for the price.
+
+Beautiful art and animations, nice retro feel.
+
+Campaign pacing feels a bit slow, and the upgrade system is a bit simplistic, but I can't really complain.
+
+Definitely worth buying.",1469003512,1469003512,True,5,1,0.541248142719268799,0,True,False,False,False,,,
+24420633,"{'steamid': '76561198145547970', 'num_games_owned': 76, 'num_reviews': 12, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1469044153}",english,"Man, I absolutely love this game. Now fuck me silly in the arse. (I'm sorry I can never put up a serious review)",1468996899,1468996899,True,1,2,0.281328171491622925,2,True,False,False,False,,,
+24418374,"{'steamid': '76561197991179409', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1470430074}",english,"I received this game for free but that doesn’t affect my review.
+
+To be honest, I don’t play too many twin-stick shooters, so I wasn’t sure what to expect going into this. In the sense that I don’t know what to compare this to, or what to look for in the genre. So I’m going to give this review with the game standing on its own. As a side note, I played this game with the Steam controller using the gamepad template, so my experience was based off that.
+
+When I played this game, I immediately jumped into the campaign mode. As you progress you are able to purchase upgrades to your character which range from increased armor, to a higher fire-rate. As you play you get a sense of progression, killing old enemies faster, but surviving the new challenges each level.
+
+Now, the arcade mode is the highlight for me in this game. It reminds me of bullet hell games, and here is where I got most of my enjoyment. Your fire-rate is very high and the objective is to stay alive as much as possible. I could see my friends and I trying to get the highest score in this mode by using the co-op feature.
+
+Overall I would recommend this game to anyone who wants a twin-stick shooter with an arcade feel to it.",1468981358,1469082235,True,8,0,0.560642719268798828,0,False,True,False,False,,,

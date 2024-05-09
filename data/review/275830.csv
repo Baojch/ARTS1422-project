@@ -1,0 +1,498 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+161772321,"{'steamid': '76561198081098711', 'num_games_owned': 681, 'num_reviews': 50, 'playtime_forever': 14, 'playtime_last_two_weeks': 13, 'playtime_at_review': 14, 'last_played': 1711765287}",english,"Played Level 1. Bejewelled copy with a little twist.
+Tutorial 5/5
+Gameplay 2/5
+Style 2/5
+Complexity 2/5
+Difficulty 2/5
+Fun 2/5",1711765336,1711765336,False,0,0,0,0,False,True,False,True,,,
+160873806,"{'steamid': '76561198063952731', 'num_games_owned': 2557, 'num_reviews': 457, 'playtime_forever': 427, 'playtime_last_two_weeks': 0, 'playtime_at_review': 427, 'last_played': 1501684271}",english,A really good match 3 game with plenty of levels to play.,1710797687,1710797687,True,2,0,0.518554210662841797,0,False,False,False,True,,,
+158572931,"{'steamid': '76561198072114465', 'num_games_owned': 1438, 'num_reviews': 12, 'playtime_forever': 495, 'playtime_last_two_weeks': 0, 'playtime_at_review': 495, 'last_played': 1708210434}",english,"Good match-3 game, well-made wequel to the series, with interesting power-ups and challenges.",1708211020,1708211020,True,1,0,0.522471904754638672,0,True,False,False,True,,,
+158236121,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1698235517}",russian,нет,1707838078,1707838078,False,0,0,0,0,False,False,False,True,,,
+155812749,"{'steamid': '76561198827000386', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 16552, 'playtime_last_two_weeks': 0, 'playtime_at_review': 785, 'last_played': 1706506444}",english,Challenging matching game,1705065591,1705065591,True,0,0,0,0,True,False,False,True,,,
+149836098,"{'steamid': '76561198051745489', 'num_games_owned': 468, 'num_reviews': 371, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1699564715}",english,These are starting to grow on me.,1699567395,1699567395,True,0,0,0,0,False,False,False,True,,,
+146364662,"{'steamid': '76561198292792864', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 16581, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16581, 'last_played': 1460743486}",english,I sold my liver to play this game 10/10,1694819957,1694819957,True,0,0,0,0,True,False,False,True,,,
+146358463,"{'steamid': '76561198136725642', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 2322, 'playtime_last_two_weeks': 3, 'playtime_at_review': 1015, 'last_played': 1711339263}",english,Good game and runs well on steam deck too.,1694811051,1694811051,True,0,0,0,0,True,False,False,True,,,
+141040011,"{'steamid': '76561199084575653', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2007, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1980, 'last_played': 1689679291}",english,I like this game,1688207138,1688207138,True,0,0,0,0,True,False,False,True,,,
+123379669,"{'steamid': '76561198066346696', 'num_games_owned': 2239, 'num_reviews': 1253, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1665172609}",russian,"Качественная игрушка три-в-ряд, особых претензий к ней не возникло. Обучение просматривать необязательно, все интуитивно понятно (если что, надо собрать определенное количество конкретных ""фишечек""). С каждым уровнем постепенно создаешь замок и т.д., за что дают бонусы для более простого прохождения уровней. Имеется звездочная система, которая насколько я понял больше для заинтересованности игрока, чем для пользы. Для больших звезд накапливаешь ресурсы и получаешь дополнительные пристройки к зданию. Проблема в том, что эти ресурсы выпадают случайно, либо я что-то не понял в игре.
+
+Первое, что не понравилось, так это нужда в конце уровня скидывать неразбиваемый камушек вниз с помощью паверапов на карте, которые разбивают камни (а получаются с помощью 4-в-ряд или пять в ряд). Этот процесс может иногда неприятно затягиваться, поэтому бывает лучше приберечь паверапы к концу.
+Второй минус: этот самый камушек, требуемый для концовки уровня появляется по какой-то непонятной логике. Вот я накапливаю требуемое количество ""фишек"" с игрового поля, а когда появится камень вообще не понимаю. Почему-то далеко не сразу... 
+Третий недочет: у меня было 4/5 ресурсов и если я правильно понял игру, чтобы выбить 5 из 5 мне надо проходить все уровни выбранного мной замка заново. Если расклад дел именно таков (и на шанс выпадения ресурсов влияет только рандом, а не действия меня как игрока), то не вижу смысла морочаться из-за этих звездочек.
+
+ГЛАВНАЯ ПРОБЛЕМА ИГРЫ - это цена. В текущих реалиях за такие деньги можно купить ""топовую"" игрушку (пусть и не первой свежести или выловить на скидке нечто поновее). Как никак, здесь имеется крайне однообразный геймплей, который предельно растянут по времени. Лучше бы ценник был меньше в пару раз и длительность тоже, хотя игра просто рассчитана на непритязательных игроков...",1664954040,1664986148,True,1,0,0.538087546825408936,0,False,False,False,True,,,
+118467038,"{'steamid': '76561198080045733', 'num_games_owned': 0, 'num_reviews': 608, 'playtime_forever': 353, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1657309023}",spanish,"Te digo una cosa; entretenido y un poco adictivo.
+Muy buena combinación de elementos y se nota como progresivamente se va elevando la dificultad.",1657306760,1657306760,True,0,0,0,0,False,False,False,False,,,
+117016194,"{'steamid': '76561198011250864', 'num_games_owned': 1891, 'num_reviews': 359, 'playtime_forever': 585, 'playtime_last_two_weeks': 0, 'playtime_at_review': 585, 'last_played': 1655115215}",english,"Nice match 3 game.
+
+Goal here is to collect resources by matching specific colors. Then use said resources to build a wonder. All the meanwhile earning points to see how good you did.
+
+There is a nice selection of power ups that you can switch and replenish by doing matching. Levels are sufficiently difficult. You can choose a speed/difficulty for a level. There are no lives limitations.
+
+Presentation values might seem a bit simple and there isnt much of a story, but the gameplay is solid.
+
+8/10",1655289720,1655289776,True,0,0,0,0,False,False,False,False,,,
+115444280,"{'steamid': '76561198103269051', 'num_games_owned': 4931, 'num_reviews': 34, 'playtime_forever': 642, 'playtime_last_two_weeks': 0, 'playtime_at_review': 642, 'last_played': 1652538649}",german,Gutes Casual Game.Hatte Spaß beim durchzocken.,1652538801,1652538801,True,0,0,0,0,False,False,False,False,,,
+109166501,"{'steamid': '76561198308744612', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 455, 'playtime_last_two_weeks': 0, 'playtime_at_review': 163, 'last_played': 1644988513}",japanese,ダチョウの神に誓って神げー　ほかのパズルげーはいらないレベル,1643618733,1643618733,True,0,0,0,0,True,False,False,False,,,
+98589660,"{'steamid': '76561198799869024', 'num_games_owned': 109, 'num_reviews': 10, 'playtime_forever': 1367, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1367, 'last_played': 1634062480}",english,Fun game for just killing time.,1630455829,1630455829,True,0,0,0,0,True,False,False,False,,,
+96561209,"{'steamid': '76561198796050416', 'num_games_owned': 71, 'num_reviews': 4, 'playtime_forever': 686, 'playtime_last_two_weeks': 0, 'playtime_at_review': 686, 'last_played': 1589878993}",schinese,"是给自家老母亲买的游戏啦...和祖玛一起买的
+当年的破解版总是会在打完金字塔之后就卡住不能继续
+当时可给我妈打抓狂了属于是
+看了看steam上也有老游戏就买了 结果呢 结果就是我妈她还拿了个小本本记怎么打
+也是头一回晓得后面还有这么多关 我妈：袜！是新大陆！
+买了真是太好了",1627544940,1627544940,True,0,1,0,0,True,False,False,False,,,
+93028853,"{'steamid': '76561198028048389', 'num_games_owned': 1936, 'num_reviews': 187, 'playtime_forever': 284, 'playtime_last_two_weeks': 0, 'playtime_at_review': 284, 'last_played': 1561792568}",english,good,1622605364,1622605364,True,0,0,0,0,True,False,False,False,,,
+92536907,"{'steamid': '76561198004699218', 'num_games_owned': 2072, 'num_reviews': 53, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1621884218}",english,"A good entry in the series, but it lost my wonder progression/did not save properly so I can't really recommend it.",1621884203,1621884203,False,0,0,0,0,False,False,False,False,,,
+91108350,"{'steamid': '76561198405231377', 'num_games_owned': 4572, 'num_reviews': 187, 'playtime_forever': 259, 'playtime_last_two_weeks': 0, 'playtime_at_review': 259, 'last_played': 1619706743}",schinese,这和第二部是真的没什么区别，只有少量体验上的改进。,1619706803,1619706803,False,0,0,0,0,False,False,False,False,,,
+88561678,"{'steamid': '76561198091808820', 'num_games_owned': 1159, 'num_reviews': 197, 'playtime_forever': 314, 'playtime_last_two_weeks': 0, 'playtime_at_review': 314, 'last_played': 1602252956}",english,"one of the  classic match 3 games. nothing special about it but nothing wrong with it either.
+a few different minigames break up the constant match 3 gameplay and it was actually quite decent to play.
+
+easy, casual, enjoyable. takes about 5 hours to complete.
+perfect for a lazy weekend!",1615938161,1615938161,True,2,0,0.54314720630645752,0,False,False,False,False,,,
+83801773,"{'steamid': '76561198327477958', 'num_games_owned': 5093, 'num_reviews': 171, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1608969841}",schinese,"14年出的，但和之前相比几乎没有什么区别
+画质更好了，音效和图像更精致，手感也更加灵活
+建筑是3D 建模（但还是2D图像）
+多了几种小游戏
+除了收集砖块还要收集树木、水滴等等
+但还是换汤不换药的三消，不过可以用来打发时间
+至少像是一款合格的现代三消游戏了",1609581700,1609581700,True,0,0,0,0,False,False,False,False,,,
+82485588,"{'steamid': '76561197988953683', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 7224, 'playtime_last_two_weeks': 96, 'playtime_at_review': 1873, 'last_played': 1712156790}",english,Amazing game. Highly recommended.,1608111454,1608111454,True,0,0,0,0,True,False,False,False,,,
+81575254,"{'steamid': '76561197977536331', 'num_games_owned': 2816, 'num_reviews': 131, 'playtime_forever': 492, 'playtime_last_two_weeks': 0, 'playtime_at_review': 492, 'last_played': 1412518925}",italian,"STORIA: Nessuna se non riscoprire le meraviglie del mondo.
+GAMEPLAY: Match 3, casual game.
+GRAFICA: Carina stile casual game adatta al tipo di gioco.
+SONORO: Musiche carine adatte al tipo di gioco.
+CONTROLLER: Consigliato mouse e tastiera.
+DURATA: Circa 10 ore per il completamento.
+RUN COMPLETAMENTO: Non ci sono achievement da prendere.
+COMMENTO: Classico gioco in cui combinare oggetti, graficamente molto bello con la variante di non avere uno schema di una forma predefinita ma cambia a ogni livello. Questo rende ogni livello da risolvere in modo leggermente diverso dal precedente. Se vi piace il genere merita di essere giocato.
+VOTO: 85/100",1607069357,1641908676,True,1,0,0.514925360679626465,0,True,False,False,False,,,
+79734941,"{'steamid': '76561198062754235', 'num_games_owned': 609, 'num_reviews': 50, 'playtime_forever': 168, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1606973821}",spanish,"Meh, está bien para pasar el rato",1606183178,1606183178,True,0,0,0,0,False,False,False,False,,,
+78328666,"{'steamid': '76561198403198127', 'num_games_owned': 590, 'num_reviews': 173, 'playtime_forever': 598, 'playtime_last_two_weeks': 0, 'playtime_at_review': 598, 'last_played': 1538729022}",turkish,ARKADAŞLAR İLE OYNAYIN. Eğer bu oyunu oynamak için herhangi bir arkadaşınız yok ise.beni eklersiniz.Beraber gireriz. Kimse yoksa ben varım =),1603961735,1603961735,True,0,0,0,0,False,False,False,False,,,
+78314694,"{'steamid': '76561198087921286', 'num_games_owned': 801, 'num_reviews': 24, 'playtime_forever': 414, 'playtime_last_two_weeks': 0, 'playtime_at_review': 414, 'last_played': 1603171197}",latam,"Viajas por el mundo realizando grandes construcciones por encargo consiguiendo los materiales en un tablero de match-3 y otros minijuegos.
+
+PRO
++Variedad de niveles (7 maravillas y un bonus)
++Variedad de power-ups que se van consiguiendo conforme avanzas
++Materiales extra conseguidos con minijuegos lo cual le da variedad a la jugabilidad.
++Los minijuegos extra se consiguen liberando  casillas especificas que tienen un color asignado, lo que añade estrategia.
+
+NEUTRAL
+*Ni recuerdo la música
+*efectos de sonido cumplidores
+*Gráficos promedio para el genero.
+
+CONTRA
+-Al liberar todo el material del tablero aparece una pieza que hay que llevar al fondo del tablero, esta pieza no se puede mover, solo cae cuando se libera espacio debajo. Esto complica conseguir combinaciones y se suele requerir usar los power ups forzosamente.
+
+Las mecánicas en juegos match-3 están muy establecidas y este juego logra añadir suficiente variedad de mecánicas para ser una opción diferente. Aun así, de  preferencia en descuento ya que está mas barato en su versión para celulares.",1603931311,1603931311,True,0,0,0,0,False,False,False,False,,,
+76023550,"{'steamid': '76561198099577957', 'num_games_owned': 2443, 'num_reviews': 23, 'playtime_forever': 1000, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1000, 'last_played': 1600184112}",english,"This is the most gangster game you will play this season. Do yourself a favour and get this open-world RPG RIGHT! NOW!!!!!11111oneoneone
+
+Oh make sure you finish all the wonders with at least 3 stars to unlock the extra special bonus level",1600184195,1600184259,True,0,0,0.476190477609634399,0,False,False,False,False,,,
+75304006,"{'steamid': '76561198017436282', 'num_games_owned': 985, 'num_reviews': 18, 'playtime_forever': 3115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3115, 'last_played': 1599011436}",english,"I have a love hate relationship with this game. I have spent far more time on it then is probably worth it. I got 100% of the achievements. I have also played the android version which only works on older versions of the operating system. This would be a great game to remaster and update and give Candy Crush a run for its money. This all being said I do have some gripes. This is by far the most difficult game in the 7 wonders series by far and it took me about 60 hours to complete. The game tries its darndest to screw you over and you have to really strategically plan how you are going to win on any given level. In my case it was first the mini game blocks, then gather up the needed resources then clear the map then guiding the cornerstone down to the bottom. That's a lot of things all the while the timer is ticking faster than a top rate food fighter at a hot dog stand. It's pretty ridiculous. To get four stars on insane was really tough especially on the last of the normal wonders ( you unlock a bonus one at the end.) I was also dissatisfied with the selection of wonders in this one. For example Bimini was picked instead of say the fountain of youth and the only eastern Wonder was Shangri La. Power-up wise I found the ability to switch between power ups during a round very useful and added a level of strategy that wasn't possible in prior games. On the mobile version there was a bug where if you needed a shuffle the map wouldn't really do a good job and have to shuffle over and over again every couple moves. One time I had it happen on PC where it had to shuffle twice in a row which took up precious time and was frustrating. The other annoyance about that is on the mobile version those notifications would cover up the board posing a frustration that had me pulling my hair out. Despite all these things, I will look back fondly on this game even if it isn't an A game it is definitely a B- 3/5 star wonder.",1599012282,1599012282,True,0,0,0,0,False,False,False,False,,,
+75154134,"{'steamid': '76561198123095278', 'num_games_owned': 3120, 'num_reviews': 76, 'playtime_forever': 570, 'playtime_last_two_weeks': 0, 'playtime_at_review': 570, 'last_played': 1598774798}",german,"[h1]★★★★★★★★☆☆ 8/10
+Ein sehr schönes Match-3 Spiel[/h1]
+
+[b]Positiv[/b]
+[list][*]Viele Powerboni
+[*]Unterschiedliche Schwierigkeitsgrade, von frustfrei bis frustrierend
+[*]Steigende Komplexität, ohne zu nervig zu werden
+[*]Angenehme Musik und Hintergrundgeräusche
+[*]Nette Animationen
+[*]Erfolge (nur im Spiel)[/list]
+
+[b]Neutral[/b]
+[list][*]Minispiele, eines fand ich zu langweilig, das andere war okay aber beide unterbrachen die jeweilige Map.[/list]
+
+[b]Negativ[/b]
+[list][*]Keine Steam Erfolge
+[*]Ich hatte wochenlang Leistungsprobleme mit dem Spiel, es war stockend langsam, wie 2-5 FPS. Das Problem war dann von einem auf dem anderen Tag weg.[/list]
+
+Spielzeit für 1x Durchspielen waren so 6 Stunden. Ich spielte dann noch weiter für paar Erfolge. Auch wenn mir Steam Erfolge lieber wären, so motivierten mich die in-game Erfolge alle Maps mit 4 Sterne abzuschließen.
+
+[url=https://store.steampowered.com/app/223000/7_Wonders_Ancient_Alien_Makeover]7 Wonders: Ancient Alien Makeover[/url] ist ein weiterer Titel dieser Serie und hat auch Steamerfolge.
+
+Ich habe viele der MumboJumbo Titel aus Fanaticals 1 Dollar Bundles, preislich quasi fast geschenkt.",1598776434,1598777226,True,2,0,0.559827983379364014,0,False,False,False,False,,,
+74777769,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11196, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1705384564}",english,"This is a mobile ported match-3 game with exactly the same gameplay you get with every other Bejewelled ripoff infesting Steam. 
+
+No UHD support, fixed resolution, web browser/flash tier gameplay that you could get for free.  The developer has the audacity to charge $9.95 for this on Steam, but it's only $4.89 for mobile peasants. I can't recommend anyone rewards this greed and disrespect for PC gamers and pays money for a PC game that's so much cheaper for mobile peasants.  Who do they think we are?  Screw these guys.",1598183569,1598183569,False,1,2,0.227466925978660583,0,False,False,False,False,,,
+73889514,"{'steamid': '76561199079707916', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 50149, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1643157515}",english,.,1596762546,1596762546,True,0,0,0,0,True,False,False,False,,,
+72878833,"{'steamid': '76561198348753052', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1654025066}",english,cool,1595052048,1595052048,True,0,0,0,0,True,True,False,False,,,
+72230635,"{'steamid': '76561198329795660', 'num_games_owned': 0, 'num_reviews': 167, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1594128692}",english,"The fourth game in the series.. and the first to support HD resolutions! A significant step up from the previous games in all facets, yet underneath the enhancements it is still the same (enjoyable) gameplay. Although, this one really deserved achievements..",1594129037,1594129037,True,0,0,0,0,False,False,False,False,,,
+71973650,"{'steamid': '76561198988940706', 'num_games_owned': 27, 'num_reviews': 12, 'playtime_forever': 8059, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1148, 'last_played': 1647707813}",brazilian,"muito bom 
+",1593808052,1593808052,True,0,0,0,0,True,False,False,False,,,
+71092821,"{'steamid': '76561198061913807', 'num_games_owned': 0, 'num_reviews': 83, 'playtime_forever': 1074, 'playtime_last_two_weeks': 0, 'playtime_at_review': 380, 'last_played': 1708818250}",brazilian,Zerado. Nice Game.,1592682765,1592682765,True,0,0,0,0,True,False,False,False,,,
+62266074,"{'steamid': '76561198061657440', 'num_games_owned': 0, 'num_reviews': 450, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1579705178}",turkish,"7 Wonders serisinin içindeki en sade oyun olmuş diyebilirim. Klasik tarzında, bulmacaları geçerek, taş, yaprak ve bilimum diğer yapı taşlarını toplayıp, gizemli 7 dünya harikası kontratlarımızı tamamlamaya çalışıyoruz. Oyun içi skiller ve işçilerin hal ve hareketleri oyuna güzel renk katmaktadır. Çerezlik olarak keyifli bir oyun olmuş.",1579767122,1579767122,True,1,1,0.523809552192687988,0,False,False,False,False,,,
+61911693,"{'steamid': '76561198001899192', 'num_games_owned': 2105, 'num_reviews': 654, 'playtime_forever': 616, 'playtime_last_two_weeks': 0, 'playtime_at_review': 616, 'last_played': 1579138673}",english,a puzzle game yep.,1579138753,1579138753,True,1,0,0.468755453824996948,0,False,False,False,False,,,
+61548504,"{'steamid': '76561198120530775', 'num_games_owned': 3398, 'num_reviews': 342, 'playtime_forever': 369, 'playtime_last_two_weeks': 0, 'playtime_at_review': 369, 'last_played': 1578528369}",english,"Entertaining. This sequel offers basically more of the same. That's not a bad thing since this is a funny match 3 game with good music and graphics. 
+
+No bugs or crashes. Works fine on win 7.
+
+This one is a pretty short game. You can finish it in a few hours. The game is a casual one and is easy peachy, even the mini-games are that way. It's good for a lazy afternoon.",1578529657,1578529657,True,3,0,0.5696755051612854,0,False,False,False,False,,,
+61282766,"{'steamid': '76561198139525385', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 289, 'playtime_last_two_weeks': 0, 'playtime_at_review': 202, 'last_played': 1578151300}",english,Not the best of the 7 Wonders collection but still fun to play,1578143174,1578143174,True,0,0,0,0,True,False,False,False,,,
+61058242,"{'steamid': '76561198160468686', 'num_games_owned': 0, 'num_reviews': 237, 'playtime_forever': 109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 109, 'last_played': 1577884994}",french,"Très bon jeu que ce 4ème opus. Je le terminerai plus tard, car c'est assez long, et un peu répétitif. Mais clairement, la série des 7 Wonders est vraiment bonne, et ce depuis le tout premier opus. Les graphismes ont encore été revus à la hausse depuis le 3ème opus. Par contre, impossible de faire des screenshots avec F12 dans ce jeu vu que la touche a été attribué au basculement entre mode fenêtré et mode plein écran.",1577885275,1577885275,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+58305026,"{'steamid': '76561198263801041', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 21956, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5950, 'last_played': 1651742282}",english,this game is easy yet a challange for any one,1574892318,1574892318,True,0,0,0,0,True,False,False,False,,,
+55907491,"{'steamid': '76561198066202521', 'num_games_owned': 3403, 'num_reviews': 683, 'playtime_forever': 383, 'playtime_last_two_weeks': 0, 'playtime_at_review': 383, 'last_played': 1572392034}",brazilian,"[h1][b]7 Wonders: Magical Mystery Tour[/b][/h1]
+Jogo divertido e dinâmico, não é tão bom quanto Alien Makeover, mas dá pra se divertir.
+
+[h1]Arte e Trilha Sonora[/h1]
+[b]Arte: 7/10[/b]
+O visual é legal, mas não tem nada de especial, diferente de Alien Makeover você não tem o campo para montar seus monumentos, mas ainda assim é visualmente bonito.
+
+[b]Trilha Sonora: 7/10[/b]
+A trilha sonora é relaxante, não tem nada de especial como Bejeweled que tem uma trilha sonora impactante, mas se encaixa bem no jogo. Na arte podemos dizer que é ok.
+
+[h1]Jogabilidade e Mecânica[/h1]
+[b]Jogabilidade: 9/10[/b]
+Como é um jogo de combinar 3, logo seu objetivo é combinar três ou mais pedras, para então quebrar todas as células, após quebrar todas as células um bloco aparece e você deve levá-lo até o final do tabuleiro, algumas pedras tem recursos dentro e você tem que recolher todos os recursos para construir a maravilha antes que o tempo acabe, pedra, pedra preciosa, folha e água, também as células coloridas que liberam minijogos para recolher ouro e um monumento. Cada maravilha precisa de 3 - 4 estrelas para liberar a 8ª maravilha que precisa de um novo elemento alienígena. Você possui quatro dificuldades, a Zen que não tem tempo e mais três dificuldades que definem a velocidade de tempo dos tabuleiros.
+
+[b]Mecânica: 9/10[/b]
+A mecânica é bem legal, como disse acima você possui diversos objetivos dentro de um tabuleiro e pra isso você conta com uma mecânica de poderes bem legais. Combinando 4 peças você cria um especial que destrói uma linha, cinco peças uma especial que destrói uma cruz e depois de usar N especiais aprece um que destrói algumas peças aleatórias. E tem os poderes que te permitem trocar uma peça de lugar com a outra, destruir uma coluna, destruir uma célula específica, destruir uma cor específica, etc...
+
+[h1]Considerações Finais[/h1]
+Magical Mystery Tour é bem dinâmico, você possui diversos objetivos de uma vez, não basta apenas combinar três peças, deve combinar as 3 peças de forma que você consiga coletar todos os recursos, limpar todas as células, limpar as células coloridas e terminar todos os minijogos, isso deixa o jogo divertido e difícil de enjoar pois são tantos objetivos que você termina o tabuleiro e nem percebe o tempo que passou e fica com aquela vontade de jogar mais um pouco. O modo insano pode dar um desafio bem legal.
+
+[b]Nota Final: [u]8/10[/u]",1572457111,1572457233,True,2,0,0.545454561710357666,0,False,False,False,False,,,
+55634021,"{'steamid': '76561198286877111', 'num_games_owned': 0, 'num_reviews': 249, 'playtime_forever': 436, 'playtime_last_two_weeks': 0, 'playtime_at_review': 436, 'last_played': 1571263191}",russian,+,1571263334,1571263334,True,0,0,0,0,False,False,False,False,,,
+55511196,"{'steamid': '76561198120809856', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 17341, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17341, 'last_played': 1607520813}",brazilian,Bom jogo,1570547394,1570547394,True,1,0,0.537572264671325684,0,True,False,False,False,,,
+55343366,"{'steamid': '76561198015412685', 'num_games_owned': 1972, 'num_reviews': 1015, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1569802105}",polish,"fajna ta gra, kolorowa, mozna zbijac sobie klocki, ogolnie ok",1569802126,1569802126,True,0,0,0,0,False,False,False,False,,,
+54927767,"{'steamid': '76561198163273570', 'num_games_owned': 5742, 'num_reviews': 636, 'playtime_forever': 2117, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2117, 'last_played': 1532911502}",english,"no, it not worth",1567388783,1567388783,False,1,0,0.109773397445678711,0,False,False,False,False,,,
+54703535,"{'steamid': '76561198217310888', 'num_games_owned': 3189, 'num_reviews': 71, 'playtime_forever': 467, 'playtime_last_two_weeks': 0, 'playtime_at_review': 467, 'last_played': 1566240522}",czech,"[i][b][u]7 Wonders: Magical Mystery Tour[/u][/b] by se dalo přirovnat ke stylům her jako je Candy Crush. Cíl hry je jednoduchý. Poskytnout pracovníkům nezbytné materiály , aby bylo možné vybudovat vedoucí stavební konstrukce v různých zemích světa. Pro každou je potřeba určité množství materiálů. Průměrná doba hraní jedné struktury je  1 hodiny.
+
+Hrací desku v tomto díle nemůžete otočit o 90 stupňů ale  máte k dispozici speciální Boostery, jako bombu teleport změnu barvy atd. Pokud hledáte nějakou oddechovou hru na večery mohu doporučit. 
+
+Za 5,99€ získáte dobrou crush hru.
+
+[h1]Hodnocení 80%",1566240818,1566240818,True,0,0,0.476190477609634399,0,False,False,False,False,,,
+54701398,"{'steamid': '76561198008332774', 'num_games_owned': 0, 'num_reviews': 468, 'playtime_forever': 223, 'playtime_last_two_weeks': 0, 'playtime_at_review': 223, 'last_played': 1566230730}",english,Not bad. Fast paced. Good controls. You can have some fun for 3.5 hours.,1566231684,1566231684,True,0,0,0,0,False,False,False,False,,,
+53959909,"{'steamid': '76561198080021002', 'num_games_owned': 1757, 'num_reviews': 144, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1562583415}",english,No,1562583428,1562583428,False,0,0,0,0,False,False,False,False,,,
+51345050,"{'steamid': '76561198063117447', 'num_games_owned': 4841, 'num_reviews': 1362, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1561070551}",schinese,"挺不错的三消游戏
+跟前座比好了太多了
+多了很多多连后会掉的工具
+可以体验大波大波消掉的快感
+关卡设计也很好 能让人玩下去",1561070631,1561070631,True,1,0,0.502895772457122803,0,False,False,False,False,,,
+51224805,"{'steamid': '76561198048148054', 'num_games_owned': 1280, 'num_reviews': 147, 'playtime_forever': 684, 'playtime_last_two_weeks': 0, 'playtime_at_review': 448, 'last_played': 1560620392}",english,"[h1]So I've now finished all of the 5 ""7 Wonders""-Games playable on Steam[/h1] 
+
+[b]and want to give out my opinion on all of them, therefore I paid every game a little visit again to compare them once and for all. Starting the review, first, I've made a Top 5 for you to get a good first look on how much I like it:[/b]
+
+
+[table]
+[tr]
+[th][b]Place[/b][/th]
+[th][b]Name[/b][/th]
+[th][b]Rating[/b][/th]
+[/tr]
+[tr]
+[td][b]1.[/b][/td]
+[td][b]7 Wonders: Magical Mystery Tour[/b][/td]
+[td][b]8,5/10[/b][/td]
+[/tr]
+[tr]
+[td]2.[/td]
+[td]7 Wonders: Ancient Alien Makeover[/td]
+[td]8/10[/td]
+[/tr]
+[tr]
+[td]3.[/td]
+[td]7 Wonders II[/td]
+[td]5,5/10[/td]
+[/tr]
+[tr]
+[td]4.[/td]
+[td]7 Wonders of the Ancient World[/td]
+[td]5/10[/td]
+[/tr]
+[tr]
+[td]5.[/td]
+[td]7 Wonders: Treasures of Seven[/td]
+[td]4,5/10[/td]
+[/tr]
+[/table]
+
+
+[b]While it was the last one of the 7 Wonders-games I played, it definitely was my favourite of the bunch. Why that is, I’ll tell you now, obviously starting with the positive.[/b]
+
+[b]This game makes it all right.[/b] Great & fun power-ups which are all available during the game and refillable by matching, typical clean Match 3-gameplay and great buildings to build once again. While it has the perfect amount of playtime and stuff to do, it still has different gamemodes to play. For example, offering a „Zen“-mode for the people that hate time limitations in such games, as it gives you as much time you need to solve a level. Otherwise, if „Normal“ is too easy for you, you can try „Advanced“ or even „Insane“, both giving you a great challenge. It also offers multiple other features which you can discover, as for example mini games.
+
+[b]Barely any negatives that I can think of.[/b] It obviously can get monotone over time, as every 7 Wonders-game can, but 1. were they made to be a casual game, a little time burner, and 2. is this part of the franchise one of the less monotone ones. Another thing I noticed is that you can’t save during a round, it’s only able to save your gamestate after a finished board, which shouldn’t really be a problem as a board will take 3-7 minutes.
+
+Considering this dear game has alot going for it and barely anything negative, a [b]9,5/10[/b] is deserved here. Recommendable to both people looking for a Match 3-Game and general fans of the genre, this game will please you.",1560535511,1569164079,True,3,0,0.484184503555297852,0,False,False,False,False,,,
+51003136,"{'steamid': '76561198095001217', 'num_games_owned': 1330, 'num_reviews': 629, 'playtime_forever': 426, 'playtime_last_two_weeks': 0, 'playtime_at_review': 426, 'last_played': 1559433204}",english,"In essence, it is a simple Match-3 game with interesting power-ups and occasionally some minigames of increasing difficulty to spice things up. Personally, I prefer Bejeweled Blitz better but this is better for people who enjoy more casual and relaxing match-3 games. Probably won't get it for full price; wait for a sale before you pick this piece up.
+
+All of the 7 Wonders title revolve around the same Match-3 concept and don't vary much from each other. Unless you're collecting achievements or for other reasons, it is not necessary to buy every single title in this series.",1559433802,1559434303,True,1,0,0.529703021049499512,0,False,False,False,False,,,
+50962601,"{'steamid': '76561198092241169', 'num_games_owned': 820, 'num_reviews': 51, 'playtime_forever': 2480, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2480, 'last_played': 1559248407}",russian,"Игра ""три в ряд"", обёрнутая в некоторое подобие сюжета и с атласом для перехода между картами разной сложности. Карты состоят из нескольких схем, на которых мы должны собирать ресурсы для ""строительства"".
+
+На мой вкус, это лучшая игра в серии 7 Wonders: возможность двигать фишки пока игра коллапсирует ряды в другой части карты; нет ""жизней"" (если не уложились во время, всегда можно переиграть уровень); текста немного, но всё более-менее понятно; достижения (в погоне за которыми можно продлить геймплей в 2-3 раза минимум).
+
+Болезни, к сожалению, те же самые: устаревшая графика (либо фулскрин в низком разрешении, либо мелкое немасштабируемое окошко), отсутствие локализации (хотя некоторые разработчики явно с русскими именами), нет интеграции со Steam (достижения только внутриигровые, нет облачного сохранения), не совсем удобный интерфейс выбора карт и переигровки.
+
+К счастью (или к сожалению?), болезни не мешают этой игре со страшной силой пожирать ваше время, когда вы залипаете в ней. Так что [b]4+ из 5[/b]. К сожалению, сама игра коротковата (даже с учётом достижений) - моё время в этой игре включает её прохождение дважды со всеми достижениями.
+
+PS: Мой [url=https://steamcommunity.com/profiles/76561198092241169/recommended/16030/]обзор[/url] (негативный) на другую игру из серии 7 Wonders - [url=https://store.steampowered.com/app/16030/7_Wonders_Treasures_of_Seven/]Treasures of Seven[/url].",1559249295,1657032662,True,2,0,0.550172984600067139,0,True,False,False,False,,,
+49703569,"{'steamid': '76561197977197768', 'num_games_owned': 3607, 'num_reviews': 458, 'playtime_forever': 477, 'playtime_last_two_weeks': 0, 'playtime_at_review': 477, 'last_played': 1553277262}",french,"Magical Mystery Tour est un match 3 mignon par ses graphismes et ses petits personnages animés qui ramassent les bonus en bas de votre écran :) 
+
+Assez classique dans son gameplay et sans réelle difficulté, il a au moins la faculté d'être prenant et le fait de récupérer éléments par éléments au fil des parties pour construire une des 7 merveilles (8 avec celle su niveau bonus) y est pour beaucoup je pense... j'adore construire les bâtiments ^^
+
+Fonctionnant parfaitement sur grand écran, il est agréable à l'oeil mais malheureusement je crains qu'une fois fini le ""scénario"" principal, il y ait peu de chance que vous reveniez refaire une partie... En tout cas, cela sera mon cas.",1553297449,1553297449,True,4,0,0.567379415035247803,0,True,False,False,False,,,
+49078352,"{'steamid': '76561198048018570', 'num_games_owned': 1071, 'num_reviews': 113, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1550517723}",russian,"Неплохая игра для поклонников жанра, отличный тайм-киллер 6 из 10",1550517776,1550517776,True,0,0,0,0,False,True,False,False,,,
+48508641,"{'steamid': '76561197989579938', 'num_games_owned': 773, 'num_reviews': 12, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1548264245}",english,SCORE: 5/10,1548264649,1548296125,True,0,0,0.476190477609634399,0,False,False,False,False,,,
+46756252,"{'steamid': '76561198287964237', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 138, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1586183665}",schinese,挺好玩的三消游戏,1543059550,1543059550,True,0,0,0,0,False,False,False,False,,,
+45715075,"{'steamid': '76561198094803808', 'num_games_owned': 4070, 'num_reviews': 5378, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1541717741}",english,2/10,1541739448,1541739448,False,3,0,0.275059610605239868,0,False,False,False,False,,,
+45476082,"{'steamid': '76561198110643504', 'num_games_owned': 127, 'num_reviews': 19, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1540628100}",english,"This is the game that completes the 7 Wonders collection, because I previously bought and own other 4 games in this series: 7 Wonders of the Ancient World, 7 Wonders II, The Treasures of Seven, and the fifth title - Ancient Alien Makeover.
+The series were so awesome and more beautiful throughout the years that I can call it an unforgettable one...",1540698169,1540698169,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+45379238,"{'steamid': '76561197994909078', 'num_games_owned': 2612, 'num_reviews': 225, 'playtime_forever': 911, 'playtime_last_two_weeks': 0, 'playtime_at_review': 898, 'last_played': 1563474148}",spanish,"Mumbo Jumbo eran, o son, los reyes de coger una idea de éxito y crear un producto muy pulido de ello. De Zuma crearon la saga Luxor que añadía dos o tres elementos y los hacía divertidos, y del match 3 (sí, como candy crush) tienen esta saga de 7 Wonders que es lo mejor que puedes hacer con estos elementos (mucho mejor que la de Bejeweled). No sólo grafica y sonoramente está todo perfectamente medido, sino que tiene los suficientes minijuegos y las suficientes variaciones como para que puedas jugarlo de vez en cuando. Además la dificultad es practicamente la que te propongas: jugar sin bonuses es difícil pero posible, conseguir la ""perfección"" en los monumentos requiere algo más de práctica... Que eso, lo mejor dentro de lo simple de sus elementos.",1540141297,1540141297,True,0,0,0,0,False,False,False,False,,,
+44806114,"{'steamid': '76561198172925593', 'num_games_owned': 14021, 'num_reviews': 4532, 'playtime_forever': 279, 'playtime_last_two_weeks': 0, 'playtime_at_review': 279, 'last_played': 1537626711}",schinese,"非常不错的三消游戏
+已建造各大文明建筑为背景
+过关条件为消除所有背景方块后将出现的砖块掉落到最底端
+其中每关还可以通过消除指定颜色砖块从而获得建筑材料的奖励
+
+游戏非常人性化的在于你可以使用好几种特殊技能来帮助你完成关卡，这些技能只需要在消除界面左侧选择或者直接拖动使用即可
+使用技能后会进入充能，依靠消除的其他方块来恢复能量，恢复后即可再次使用
+虽然有多个技能，但每次只能为选择的技能充能
+这些技能非常有帮助，比如可以消除一竖排、炸掉3X3小范围的目标、交换指定方块等等，不会遇到某些角落就是消除不了只能不停消灭其他地方、等到无法移动而重置的尴尬
+
+难度不高，全剧情大概4个多小时就可以通关，算是非常不错的消遣小游戏",1537335481,1537627681,True,1,0,0.519999980926513672,0,False,False,False,False,,,
+44471832,"{'steamid': '76561198120258973', 'num_games_owned': 617, 'num_reviews': 12, 'playtime_forever': 411, 'playtime_last_two_weeks': 0, 'playtime_at_review': 411, 'last_played': 1535656086}",tchinese,"沒有壓力的三消遊戲，道具累積很快可以無腦用。難易度適中。
+邊玩邊蓋蓋房子不知不覺就破關了。算是殺時間的好遊戲。
+不過關掉後不禁開始思考當初為什麼會下載來玩呢....?",1535656467,1538216264,True,1,0,0.502664268016815186,0,False,False,False,False,,,
+44352860,"{'steamid': '76561198074169975', 'num_games_owned': 820, 'num_reviews': 694, 'playtime_forever': 253, 'playtime_last_two_weeks': 0, 'playtime_at_review': 253, 'last_played': 1535126038}",english,"It's one of the best 7 wonders, after alien makeover.",1535126086,1535126086,True,0,0,0,0,False,False,False,False,,,
+44330433,"{'steamid': '76561198196374941', 'num_games_owned': 1066, 'num_reviews': 140, 'playtime_forever': 292, 'playtime_last_two_weeks': 0, 'playtime_at_review': 292, 'last_played': 1535024995}",polish,Może być.,1535026326,1535026326,True,0,0,0,0,False,False,False,False,,,
+41791912,"{'steamid': '76561198004423189', 'num_games_owned': 4454, 'num_reviews': 423, 'playtime_forever': 569, 'playtime_last_two_weeks': 0, 'playtime_at_review': 569, 'last_played': 1525133051}",russian,"А вот и четвёртая часть, которую я почему-то потерял при первом подходе к серии.
+
+К сожалению, всё, что можно сказать про неё хорошего, я уже написал в обзоре про Alien Makeover... Ладно, в общем, это такая ремейкнутая 7 Wonders II - всё то же самое, только чудеса другие и интерфейс обновлён. Или, если хотите, Alien Makeover без строительства базы - вплоть до графики - так что если в последнюю вы уже играли, то ничего особо нового не увидите. И если Makeover можно назвать ""всё лучшее предыдущих частей"", то Magical Mystery - это такой промежуточный кадавр - уже не 2, но ещё не Alien.
+
+Оригинального (по сравнению с двумя вышеназванными) - разве что подбор конкретных чудес и внутриигровые ачивки (в Стиме они не отражаются, впрочем). Сама по себе игра неплоха, так что рекомендую, но только если вы не наелись серией, потому что нового ничего там нет.",1525170722,1525172170,True,4,0,0.570705771446228027,0,False,False,False,False,,,
+41061374,"{'steamid': '76561198078894531', 'num_games_owned': 4714, 'num_reviews': 433, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 297, 'last_played': 1522079523}",english,Good puzzle. Not too hard not too easy and nice lore lesson about legends.,1522062580,1522062580,True,0,0,0,0,False,False,False,False,,,
+39601324,"{'steamid': '76561198006563527', 'num_games_owned': 3471, 'num_reviews': 909, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1514593446}",german,"7 Wonders: Magical Mystery Tour ist ein buntes 3-Gewinnt-Spiel, eingebettet in die für die Reihe typische ""Bau ein Momument"" oder bereise ein Land Geschichte die allerdings wirklich nur Hintergrund sind für das eigentliche vergnügliche Symbole klicken. Solides Spiel für Zwischendurch für Fans des Genres.
+
+https://www.youtube.com/watch?v=OPRqKcxHZpw",1516873785,1516873785,True,2,0,0.545454561710357666,0,False,False,False,False,,,
+39519036,"{'steamid': '76561198001993627', 'num_games_owned': 0, 'num_reviews': 284, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1516563153}",english,"Great little puzzle game! Wish it had Steam Achievements that lined up with the in-game ones, though.",1516563204,1516563204,True,0,0,0,0,False,False,False,False,,,
+39512534,"{'steamid': '76561198002466205', 'num_games_owned': 5288, 'num_reviews': 432, 'playtime_forever': 391, 'playtime_last_two_weeks': 0, 'playtime_at_review': 391, 'last_played': 1516544355}",english,"Great game.  Fun power ups, interesting match-3 gameplay, nice graphics, and good sound.",1516546695,1516546695,True,3,0,0.570032596588134766,0,False,False,False,False,,,
+38885042,"{'steamid': '76561198041949592', 'num_games_owned': 0, 'num_reviews': 605, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1514686816}",english,"Hey everyone and this is my review about the game!
+
+This is a Puzzle game.
+
+
+[h1]Interface/Menu/Settings[/h1]
+
+ 
+[b]Video Settings information.[/b]
+
+[list]
+    [*] You can toggle between Fullscreen or windowed mode.
+    [*] There is no resolution size available and the game will be locked in 800 x 600.
+[/list]
+
+[b]Volume Settings Information.[/b]
+
+[list]
+    [*] There is a Sound volume slidebar available.
+    [*] There is a Music volume slidebar available.
+    [*] You can toggle mute all sound.
+[/list]
+
+[b]Miscellaneous Information.[/b]
+
+[list]
+    [*] You can toggle between your cursor or Ingame cursor. (Your cursor is faster).
+    [*] You can toggle tips.
+    [*] You can make different profiles and have additional slots.
+    [*] There is a small help/tutorial overview on the main menu.
+[/list]
+
+
+[h1]About the game.[/h1]
+
+You will have to match up to 3 runes or more of the same color in order to get points. Matching 4 runes will give you an ice ball and matching 5 runes will give you a fire ball. Casting enough of these balls will grant you a dice bonus which will have a powerful effect on the gamefield.
+
+You will have construction workers and they will build a wonder for you if you give them stone blocks. Each match will provide you some construction resources for the wonder and there are cornerstones and capstones. These stones will have to be moved all the way down on your playfield so your builders are able to construct wonders. There are runes that has a stone outlining and they need to be destroyed along with the corner/cap stones to win the level. Corner and capstones can't be swapped they will block fire and iceballs.
+
+[b]Ingame Information.[/b]
+
+[list]
+    [*] Gameplay is easy to understand.
+    [*] Music is alright.
+    [*] Sound is okay.
+    [*] Game doesn't require alot of brain cells.
+    [*] There are Secret Levels.
+    [*] Game could be repetitive.
+    [*] You will have lives and a timer.
+    [*] Price tag too high. 5 bucks or lower is more then fine
+[/list]
+
+
+
+[b]Miscellaneous Information.[/b]
+
+[list]
+    [*] None.
+[/list]
+
+
+[h1]Other things.[/h1]
+
+This game is from 2014 and i am sure you are able to find this game for free on different websites.
+This review has been copy and pasted as every game is the same.
+
+-------------------
+
+[quote] Reviews are always uploaded if i have at least played for 2 hours or more. Unless the game is really garbage and doesn't deserve the 2H limit.[/quote]
+
+I Give this game a 6/10",1514686817,1549933194,False,1,1,0.471502572298049927,0,False,False,False,False,,,
+38629219,"{'steamid': '76561198130516505', 'num_games_owned': 0, 'num_reviews': 324, 'playtime_forever': 604, 'playtime_last_two_weeks': 0, 'playtime_at_review': 604, 'last_played': 1513422532}",english,"7 Wonder: Magical Mystery Tour is the 4th installment in the 7 Wonder franchise and is a typical match-three game with slight varation to previous titles in the franchise.
+
+Pros:
+-Easy to get into and play, as far as match-threes go. Great as a relaxing game or a time waster
+-Slight graphical and sound improvement over the previous titles
+
+Cons:
+-Basically the same as the previous three in the series, apart from location change and more resources being needed to complete a wonder
+-Feels overpriced at R76 (~$6)
+
+Try one of the previous games in the series before you purchase this one, and then get this if on sale.
+5/10
+
+
+[code][h1]Accidently Reviewed[/h1]
+Free Games? Reviews? Competitions? Amazing Community? We got it all!
+Please give AR a join if you would like some free games, and to be part of an amazing growing community!
+[url=http://steamcommunity.com/groups/Accidently] Steam Group: AccidentlyReviewed[/url][/code]
+",1514134781,1514134781,True,3,0,0.567233383655548096,0,False,False,False,False,,,
+38434604,"{'steamid': '76561198372064534', 'num_games_owned': 0, 'num_reviews': 148, 'playtime_forever': 616, 'playtime_last_two_weeks': 0, 'playtime_at_review': 616, 'last_played': 1513704133}",english,"This a modernized part of the 7 wonders, which is fun. If you liked the usual part, you will like this one, too.",1513704324,1513704324,True,0,0,0,0,False,False,False,False,,,
+38202594,"{'steamid': '76561198082493821', 'num_games_owned': 2302, 'num_reviews': 31, 'playtime_forever': 296, 'playtime_last_two_weeks': 0, 'playtime_at_review': 296, 'last_played': 1512890043}",turkish,"5 saate yakın bir sürede bütün bölümleri bitirebileceğiniz, canınız sıkıldığında oynayabileceğiniz çerezlik bir oyun. Ben oyunu ücretsiz edindim. 5 saatlik bir oyun için indirimdeyken almanız daha mantıklı olacaktır.",1512890444,1512890444,True,0,0,0,0,False,True,False,False,,,
+37728111,"{'steamid': '76561198058719774', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 316, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1501632279}",brazilian,Well elaborated puzzle.,1511736898,1511736898,True,0,0,0,0,True,False,False,False,,,
+35959440,"{'steamid': '76561198184574539', 'num_games_owned': 923, 'num_reviews': 79, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1508819885}",english,"I am very supprised by this game.it has more than just gem matches. you have to use your matches to help build up your castles. you also get a few mini games if you make the correct matches to help you advance further. 
+it runs smooth and i think i will be playing a lot more of this game.",1508819980,1508819980,True,1,0,0.517241418361663818,0,False,False,False,False,,,
+35864953,"{'steamid': '76561198008393575', 'num_games_owned': 876, 'num_reviews': 1158, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1508509634}",turkish,Şahane oyun serisini alın keyifle oynayın. Kafanız bulandıgında AAA oyunlardan sıkıldıgınızda bunu oynayın keyfiniz yerine gelsin.,1508509729,1508509729,True,2,0,0.504950523376464844,0,False,False,False,False,,,
+35776217,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 1170, 'playtime_last_two_weeks': 0, 'playtime_at_review': 620, 'last_played': 1508282694}",romanian,Very nice game,1508171924,1508171924,True,0,0,0,0,False,False,False,False,,,
+35645307,"{'steamid': '76561198010560368', 'num_games_owned': 1183, 'num_reviews': 703, 'playtime_forever': 338, 'playtime_last_two_weeks': 0, 'playtime_at_review': 338, 'last_played': 1507750110}",russian,"7 Wonders: Magical Mystery Tour - достойная игра огромной серии. Милая графика, облегченный в меру геймплей, не слишком большая и не слишком маленькая продолжительность игры - около 5 часов. В целом можно сказать, что баланс соблюден. Играть в нее приятно, игра не очень сложна, чтобы сильно напрягаться. В целом, идеальный пример отдельной игры серии 7 Wonders.",1507750290,1507750290,True,1,0,0.485498100519180298,0,False,False,False,False,,,
+35449783,"{'steamid': '76561198031283774', 'num_games_owned': 0, 'num_reviews': 218, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1507044361}",english,One of the best 7 wonder game!!,1507044402,1507044402,True,0,0,0,0,False,False,False,False,,,
+35433129,"{'steamid': '76561197988971915', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1507243324}",english,"I love match3 games but this one is so laggy and unresponsive that it just doesnt work. I am running the newest version of Windows 10 and it just doesnt work right.
+
+It seems cool but I cant even reliably click on things - even after I killed everything on my 'puter. 
+
+Either the game is messed up OR you need to run it in some sort of compatibility mode - no idea.",1506997370,1506997370,False,2,0,0.479066520929336548,0,False,False,False,False,,,
+35234770,"{'steamid': '76561198026806776', 'num_games_owned': 0, 'num_reviews': 302, 'playtime_forever': 347, 'playtime_last_two_weeks': 0, 'playtime_at_review': 347, 'last_played': 1506482831}",english,"[i]Magical Mystery Tour[/i] takes the core match-3 gameplay of the [i]7 Wonders[/i] series and adds just enough bells and whistles to keep it competitive with the flashier and more elaborate casual games that have eclipsed the original. Match-3 is such a crowded genre that the match-3 player has no shortage of choice, but this is a worthy option.",1506483129,1506483129,True,0,0,0,0,False,False,False,False,,,
+35181606,"{'steamid': '76561197971570182', 'num_games_owned': 0, 'num_reviews': 303, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1506261434}",spanish,"Pues mas de lo mismo,no aporta nada nuevo,ahora en este son maravillas motologicas,pero el juego es lo mismo con iconos diferentes.
+
+si te gusta pues palante,si no ni te molestes.",1506261488,1506261488,False,0,0,0.49751242995262146,0,False,False,False,False,,,
+34898984,"{'steamid': '76561198041532773', 'num_games_owned': 446, 'num_reviews': 104, 'playtime_forever': 382, 'playtime_last_two_weeks': 0, 'playtime_at_review': 382, 'last_played': 1505152243}",italian,"Versione giocosa di Candy Crush ad ambientazione fantasy sulle sette meraviglie mai esistite.
+Casual a sufficienza da farvi divertire una manciata di ore se vi piacciono i match-3 leggeri.
+Grafica fumettosa ma molto curata.
+Prendetelo per pochi euro.",1505214835,1505214835,True,0,0,0,0,False,True,False,False,,,
+34735013,"{'steamid': '76561198030464920', 'num_games_owned': 2774, 'num_reviews': 300, 'playtime_forever': 500, 'playtime_last_two_weeks': 0, 'playtime_at_review': 276, 'last_played': 1504532466}",turkish,"7 Wonder II den daha da geliştirmişler.Özel şeyleri aynı anda kullanabiliyorsun.8 farklı wonder ile gayet güzel bulmaca oyunu kendisi.Yine fazladan 2 küçük oyunda da var.İlerde birazcık zorlayıcı.Ekran görüntüsü çalışmıyor (F12) o kötü sadece.Müzik ne kalıcı ne de kötü.
+9/10",1504532655,1504532655,True,0,0,0,0,False,False,False,False,,,
+34730081,"{'steamid': '76561198105592478', 'num_games_owned': 1117, 'num_reviews': 1354, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1504513317}",russian,Норм.,1504513355,1504513355,True,0,0,0.409785836935043335,0,False,False,False,False,,,
+34383300,"{'steamid': '76561198081340622', 'num_games_owned': 5267, 'num_reviews': 239, 'playtime_forever': 377, 'playtime_last_two_weeks': 0, 'playtime_at_review': 377, 'last_played': 1503266777}",english,"Not the worst 7 Wonders game, and as a match-3 it's pretty good. The graphics are pretty good, there is some moderate amount of humor, and the gameplay is nearly perfect. I have some reservations on the drop speed of gems, and the usual chaos on screen when you reach the last couple Wonders which have too many things going on. Also, the soundtrack is pretty mediocre -- a strong negative point for casual games.
+
+And finally, hmm... Speaking of casual, I don't understand why the casual ('Zen') mode, which is untimed and allows you to chill out, decides to punish you by preventing you from playing the bonus mini-games -- which are to casual gaming what Rick & Morty is to Twin Peaks on Sunday night: a bit of fresh air between intense sessions*. This isn't good. I'm still going to recommend, but I'd STRONGLY recommend Alien Makeover and, above them all, the excellent 7 Wonders Treasures of Seven. (I'd also recommend the unrelated, all-time great Heroes of Hellas 2 & 3. But that's just me being obsessed with their near-perfection.)
+
+* This review will no longer be valid a couple weeks after this review was posted. I'm a rebel, living in the moment, and I have no idea what will be on TV in six months. Is it future or is it past?",1503267101,1503267101,True,7,0,0.59228515625,0,False,False,False,False,,,
+34271330,"{'steamid': '76561198268115996', 'num_games_owned': 1744, 'num_reviews': 389, 'playtime_forever': 438, 'playtime_last_two_weeks': 0, 'playtime_at_review': 438, 'last_played': 1502832758}",russian,"Игра в трёшки, очень увлекательная. Суть построить семь чудес света, вот и помогаем в строительстве, выбивая материал для рабочих, которые бегают в низу и собирают материал, который был выбит в результате успешных комбинаций. Описывать всё детально не буду, это уже будет руководство, а не обзор, за то выложу видеообзор, чтобы примерно представить вам, саму сцену игры.
+http://steamcommunity.com/sharedfiles/filedetails/?id=1112123283",1502869193,1502869193,True,4,0,0.554673492908477783,0,False,False,False,False,,,
+34159001,"{'steamid': '76561198133206712', 'num_games_owned': 1905, 'num_reviews': 54, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1500784687}",english,"If Candy Crush and SimCity had a child, it would be 7 Wonders: Magical Mystery Tour.",1502416156,1502416156,True,1,0,0.482841163873672485,0,False,False,False,False,,,
+33674518,"{'steamid': '76561198726532299', 'num_games_owned': 566, 'num_reviews': 16, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1500564226}",schinese,"略带剧情的三消游戏。
+游戏难度很低。
+可玩模式与一般三消相同，有限时，无尽等
+毕竟喜加一，无聊时候可玩。",1500564199,1500564199,False,0,0,0.473933637142181396,0,False,False,False,False,,,
+32798415,"{'steamid': '76561198070225825', 'num_games_owned': 262, 'num_reviews': 13, 'playtime_forever': 490, 'playtime_last_two_weeks': 0, 'playtime_at_review': 490, 'last_played': 1498447168}",tchinese,"很有趣的寶石遊戲
+中午坐下來玩，等回神已經晚上了。
+利用消除寶石來獲得建造材料，關卡結束後可以用材料建造城堡，會讓人產生一種目標感，想趕快把所有建築都蓋完...",1498447489,1498447489,True,0,0,0,0,False,False,False,False,,,
+32498464,"{'steamid': '76561197996744560', 'num_games_owned': 683, 'num_reviews': 97, 'playtime_forever': 318, 'playtime_last_two_weeks': 0, 'playtime_at_review': 176, 'last_played': 1505799965}",english,"A cute, fun, colourful puzzle game with nice sound effects.",1497690468,1497690468,True,1,0,0.530201315879821777,0,False,False,False,False,,,
+32307206,"{'steamid': '76561197981706607', 'num_games_owned': 4148, 'num_reviews': 139, 'playtime_forever': 302, 'playtime_last_two_weeks': 0, 'playtime_at_review': 302, 'last_played': 1497062946}",english,"I can't believe I played the whole thing.  Yes, it's only 5 hours of gameplay, but it's 5 hours of the exact same Match 3 gameplay this series has encompassed for a half-dozen versions (with 14 brief asides in the form of collapse-style mini-games and sliding puzzles (7 of each). As a match three game, it's well done - you've got three tasks per level - collect resources, clear background pieces, and drop the founder stone to the bottom once it appears. You'll go through this a minimum of 38 boards, but likely a few higher. It's utterly mindless, but addictive in that mindlessness. If you like this type of game, it's a great example of the form.",1497063213,1497063213,True,2,0,0.551282048225402832,0,False,False,False,False,,,
+29986443,"{'steamid': '76561198057579119', 'num_games_owned': 4343, 'num_reviews': 303, 'playtime_forever': 1005, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1005, 'last_played': 1487232488}",polish,"Powiem (napiszę) szczerze, że niespodziewałem się tak dobrej gry. Świetna grafika, świetne animacje, rozsądny i przyjemny gameplay. Rewelacja! Jedna z najlepszych gier typu Match-3",1487344735,1487344735,True,2,0,0.545454561710357666,0,True,False,False,False,,,
+24689468,"{'steamid': '76561198143740300', 'num_games_owned': 0, 'num_reviews': 77, 'playtime_forever': 660, 'playtime_last_two_weeks': 0, 'playtime_at_review': 549, 'last_played': 1530438932}",italian,★★★★★★★★★,1470229944,1470229944,True,0,0,0.461893767118453979,0,True,False,False,False,,,
+24393118,"{'steamid': '76561198124851743', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 330, 'playtime_last_two_weeks': 0, 'playtime_at_review': 330, 'last_played': 1393777145}",english,It was fun! Very classic puzzle game. Finished quicker than I thought it would D:,1468861879,1468861879,True,0,0,0.464527010917663574,0,True,False,False,False,,,
+23862385,"{'steamid': '76561198262554028', 'num_games_owned': 0, 'num_reviews': 27, 'playtime_forever': 1569, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1165, 'last_played': 1567294186}",english,"A very strong version of 7 Wonders, well worth the money.",1467036493,1502407285,True,0,0,0,0,True,False,False,False,,,
+22562089,"{'steamid': '76561198229737240', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 507, 'playtime_last_two_weeks': 0, 'playtime_at_review': 470, 'last_played': 1461662455}",english,"This game is awesome and fun.
+",1461304170,1461304170,True,1,0,0,0,True,False,False,False,,,
+20564304,"{'steamid': '76561198071881530', 'num_games_owned': 457, 'num_reviews': 28, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1631748720}",greek,Classic,1452961332,1452961332,True,0,0,0,0,True,False,False,False,,,
+19584939,"{'steamid': '76561198144508370', 'num_games_owned': 284, 'num_reviews': 1, 'playtime_forever': 262, 'playtime_last_two_weeks': 0, 'playtime_at_review': 261, 'last_played': 1453145185}",russian,"Ещё в детстве обожала одну из игр этой серии. Было приятно окунуться в знакомую атмосферу, да ещё и с улучшенной графикой. Однозначно 10\10. Жаль, что так мало уровней.",1449678262,1449678262,True,4,0,0.47900727391242981,0,True,False,False,False,,,
+17236341,"{'steamid': '76561198059871439', 'num_games_owned': 0, 'num_reviews': 412, 'playtime_forever': 805, 'playtime_last_two_weeks': 0, 'playtime_at_review': 805, 'last_played': 1437917518}",german,"▼ Worum geht's?
+Mit 7 Wonders erlebt man noch einmal, die Erbauung der 7 Weltwunder (nur virtuell und mit weniger Anstrengung verbunden) In diesem Teil erleben wir die Weltwunder der mystischen Ortschaften.
+
+
+[+]
+▽ sehr gelungene und abwechslungsreiche Minispiele
+▽ farbenfroh und optisch ein echter Blickfang
+▽ simple Spielmechanik
+▽ ohne Altersbeschränkung
+▽ übersichtliche Darstellung
+
+[-]
+▽ wird auf Dauer monoton
+▽ kein freies Speichern möglich - speichert dafür aber automatisch nach jeder geschafften Runde
+
+
+▼ Mein Fazit:
+Deutliche Verbesserungen sind hier im Vergleich zum ersten Spiel gemacht worden. 
+Das Spiel eignet sich wunderbar für alle Altersklassen, ist absolut nicht schwer und man kann viele Stunden daran sitzen. Insgesamt wird es manchmal etwas monoton - aber so zum Zeitvertreib eignet es sich wunderbar. In diesem Teil gibt es sogar 8 Weltwunder, die man wieder aufbauen kann - sowie Minispiele~",1437918760,1438882677,True,3,0,0.567901253700256348,0,True,False,False,False,,,
+17117847,"{'steamid': '76561197967545454', 'num_games_owned': 0, 'num_reviews': 50, 'playtime_forever': 506, 'playtime_last_two_weeks': 0, 'playtime_at_review': 506, 'last_played': 1422618210}",english,nice game,1437275821,1437275821,True,1,0,0,0,True,False,False,False,,,
+16644124,"{'steamid': '76561197974868455', 'num_games_owned': 0, 'num_reviews': 38, 'playtime_forever': 1805, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1805, 'last_played': 1453827646}",hungarian,"Értékelés: 75%
+
+Grafika 7
+Zene / hangok 7
+Sztori - nincs igazi sztorija
+Irányitás 9
+
+Szórakoztató ügyességi - logikai játék. Elütni az időt tökéletes, szerintem fejleszti is a logikát, ezért fiatalabbaknak is ajánlott kipróbálni.",1435055543,1530650284,True,2,0,0.504950523376464844,0,True,False,False,False,,,
+16230432,"{'steamid': '76561198025071319', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 282, 'playtime_last_two_weeks': 0, 'playtime_at_review': 282, 'last_played': 1433626421}",english,"I bought this game to just have something to play to kill a few hours.  This game is great for just that.  It is interesting enough for a match 3 type game to let you kill some time and play through the ""campaign"" for roughly 5 hours on normal.  You can then always go back and replay, but I probably won't do that once I'm through.",1433624949,1433624949,True,1,0,0,0,True,False,False,False,,,
+15089743,"{'steamid': '76561198076629424', 'num_games_owned': 0, 'num_reviews': 98, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1426434081}",english,"Best in the series. Nice looking, fast gameplay, lot of extras and collectibles, and don't forget the minigames! 9/10",1427542207,1427542207,True,2,0,0.523809552192687988,0,True,False,False,False,,,
+13843666,"{'steamid': '76561198025726362', 'num_games_owned': 0, 'num_reviews': 62, 'playtime_forever': 2297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2297, 'last_played': 1420440759}",english,"Great little match 3 game with plenty of challenges as well as a zen mode. Very addictive with nice graphics beware you will lose all idea of time. 
+
+95/100",1420441222,1420441222,True,9,0,0.633815944194793701,0,True,False,False,False,,,
+13748685,"{'steamid': '76561198031726534', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 299, 'playtime_last_two_weeks': 0, 'playtime_at_review': 299, 'last_played': 1420068541}",english,"A match three game. Beating it on normal took about five hours.
+
+The goal of the game is to construct wonders. That takes resources which you get by matching gems. You can only get a limited amount of resources per level so you have to play about seven levels to complete a wonder. That is if you manage to get the maximum amount of resources every level. If not, you have to complete more levels. Each wonder also requires you to complete two minigames. The minigames have to be unlocked by collecting keys while playing the levels.
+
+To complete a level, you have to break background tiles by matching gems on top of them. After the tiles are all broken, a special gem appears that you have to get all the way to the bottom by matching the gems underneath it. Once the special gem reaches the bottom, the level is complete. You also have a time limit, but I do not know what happens if you run out of time since it never happened to me. 
+
+The levels vary in shape and the amount of background tiles that need to be broken increases as you go along. The background tiles also become more durable, requiring multiple matches to break. There are also special abilities you can use that recharge when you match gems. Matching four or more gems spawns special gems that can clear whole rows at a time.
+
+To put it all together, you start playing a level. You match gems until you have collected the minigame keys and maxed your resources. Then you break all the background tiles. Then you lower the special gem to the bottom of the screen, completing the level. Now you can spend your resources on building the wonder. Then rinse and repeat until the wonder is complete. Then you start a new wonder. It's a simple diversion that kept my attention for the scant few hours I played it.",1420069924,1420069954,True,1,1,0,0,True,False,False,False,,,
+13296679,"{'steamid': '76561198016179939', 'num_games_owned': 2437, 'num_reviews': 108, 'playtime_forever': 305, 'playtime_last_two_weeks': 0, 'playtime_at_review': 305, 'last_played': 1417979529}",english,"[b]Brief Synopsis[/b]
+
+7 Wonders: Magical Mystery Tour is one of many tile matching games in the 7 Wonders series. There are seven levels in total with each level having several sub levels. In each level there are also two mini games which you can finish to get gold and statues with which to decorate the wonder you're building. To build them, you must match tiles in lines of three or more. A match larger than three tiles rewards you with special tiles. Clearing the tiles also rewards you by powering up special powers. 
+
+[b]Long Review[/b]
+
+     [i]Story[/i]: In this game, you've been hired by the gods to build various buildings/cities of myth and legend. 
+
+     [i]Graphics[/i]: The art assets are pretty good, though the multiple colours of the tiles in later levels can be a bit overwhelming due to there being so many on the board at once.
+
+     [i]Music/Sounds[/i]: The music and sound fx are simple, but pleasing to listen to. They do get a bit samey towards the end, but they're also easy to tune out. 
+
+     [i]Length[/i]:  It took me about 5 hours to complete the game. For the price, this isn't too bad. 
+
+     [i]Replayability[/i]: There isn't much in the way of replayability in this game. Once you've completed all the levels and          beat the two mini games in each level, that's pretty much all there is.
+
+This game is simple and casual in nature. If you like matching games, I recommend it. Due to it not having much, if any, replayability however, only get it when it's on sale. 
+
+
+",1418150096,1418150096,True,5,0,0.511053025722503662,0,True,False,False,False,,,
+10756077,"{'steamid': '76561197998753817', 'num_games_owned': 0, 'num_reviews': 48, 'playtime_forever': 893, 'playtime_last_two_weeks': 0, 'playtime_at_review': 893, 'last_played': 1404511305}",english,"A marvelous sequel to Alien Makeover game. Nice graphics and smooth flow of matching, a mayhem of special moves, a lot of bonus actions, interesting mini games, etc. It's a pity this one doesn't have achievements tied to Steam (Alien Makeover did, so i wonder why this not). And i would like to craft a badge for this game and have some special background from this game. Trading cards is a must for 7 Wonders game :)",1403620863,1522011724,True,3,0,0.554266870021820068,0,True,False,False,False,,,
+10537907,"{'steamid': '76561198074029945', 'num_games_owned': 1213, 'num_reviews': 154, 'playtime_forever': 395, 'playtime_last_two_weeks': 0, 'playtime_at_review': 395, 'last_played': 1403297802}",japanese,"全ての壁を破壊した後最後出現するキューブを一番下まで落下させればその面はクリア。
+クリア時に獲得していたアイテムを使用し、城を建築出来ればステージクリア。
+
+まったりのんびりと、そこそこの爽快感を味わいながら楽しむパズルゲーム。
+エンディングまでは6時間程で到達。
+スチム実績ないし、スクリーンショット撮れないのが残念
+
+あーちなみに過去のシリーズ遊んだことないので比較は出来ません。",1403212768,1403298933,True,16,0,0.533763289451599121,0,True,False,False,False,,,
+9734742,"{'steamid': '76561198006836183', 'num_games_owned': 0, 'num_reviews': 262, 'playtime_forever': 1557, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1112, 'last_played': 1669681082}",french,ok,1396713636,1396713636,True,0,0,0.415938913822174072,0,True,False,False,False,,,
+9340959,"{'steamid': '76561198021317470', 'num_games_owned': 1847, 'num_reviews': 115, 'playtime_forever': 380, 'playtime_last_two_weeks': 0, 'playtime_at_review': 380, 'last_played': 1393855090}",japanese,"7wondersシリーズの本作は以前と変わらず３つのブロックを揃えて
+建築していくマンボジャンボ珠玉のパズルゲーム。
+
+誰でも気軽に始めることが出来、価格の割りに遊べることから
+私が好きなシリーズの一つ。
+
+価格が高かろうが低かろうがこのカジュアルさで毎回即買いしてます。
+
+本作については以前実装していたSTEAM実績は無いものの、
+ゲーム内実績があるのである程度のやりこみ感が得られる。
+
+パズルゲームを買いたいが何を買おうか
+迷ってる方は取りえず購入してみてはどうだろうか。
+
+おじさんスコア　72/100
+コスパ満足度　70/100",1393938558,1393938558,True,12,0,0.655000030994415283,0,True,False,False,False,,,
+9223284,"{'steamid': '76561198021147117', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1877, 'playtime_last_two_weeks': 0, 'playtime_at_review': 640, 'last_played': 1636265038}",english,I am a hugee fan of the 7 Wonders Series and this is a well deserved upgrade. From graphics to the music and bonuses added this game is well worth its cash. If you are a fan of this series I recommend giving it a shot and enjoy all the modes and everything this game has to offer.,1393101263,1393101263,True,14,0,0.69566047191619873,1,True,False,False,False,,,

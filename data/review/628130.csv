@@ -1,0 +1,267 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+162250232,"{'steamid': '76561198036162456', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 553, 'playtime_last_two_weeks': 6, 'playtime_at_review': 553, 'last_played': 1712313235}",japanese,カクカクしていてプレイどころではない。,1712313267,1712313267,False,0,0,0,0,True,False,False,True,,,
+161635787,"{'steamid': '76561198286449154', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 4458, 'playtime_last_two_weeks': 7, 'playtime_at_review': 4458, 'last_played': 1711528105}",japanese,"通常設定だと動作が重すぎてゲームにならない。
+設定変更すれば多少はスムーズになるが、やはり特定のメニュー画面で動作が激烈に遅くなる。
+
+数年間待ってても更新ないので、今後も望み薄。
+正直、この状況で販売してるのはユーザーに不親切すぎる。",1711611454,1711611454,False,1,0,0.5,0,True,False,False,True,,,
+149359441,"{'steamid': '76561198036893277', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 3218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3218, 'last_played': 1698892063}",schinese,怎么可以视窗化？知道的朋友说说呗！,1698915250,1698915250,True,0,0,0,0,True,False,False,True,,,
+148916354,"{'steamid': '76561198864045558', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 4276, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3043, 'last_played': 1702302088}",schinese,超级好玩。就是资料界面还是卡。,1698333047,1698333047,True,0,0,0,0,True,False,False,True,,,
+145841141,"{'steamid': '76561198150219365', 'num_games_owned': 1761, 'num_reviews': 3, 'playtime_forever': 836, 'playtime_last_two_weeks': 0, 'playtime_at_review': 496, 'last_played': 1694371867}",japanese,"Core-i5 9600K RAM64GB Geforce3070ti8GB Windows11 
+リフレッシュレート60hzモニタ（３画面接続）で最後までプレイできました。
+こちらの環境では起動時の「システムメモリモード」をオフにしないとモニタがちらつきまともにプレイできませんでした。
+他の方のレビューを参考にDxWndを使用したウィンドウモードでのプレイを試しましたが、
+「Emulation」内、Rendererで「D3D9」の設定だと画面の一部しか描画されない状態だったので「D3D9」→「OpenGL」に変更したところ問題無く動作できました。
+元々この作品が好きで実際に本Steam版でプレイできたのでゲーム自体はおすすめしたいのですが、色んな環境によって正解があるっぽいのである程度試行錯誤が必要な状態なのは間違いという事だけは申し添えておきます。",1694078988,1703100499,True,5,0,0.578774631023406982,0,True,False,False,True,,,
+137761960,"{'steamid': '76561197985853023', 'num_games_owned': 0, 'num_reviews': 256, 'playtime_forever': 508, 'playtime_last_two_weeks': 0, 'playtime_at_review': 508, 'last_played': 1683171170}",tchinese,"沒有中文,直接遊玩無法存檔,畫質也不怎麼樣,
+
+.....但能玩,也不錯玩,
+
+適合懷舊,光榮迷,日本戰國迷,SLG歷史戰略迷,
+
+還是給個推薦.",1683171379,1683171379,True,0,0,0,0,True,False,False,True,,,
+136703548,"{'steamid': '76561198067044002', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1681427559}",japanese,"のっけからwin95でもこうはならんやろという重さ。モード調整でマシにはなるも快適からは程遠く、他の方が指摘されているように情報画面に入るとまたしても挙動がカクカク。
+謀略に焦点を当てたゲームで情報UIが死んでいるのは致命的と言わざるをえません。全国画面の視認性やプレー上のUIも現代はもちろん当時のPCゲームと比べても脆弱に感じます（右クリックで前の画面に戻りたい…）。
+同じ20年前の海外名作と同程度に100～200円ならまだ許容できるかもしれません。",1681506819,1681506819,False,4,0,0.534199535846710205,0,True,False,False,True,,,
+136618762,"{'steamid': '76561198012683023', 'num_games_owned': 1147, 'num_reviews': 18, 'playtime_forever': 1349, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1682012167}",japanese,"謀略ゲームという印象が強かった本作ですが、
+そこそこお手軽に楽しめる点で個人的には嫌いじゃない作品です。
+大名だけでなく城主や軍団長としてもプレイができるのが魅力。
+
+ウィンドウモードでプレイしたい人は、以下の手順で可能です。
+当方のプレイ環境はWindows10でグラボはRTX3070です。
+Radeon等、他の環境下でどうなるかは試していないので分かりません。
+
+(1)Google等で「DxWnd」を検索し、DxWndの最新版をDLして展開する
+　・「https://sourceforge.net/projects/dxwnd/files/」
+　・ここから「Download Latest Version」をクリックしてダウンロード
+　・適当なウィンドウを作成し、解凍・展開するだけで使えるようになります
+
+(2)展開した中にある「dxwnd.exe」を起動し、蒼天録のプログラム本体を登録する
+　・展開した「dxwnd.exe」を起動
+　・Steamの「ライブラリ」から、蒼天録PKを右クリックし、「プロパティ」を開く
+　・「ローカルファイル」→「参照」とクリックし、エクスプローラが開く
+　・開いた中にある「Nobunaga10WPK.exe」をドラッグし、先ほど起動したDxWnd内にドロップ
+　・開いているMainタブ内上部「Name」は適当に「蒼天録PK」とでも入力
+　・Mainタブ内下部「W」と「H」の横に、好みのウィンドウサイズを入力（4:3推奨）
+　・最上部「DirectX」タブをクリック
+　・左上エリア「DirectX Version Hook」内、「DirextX7」にチェックを入れる
+　・左下エリア「Emulation」内、Rendererで「D3D9」を選択する
+　・右下の「OK」をクリックし、登録を完了させる
+
+（3）以後DxWnd内に登録された「蒼天録PK」からゲームを起動する（Steamは要起動）
+
+「DxWnd.exe」自体がよく行方不明になるので、忘れずショートカットを作成するなり、
+右クリックから「スタートメニューにピン留め」等しておくことをお勧めします。",1681380888,1681740398,True,10,0,0.656980335712432861,0,True,False,False,True,,,
+136443962,"{'steamid': '76561198318590984', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 12176, 'playtime_last_two_weeks': 3796, 'playtime_at_review': 7665, 'last_played': 1712115499}",schinese,青春回忆，除了不能存档，其他都不错，日文和中文一样，毫无压力哈哈,1681086344,1681086344,True,0,0,0,0,True,False,False,True,,,
+135793324,"{'steamid': '76561198004824471', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1680258835}",tchinese,光榮真的很糟糕，一堆老遊戲改都沒改就拿出來賣，一堆問題都沒解決搞得遊戲都沒辦法順暢的玩下去。,1680258914,1680258914,False,1,0,0.523809552192687988,0,True,False,False,True,,,
+127536198,"{'steamid': '76561198373371909', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2518, 'playtime_last_two_weeks': 0, 'playtime_at_review': 824, 'last_played': 1702359999}",schinese,这游戏有个问题，玩一阵后合战画面会非常卡，不知道是不是游戏太老了，有谁知道如何解决吗？,1669726199,1669726199,True,0,0,0,0,True,False,False,True,,,
+116104408,"{'steamid': '76561197984965883', 'num_games_owned': 0, 'num_reviews': 74, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1653680910}",japanese,"蒼天録自体は武将プレイなど珍しい要素もあり面白いのだが、移植の水準が低くおそらくほぼベタ移植で現代のPC環境でプレイするのはとてもストレスフルとなっている、そのため購入はおすすめできない。しっかりと環境に合わせて移植されているハードでのプレイをオススメする
+
+まず画面解像度が4:3でウインドウモードに対応していない、現代のモニターの大半は16:9であり横に引き伸ばされる
+また、マウスポインターの挙動がアプリで調整できない様子で普段と挙動が変わり操作しづらい、横に引き伸ばされている影響もあるように感じた
+これらの若干の操作のしづらさが、ボタンを画面全体に配置する古臭いUIの操作性の悪さに拍車をかけており、操作するだけでストレスフルになっている
+また、改めてプレイして気がついたのだが、UIがとてつもなく見づらい、綺麗なイラストを中心に大きく見せようとしたUIの設計で、中央に広くイラストやマップが表示され、上下左右の端に分散する形で情報が表示される、これ自体は画面の見栄えをよくする良い仕様ではあるのだが、モニタの大きさが14-16インチ程度の時代のゲームだからであろう、24インチのモニタでは情報が上下や左右に分散配置されると、とても見づらい
+このタイプのＵＩはパッド操作が可能ならまだマシだったのだが、パッド操作にも対応していない所はつくづくコーエーの移植は手抜きだと感じる点
+
+せっかくの移植なので、もっとプレイ環境を意識した移植をしてもらいたかった
+ちなみにこれはSteamで販売されている古いコーエーのゲーム広範に言えることなので、他の古い作品もオススメしない",1653682829,1653682829,False,0,0,0,0,True,False,False,False,,,
+115724077,"{'steamid': '76561198088081434', 'num_games_owned': 368, 'num_reviews': 47, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1574424953}",schinese,没中文 补个差评,1653032913,1653032913,False,0,0,0,0,True,False,False,False,,,
+115153959,"{'steamid': '76561198280141913', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1703686407}",tchinese,WIN10 去控制台>地區 把語系、地區都改成日本，重新開機後再進入遊戲，就可以存檔了。,1652016836,1652016836,True,0,0,0,0,True,False,False,False,,,
+114784371,"{'steamid': '76561198033270666', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 1690, 'playtime_last_two_weeks': 0, 'playtime_at_review': 227, 'last_played': 1651877454}",tchinese,古老的記憶又回來了，要記得人際關係，要運用友軍與忍者!真的很辛苦的合戰聯盟!,1651417833,1651417833,True,0,0,0,1,True,False,False,False,,,
+113937811,"{'steamid': '76561198867467555', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 74165, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42011, 'last_played': 1705237977}",japanese,城主プレイができるのはこれのみ,1650096188,1650096188,True,1,0,0.497925341129302979,0,True,False,False,False,,,
+110770394,"{'steamid': '76561198449426009', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 520, 'playtime_last_two_weeks': 0, 'playtime_at_review': 507, 'last_played': 1689816992}",schinese,"问一下战役和修改黑屏怎么解决？
+其他都是很不错的",1645539965,1645539965,True,0,0,0,0,True,False,False,False,,,
+105522497,"{'steamid': '76561198802877648', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1620, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1690525213}",schinese,战略界面黑屏怎么解决,1639062068,1639062068,True,0,0,0,0,True,False,False,False,,,
+101058853,"{'steamid': '76561198341091769', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 9330, 'playtime_last_two_weeks': 0, 'playtime_at_review': 879, 'last_played': 1707496881}",schinese,能不能出中文版？,1634250733,1634250733,True,7,0,0.621000826358795166,0,True,False,False,False,,,
+97965399,"{'steamid': '76561198413553963', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 3018, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2390, 'last_played': 1629720665}",japanese,謀多而勝，謀少而敗,1629535573,1629535573,True,0,0,0,0,True,False,False,False,,,
+97586308,"{'steamid': '76561198059775245', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 7907, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6610, 'last_played': 1710678236}",japanese,信長の野望初心者にはお勧めできないが、最新の大志PKまでやった自分からすれば一番の神ゲーです。出来ればインターフェイス等を新しくしたリメイクを希望したいが、いまの͡光栄では無理かな・・・,1628995504,1628995504,True,4,0,0.551851868629455566,0,True,False,False,False,,,
+92874792,"{'steamid': '76561198314858198', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 346, 'playtime_last_two_weeks': 0, 'playtime_at_review': 288, 'last_played': 1668165389}",koreana,save가 안되네요????? 그런데 제품을 파네요????? 실화에요? 이거? ㅋㅋㅋㅋㅋㅋㅋ,1622387057,1622387057,False,0,0,0,0,True,False,False,False,,,
+92733392,"{'steamid': '76561199148627705', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 258, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1622291318}",japanese,"ゲーム自体は面白いが、急に動作が重くなる。攻城戦で画面が真っ暗になり返金を考えたが、エミュをON、システムメモリをOFFにすると直った。
+",1622210947,1622210947,True,5,0,0.587091386318206787,0,True,False,False,False,,,
+91856929,"{'steamid': '76561198354906965', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 454, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1665886273}",schinese,出个窗口化补丁很难吗？很难吗？,1620792941,1620792941,False,0,0,0,0,True,False,False,False,,,
+91361090,"{'steamid': '76561198840151086', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 326, 'playtime_last_two_weeks': 0, 'playtime_at_review': 161, 'last_played': 1708090584}",schinese,Win10攻城时显示黑屏，什么情况？,1620056668,1620056668,False,0,0,0,0,True,False,False,False,,,
+90964727,"{'steamid': '76561198313103921', 'num_games_owned': 15, 'num_reviews': 1, 'playtime_forever': 88, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1619619458}",japanese,"動作報告です。
+Ryzen5 2600＋Radeon RX570
+政略画面でカーソル動作が若干重くなり、情報表示画面でカーソル動作がかなり重くなるようです。
+
+Core i3 9100F＋GeForce GTX750Ti
+正常動作を確認しました。",1619459882,1619459882,True,4,1,0.567076623439788818,0,True,False,False,False,,,
+90527310,"{'steamid': '76561198887449840', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 844, 'playtime_last_two_weeks': 0, 'playtime_at_review': 200, 'last_played': 1656869044}",schinese,We need Simplified Chinese version!,1618758053,1618758053,False,6,0,0.592939972877502441,0,True,False,False,False,,,
+88371169,"{'steamid': '76561198167539884', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 757, 'playtime_last_two_weeks': 0, 'playtime_at_review': 495, 'last_played': 1695650263}",japanese,"エミュレーションモードをoffにすると所々で重くなる
+onにすると今度は合戦時真っ暗になる、ふつうにプレイできませんでした",1615653000,1615653000,False,11,0,0.660566568374633789,0,True,False,False,False,,,
+73602436,"{'steamid': '76561198118332170', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 24346, 'playtime_last_two_weeks': 164, 'playtime_at_review': 8209, 'last_played': 1712457288}",japanese,"何だかんだ、13年くらい遊んでいるゲーム
+人を選ぶと思いますが、信長の野望シリーズで
+一番人を裏切り、裏切られるゲームです
+まぁ、良いところも悪いところも癖が強いので
+違う作品とどっち買うか迷ってるなら、注意が必要です",1596279529,1596279529,True,6,0,0.588635563850402832,0,True,False,False,False,,,
+68825221,"{'steamid': '76561198049289374', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 379694, 'playtime_last_two_weeks': 1422, 'playtime_at_review': 154542, 'last_played': 1712415990}",japanese,"こういう懐かしいゲームを今でもできるのはうれしい。
+あまり知られてないけど内政で物資を移動する時、キーボードの１，２，３を押しながらそれぞれの物資を移動すると結構楽に移動できる。
+自分は GTX-560ti(システムCPU SandyBridge),GTX-650ti(CPU CoffeeLake),RADEON RX-580(CPU Haswell)でためしたけど、動作が遅くなるのは RX-580 だけ。これはOSクリーンインストールでも同じ。おなじPCにGTX-560ti,GTX-650tiだと普通に動くって感じでした。
+サファイヤのHD6850,玄人志向のHD6770でも動かなかった覚えがあるので、一概にはいえないけど、ラデオンは避けた方がいいかも知れない
+
+GTX-560ti GV-N560OC-1G Windows 10(1909)
+GTX-650ti GTX-650TI-DC20-1GD5 Windows10(1909)",1588994876,1588994876,True,4,0,0.568234384059906006,0,True,False,False,False,,,
+68479020,"{'steamid': '76561198870749455', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 6198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6191, 'last_played': 1695907139}",japanese,"楽しいけど謎仕様？バグ？の多いゲームです。
+雑な合戦や内政の指摘もありますがそこはあまり気になってません。
+他の人のレビューなどでもあると思いますが個人的に気になるのは以下の事象です
+
+1.謀反フラグが城ごとに設定されていて消えない
+謀反フラグが立つと謀反の報告があった場合に、斬っても追放しても謀反フラグは消えません。
+城主交代で一門などに替えても無駄です。
+また謀反フラグの立っていない別の城と転封しても忍者の影響か
+単なるバグかわかりませんが転封した後の城にもフラグが立つように思えます。
+謀反が増えるだけですのでそのままにするしかありません。
+
+2.兵糧軽視
+CPUは米を売って物資や金に換えようとしますが、出兵して米が減ってもそのままで
+士気が下がり続けた状態でゾンビのように行軍します。
+大名や軍団長でプレイするとこのようなCPUのためにわざわざ米を分け与える必要があり
+分け与えないと物資不足していることをなじってきます。
+
+3.外交の繰り返し
+大名でプレイしているとCPU大名から外交使者が繰り返し来ますが
+友好度を上げると世継ぎを養子に寄越せというような無茶な要求→断ると友好度が下がり
+また友好度を上げるための外交使者がやってきます。
+配下や従属大名でプレイすると主家大名が他の大名家と不戦同盟を延々繰り返し
+残りの大名が1家になっても続けます。
+忍者や脅迫を使って関係悪化させない限りゲームがクリアできません",1588492024,1588492024,False,8,0,0.611297011375427246,0,True,False,False,False,,,
+68085262,"{'steamid': '76561198816984520', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 3403, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2098, 'last_played': 1589428359}",schinese,下克上的完全体现、『信长之野望』的最高杰作。古今无二的下克上战国游戏。,1587939981,1587939981,True,7,1,0.594352841377258301,0,True,False,False,False,,,
+65629432,"{'steamid': '76561198965826003', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 127, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1711266014}",schinese,作为中国玩家忍着没中文就算了，反正词汇量也不多，技能和人物名显示也是中文，但我想问问为什么我不能给自己女儿取名字？连系统自带的名字都没法点确定？难道我还得专门下个日版操作系统和输入法？,1584971253,1584971253,False,6,0,0.563531398773193359,0,True,False,False,False,,,
+64656590,"{'steamid': '76561198152104685', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1583598298}",english,"No improvements, even be lazy to make a window mode or HD mode which couldn't cause much work. NOBU9 is the best version of the series; but KOEIlose their original will right now.",1583594956,1583594956,True,0,0,0,0,True,False,False,False,,,
+63495746,"{'steamid': '76561199024263490', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1705160196}",japanese,ウインドウモードは不可能。　以下、PK以前の無印との違い。　設定次第で忍者の行動を情報収集のみに限定可能で、忍者戦化が避けられる。同じく設定次第で戦場となる地形の選択や、武将が率いる事ができる兵科の選択を自由とする事が可能で、快適性が向上。　新武将の作成、イベントの作成（イベント結果として家宝を入手させる事も可）、ゲーム中の武将の編集機能、以上の3種のエディタがある。　コーエーが指定した条件下でのプレイモードがあって、それぞれ新武将、新家宝、新シナリオが追加される報酬が得られる。,1581696781,1581697358,True,1,0,0.520958065986633301,0,True,False,False,False,,,
+62422884,"{'steamid': '76561198057123517', 'num_games_owned': 170, 'num_reviews': 21, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1580009487}",schinese,新武将那个读音怎么弄啊？一弹出什么什么全角就卡那了,1580010159,1580010159,False,0,0,0,0,True,False,False,False,,,
+57795940,"{'steamid': '76561198149412548', 'num_games_owned': 0, 'num_reviews': 71, 'playtime_forever': 1516, 'playtime_last_two_weeks': 0, 'playtime_at_review': 494, 'last_played': 1685520157}",schinese,经典！,1574633935,1574633935,True,0,0,0,0,True,False,False,False,,,
+55193878,"{'steamid': '76561198016515743', 'num_games_owned': 193, 'num_reviews': 11, 'playtime_forever': 5656, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2110, 'last_played': 1589840237}",japanese,"Windows 7 64bit PCでプレイしてます。初期設定では動作が重く、もっさりしているので設定を
+エミュレーションモードとシステムメモリモードをOFF
+解像度を800×600
+にすることでようやく許容範囲となりました。これでも武将一覧などの情報画面ではカーソルがゆっくりになったりはしますが。
+
+今回初めて蒼天録をプレイしてみましたが、非常に面白く感じました。大名の居城を落とすことで総取りできることと忍者が強いことがこのゲームの欠点とみなされてるようですが、個人的には気になりませんでした。特に総取りはスピーディに展開できるので好きなシステムですし、知行を与えることで兵士が自然増するのは当時を再現するのに最もふさわしい方法だと考えます。
+
+ところで来年の大河ドラマの主人公は明智光秀ということなので、城持ちになってからの彼の人生をこのゲームで体験してみてはいかがでしょう。こつこつと開発した国を取り上げられ、軍団長の役職も剥奪。見知らぬ土地に追いやられ、今度は別の大名を討って来いと命令する大殿に疑問を感じたら、決断する時です。朝廷に根回しをし、大義名分を得て立ち上がりましょう！
+
+そういうわけでかなり気に入ってるこのゲーム。1024×768の解像度でももっときびきび動いてくれたら…とそれだけが残念でなりません。あまり期待できませんが、アップデート待ってます！
+
+追記：
+Windows 10では、エミュレーションモードとシステムメモリモードをOFF設定ならば、1024×768でももっさりした感じにはなりませんでした。情報表示画面にした時のみ、カーソルが重い感じですが、これならお勧めできます。武将プレイとしては戦国立志伝より楽しめました。",1568958530,1582806317,False,4,0,0.551028907299041748,0,True,False,False,False,,,
+54303412,"{'steamid': '76561198394270233', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 28308, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20210, 'last_played': 1687614730}",japanese,"Win7では問題なく遊べたのに、
+Win10ではマウスクリックが上手く行かない。
+これが非常にストレスである。
+
+内容は外交に重きを置いたもので、
+政治的な根回しがスキな人にはお勧めできるが、
+合戦を楽しみたい人にはイマイチ。
+
+ノブヤボ史上「最古のシナリオ」があるが、
+このゲームで目を引くのは、それと特撰カスタマイズ、
+自分で簡単なイベントが作れることだけである。
+
+ただし、そのイベントもスチルが非常に少なく、
+細かい設定はまったくできないので、
+「太閤立志伝５」のようには楽しめない。",1564143844,1564143844,False,4,0,0.561680197715759277,0,True,False,False,False,,,
+53799469,"{'steamid': '76561198097652916', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 463, 'playtime_last_two_weeks': 0, 'playtime_at_review': 455, 'last_played': 1707077312}",schinese,苦劳三味开启，emm，虐的真香。,1562423718,1562423718,True,2,0,0.540636062622070313,0,True,False,False,False,,,
+50543257,"{'steamid': '76561197993465282', 'num_games_owned': 18, 'num_reviews': 1, 'playtime_forever': 14164, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5182, 'last_played': 1707318373}",tchinese,請問w10 遊戲無法安裝   各位大大有解嗎?,1557327868,1557327868,True,0,0,0,0,True,False,False,False,,,
+49448498,"{'steamid': '76561198188642118', 'num_games_owned': 493, 'num_reviews': 177, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1704029998}",schinese,你特么就不能做个HD么，卖的贵点我也认啊，冷饭连炒都不炒就端上来了？,1552109298,1552109298,False,7,1,0.600829422473907471,0,True,False,False,False,,,
+46867611,"{'steamid': '76561198157074508', 'num_games_owned': 664, 'num_reviews': 37, 'playtime_forever': 538, 'playtime_last_two_weeks': 0, 'playtime_at_review': 531, 'last_played': 1636177156}",schinese,不错的经典，要是有窗口化就更好了,1543118472,1543118472,True,1,0,0.494699656963348389,0,True,False,False,False,,,
+45460370,"{'steamid': '76561198402099961', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 4756, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1689, 'last_played': 1697492496}",schinese,"生女儿改不了名字啊
+",1540627205,1540627205,False,4,0,0.558823525905609131,0,True,False,False,False,,,
+44903758,"{'steamid': '76561198096801528', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 388, 'playtime_last_two_weeks': 0, 'playtime_at_review': 293, 'last_played': 1702117309}",japanese,"<環境>
+*Win10
+*Ryzen 2700X
+*メモリ16GB
+*GTX 1070ti
+*ゲームをSSDにインストール
+*144hzモニター
+
+私の環境ですと通常プレイしていて動作が重すぎるということはありませんでした。
+各国政略フェイズ中(?)や軍事フェイズの進行・合戦などのスピードが以前xpやpspでプレイしたときと比較としてすごく早いので少し感動しました。
+
+<気になった点>
+「システムメモリモードOFF」だと政略フェイズでフレームレートが落ちる
+
+他の方のレビューで「OFFのほうが良い」とあったので試してみました。
+結果ですが、軍事フェイズだと144fpsで動くのに、政略フェイズに入ると30-36fpsまで落ち、右下の情報画面を開くと10fpsまで落ちます。逆にONにすると130-144fpsでした。
+環境によってON・OFFを切り替えて軽いほうでプレイするのが良いのかもしれません。
+",1537749902,1537749902,True,16,2,0.673832535743713379,0,True,False,False,False,,,
+44828193,"{'steamid': '76561198061154251', 'num_games_owned': 0, 'num_reviews': 38, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1555026132}",schinese,"中国语！！！！
+中国语！！！！
+中国语！！！！
+we need chinese language!!!!
+we need chinese language!!!!
+we need chinese language!!!!!
+",1537400968,1537400968,True,38,0,0.770493984222412109,0,True,False,False,False,,,
+43057936,"{'steamid': '76561198443988229', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 21722, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2300, 'last_played': 1706769475}",japanese,かつて遊んでいたが改めて購入。やはりおもしろい。,1529990372,1542857072,True,0,0,0.45017281174659729,0,False,False,False,False,,,
+40930686,"{'steamid': '76561198148310872', 'num_games_owned': 258, 'num_reviews': 12, 'playtime_forever': 98, 'playtime_last_two_weeks': 0, 'playtime_at_review': 98, 'last_played': 1521509399}",schinese,mlgbd 名字这没改的我都没法点确定玩你妈sb,1521509546,1521509546,False,2,4,0.401272594928741455,0,True,False,False,False,,,
+40256061,"{'steamid': '76561198814477202', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1544670080}",schinese,不卡了，就是比较郁闷，没有中文的。光荣应该做一个 中文补丁的的。我们老玩家会消费的。或者还有哪个大神有偶中文补丁？？？？？跪求。,1519145635,1519145635,True,45,1,0.807586848735809326,3,True,False,False,False,,,
+40154529,"{'steamid': '76561198042797332', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 353, 'playtime_last_two_weeks': 0, 'playtime_at_review': 320, 'last_played': 1599129418}",schinese,"信长系列中玩的第一个就是信长10，印象最深的是当初花大手笔干掉了暗杀掉了幕府将军足利，结果游戏里出来了一个乱七八糟名字的替代武将，只好一笑了之了。
+音乐是这个游戏最吸引我的地方，相对于其他几代来说，信长10的音乐相当有气势。
+另外，攻下敌方主城，即可全线吸收敌方势力的设定虽然有些变态，但对于有那么多城池的地图来说，还是很贴心的省时省力的设计。",1518868385,1518868385,True,1,0,0.488883852958679199,0,True,False,False,False,,,
+39525637,"{'steamid': '76561198135805641', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1516586753}",english,"need window mode!, tried fullscreen=0 in regedit as well.",1516586882,1516586882,False,0,0,0.48326602578163147,0,True,False,False,False,,,
+39438116,"{'steamid': '76561198015709044', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1516288457}",english,Game cannot save on win10....have to refund right the way,1516288250,1516288250,False,1,0,0.464464008808135986,1,True,False,False,False,,,
+39273078,"{'steamid': '76561198006633284', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1515733079}",tchinese,Can't save,1515733420,1515733420,False,9,0,0.63631737232208252,6,True,False,False,False,,,
+39108336,"{'steamid': '76561198084619461', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 5988, 'playtime_last_two_weeks': 0, 'playtime_at_review': 488, 'last_played': 1707474161}",japanese,"PS2で楽しませてもらったゲームなので買ったのですが、これは買わない方がいいと思います。
+三国志9pkと同じく、アプデで改良されるのであれば、買っても損はありません。
+
+先ず、不満点ですが政略画面になると殆ど静止画であるにも関わらず、カクカクしだします。
+反面、戦闘画面や野戦、攻城戦の方がはるかにあちこちで動作が発生するのに、動作に異常はありません。
+
+また、攻城戦では左右の門があり戦闘中、攻撃側や守備側はどちらの門を攻撃するか守備するか、移動ができたはずです。
+今回、なぜかそれが解らない。基本操作で調べると、右クリックで出来る様な事が書いてあるのですが、何の表示も表れない。
+左にある名前、あるいはキャラを右クリックを押して何度も試していたのですが、さっぱりわかりませんでした。
+
+野戦、攻城戦のグラフィックはPS2と比べて確実に落ち、スーファミレベルです。
+それと、PS２のPK版は討ち死や、小規模独立など、細かい設定があったけど今回はPKだけどそれがないです。
+手抜きすぎてPS2版と違う。今後出てくるかもしれない革新も太閤立志伝も、買う事はありません。",1515219197,1515219197,False,8,0,0.510367453098297119,0,True,False,False,False,,,
+38925862,"{'steamid': '76561198167675459', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 1524, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1707189937}",japanese,創造より重くプレイできない,1514786992,1514786992,False,2,0,0.481579005718231201,0,True,False,False,False,,,
+38539383,"{'steamid': '76561198182697946', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 413, 'playtime_last_two_weeks': 0, 'playtime_at_review': 306, 'last_played': 1623769471}",japanese,"かなり迷ったが、「今は」まだおすすめしない。
+
+というのも、「内容的には」間違いなくおすすめできるのである。
+城主プレイが基本の本作、戦国中間管理職的な楽しみ方が大変おもしろい。
+よその大名や城主と友誼を結び、朝廷・幕府から大義名分を得、ついには独立下克上！なんてプレイはなかなか他のシリーズではできない。
+シナリオ開始時やイベントの台詞回しもなかなか味があって良い。
+みんなぽんぽん捕まって首を取られるのはご愛敬。(この点は武将コレクターな方にはつらい仕様かも)
+
+
+ただし、現状は最低限の快適さでゲームをプレイできない。
+まずウィンドウモードが無いため、4:3サイズに対応しているディスプレイ以外でのプレイではだんだん目がつらくなる。
+また操作していてひっかかり、もっさり感があるため、没頭しにくい。もしかしたら快適に動作する設定・環境があるのかも知れないが、ここやネットの情報を見る限りではそうではない環境の方が多そうだ。
+
+現時点(2017/12/23)ではアップデート待ちが堅実。",1513958650,1513958650,False,16,0,0.66227412223815918,0,True,False,False,False,,,
+38371277,"{'steamid': '76561198364464675', 'num_games_owned': 0, 'num_reviews': 43, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1513505614}",schinese,觉得卡的兄弟们只要在启动游戏后的选项内选择启动环境设定，在里面把systen memory mode（原文是日文），也就是倒数那个改成off就好了，完全不卡了。我也是看了前面某个日本人的评论才知道的。,1513501248,1513501248,True,19,0,0.7128639817237854,0,True,False,False,False,,,
+38339618,"{'steamid': '76561198088884397', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 4798, 'playtime_last_two_weeks': 0, 'playtime_at_review': 530, 'last_played': 1695281663}",schinese,的确，win10系统下游戏会很卡。我尝试了一种方式解决问题，找到游戏安装目录，即steamapps-common-Nabunaga10WPK，将Nobunaga10WPK的兼容模式调成win8，其它不要改。很顺畅了！虽然无法窗口化。祝大家都顺利,1513392440,1513392440,True,6,0,0.581749081611633301,2,True,False,False,False,,,
+38249043,"{'steamid': '76561198039525772', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1513046158}",english,velly werry good game! 10/10,1513051455,1513051455,True,4,5,0.427437901496887207,0,True,False,False,False,,,
+38242161,"{'steamid': '76561198134178198', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1551298592}",japanese,"ウインドウズ化の方法教えてください。レジストリ見れたのですが見当たりません（TT
+三國志Xはconfigにあるのでウインドウ化できたのですが。。。よろしくお願いします。",1513022064,1513022064,True,3,4,0.451941937208175659,0,True,False,False,False,,,
+38202113,"{'steamid': '76561198112528866', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 4603, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1749, 'last_played': 1584497286}",japanese,"無印は忍者ゲーとか総取りゲーとか言われて評価は高くありませんが、
+PKではカスタマイズしてそうした欠点をなくすことが出来ます。
+そういった欠点がなくなれば、近年のノブヤボをプレイするよりも戦国時代の雰囲気を楽しめるでしょう。
+・調略によって勢力を翻弄したい方、されたい方
+・城主としてお家乗っ取りを企みたい方
+・地方を統一して強大な信長・秀吉軍の攻勢に耐えたい方
+にオススメします。逆に言うと
+・RTSの要素を楽しみたい方
+・内政を楽しみたい方
+にはオススメできません。蒼天録では上記の2点は簡略化されています。
+最後にBGMはチェコ・フィルハーモニー管弦楽団のサウンドで秀逸です。ニコニコ動画に挙がっていますので参考までに。",1512888971,1512889052,True,16,1,0.633548855781555176,0,True,False,False,False,,,
+38185328,"{'steamid': '76561198039827211', 'num_games_owned': 823, 'num_reviews': 432, 'playtime_forever': 672, 'playtime_last_two_weeks': 0, 'playtime_at_review': 325, 'last_played': 1706944866}",schinese,"[quote=]
+[h1][url=https://store.steampowered.com/curator/36376191]点击这里关注我的鉴赏家 ▲老K的游戏购买指南▼[/url][/h1]
+这是款经典的历史模拟策略游戏。玩家需要通过战争或外交手段来统一整个日本战国。
+
+虽然是一款老游戏重置，但游戏中画面细节的表现和人物动作放到现在来看依然优秀。音乐方面令人赞叹不已，玩家进行不同行动时都有极应景的BGM配合，这些都极强增加了玩家的代入感。
+
+本作游戏突破了以往只能扮演“大名”的玩法，玩家可以选择某一势力下的“军团长”或者“城主”进行扮演，是辅助本家大名统一日本，还是通过丰富的外交系统进行“下克上”来让自己最终成为战国霸主，玩家可自由选择。本作除了一般大名势力外，地方豪族、忍者、商人、一向宗、海贼都变成了可以互动甚至影响战斗的元素，和他们的外交关系将成为统一战国道路上至关重要的一步。
+
+可惜游戏虽为重置，但对新系统的支持并不完美，游戏也不支持窗口化，而且定价也偏高。
+ [/quote]",1512838072,1579486536,True,5,0,0.534824788570404053,0,True,False,False,False,,,
+38135359,"{'steamid': '76561198029689052', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 1058, 'playtime_last_two_weeks': 0, 'playtime_at_review': 677, 'last_played': 1588740954}",schinese,小时候玩的最长时间的游戏之一，现在来补票。希望早日推出中文翻译,1512672445,1512672445,True,3,1,0.508439540863037109,0,True,False,False,False,,,
+38127955,"{'steamid': '76561198156914385', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 675, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1546054353}",japanese,"当方win7 64bit directx11 の環境 
+全ての場面で動作が遅い。他の掲示板でも指摘されている。
+追記
+ランチャーの動作環境設定で、システムメモリモードをＯＦＦにすると改善した。
+ストアページに表記してはどうか。",1512650977,1512660681,True,42,5,0.787915408611297607,0,True,False,False,False,,,
+38117441,"{'steamid': '76561198288570456', 'num_games_owned': 124, 'num_reviews': 12, 'playtime_forever': 828, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1542728567}",tchinese,"太卡，問題解決前不適合入手
+
+按照其他評論所言，關閉啟動設定最後一個選項，問題已解決。
+能讓女兒出去給人當養女，然後把對方跟其他繼承人都用忍者暗殺掉，女兒繼位當大名後認祖歸宗投降回來的也只有這代了吧。",1512609809,1513086082,True,6,0,0.603852391242980957,3,True,False,False,False,,,
+38104979,"{'steamid': '76561198167330555', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 273, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1691333620}",japanese,かつて同製品を購入させていただいたものです。win-10環境でも問題なく作動しました。昔と同じように松永弾正での君側の奸プレイ、真田昌幸で武田家再興プレイなどが楽しめます。しかしCD-ROM時代と同じようにwindowモード化が困難でフルスクリーンモードを余儀なくされます。そこだけ何とか改善をお願いしたいものですね。,1512571817,1512571817,True,20,0,0.673942983150482178,0,True,False,False,False,,,
+38097345,"{'steamid': '76561198014440568', 'num_games_owned': 563, 'num_reviews': 26, 'playtime_forever': 2594, 'playtime_last_two_weeks': 0, 'playtime_at_review': 418, 'last_played': 1662378753}",schinese,买买买！战斗比9代不知道高到哪里去了。情报界面也不卡了，原来新系统会卡。太阁5什么时候上steam。,1512545587,1512545587,True,16,0,0.636852622032165527,6,True,False,False,False,,,

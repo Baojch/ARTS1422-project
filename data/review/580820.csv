@@ -1,0 +1,269 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+153811782,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1690301768}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702841190,1702841190,True,0,0,0,0,True,False,False,True,,,
+131268186,"{'steamid': '76561198050002707', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1674305863}",japanese,"ロボットカーを操縦して遊ぶ少人数サッカーゲーム。
+ステージも通常のサッカーのグラウンドから、障害物ありのステージまで用意されています。
+基本的にチームメイトはAIですが、しっかりディフェンス・オフェンスを切り替えて戦ってくれるので、最初はAIから動きを学べると思います。
+シンプルな操作ながらゴールしたときは嬉しいし楽しい！
+一人でもカジュアルに遊べて良い感じです。
+日本語対応していませんが、問題なく遊べると思います。",1674306207,1674306207,True,0,0,0,0,False,True,False,True,,,
+125276378,"{'steamid': '76561198328064973', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1510500846}",english,SUUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII,1668134321,1668134321,True,0,0,0,0,True,False,False,True,,,
+122600963,"{'steamid': '76561198866942343', 'num_games_owned': 317, 'num_reviews': 473, 'playtime_forever': 227, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1668984391}",english,"The concept is solid. The graphics and sound effects aren't high resolution or detailed, but are detailed enough for a low budget title. If this title had tight, reliable controls and a reasonable camera, it would be on the recommended side of average. Unfortunately, the controls are extremely loose, there's no gamepad support, and the camera rotates in such a way as to create confusion regarding directional movement. Admittedly, there's a top down view you can opt to choose as well.
+
+It's also a $14.99 title. This is definitely far from a $15 title.
+
+Fix the controls, add gamepad support, fix the camera, and either add upgrades, other management mechanics, and/or other content OR lower the price to $4.99 or less, and it would be a recommend.",1663796469,1663796469,False,0,0,0,0,True,False,False,True,,,
+102939348,"{'steamid': '76561199221334170', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 263, 'playtime_last_two_weeks': 0, 'playtime_at_review': 263, 'last_played': 1637159754}",english,"This is last game what I played from complete package. I played this with my friend in split screen. Championship is difficult but incredible fun with friend. One dislike: The game don't have online multiplayer. Splitscreen is good but if you want to play with friends, you can play via Remote play together. I can recomended complete package. If is good discount, games can deliver lot of fun",1637160346,1637160346,True,0,0,0,0,True,False,False,False,,,
+96589727,"{'steamid': '76561198054241099', 'num_games_owned': 0, 'num_reviews': 346, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1627585376}",german,AI ELITE ??????? ok ?????? nop !!!!!,1627585392,1627585392,False,0,0,0,0,True,False,False,False,,,
+93324971,"{'steamid': '76561198052649998', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 222, 'last_played': 1623020514}",german,"nettes kleines spiel, immer gut für zwischendruch!",1623020632,1623020632,True,0,0,0,0,True,False,False,False,,,
+83939710,"{'steamid': '76561197976516443', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 123, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1609782037}",english,"It's just bad. Most of the time I have on this game was probably trying to get the controllers to work, and the rest was me wishing I wasn't playing it. There's just not really anything interesting that happens in the games - it's a very bland experience. Maybe some different bots, weapons, skills, just anything might help!",1609710113,1609710113,False,0,0,0,0,True,False,False,False,,,
+82697746,"{'steamid': '76561198042628422', 'num_games_owned': 0, 'num_reviews': 58, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1608392661}",english,"The gameplay is fair with some glitches.
+
+However, I can't recommend with the given price.
+
+Too simple. Too mediocre.",1608393790,1608393790,False,0,0,0,0,True,False,False,False,,,
+72582168,"{'steamid': '76561198417010814', 'num_games_owned': 30, 'num_reviews': 5, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1594998948}",russian,Классное музыкальное сопровождение в главном меню. На этом плюсы заканчиваются. Все остальное - отвратительно. Даже мультиплеера нет. Управление неудобное. О каких 250 рублей может идти речь за это?,1594583401,1594583401,False,0,0,0,1,True,False,False,False,,,
+69283868,"{'steamid': '76561198258286866', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1586506329}",english,"rocket league 2.0
+best game NA",1589689135,1589689135,True,0,1,0.490909069776535034,0,True,False,False,False,,,
+67479000,"{'steamid': '76561198395284536', 'num_games_owned': 0, 'num_reviews': 907, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1583823770}",russian,"Прошёл за 0,8 ч. неплохо, но слишком быстро. 0,8 ч - это ещё с косяками и тупняками, а так вообще за полчаса пройдёте. Игра весёлая и не даст заскучать.",1587108732,1641732367,True,9,0,0.635507345199584961,0,True,False,False,False,,,
+62598054,"{'steamid': '76561198011262931', 'num_games_owned': 461, 'num_reviews': 30, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1580260583}",english,"Good game 
+With friends it's more funny, local game mode available !!!!",1580260216,1580260216,True,1,0,0.523809552192687988,0,True,True,False,False,,,
+58603030,"{'steamid': '76561198280380309', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 520, 'playtime_last_two_weeks': 0, 'playtime_at_review': 164, 'last_played': 1697831338}",romanian,best game ever!,1575049354,1575049354,True,1,0,0,0,False,False,False,False,,,
+58396722,"{'steamid': '76561197964307610', 'num_games_owned': 808, 'num_reviews': 19, 'playtime_forever': 111, 'playtime_last_two_weeks': 0, 'playtime_at_review': 111, 'last_played': 1565632112}",english,"Interesting little game.
+Not perfect, but still fun.
+Tournament is the best mode..",1574943539,1574943539,True,1,0,0.467937588691711426,0,True,False,False,False,,,
+58126184,"{'steamid': '76561198084155744', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1590143665}",english,FUN GAME REALLY HAD A GREAT TIME FUN WITH FRIENDS,1574848119,1574848119,True,2,0,0.49477270245552063,0,True,False,False,False,,,
+54921401,"{'steamid': '76561198074720269', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1565323656}",english,Just get fucking rocket league instead,1567354031,1567354031,False,1,1,0.425686895847320557,0,True,False,False,False,,,
+54770785,"{'steamid': '76561198121398682', 'num_games_owned': 19753, 'num_reviews': 1577, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1518128868}",english,"It's soccer with robots. Kind of like a top down Rocket League. Control your robot and try to kick some goals. But you don't have feet. Doesn't matter. Use your robot skills to score.
+https://youtu.be/VyfNxPwfBsU",1566592319,1566592319,True,2,0,0.528301894664764404,0,False,False,False,False,,,
+54207907,"{'steamid': '76561198198213922', 'num_games_owned': 252, 'num_reviews': 62, 'playtime_forever': 3852, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1371, 'last_played': 1643231888}",swedish,"JUST TO LET YOU KNOW: I'm above standard playtime on this game and I'm currently #1 in the leaderboards! So mine and others players experience isn't the same (avarge have about 0.1-6h playtime I got more)
+
+When you start the game you need to do a tutorial to learn to control the robot, and just learn the basics (really quick)
+It exist some gamemodes:
+Friendly Match: Chose map, How long the match would be, Chose players then the difficulty
+Championship: Chose your country and repeat from above^
+Local Multiplayer: Can't give my opinion just test it with my self it's probably fun but I can't give my opinion on this!
+Maps: Pitch with obstracles in it and classic football pitch!
+Options: You have potato or monster pc? Dosen't matter it's not high quality settings
+The soundtrack is kinda bad so use your spotify or something if it annoy you!
+The bots are really easy to play against, the championship is still fun!
+If you play alot you gonna think it's easier more you play!
+Are you looking for online game? This game have official steam leaderboards but you can't start a game with your friends (if you not play local) So if you looking for online game, this is not for you!
+If you don't have friends like me, this is perfect to play :D
+Do I recomend it? Ofcourse I do, you gonna enjoy it alot :)",1563697685,1563697685,True,2,0,0.523809552192687988,0,True,False,False,False,,,
+52695870,"{'steamid': '76561198357467421', 'num_games_owned': 559, 'num_reviews': 23, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1561944950}",english,"It's really fun, and honestly, it reminds me of FRC. (First Robotics Competition.)",1561946653,1561946653,True,3,0,0.545454561710357666,0,True,False,False,False,,,
+52489532,"{'steamid': '76561198044847463', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 61, 'last_played': 1564796717}",brazilian,Ótimo jogo pra jogar com os amigos! Mas precisa urgente aumentar o tamanho da goleira para q mesmo alguém esteja parado na frente dela seja possível fazer gol!,1561913161,1561913161,True,0,0,0,0,True,False,False,False,,,
+51536741,"{'steamid': '76561198348663990', 'num_games_owned': 40, 'num_reviews': 16, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1561822952}",brazilian,"NÃO VALE A PENA!!!!! pelos seguintes motivos: é MT caro, NÃO tem MULTIPLAYER e pra piorar é MT mal otimizado.",1561756772,1617022122,False,0,0,0.476190477609634399,0,True,False,False,False,,,
+50516444,"{'steamid': '76561198853432246', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 1033, 'playtime_last_two_weeks': 0, 'playtime_at_review': 114, 'last_played': 1581697156}",german,"Alles klar. Geiles Spiel! Kaum Bugs, dafür, dass es noch in der Entwicklungsphase ist. Macht immer mehr Spaß. Einfach nice.👍",1557169425,1566476823,True,0,0,0,0,True,False,False,False,,,
+49344456,"{'steamid': '76561198880459212', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 85, 'playtime_last_two_weeks': 0, 'playtime_at_review': 85, 'last_played': 1553352964}",english,This is a very fun game a really recomend it! the 1 problem i have though is that once you get good its really easy. Besides that it is a really fun game.,1551649209,1551649209,True,2,0,0.523809552192687988,0,True,False,False,False,,,
+49200687,"{'steamid': '76561198151826999', 'num_games_owned': 180, 'num_reviews': 21, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1488151472}",english,"This game is unpolished, misleading, but somewhat fun gameplay. Still rating it down",1550975640,1550975640,False,4,0,0.534073889255523682,0,True,False,False,False,,,
+49066387,"{'steamid': '76561198873024406', 'num_games_owned': 131, 'num_reviews': 12, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1547201275}",schinese,"首先它的题材不错，踢球的我也很喜欢
+但是这个视角真的非常非常反人类！！
+它有两种视角，一种是随着你的车运动的，但是视角会随着车转！！也就是说你要转弯整个屏幕都会转！！而且很快！！特别晕
+另一种视角是固定在侧边，但是你的操作，很多时候会不知道自己在往哪走
+还有，游戏里车子的操作感觉就很难受，不知道怎么描述，就是生涩的感觉
+我玩的时候是更新到2018/10/05
+不知道以后会不会更新
+别买，打折也别买",1550465275,1550465275,False,2,0,0.545454561710357666,0,True,False,True,False,,,
+48282231,"{'steamid': '76561197982529354', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1577747156}",brazilian,"Amei o estilo do jogo, muito bem feito a parte gráfica e dinâmica do jogo.
+
+Pontos fracos:
+- Não tem modo online, apenas é possível jogar com amigos local, no mesmo computador.
+- Inteligência artificial baixa, é possível completar todas missões apenas fazendo a quantidade de gol necessária para a missão e depois você pode ficar rodando com a bola no campo, que o computador ficar rodando atrás, até o tempo acabar.
+Completei todas as missões com menos de 30 minutos.
+
+Desejo que os desenvolvedores liberem o modo online via internet, contra oponentes reais, vai ficar ótimo!
+
+Podem colocar alguns itens para equilibrar as partidas quando tiver muito fácil.",1547310576,1547310576,True,0,0,0,0,True,False,True,False,,,
+47953445,"{'steamid': '76561198016899458', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1546168669}",english,"Fun little game, controls are simple and you dont need to be a football expert to grasp this, would like to see customisable robots (unless i messed that) and this even has the base of a good robot wars type game. Only negative is no online multiplayer, would probably keep coming back to this for the multiplayer I can imagine local multiplayer would be a lot of fun.
+
+",1546169241,1546169241,True,1,0,0,0,True,False,True,False,,,
+47697059,"{'steamid': '76561198093060386', 'num_games_owned': 365, 'num_reviews': 16, 'playtime_forever': 86, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1618878614}",latam,no es un mal juego pero el arco tiene que ser mas grande urgente por el motivo de que si se quedan en el arco fijo es muy dificil hacer un gol,1545455133,1545455133,True,0,0,0,0,True,False,True,False,,,
+47603344,"{'steamid': '76561198058370244', 'num_games_owned': 0, 'num_reviews': 2247, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1545564739}",russian,"Простоватый футбол роботов. Есть элементарное без особых изысков. Хотелось бы побольше контента.
+Играйте лучше в Rocket League!
++1 идеальная игра.",1545125428,1563734906,True,5,1,0.464796781539916992,1,False,False,False,False,,,
+45653408,"{'steamid': '76561198015483969', 'num_games_owned': 5460, 'num_reviews': 426, 'playtime_forever': 76, 'playtime_last_two_weeks': 0, 'playtime_at_review': 76, 'last_played': 1541507841}",russian,"Дорого. Потому что мало контента: одна мелодия в меню и один набор фоновых звуков в игре;, всего один вид робофутболиста; всего две арены - быстро надоедают, а могли бы быть различных конфигураций и размеров; правила - их должно быть много, что бы были разного вида состязания. Чемпионат однообразный и не интересный: страны разные. а играют все одинаково, побеждаешь одного противника. играешь со следующим, а он точно такой же, только что флажок заменился на другой. а всё те же манеры игры и поведение. очень быстро, минут за 15 понимается схема игры ботов. и тактика борьбы с ними. Ворота маленького размера, и робот на 2/3 перекрывает их. в результате проще закатить мяч в них нежели забивать, а как закатить и обвести бота ты так же поймёшь. В турнирной сетке банально нельзя сохраниться, и выйдя из него начинать будешь сново сначала. А доигрывать турнир до финала за раз не будешь, так как он надоест уже на играх 5-6-ых.
+Будь цена 30 рублей, то игра получила бы одобрительную оценку за забавный закос под футбол, но за то сколько за игру просят сейчас оценка неуд. Много хотите, а мало даёте.",1541507162,1541507417,False,4,1,0.563132643699645996,0,True,False,True,False,,,
+44649215,"{'steamid': '76561198009625844', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1536491535}",english, Controller suport is none. Only keypad option is available. I've try many ways to setup the Xbox controllres but not working at all.,1536489468,1536489468,False,12,1,0.641618907451629639,0,True,False,True,False,,,
+43969052,"{'steamid': '76561198148156086', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1577807429}",german,Don't buy it if you want to play it via steam link. It's not supported.,1533577658,1533577658,False,0,1,0.445544540882110596,0,True,False,True,False,,,
+43294384,"{'steamid': '76561198061128294', 'num_games_owned': 0, 'num_reviews': 88, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1554800289}",russian,Не хватает каких то бонусов а то выиграл у компьютора и на этом всё........и сохранить чемпионат охота .....иногда до конца надоедает играть.......не знаю что то не хватает этой игре.......какой то изюминки!!! А так поиграть можно но не долго быстро надоедает!!!,1530703570,1530703570,True,6,0,0.557305574417114258,0,True,False,True,False,,,
+42958175,"{'steamid': '76561198408676879', 'num_games_owned': 523, 'num_reviews': 24, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1529747799}",english,Great Game !,1529740486,1529740486,True,0,0,0.469936728477478027,0,True,False,True,False,,,
+41292066,"{'steamid': '76561198023049805', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1524151293}",english,Exactly the kind of fun you'd expect it to be,1522902030,1522902030,True,2,1,0.514731347560882568,1,True,False,True,False,,,
+40383683,"{'steamid': '76561198063990714', 'num_games_owned': 457, 'num_reviews': 164, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1519522435}",english,"played this and quite enjoyed it  but it still feels  clunky even when using a controller I tried the 8BIT DO AND XBOX ONE controller they worked ok to be honest
+so I left it for a while....after several updates the game is a little better but sucks as the Ai is no fun at al
+they dont pass  or take that many ranodm crazy shots at goal so you can ge a cool rebound
+if your lucky the ball sticks to you but more or less rebounds of your mech
+the mechs are all kinda the same no make a bot no creat a track 
+in fact its only worth it when playing against another human
+its no rocket league but then this game is a fiver 
+game needs map editor more field to play on and modes and a mech/robot creation type mechanic
+power up would be cool
+how about big ball bigger goalposts (they are too small IMO) SMALL MECH LARGE MEC
+ideas abound .. I have to say it still needs work  it has potential id buy it for multiplayer  as AI is useless at times But not totaly useless the challenge is there they are quick to react and
+score better goals.... i recommend playing with a friend  so  I can recommend it only for that
+
+https://www.youtube.com/watch?v=3JSkaYhZjLI&t=3s",1519553948,1519554061,True,2,0,0.497360110282897949,0,False,True,True,False,,,
+40188241,"{'steamid': '76561197987748019', 'num_games_owned': 648, 'num_reviews': 11, 'playtime_forever': 207, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1565031992}",english,"I enjoy this game very much. Nicely and varied designed arenas, Controls may be a bit stiff, but i can overlook it since it's a solid overall experience for me. ;-)
+
+I would like to see the possibility to make custom maps in the future and a goal replay, but nothing u (the developers) have to rush. :)
+
+Sometimes the ball glitches through the boundaries of the pitch/arena. But not very often,
+
+Keep it up, boys!",1518952687,1518952687,True,3,0,0.473602950572967529,2,True,False,True,False,,,
+39971336,"{'steamid': '76561198107333979', 'num_games_owned': 149, 'num_reviews': 90, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1518472890}",english,"Amazing game, lots of fun w/ friends :'(",1518249894,1518249894,True,1,1,0.447019845247268677,0,True,False,True,False,,,
+39778283,"{'steamid': '76561198139237759', 'num_games_owned': 1588, 'num_reviews': 122, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1513168326}",turkish,"Eskiden lise teneffüslerinde ilk çıkan android cep telefonlarından pocket soccer tarzı oyunlarla turnuva yapardık. Onun masaüstü bilgisayara Unity ile çok daha güçlü grafiklerle ve 3D olarak uyarlanmış hali. Oyunda Ranked sistemi de var. Arkadaşlarla alınabilir ama fiyatı indirimdeyken alınır. Yoksa normal fiyatına bakarsak Rocker League karşısında pek şansı yok. Oyuna aksiyon eklemeleri iyi olabilir. Yeni arabalar ve kariyer tarzı ilerlemeli bir oynanış güzel olurdu. Sonuçta 1 liralık bir oyun değil insan diğer oyunlara nazaran bazı şeyler bekliyor.
+
+https://youtu.be/CfCMHCgv-II",1517524334,1517524334,True,17,1,0.681986033916473389,0,False,True,True,False,,,
+39708887,"{'steamid': '76561198060364008', 'num_games_owned': 406, 'num_reviews': 3, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1493391439}",english,"I bought and run it. And then my keyboard went dead. Not a single key had any effect on the game. I couldn't even left the game or press CTR+ALT-DELETE to kill it. No matter what I tried to do nothing happened, completely dead keyboard. I had to hard reset the comp, and tried again, but as soon I went into this game the same repeats. I asked Steam for refund.",1517242590,1517242590,False,7,10,0.409140706062316895,0,True,False,True,False,,,
+39455138,"{'steamid': '76561198110614150', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 117, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1590227352}",german,"Ein kleines nettes Spiel mit viel Potential.
+
+Ich fände es toll, wenn es verschiedene Roboter 
+mit verschiedenen Fähigkeiten geben würde.
+Geschwindigkeitsboost, Waffen, ""Bananenschüsse""
+Da gäbe es sicher viele Möglichkeiten.
+
+Was mir beim Spielen auffiel ist, das der Ballführende 
+Roboter meist schwierig von selbigem zu trennen war.
+Beim ""Dribbeln"" gibt es keine zeitliche Begrenzung, dass kann
+zu ewigem Kreisfahren führen. Für die Verfolger wäre das ziemlich
+frustrierend. Ein Paar Raketen auf solche Leute abfeuern würde 
+sicher Spaß machen. Oder typische Robotorkampfwaffen wie
+Säge, Walzen, etc...
+Zumindest sollte die Geschwindigkeit beim Ballführen gedrosselt werden.
+Das es mehr Sinn macht zu schießen.
+
+Auch interaktivere Arenen wären klasse. Die Idee mit den Autoreifen 
+(die man auch auf die Gegner schießen kann) ist klasse.
+Cool wäre, wenn ein Treffer zum Ballverlust führen würde.
+Nur bitte haltet sie von den Toren fern. Das gibt Spielern die Möglichkeit 
+das Tor mit Reifen zu verstopfen!!
+
+Fazit:
+Das Spiel macht jetzt schon Spaß!
+Vorallem weckt es viele Hoffnungen auf neue Features!
+Wenn die Entwicklung gut verläuft würde ich auf jeden
+Fall sagen, dass in der Bibliothek etwas fehlt, wenn
+Robot Soccer Challenge nicht enthalten ist!!",1516355103,1516355103,True,1,1,0.523809552192687988,0,True,False,True,False,,,
+39238975,"{'steamid': '76561198142974562', 'num_games_owned': 3754, 'num_reviews': 31, 'playtime_forever': 133, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1574953344}",english,"As it is it becomes quite repetive and boring. The game seriously need something to spice it up a bit. I would sugest a bigger field, more robots and teaching AI to recieve a pass as a starting point...
+
+I'll try it again in some time to see if something has been done to make it more interesting. But till then its a no from me.",1515612848,1515612848,False,1,0,0.49824562668800354,0,True,False,True,False,,,
+38762295,"{'steamid': '76561198066921879', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1514426183}",english,"I can get behind this game as an Early Access development. The mechanics and idea is pretty fun, but there are a few bugs. I'd like to see where the developers take this in the coming months.",1514426284,1514426284,True,2,0,0.529664933681488037,0,True,False,True,False,,,
+38684706,"{'steamid': '76561198117236624', 'num_games_owned': 0, 'num_reviews': 52, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1550074584}",english,"Good game for $4, has intresting and varied arenas.",1514265544,1514265544,True,2,1,0.444096177816390991,0,True,False,True,False,,,
+38136935,"{'steamid': '76561198034977092', 'num_games_owned': 1686, 'num_reviews': 375, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1512329099}",italian,"Mi dispiace sempre dare voti negativi a giochi ancora in accesso anticipato, ma allo stato attuale delle cose non posso davvero consigliare questo titolo. Tra gli aspetti più negativi abbiamo l'IA davvero pessima e l'assenza di multiplayer online, ma purtroppo la lista delle cose negative è davvero lunga.
+
+Per chi volesse approfondire un pelo la situazione, ho realizzato un video che vi schiarirà le idee in meno di 5 minuti:
+
+https://www.youtube.com/watch?v=DsmGRhiPfKk
+
+Buona visione :3",1512677258,1512677258,False,2,0,0.517647087574005127,0,False,True,True,False,,,
+37786932,"{'steamid': '76561198119419995', 'num_games_owned': 192, 'num_reviews': 5, 'playtime_forever': 233, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1511741022}",brazilian,"Jogo bom para passar o tempo e se distrair um pouco com os amigos, não vi nenhum multiplayer apenas, dividinfo a tela com um amigo, precisa melhorar em muitas coisas, não vale mais que 5 reais, acima disso no momento atual do jogo não comprem pois o investimento não vale a pena.",1511793402,1511793402,True,1,0,0.5,0,True,False,True,False,,,
+37511876,"{'steamid': '76561198026373095', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1511576734}",english,"I bought this game from the Black Friday Sales and played an hour and a half. I played online and with bots, so hre we go:
+
+Pros:
+- Multiplayer is all laughs, seriously. I played with a friend and is all laughs.
+- Normal and ""rubbish"" changeable fields. I enjoyed more the latter, but I find interesting to have both (since I've seen that before didn't exist the normal one).
+- Goal posts are so tiny. When playing online is no use than to push, but in bots yo have to distract them to leave the goal empty. Maybe a larger goal would be interesting, but for now I feel it's fine.
+- Thank god you can change timing and number of players when playing the championship.
+
+
+Cons:
+- Bots are easy, even the hard/fast ones. Even without knowing how to play properly. I would like an even faster game.
+- It feels a bit simple and stuck when playing and going for the ball. Should they add some things like weapons? Or maybe some field powers?
+- Championship is also simple, but that's the usual in these games. I consider it ""con"" (but constructive) because maybe could have a FIFA-like system with better/worse players and keep changing them, like a career progress. I only say this because the game is still in development, so there could be time for this.
+
+For what it offers, right now is a little bit expensive, but we all hope it will get better and it will pay :)",1511611871,1511612337,True,6,1,0.567546248435974121,0,True,False,True,False,,,
+36601436,"{'steamid': '76561198085659699', 'num_games_owned': 113, 'num_reviews': 62, 'playtime_forever': 73, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1577468324}",polish,W grze wystarczy cisnąć boty grasz grasz i potem jesteś 1 w rankingu światowym i nikt cie nie dogoni bo każdy tą gre pierdoli XD 1410/10. Polecam,1511023045,1511023045,True,2,20,0.456880837678909302,0,False,False,True,False,,,
+36309252,"{'steamid': '76561198268867765', 'num_games_owned': 66, 'num_reviews': 1, 'playtime_forever': 30529, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7724, 'last_played': 1599114555}",english,"Very interesting game so far, very simple yet fun, with potential to add even more.
+Still having some issues with the ball flying through walls, but otherwise everything is wokring smoothly and I'm quite enjoying it
+
+Some ideas for imnprovement:
+A mode without ball control and shooting
+Replays for goals
+Customizable maps
+
+I know these may not be the easiest, but they would make great additions to the game",1509918363,1509919489,True,12,7,0.603114485740661621,2,True,False,True,False,,,
+35750145,"{'steamid': '76561198415126015', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1507935477}",english,The game when you steer is sorta stiff id say not the best you could sort of use a controller but a controller doesnt even help it that much only 2 achivements and they are the basic ones for purchassing it and for finishing the toturial,1508080107,1508080107,False,4,0,0.353579252958297729,0,True,False,True,False,,,
+34241438,"{'steamid': '76561198073395575', 'num_games_owned': 281, 'num_reviews': 4, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1515941084}",english,"First things first, this isn't anything like Rocket League, aside from the concept of ""vehicles knock balls into goals"". It's a lot more like Robot Wars: Extreme Destruction's Football mode, but with actual ball control and shooting instead of aimlessly knocking a ball about (although a mode without the shooting mechanic could be great).
+I thought the AI would be very simple in this early access stage, and while they were always chasing the ball rather than one chase a ball, the other wait for a pass (which, to be fair, is fairly advanced AI), they did understand defending the net when you have the ball, as well as even chipping it over you if you're charging towards them.
+The only real problem I had was that sometimes the ball would clip out of the arena if I shot too hard, and it wouldn't come back, so I just had to wait for the match to finish. 
+
+All in all, it has potential to be a solid robot soccer game!",1502737166,1502737311,True,10,5,0.513140738010406494,3,True,False,True,False,,,
+33413659,"{'steamid': '76561198269590819', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1499630742}",spanish,BUENO PERO LE FALTA EL MULTIPLAYER ONLINE SI NO NO VALE LA PENA ! LO DEVOLVI... PERO LA JUGABILIDAD ESTA BIEN PERO COMO DIGO FALTA ONLINE ! ;D LO VOLVERE A COMPRAR CUANDO ESTE ONLINE,1499630850,1499630850,True,6,1,0.565585315227508545,5,True,False,True,False,,,
+33091292,"{'steamid': '76561197994498024', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1538764688}",english,"Pretty promising game as it's still in early access
+couple of pointers :
+
+- think of integrating XBOX controller since this will make movement easier
+- think of refining further more the graphics ...
+
+good luck :)",1498927543,1498927543,True,14,4,0.571980118751525879,0,True,False,True,False,,,
+33050987,"{'steamid': '76561197970397249', 'num_games_owned': 0, 'num_reviews': 68, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1708662068}",finnish,"This game own huge potential. Hopefully this coming better and better and will get many patches that make this better and better !  I was very sceptic at first but I am really happy that I bought this.. somebody said this is like Rocket League, but this isn’t. This is very different kind of game, this has own and unique feeling !  
+
+I really like the controls and graphics. Fun and entertaining :) Very positive surprise ! 
+
+Thanks and keep up the good work ! 
+
+-------------------------------------------------------------------------------
+
+Elikkäs vielä ois Early Accessa tasolla tämä peli. Tästä kuitenkin jo nyt huokuu heti kättelyssä että mikä huikea potentiaali tässä on. 
+
+Kentät ovat suht mielenkiintoisia ja toivottavasti niitä tulee tulevaisuudessa vielä paljonkin lisää. Toki toivottavasti määrä ei sitten korvaa tasoa tyyliin kuitenkaan.
+
+Kontrollit ovat tarpeeksi hyvät, toki pientä viialusta vielä niin voisivat olla mahtavat. Myös fysiikat ottavat välillä vähän erikoisia pomppuja tuon pallon osalta mutta ei pilaa pelinautintoa juurikaan. 
+
+Grafiikat yllättivät kuinka mainioita olivat kun kuitenkin tälläinen Unityllä tehty peli niin harvemmin ne tuolla puolella hirveästi loistavat, vaikka usein asian ajavatkin. 
+
+Onneksi pelin ostin vaikka tovin mietin että uskaltaisko mutta hetkeäkään ei sitä ole tullut kaduttua ! Päinvastoin, todella hauska ja kiva peli jossa on potentiaalia hioutua vielä todella kirkkaaksi timantiksi mutta jo tässä muodossa nautittavaa pelailua ja joku tätä näytti tuota vertaavan tuohon Rocket League peliin mutta tämä aivan toisenlainen ja tyylinen peli, yllätävän vähän lopulta yhteyttä tuohon peliin tällä.
+
+Suosittelen melkeinpä varauksetta antamaan tälle mahdollisuuden ja kokeilemaan :) Itselle ainakin ollut todella mainio ja positiivinen tapaus :)",1498848641,1498851945,True,5,3,0.505656778812408447,2,True,False,True,False,,,
+32536873,"{'steamid': '76561198166826167', 'num_games_owned': 100, 'num_reviews': 12, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1497721055}",english,shit because has no multiplayer,1497791298,1497791298,False,36,5,0.357169508934020996,0,False,False,True,False,,,
+32334333,"{'steamid': '76561198093359944', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1497157039}",english,"Do not buy this game yet, the controls seem sticky, and the game is difficult to play even on easy. The default audio settings will leave you deaf, and the tutorial teaches you nothing.",1497157134,1497157134,False,96,24,0.624844670295715332,9,True,False,True,False,,,
+31412785,"{'steamid': '76561198081542839', 'num_games_owned': 1399, 'num_reviews': 250, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 204, 'last_played': 1491755663}",spanish,"Me encanta este juego! Una especie de Rocket League visto en 3a persona en el que se trata de marcar gol, tiene que ser chulisimo jugar con gente aleatoria. Estaría muy guay personalización de los coches, pero por lo demás me he divertido muchísimo. Los mapas bastante chulos y eso de poder pasar por encima la pelota o llevarse los neumaticos y ponerlos en portería 10/10. Recomiendo jugarlo con mando, porque al principio los controles con teclado son dificiles de llevar. Jugaremos otras partidillas con el mando a ver que tal nos va!! Personalizacioneees! Tened en cuenta también que todavía está en Early Access.
+
+Aquí os dejo un video del juego: https://youtu.be/jKtq2Zgdhpw",1493374377,1506983855,True,6,1,0.552050471305847168,2,False,False,True,False,,,
+31180465,"{'steamid': '76561198349275693', 'num_games_owned': 569, 'num_reviews': 2, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1492355421}",german,"Schöner Early-Acces Titelm mit kleinen Macken,
+
+Die Maps und die Musik im Hauptmenü sind riichtig cool. Auch die Spielmodie sind für einen Eraly-Acces Titel ausreichend und der Preis ZURZEIT Spitze (Wenn es raus kommt, wird es bestimmt teurer)
+
+Was mir fehlt ist:
+-die Sprache Deutsch
+-Controllereinstellungen (nur Manuell vor dem Start auf Komplizierte weise änderbar, die Controllereinstellungen, die vorgegeben sind, sind GRAUENHAFT!!!)
+-Mehr Einstellungsmöglichkeiten (Zurzeit kann man die Grafik,Musik und Fenstergröße ändern)
+-Steam Errungenschaften, die 2, die es gibt sind derzeit, wenn man das Spiel startet, als dank für den Kauf und wenn man das Tutorial beendet hat. Ich wünsche mir so villeicht 10-15 Errungenschaften!
+
+Fazit: ich würe dem Spiel von 10 möglichen Punkten 8,5 geben.",1492355721,1492356036,True,13,2,0.522623717784881592,0,False,True,True,False,,,
+31177444,"{'steamid': '76561198354289902', 'num_games_owned': 6, 'num_reviews': 5, 'playtime_forever': 56, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1515362241}",spanish,Me gusta mucho este juego para poder pasar un buen rato! Este juego es para jugar con amigos y no con bots ya que con los bots te aburres mucho mas rapido con los amigos! Buen juego,1492346544,1492346544,True,8,1,0.600339770317077637,0,True,False,True,False,,,
+30598622,"{'steamid': '76561198041746142', 'num_games_owned': 0, 'num_reviews': 275, 'playtime_forever': 597, 'playtime_last_two_weeks': 0, 'playtime_at_review': 234, 'last_played': 1706657701}",english,"A very fun sports game with robots! It is however at the moment pretty barebones and limited, but I think there's a lot of potential in this game!",1489863744,1489863744,True,8,2,0.484169811010360718,0,True,False,True,False,,,
+30543127,"{'steamid': '76561198151126204', 'num_games_owned': 64, 'num_reviews': 3, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1487500442}",czech,"Hodně dobrá zábava na dlouhé zimní chvíl, jen by to chtělo přidat online hraní a bude to úplně super.",1489678400,1489678400,True,0,0,0.401136875152587891,0,False,True,True,False,,,
+30384209,"{'steamid': '76561198008768479', 'num_games_owned': 636, 'num_reviews': 286, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1488402299}",portuguese,"É um jogo super engraçado. Eu realmente gostei de jogar multiplayer.
+
+Vê aqui o vídeo:
+https://www.youtube.com/watch?v=56bbpfZoA-E",1488944540,1488944540,True,0,0,0.417453229427337646,0,False,True,True,False,,,
+30204711,"{'steamid': '76561198142403417', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1505836610}",czech,hra v poho jen mi chybí online pak to bude zábava. Takže ONLINE pls  :-),1488138649,1488138649,True,2,1,0.390653789043426514,0,True,False,True,False,,,
+30154566,"{'steamid': '76561198168921104', 'num_games_owned': 469, 'num_reviews': 15, 'playtime_forever': 493, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1537353117}",english,"Robot Soccer, a merge between the Football Minigame in Robot Wars: Extreme Destruction and Rocket League.
+
+Robot Soccer is of a simplistic design, accompanied with simplistic controls. You control a robot with pincers which allow you to catch the ball. You manouver your robot with the WASD keys and can either Chip the ball, causing a higher ball with less power (Right click on mouse.) or do a power shot, causing the ball to go fast and straight (Left click on mouse.)
+
+So far, whilst being new to the game a problem I encountered is the 1v1 matches ppear to be very one sided to new comers like myself, with the matches seemingly very one sided to the AI. A noticeable feature I noticed is the AI are able to knock the ball out from your pincers and out of control whilst persuing behind you, thus sometimes making you lose control over a fairly won goal and missing a shot that is not quite lined up, whereas no matter how much I spam left or right click this never seems to have any effect on the AI as it does with me. This may just be down to my own skill level and not the games fault, however. 
+
+Visually, I commend the designers for creating a pitch that refrains from being bland. The incoorperation of various obsticales makes the game play out in a less linear way, testing your ball contol skills and forcing you to sometimes chip the ball over walls and bounce the ball off them. Certain obsticales such as tires are interactive and can be knocked around the pitch to make it much harder to navigate and reach the ball, a very small but lovely touch I enjoyed. 
+
+Overall I do enjoy this game on a casual level, and think I would get more fun with friends and more balanced matches. Personally, I don't think this game deserves its price tag it has currently, and think of this more of a £1.75 game, this could just be me being a cheapskate. However, if new content is added I believe this will still be an enjoyable game. I do not regret buying this. However, if Rocket League is on sale I recommend you pick that game up in priority over Robot Soccer, as the experience is much better and there are more people playing Rocket League on the online multiplayer. 
+
+I would give Robot Soccer a 6/10. :)",1487984226,1487984405,True,51,7,0.517899096012115479,9,True,False,True,False,,,
+30131345,"{'steamid': '76561198132271751', 'num_games_owned': 487, 'num_reviews': 79, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1489458159}",brazilian,"Um game para jogar com os amigos
+se quiser conferir um pouco do gameplay do jogo, segue o link:
+https://www.youtube.com/watch?v=tw76Vq154Dc",1487900218,1487900218,True,8,1,0.552033722400665283,0,False,True,True,False,,,

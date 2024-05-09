@@ -1,0 +1,345 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+155900861,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 275, 'playtime_last_two_weeks': 0, 'playtime_at_review': 275, 'last_played': 1705774204}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1705165245,1705165245,True,1,1,0.513513505458831787,0,True,False,False,True,,,
+144018841,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11196, 'playtime_forever': 412, 'playtime_last_two_weeks': 0, 'playtime_at_review': 412, 'last_played': 1691861249}",english,"Ground Pounders is a somewhat uncertain attempt to make a hex grid turn based strategy game combined with a deckbuilder... and this lack of clear vision from the developer permeates all aspects of the game.  As a cardgame, this makes a poor turn based strategy game... and as a turn based strategy game, this is a terrible deckbuilder.  We really have the worst of both worlds here.  The game is set in the lacklustre and uninteresting ""Sword of the Stars"" universe, which you'll be passingly familiar with as the developers shove this into every single game bundle and discount they can manage, either to try scrape a few more cents out of a franchise on life support, or just in the hopes that someone buying a game bundle will see one of their games and then suddenly everything will ""Go viral"".  Spoiler:  Nothing went viral. 
+
+The technical implementation is really weak here, I'll get into the specifics later in this review, but the point is that the depth of the game is lost on the majority of gamers who are understandably turned away from the almost browser-esque graphics.   If you did invest time in the game, which I certainly don't recommend, you'll still be disappointed.  Unfortunately, most piles of rubbish on Steam aren't hiding a pot of gold underneath their ugly veneers, and this is no exception. 
+
+One of the big problems here is in terms of the general design and the way it was designed to look and feel like a boardgame, instead of a PC game.  There's two aspects of any game.  The mechanics of the game, and the interface that the players have with that mechanic. Poker, for example, is about randomly generated hands that players get, and the interface is the randomly drawn paper cards.  If you keep the random hand, but remove the physical cards, the game still works, but it's streamlined, more pure.  That's video gaming.  The best video games put the players directly against the core game mechanic.  We don't love games because of their interfaces, we love them for their mechanics.  The less that the interface gets in the way, the better.  So here, we have a boardgame/cardgame, and the focus of the developers has clearly been to keep, and emulate the annoying physical interface, without bothering to improve on the mechanics or put the players closer to them.  As a result of this hamfisted decision, the game is clunky and annoying to play compared to games that were designed from scratch to be PC games.
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+The game features mostly static, barely animated 2D images, the kind of thing you expect to see in browser/flash games.  While the artwork itself, while mediocre, might be considered passable, the visual presentation here is negligible, it might as well be a slideshow or a Youtube video.  Pac-Man, Space Invaders and Asteroids had more advanced animation and visuals going on than this game does.
+
+The developers didn't design the game for modern gaming PCs, as such the display resolution caps out at around 1440p, there's no support for the state-of-the-art 4K or higher resolutions.  The game simply won't look right on modern gaming displays due to this failure on the part of the developers.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers, or gamers using AZERTY or other international keyboard layouts.  
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+You don't have to take my word about how bad the game is, we can measure the interest in a game by how much people bothered to play it.  Ground Pounders has achievements, and they show us a very clear picture that the game absolutely failed to capture any interest from gamers.  The most commonly and easily attained achievement is for completing the tutorial (and you can't really play the game properly without doing that), but less than 9 percent of players bothered to get that far before uninstalling the game.  That's a tiny, tiny proportion of gamers who even bothered with this.  Ouch.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a very healthy spike in player counts for the game.  But this isn't consistent with the achievement stats, that show less than 9 percent of players bothered playing the game for any reasonable amount of time.  How is it possible for this game to have so many concurrent players who weren't even playing the game?  Trading cards.  Players will use card idling software to collect the cards and sell them, but this won't trigger any achievements in-game.  That tells us people only really bought this game for trading cards, and that's a damning indictment of the woeful quality.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+Ground Pounders has the utterly unrealistic price of around $5 USD, it's not worth it given the defects and shortcomings with the product, especially considering the sheer number of completely free, much higher quality games on Steam.  If you are looking for a good hex grid turn based strategy, the go-to is Hearts of Iron, try that.",1691861929,1691861929,False,4,1,0.262694954872131348,0,False,False,False,True,,,
+141614928,"{'steamid': '76561198122337593', 'num_games_owned': 0, 'num_reviews': 74, 'playtime_forever': 361, 'playtime_last_two_weeks': 0, 'playtime_at_review': 361, 'last_played': 1688829547}",portuguese,"Ground Pounders é parecido em vários aspetos com os jogos da HexWar, mas é bastante mais complexo e visualmente é mais simples. O destaque é a criação de baralhos de cartas, que usamos nas unidades e no terreno. No entanto, é preciso ir avançando na campanha para ganhá-las.
+ Tem 3 campanhas longas, e podem consumir demasiado tempo devido à dificuldade e complexidade. A história é contada em pequenos textos desinspirados. O sistema de gravação é estranho, no fim das missões apaga as gravações feitas durante essa missão. E para apagar manualmente tem uma barra que é necessário deslizar durante alguns segundos.
+ O maior defeito é possivelmente o aborrecimento, mas com um preço tão baixo e campanhas tão longas, sem contar com os outros modos que não experimentei, pode ser adequado a quem prefere complexidade na estratégia.",1688835996,1688850837,True,0,0,0,0,False,False,False,True,,,
+132696142,"{'steamid': '76561198010646448', 'num_games_owned': 0, 'num_reviews': 200, 'playtime_forever': 330, 'playtime_last_two_weeks': 0, 'playtime_at_review': 330, 'last_played': 1475814912}",english,Not Recommended,1676198927,1676198927,False,3,0,0.380692124366760254,0,False,False,False,True,,,
+121595675,"{'steamid': '76561198268993462', 'num_games_owned': 2434, 'num_reviews': 1076, 'playtime_forever': 252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 252, 'last_played': 1656077733}",english,asd,1662072501,1662072501,True,0,0,0.477815687656402588,0,True,False,False,True,,,
+119655262,"{'steamid': '76561198796851430', 'num_games_owned': 995, 'num_reviews': 3712, 'playtime_forever': 6662, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6662, 'last_played': 1657855175}",schinese,"这是一个非常糟糕的游戏，游戏的图形非常差劲，就像是从20年前的游戏中拿过来的一样。角色和环境的细节几乎没有，而且画面非常模糊，让人根本无法享受游戏的视觉效果。
+
+其次，游戏的玩法非常乏味。玩家只需要不停地按下按钮来攻击敌人，完全没有任何策略性可言。游戏中的任务和关卡也非常单调，没有任何刺激或挑战性。我很快就感到了厌倦，并且对游戏失去了兴趣。
+
+此外，游戏的音效也是一团糟。背景音乐单调无聊，而且音效效果非常低劣。枪声听起来像是从一个廉价的玩具枪中发出的，完全没有真实感。这使得游戏的体验更加糟糕，让人觉得完全不值得玩。
+
+最后，游戏中的BUG和故障也非常令人沮丧。我经常遇到游戏卡死的情况，而且有时候任务无法正常完成。这让我觉得游戏的质量非常低劣，开发者显然没有花心思来解决这些问题。
+
+总的来说，Ground Pounders是一个非常糟糕的游戏。图形差劲，玩法乏味，音效糟糕，BUG和故障频繁。我不建议任何人去玩这个游戏，因为完全没有任何乐趣可言。",1659031693,1710038336,False,0,0,0,0,True,False,False,False,,,
+115718310,"{'steamid': '76561197970602587', 'num_games_owned': 6364, 'num_reviews': 3660, 'playtime_forever': 379, 'playtime_last_two_weeks': 0, 'playtime_at_review': 379, 'last_played': 1652755188}",english,"https://youtu.be/Qxm0dhwj_Jk
+
+Overly complex may be too generous of a description as dozens of systems, actions, and reactions all compete for player attention without space to feel rewarding to engage with.",1653018746,1653018746,False,3,0,0.537600040435791016,0,False,False,False,False,,,
+93188574,"{'steamid': '76561197969878460', 'num_games_owned': 651, 'num_reviews': 38, 'playtime_forever': 402, 'playtime_last_two_weeks': 0, 'playtime_at_review': 402, 'last_played': 1590275563}",english,LOVELY GAME! :heartg:,1622836915,1622836915,True,0,0,0.474075675010681152,0,False,False,False,False,,,
+78265091,"{'steamid': '76561198057990658', 'num_games_owned': 6240, 'num_reviews': 1539, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1678850671}",english,Straight trash,1603848602,1603848602,False,0,0,0.437511265277862549,0,False,False,False,False,,,
+68910228,"{'steamid': '76561198031968845', 'num_games_owned': 3082, 'num_reviews': 1695, 'playtime_forever': 321, 'playtime_last_two_weeks': 0, 'playtime_at_review': 321, 'last_played': 1589126522}",turkish,Hiçbirşey anlamadım oyundan.,1589126573,1589126573,False,1,0,0.502895772457122803,0,True,False,False,False,,,
+62229323,"{'steamid': '76561198031313794', 'num_games_owned': 8531, 'num_reviews': 3393, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 152, 'last_played': 1579699805}",russian,"[h1]Описание:[/h1]
+В который раз убеждаюсь, что прежде чем покупать дополнения к игре надо сначала попробовать саму игру. Перед нами варгейм с убогим интерфейсом и графикой, кучей текста и кнопок... Потыкал, обучения не нашел. Попробовал играть методом тыка - тоже мимо. В итоге остался недоволен игрой и зря купил длс, которое никогда в жизни не попробую. Р - разочарование.
+
+[h1]Послесловие:[/h1]
+Если вам понравился этот обзор добро пожаловать в группу
+http://steamcommunity.com/groups/uojer - тут вы сможете увидеть рекомендованные мною игры, другие обзоры, а также просто пообщаться в хорошей компании",1579699786,1579699786,False,6,0,0.545637011528015137,0,False,False,False,False,,,
+59459899,"{'steamid': '76561198202529859', 'num_games_owned': 1686, 'num_reviews': 2354, 'playtime_forever': 531, 'playtime_last_two_weeks': 0, 'playtime_at_review': 531, 'last_played': 1575766139}",english,Trash,1575766118,1575766118,False,1,0,0.374158203601837158,0,False,False,False,False,,,
+48284302,"{'steamid': '76561198324539913', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 3818, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3236, 'last_played': 1548192725}",english,"Read GeneSteeler's excellent review. 
+The only bad thing is that here is no multiplayer.",1547315688,1547315688,True,1,0,0.481228679418563843,0,True,False,False,False,,,
+47395428,"{'steamid': '76561198194680793', 'num_games_owned': 3045, 'num_reviews': 1947, 'playtime_forever': 6282, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2238, 'last_played': 1698784492}",russian,"Довольно сложный варгейм с большим порогом вхождения и на английском языке. А многие ваши действия завязаны на использовании коллекционных карт. Игровой процесс зауряден и посредственен, и происходит на гексагованной карте. Каждый раз можно использовать одну и ту же тактику. Вкупе ко всему ещё и графон ужасный (для двухмерного проекта). Всё выглядит ужасно и едва различимо. Тех же юнитов трудно различить, кто есть кто. В общем, если хотите сыграть в качественный варгейм, то это точно не он. Чтобы разобраться в игровом процессе, у вас может уйти несколько часов. Это потом уже, если набрались терпения и разобрались в геймплее, начинаете без проблем одерживать победы. Но стоит ли оно того?",1544293179,1544293179,False,10,0,0.596013367176055908,0,False,False,False,False,,,
+46436544,"{'steamid': '76561198026899331', 'num_games_owned': 321, 'num_reviews': 15, 'playtime_forever': 400, 'playtime_last_two_weeks': 0, 'playtime_at_review': 400, 'last_played': 1423248286}",russian,Неиграбельное нечто с мутной механикой и кривой картинкой. Из плюсов в игре только красивые арты техники.,1542916090,1542916090,False,1,0,0.477391093969345093,0,True,False,False,False,,,
+43465715,"{'steamid': '76561198016644244', 'num_games_owned': 672, 'num_reviews': 732, 'playtime_forever': 419, 'playtime_last_two_weeks': 0, 'playtime_at_review': 388, 'last_played': 1424706494}",russian,1.9 из 10,1531319986,1531319986,False,2,0,0.535531878471374512,0,True,False,False,False,,,
+41525649,"{'steamid': '76561198059259945', 'num_games_owned': 2735, 'num_reviews': 1725, 'playtime_forever': 363, 'playtime_last_two_weeks': 0, 'playtime_at_review': 363, 'last_played': 1523901728}",russian,Лишь за карты лайк поставлю ),1523898386,1523898386,True,0,0,0.467625916004180908,0,False,False,False,False,,,
+38918038,"{'steamid': '76561198021953887', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 5262, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5127, 'last_played': 1514939605}",english,"This game prooved to me that, when I know what I like in a game-gentre, it is good to not be fooled by ""mostrly negative"" overall reviews rating. I am engoying the game and have gone back to re-play it twice already, since it is exactly the kind of Hex-Strategy game I was hoping it to be, and even more:
+
+It actually introduces succesfully (in my opinion) new mechanics and aspects to the Panzer General hex-strategy gentre. It also is build up like being able to be transfered  into a tebletop paper-game version, and I found myself interested on trying something like this with friends. 
+
+BUT, this table-top alternative also makes the game look a bit alien to the hex gentre, since the unit sprites always display the colofrul number-stats of them, removing some of the ""immersion"" immages like Panzer General can offer. On the other hand, tis is NOT a disadvantage of the game, since what I wanted from it was deep strategy chalenge, not immersive VR 'movie'. 
+
+The good:
+- Innovations like deck building for card-available actions, that provide a variety and could change the tactical approach of a situation. Possibly many 'modern' hex-strategy games try to add new ideas in the gameplay, and Ground Pounders is one of them that does it in a very satisfactory way for my likes.
+- Chalenging. For some this might be a negative, but for gamers like me that apreciate the fact that Major Victory can hardly be achived just at the last deadline round, it is a must-have for a good hex-strategy game.
+- Offers in full and in great variety what a hex-stategy is promising, including the not-so-usual 'space' setting, with battlegrounds without atmosphere for example etc (it's not another WW2 units roster). I found myself thinking for tenths of minutes long my next move, and I have already alocate many beloved nights just to 'finish that map', like I did with Panzer General, Panzer Corps or Fantacy Wars.
+
+The 'bad':
+- Innacurate manual. The tutorials are actually good and support the above-average load of game mechanics one should master, but the manual and some online descriptions of some combat modifiers look to be superseeded. It was frustrating at the start to not be able to condirm exactly how my unit casualties were calculated, but after a few test battles things can get much clearer.
+- Visuals, especially when zoomingn-in are not breathteaking spectacular. This is not a problem for a hex-strategy game, but it damages the overal review-promotion of the title. On top of this, the tutorials are taking place on an alien planet, making terren recognition really aqward at the fist few hours of gameplay, actually destroying any promotion effords of the title.
+- Not a big variety of units. All the nessesary types are here, and gameplay is varient enough with all engineer, medic, scout, heli etc options, but compared to similar games that have tenths of different Armor variations, the game looks a bit 'poor'.
+- The 'lore' of the setting is not at all expanded in-game. The 'races' deviate tactics and description are adequate, but so poor and short, that it looks like the developers didn't manage to evolve the game to their original dream. Nothing gamebraking (many other hex-games have no other 'lore' or 'races deviation' other than ""This axis tank has a +2 more in movement and a cool-looking new picture""), but the game looks to loose a big potential here.
+- Like the lore, some things like unit commanders leveling elements are minimal. Not a problem at all, but if the game was the same prise with Panzer Corps, I would definatelly spend my money on Panzer first.
+
+Summarizing, I strongly recomend Ground Pounders to any gamer that has enjoyed the hex-stratgegy gameplay, not just the hardcore funs of the gentre.",1514763053,1514763926,True,20,1,0.734669744968414307,2,True,False,False,False,,,
+36418744,"{'steamid': '76561198073092169', 'num_games_owned': 0, 'num_reviews': 619, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1708513651}",english,ok,1510321309,1510321309,True,0,0,0.238911435008049011,0,True,False,False,False,,,
+34581718,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 293, 'playtime_last_two_weeks': 0, 'playtime_at_review': 293, 'last_played': 1504025001}",english,"Tags: Boards & Cards
+Additional Tags: Delete Local Content & Remove from Library
+
+TLDR:  Being a Sword of the Stars product I played this when it came out of bundles a few years back. I remember having some fun with it. I tried returning to it but was unable to get around the clunky user interface this time around. Removed for declutter.
+
+Oustanding Issues:
+-Takes too many clicks and operations to get a game started
+-Simple tokens on hex-grid style presentation with unconventional control scheme and flawed interactivity
+-Looks flat and ugly. Like it was designed for outdated phones or something
+-Audio was bare with mostly only unit radio responses, which were mismatched (e.g. military marine voice for an predator/alien looking unit)
+
+Misc:
+-Deckbuilding and card related strategies have been done better elsewhere, this simple obeys a range/attack value/defense value system but there there are plenty of other stats like initiative and health to factor in
+
+Pros:
+-Has a story and campaign mode set in a half decent world setting
+-Has some proper pc resolutions support
+
+Conclusion: I would rather play Minion Masters and let cards/units clash battle royale style with full animations than deal with this",1504025316,1509961923,False,1,0,0.520905971527099609,0,False,False,False,False,,,
+33722036,"{'steamid': '76561198172925593', 'num_games_owned': 14021, 'num_reviews': 4532, 'playtime_forever': 262, 'playtime_last_two_weeks': 0, 'playtime_at_review': 262, 'last_played': 1549275099}",schinese,"太复杂，玩了好久这战旗游戏的规则就是没有搞清楚
+为什么有一回合能移动一回合却什么事情都不能做
+这么多属性到底有什么作用
+这卡牌又有什么作用
+而且没有中文的话玩起来实在太累了",1500733582,1500733607,False,3,0,0.54064708948135376,0,True,False,False,False,,,
+26287920,"{'steamid': '76561197984464457', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 504, 'playtime_last_two_weeks': 0, 'playtime_at_review': 504, 'last_played': 1477762914}",russian,"Я умер в туториале. Для любителей хардкорных варгеймов, наверное, будет всё это любо, но для нормального человека дико переусложнено. При этом ни какой харизмы у игры нет - зачем играть не понятно.",1477737757,1477737757,False,2,0,0.491585791110992432,0,True,False,False,False,,,
+25816350,"{'steamid': '76561197967685936', 'num_games_owned': 1979, 'num_reviews': 757, 'playtime_forever': 363, 'playtime_last_two_weeks': 0, 'playtime_at_review': 363, 'last_played': 1445074731}",english,Cannot recommend this game. Nothing fun here for me.,1475397906,1475397906,False,2,1,0.204357102513313293,0,False,False,False,False,,,
+25635915,"{'steamid': '76561198070885506', 'num_games_owned': 357, 'num_reviews': 73, 'playtime_forever': 416, 'playtime_last_two_weeks': 0, 'playtime_at_review': 126, 'last_played': 1505165363}",english,potato,1474555209,1474555209,False,1,1,0.113250009715557098,0,True,False,False,False,,,
+24708128,"{'steamid': '76561198041512403', 'num_games_owned': 1837, 'num_reviews': 2464, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1508763155}",koreana,"턴 베이스 전략 게임.
+
+주어지는 유닛을 배치하여 적을 모두 제거하거나, 적의 거점을 차지하면 됩니다.
+플레이어는 행동 이전에 주사위를 받습니다.
+주사위는 각 유닛에게 1개 이상 부여 가능하죠.
+
+전투 시, 각 유닛에는 공격력과 방어력이 있는데
+추가로 서로의 주사위를 비교하여 전투의 우위가 달라집니다.
+
+아직 규칙을 100% 이해 못해서 그런지 조금 플레이가 어렵군요.",1470318589,1499069626,False,0,0,0,0,False,False,False,False,,,
+21763989,"{'steamid': '76561197971880699', 'num_games_owned': 2849, 'num_reviews': 419, 'playtime_forever': 3862, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2699, 'last_played': 1458861597}",english,"
+Although marketed as a Panzer General-style game, Ground pounders is more similar to modern table-top wargames than it is to Panzer General.  Here  is what Ground Pounders has:
+
+1.Supply lines.  
+
+2.Transport units
+
+3.Replacements
+
+4.Units with 1-5 steps
+
+5.Supply zones and Victory hexes
+
+6.CRT (Combat Results Table)
+
+7.Artillery, AA Guns, Command Units, Scouts, Engineers and of course Tanks, Mobile Infantry etc. 
+
+8.Scanning & signatures create a Fog of War. Quiet units are harder to see. 
+
+9.Units have lots of stats. Attack, Defence, die pool, range, movement points etc. 
+
+10.Terrain effects.
+
+11. ZOC 
+
+Sounds a bit like a wargame, doesn’t it?
+
+The main game has two campaigns to play through, Human and Hiver.  There is also multiplayer (good luck getting that to work) and skirmish mode.  In the campaign your small core will travel from battle to battle, so it is important to try to keep it intact.  There are plenty of turns in most missions, so the game rewards tactical play as opposed to charging everything headfirst at the enemy.  
+
+Each turn has 3 main phases, Supply & replacements, command, and move/combat.  (You also draw cards to replenish your hand at the beginning of the turn).  The game is Igo/Ugo so players take turns completing the phases. 
+
+The supply phase checks all your units for supply.  Units out of supply will lose stats and, if they remain out of supply for a few turns will begin to lose steps.   Each scenario has a replacement pool which limits the number of replacement steps you can allocate to damaged units. 
+
+The command phase is the most unique phase, which wouldn’t work on a tabletop wargame.  You roll a bucket of dice which is determined by the number/quality of your command units.  You then pre-assign these dice to your units.  If your unit is in combat, instead of rolling a die, you will use the pre-assigned die.  Different units can be assigned a different number of dice.  When attacking, supporting units and artillery need to expend their own dice (value doesn’t matter, they just need to spend one).  This limits the number of attacks an artillery unit can support.   You can allocate all or none of your dice manually.  There is an option to automatically remaining dice.  So if you expect little or no combat, hitting “auto” and skipping this phase is fine.  When you have a detailed plan and you want your two “6”s on the right units, you can allocate every die if you wish. 
+
+During the move/combat phase the player can move units and attack in whatever order they wish.  Once a unit attacks it can no longer be moved.  Although units can support and still move.  Combat is resolved on a CRT with your die being added and the enemy’s die being subtracted to create the DRM (Die Roll Modifier).  Odds are determined by attack:defense ratio.  Supporting units add half their attack value, artillery adds its full attack value.  A typical combat result is A1D2R.  If you’ve played any tabletop wargames, you would read that as “Attacker loses 1 step, defender loses 2 steps and retreats”.  Supporting non-artillery can also sometimes lose steps depending on the result. So the result can be A1s0a D3s1r, which would be Attacking unit loses a step and may advance. Defending unit loses a step and retreats, defending supporting non-artillery units also lose a step. 
+
+After the player has finished moving and attacking, it is time to assign defensive support.  Again, you can click on every unit and select which units will expend dice to support it if is attacked. Or you can just hit “auto” if you don’t have many concerns.  Again, how much time you spend is up to you. 
+
+One other thing I should mention is the cards.  Before battle you can create your deck of 32 cards from your card pool (or use the random one generated).  What I have done after a few missions is I’ve built my “best deck suited to my play style” and I just use that one.  The initial card pool is random so it will be different for each player.  Also you can “win” random cards when victorious in a scenario.  If you like the card you win, it is pretty simple to tweak your deck and add the card.  
+
+Cards can do a variety of things from adding movement points, +attack value, DRM, odds shift, increase artillery range, isolate enemies, lower signature, add AA to a unit, shorten enemy supply lines etc.  I don’t know how many cards there are but there are lots. Almost everything appears to have a card that can affect it.  Used cards are replenished back to your hand size (3-5) at the beginning of the turn.  I presume it is possible to run out your deck, but it hasn’t happened to me yet.  
+
+Cards also have a “Space Superiority” (SS) number on them.  At the beginning of the scenario you can discard 1-5 cards (take them out of the game).  The highest total determines who has space superiority for the scenario.  If you have SS you get additional powerful cards that you can re-use every 2-4 turns.  These bonus cards can reduce steps (orbital strike), scan an area, reduce enemy supply range, or increase a units attack/defence for a turn. 
+
+And that, in a nutshell, is Ground Pounders!
+
+
+The Good, The Bad and The Ugly:
+
+The Good:
+
+Two big* campaigns provide plenty of scenarios covering a wide variety of situations.   I’m actually quite impressed with the big variety of situations that are offered.  Flanking manoeuvres, amphibious landings, head on assaults, fighting withdrawals and protecting fleeing civilians from the advancing horde are just a sampling of the different situations offered.  (*Refer The Ugly.)
+
+Tactical play is rewarded.  This game requires careful play and is not just a tank rush.  This is a real wargame.  Most missions take 1-2 hours to complete. 
+
+Units gain experience through missions.  When they reach a certain level they get a +drm.  Also, they can choose a special ability when they reach veteran and elite status. These are little bonuses, such as “urban fighter”, “AA gun attachment”, “extra movement” etc.  There are about 6 different choices at each experience level which varies to unit type.  A nice little addition and preferable over the random leaders of Panzer General/Corps as you can tailor your units to your own play style. 
+
+
+The Bad:
+
+The tutorial is poor and hardly explains anything.  It took me about 3-4 scenarios to finally grok the majority of the game’s mechanics and situations.  This game doesn’t have the slow learning curve of more streamline “wargames” but is instead pretty steep.   UI isn’t always intuitive and it took me a while just to figure out how to assign Defensive Support.  
+
+Don’t be surprised by the “cartoon” sci-fi graphics.  Although taking place in the Sword in the Stars setting, this is a real wargame. 
+
+The maps are drab, dull and difficult.   There are different terrain effects, but it is difficult to tell what terrain each hex is on the washed out colour maps.  Just because this is “another planet” doesn’t mean you couldn’t have had distinctively coloured maps with forests, rough, plains etc. clearly identifiable.  A consolidated TEC (Terrain Effects Chart) would also be useful.  It is very difficult to plan one’s advance when one is unsure how far your units can move across the different terrains. (You can get the information with a few clicks, but this is tedious and not intuitive).   
+
+Space Superiority should have been done differently.  It becomes a no-brainer to discard 5 cards and hope you get it.  The “free” SS cards are very powerful and reusable with a cooldown of a few turns. This affects deck construction a little as I am using some “inferior” cards with a high SS rating.  If you lose SS there is the possibility (and temptation) to just forfeit and retry the scenario. 
+
+I recommend Ground Pounders. It’s not perfect, but scratches the itch in the right places. A good wargame marred by bugs and lack of support. 6/10",1457697158,1457697158,True,78,0,0.887349247932434082,2,True,False,False,False,,,
+19525951,"{'steamid': '76561198029130835', 'num_games_owned': 0, 'num_reviews': 118, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1449408659}",russian,"Порт с планшетиков.
+Юниты уродливые, как, впрочем, и вся графика вообще.
+Озвучка отвратительна.
+АИ - читит
+Ну и главное - сверхвысокий порог вхождения, ибо сложные правила и отсутсвие туториала.",1449409368,1449409368,False,3,0,0.449168741703033447,0,True,False,False,False,,,
+18627900,"{'steamid': '76561198026525347', 'num_games_owned': 725, 'num_reviews': 4, 'playtime_forever': 666, 'playtime_last_two_weeks': 0, 'playtime_at_review': 502, 'last_played': 1670366728}",english,"IF YOU MUST TRY THIS GAME, GET IT ON THE APP STORE OR GOOGLE PLAY. IT'S FREE THERE.
+
+I've given this game as many chances as I care to. While it's fun and wildly addictive, the rules are extremely complex and inconsistent, always favoring the AI. You'll always be vastly outnumbered, and usually outmanuevered. Your ability to heal your units is restricted to some arbitrary number that occasionally gains points for absolutely no reason, and always stops as you make the final push needing it the most. This on top of only being allowed to heal each unit by one each turn make things needlessly aggravating to say the least. Every campaign mission gives you an extremely tight time limit, and throws everything it can at you. For the sake of argument, let me walk you through the last straw.
+
+Campaign mission 1: Hold the ports. You start off with a limited force in the north and a small force of your choosing in the south, with air support. Honestly, this one isn't that difficult. Just keep everyone alive and the enemy away from the left of the screen, which they never really go to anyway. 
+
+Campaign Mission 2: Capture the cities. Small force in the east, single helicopter, your force, and transport boats capable of missing the mountains in the west. There's a gimmick to this one, as the time limit isn't counting down to your win. In order to clear this one, you have to pick up a troop in the east with your chopper in the west, and take him north while you use the boats to attack the northern city. Use your helicopter troop to capture the central area and bleed the enemy dry so they can't defend the city (or even attack, since their supply lines are cut). Then move the pinned down east troops north for a win. There's literally no other way to do it. I've tried everything I can think of and this all that works. 
+
+Campaign Mission 3: Reinforcements are coming from the east. You get a full deployment in the west, and are tasked with moving them through a narrow canyon, clearing hotspots along the way. You get 30 turns. Now even in the best of circumstances, this would be tricky as vehicles aren't effective if they leave the road. Regardless, I was able to push all the way to the east, where I met with a significant enemy force on top of the damage that had been done already. Despite having higher rolls, better tech levels, and better units, I was pushed back HARD and the largest part of my effective force was decimated. Then I timed out, failing the mission and having wasted a half hour of my time, at least. In what universe is an APC with no support able to take out a tank? 
+
+Honestly, the entire thing seems like it was made with freemium in mind, to sell you more reinforcement points or more time for your missions, or just more units in general. But there's not even than option. It's all the frustration of barely passable missions without paying, without the option of paying for the satisfaction of razing the map with nuclear orbital barrages in hatred for your enemy. I honestly have no idea how the skirmish mode or multiplayer modes play, but I have to assume that multiplayer is passable, but skirmish suffers from the same bullshit roll fudging and stat decimation the campaign does.",1445533833,1445533833,False,40,2,0.787642955780029297,2,True,False,False,False,,,
+17723532,"{'steamid': '76561197992906654', 'num_games_owned': 2046, 'num_reviews': 137, 'playtime_forever': 221, 'playtime_last_two_weeks': 0, 'playtime_at_review': 145, 'last_played': 1411570468}",english,Using the game banner to advertise sales is really low.,1440594093,1440594093,False,16,3,0.329597562551498413,0,False,False,False,False,,,
+17709972,"{'steamid': '76561198047292553', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1421640545}",english,"A relatively bare-bones and a bit too retro of a UI, but the AI is solid and the strategic element is pretty good.  If you're more concerned about the War in your war games, this is an excellent title.",1440513935,1440513935,True,7,0,0.594032824039459229,0,True,False,False,False,,,
+17704548,"{'steamid': '76561198030970352', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 668, 'playtime_last_two_weeks': 0, 'playtime_at_review': 668, 'last_played': 1405583236}",english,"If you are into computerized board games like Panzer General and Warhammer, Ground Pounders provides a fresh twist on hex based, turn based strategy games. I've seen a bit of concern about the ""card"" aspect, but if you think of the cards more like random events... They aren't exactly game making or breaking, but can turn the tide in dire situations, then you got the idea of it. Game does have a rather steep learning curve, but once you learn it, it plays nice and solid.",1440482589,1440482589,True,3,0,0.461668103933334351,0,False,False,False,False,,,
+17311534,"{'steamid': '76561198074908316', 'num_games_owned': 0, 'num_reviews': 38, 'playtime_forever': 1956, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1860, 'last_played': 1438325064}",english,"I enjoy this game until it crashes. It often bugs out so that when you either quit or end a mission it crashes. The bug carries through a save. My latest save just now in a mission crashes when I finish, so my victory can't be. I need to load another save and finish the mission, but that one could carry the bug too. It might be better for me to start the whole LONG mission over again, but it could still crash. What ever a defender might say, this is unacceptable. Know that it has game crashing bugs which prevent your enjoyment.",1438325414,1438325414,False,7,1,0.525902986526489258,0,True,False,False,False,,,
+17289527,"{'steamid': '76561198009045223', 'num_games_owned': 0, 'num_reviews': 52, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1543168610}",english,Uaaaaaaargh,1438211238,1438211238,False,2,0,0.210802942514419556,0,True,False,False,False,,,
+16670067,"{'steamid': '76561198206623824', 'num_games_owned': 310, 'num_reviews': 87, 'playtime_forever': 352, 'playtime_last_two_weeks': 0, 'playtime_at_review': 352, 'last_played': 1434205031}",schinese,A ridiculous game which I really do not know how to play that!,1435133585,1435133585,False,0,0,0,0,False,False,False,False,,,
+16650595,"{'steamid': '76561198020519925', 'num_games_owned': 0, 'num_reviews': 27, 'playtime_forever': 664, 'playtime_last_two_weeks': 0, 'playtime_at_review': 559, 'last_played': 1579798384}",english,"This game has the best AI of any hex based game I've played. I love the maps. The combat taking place on 3 levels is very cool (ground, underground, air). I absolutely love the setting and the lore behind Sword of the Stars (I got SOTS prime at launch). It's very challenging and tactical. 
+
+But, there is a major problem with this game. The user interface is terrible. The entire flow of the game and the way it's played is designed around mobile devices. This means that the game play is very very slow and clunky. Things that should take 1 click or 1 left click and 1 right click take 3-5 clicks. The game has several phases for each turn so all of these clicks add up and it gets annoying. 
+
+So if you are looking for a deep and challenging hex based war game in a sci-fi setting I recommend this game. Just be aware that the user interface hates PC gamers.",1435072977,1435072977,True,4,0,0.478842943906784058,0,False,False,False,False,,,
+16395950,"{'steamid': '76561198030766095', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 212, 'last_played': 1434316840}",english,"I have no idea how to win at this game and these are literally the only type of game I play. I want this game to be good because I enjoyed their previous title and it seemed like such a fun throwback to the SNES Super Conflict. that said a new player should not start off out-gunned and outmanuevered before they place their first piece. doesn't encourage people to give this game the time it should deserve.
+
+TL;DR This the turn based strategy game gotham deserves, not the turn based strategy gotham needs.",1434306417,1434306417,False,15,5,0.55654066801071167,0,True,False,False,False,,,
+16180636,"{'steamid': '76561198119946247', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 5339, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5088, 'last_played': 1416554515}",french,"Bourrer de Bugs .... 
+J'ai  perdu mon argent sur un jeu pas fini !",1433398290,1433398290,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+16106087,"{'steamid': '76561198026329218', 'num_games_owned': 1183, 'num_reviews': 58, 'playtime_forever': 104, 'playtime_last_two_weeks': 0, 'playtime_at_review': 104, 'last_played': 1411785719}",english,Very fun game from one of my favorite developers!,1433106906,1433106906,True,2,0,0.440633565187454224,0,False,False,False,False,,,
+13953220,"{'steamid': '76561198006596525', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 1811, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1811, 'last_played': 1421283820}",english,not reay for prime time - very frustrating - thngs like undergorund movement - reapir healing ... either don't work or way to hard to figure it out.,1421039886,1421039886,False,8,1,0.405498653650283813,0,True,False,False,False,,,
+13604167,"{'steamid': '76561198018474955', 'num_games_owned': 0, 'num_reviews': 88, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1410924452}",english,"The game badly, badly needs tutorialization that teaches the game. Seems like it might have potential, but just bloody difficult to get into. I play a lot of 4x, and this one just doesn't jive.",1419568041,1419568041,False,10,4,0.512635707855224609,2,False,False,False,False,,,
+13373687,"{'steamid': '76561198001584373', 'num_games_owned': 0, 'num_reviews': 68, 'playtime_forever': 2034, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1729, 'last_played': 1430526086}",english,"This game was in rough shape during EA, but they somehow managed  to push it over the top by release. So the most recent reviews are going to be much more accurate. I don't care about SOTS lore, and you probably don't either. But if you are looking for a tactical challenge - Panzer Corps x 5 -  then this might meet your expectations. I actually quit during EA, as the AI was too tough for me (not saying much), but I think they've adjusted it so you can have some fun and learn the game on ""easy.""
+
+If you like games where you are presented with a variety of possible tactical solutions - due to the subtlety and number of different units and their characteristics - you will be challenged. Also, it's not just ""bam, you're dead."" Even with the odds clearly in your favor, battles are rarely one-off affairs. The game and AI make good use of concentration of force, flanking and the battle cards (consider them off board support). In most games, you're only able to use two or three, so they don't intrude or overpower an engagement.
+
+The ""skirmishes"" are actually just scenarios, but there's plenty of content, along with the campaigns, where your units gain experience, etc. Because of a shaky start in terms of the interface and tutorials, the game got underrated pretty quick. But the most complicated moves, that of using your transports and air units, are pretty easy to understand now. But you'll probably need to play the ""air"" power tutorial at least once.
+
+Anyway, it's worth what they're asking, and doubly so if and when it goes on sale come Christmas 2014.
+",1418617880,1418617880,True,25,2,0.64431840181350708,0,False,False,False,False,,,
+12823422,"{'steamid': '76561197977799334', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 515, 'playtime_last_two_weeks': 0, 'playtime_at_review': 515, 'last_played': 1415333144}",english,"This game is a good challenge and an enjoyable play. It crashes every so often, but if you like good strategy mixed with intense narrative with a little bit of strategic variety (via cardgame-style deck system), this is a game you will love up and down.",1415322714,1415322714,True,4,1,0.463694751262664795,0,False,False,False,False,,,
+11817269,"{'steamid': '76561198078516495', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 1887, 'playtime_last_two_weeks': 0, 'playtime_at_review': 536, 'last_played': 1492926904}",english,"Just going to start out by saying that, from my experience, this is not a normal hex-based strategy game. If you are looking for something resembling, say, Advance Wars or Civ, then this game is not for you.  If you are looking for something consistent and easy in which you can figure out the rules in ten minutes and breeze through the rest of the game, then you should spam the back button until you reach something completely different. This game has a lot of less-than-obvious mechanics and an absurdly steep learning curve for at least the first few hours (or, dare I say it, days) of play, and to top it off, the tutorial is honestly not that great. You will spend your first few sessions replaying the same mission over and over again, quite possibly screaming, trying to figure out how your main battle tanks were destroyed by a company of infantry at what the computer claimed were 10-1 odds in your favor, and then you will move on to the second mission and try to figure out how you're supposed to beat an enemy with about 3 or 4 times as many troops as you, but I will tell you that it is possible.
+
+Once you get past the complete insanity of trying to  figure out how this game works, you will actually (miraculously) discover an amazingly intricate, engaging, and still almost stupidly hard strategy game, because you will be going up with 6 squads against 18 squads of tanks, but if you literally play your cards right, deploy your forces well, and have just a bit of luck, you will find that there are subtle patterns and rules that you can use to hold the line and push the enemy back. The dice system adds a pleasant element of chance which you can and must use to think about where you'll need power which interacts well (if peculiarly and not necessarily nicely) with the defensive support mechanic and the different unit types in order to force you to think about what you're doing on the battlefield.
+
+Again, if I didn't say it strongly enough in the first paragraph, if you are looking for an easy, simple, lazy, or idle game which you can pick up on Friday afternoon and master by lunch on Saturday, you would be better off dropping your money on the sidewalk in the rain, because this isn't that type of game. It's hard to learn and harder to ""master,"" and if you're not interested in committing a lot of time to learn a game then you will not enjoy yourself. If, however, you are a slightly obsessive person who likes challenges and is interested in analyzing systems, then I can say that I've never encountered a better game for it and that you might be worse off donating your money to a charity.",1408700356,1408700356,True,84,4,0.829774975776672363,0,False,False,False,False,,,
+11433554,"{'steamid': '76561198078848002', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 398, 'playtime_last_two_weeks': 0, 'playtime_at_review': 262, 'last_played': 1526857293}",english,"This game is a deep strategic game and therefore obviously has a steep learning curve! To say I can't be bothered to learn the game and therefore don't recommend it is naive. For those of us who don't mind a game with a steep learning curve, have the time, and don't want to play ""simple"" games I can not RECOMMEND this game enough. If you liked Panzer General get this game without delay !!
+
+ By all means play whatever type of game you prefer but to knock a game because YOU can't be bothered is ignorant and your post should be removed in my opnion as it clearly is not too helpful.",1406466207,1406466207,True,22,1,0.471510529518127441,2,True,False,False,False,,,
+11382843,"{'steamid': '76561198013020221', 'num_games_owned': 0, 'num_reviews': 188, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1407991328}",english,It only took a few minutes to see that none of the normal conventions apply and the learning curve is more than I want to invest .,1406156877,1406156877,False,11,1,0.31453096866607666,0,True,False,False,False,,,
+11297091,"{'steamid': '76561197968710462', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 436, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2101, 'last_played': 1411595161}",english,"Deep and detailed turn based strategy set in the Sword of the Stars universe.  Interesting mix of hard strategic choices and a deck building system that allows you to customize what kind of temporary bonuses to apply to the battlefield (remote resupply, orbital bombardment, etc.).  Dice system is innovative and allows you to tailor a normally 'random roll' to where you think the most critical unit on the battlefield is.  Good musical score.  Campaign is challenging and diverse but rewarding.  Racial differences in unit types make battlefield choices interesting (burrowing Hiver tanks coming up behind your main line, etc.).",1405648307,1405648307,True,26,1,0.605873942375183105,0,False,False,False,False,,,
+10324956,"{'steamid': '76561198017328264', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 344, 'playtime_last_two_weeks': 0, 'playtime_at_review': 200, 'last_played': 1430085093}",english,"Ok. Personally, I think this game has potential and there are obviously still issues needing to be worked out as the game is still pre-release.
+
+Now, that said, I'm going to advise against buying the game now if you are looking for something to play. If you are wanting to support the development of this game, go ahead and buy it, play it, and give the company feedback. I'll give a brief bullet point list as to the current pros and cons with the game as I see it.
+
+Pros:
+1. Tutorials are worth the time and explain a lot of the game's mechanics. Do -not- skip them, thinking you'll pick up the game quickly without them because you've played games like this before.
+2. Luck and skill both play a role in this game, without placing a premium on either.
+3. The card mechanic is a nice touch, as it creates openings that you might otherwise not be able to take advantage of.
+4. The campaign structure (from what I've been able to play of it) rewards careful husbanding of the units you buy, without punishing you unduely for taking risks with the temporary units assigned to your command.
+5. The three layers of the battlefield keeps things fresh, as burrowers may sometimes pop up in your lines unexpectedly.
+6. Keeps the flavor and expands on the lore of the Sword of the Stars universe.
+
+Cons:
+1. The game is buggy as hell. But it's early access, so...you should be expecting that going in.
+2. The high-res texture pack will cause the game to crash when loading in. At least, that's been my experience.
+3. The game has a sharp learning curve. As noted in the pros, the tutorials are worth the time, so...that helps curb that somewhat.
+4. Some aspects of the game are counter-intuitive, adding to the learning curve noted above.
+5. No adjustable resolution or window size.
+6. It's early access, therefore not recomended for someone expecting a completed game. It's -very- much a work in progress.
+
+Overall, however, I highly recomend this game and look forward to seeing the end result. Given Kerebos' track record with SotS games, I have high hopes for the end result.",1401725387,1401725387,True,25,1,0.565855562686920166,1,True,False,True,False,,,
+10293527,"{'steamid': '76561197993930568', 'num_games_owned': 5393, 'num_reviews': 480, 'playtime_forever': 520, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1411694203}",english,"Update:
+This game must not be doing well: 8 weeks after launching on steam it was in an 80% off sale on an internet store; 9 weeks after launch it was in a cheap game bundle. I would guess that we are not going to see long-term support with this game, since it looks like it sold badly.
+
+Updated review because of game leaving Early Access:
+Everything in the review is still relevant. Only change is increased thread locking and post deleting in the forums. Here's a post I made about the Early Access price supposed to be lower than the release price before my reply was deleted and the thread locked:
+
+http://imgur.com/FNe0Pdy
+
+MAIN REVIEW FOLLOWS:
+----------------------------------------
+
+I have been holding off writing this review because the game could be so good and I was hoping it would change. 
+
+This is a hex-based wargame in the SotS universe and that's exciting stuff. (I just realized that will sound like a joke to non-wargame fans, but it's true).
+
+Based on the screenshots you would think was a cool, deep, fun game. The information in the encyclopedia in game is a nice touch.
+
+Try to play the game though and you'll find a confusing, fiddly mess. There are far too many phases and lots of fiddly things you have to keep doing. The user interface is really bad both in usability and in showing you what's going on. A lot of this is because of the developers making the bad decision to have a ""unified user interface"" on mobile and PC, which means no tooltips, only one button used and no scrolling when you get your mouse to the edge of the screen. This cripples the PC UI and the developers flat-out refuse to change it to make the PC version easier to use.
+
+The tutorial has been through a few changes but still remains awful at teaching you the game. This is both due to the content of the tutorial and the way it is presented, which makes it hard to tie together the UI with what the flash-card like windows are telling you.
+
+I bought the game at the start of the Early Access on Steam and I was disappointed to find out that the game was not as finished as I thought it would be. From the store page it seemed like the only thing missing were some campaign missions, and the ironing out of the last few bugs:
+
+""With this Early Access release, Ground Pounders is feature complete, and the main differences between now and final release - besides a few last minute cards and units - is there is only 1 campaign (instead of 2) and 5 scenarios (instead of ten).""
+
+It turned out that early adopters really were unpaid beta testers and only by assiduously playing when it wasn't fun and giving feedback could we turn the game into the good game it had the potential to be. I mean, it wasn't just bug fixing, there were actually changes to how the game worked, and there was really the feeling that the game hadn't been tested at all before putting it on steam.
+
+I did this for a short while but then I just couldn't be bothered any more- it was just not fun. I decided to put the game down until they finished it and see how it was. As of today the game is still in Early Access but is 66% off on a certain online game store. Because the Steam store page went out of its way to point out that we were saving money by buying into the Early Access game at the start vs. buying when it launched I felt a bit betrayed by this; I also took it as a sign that the studio may be in some sort of trouble. The game was planned to be released in March according to the Steam store page and it's almost June now with no release so maybe that's why.
+
+Anyway, I suppose if you do get a deep discount on this or even get it in a bundle (there have been a lot of Early Access games in bundles recently) then it may turn out to be the game you expect, but at the moment it's unlikely that it is.
+
+edited to say something positive: The music is good. That's the only thing to like about it though really.",1401500325,1410946864,False,185,5,0.640923023223876953,34,True,False,False,False,,1402088314.0,"I do apologize for the time it took to formulate a response for this as you do bring up a few good points about early access games.
+
+The purpose there for early access games are for the fans to finally have some input into games that they enjoy.  It should be expected that bugs will show up from time to time as well as things will change while the game is still in production.  As long as constructive feedback, bugs, and any areas where people are running into confusion are posted in the forum or emailed to the developers, their voices are heard and changes are made.
+
+We have had a lot of feedback throughout the time in early access, which we are pushing to the end.  We have listened to everyone's input and we have made changes during this process.  There have been many changes due to the helpful feedback from the players:
+- The number of phases have been reduced and optimized
+- The tutorials have been redesigned completely
+- Units have been tuned and balanced
+- The campaign missions have been balanced
+- Cards have been added and removed
+- Scenarios have been added (The Ridge is a fan inspired map)
+- And of course bugs have been discovered and resolved
+This is all because of effective feedback and the game is better because of the players.
+
+We highly appreciate and are very thankful for all of the feedback from everyone who has effectively participated, as it is what we have used to make the game better.  This is what to expect for all early access games.
+
+If providing constructive feedback or posting a bug is not desirable for someone, I would suggest for them to maybe stay out of early access to begin with.  Otherwise, join in and participate in the journey.  These games grow and develop because of their fans willing to speak up.
+
+If you still find things confusing, any bugs, or have any other issues, well that is the point of early access, we humbly ask that you bring it to our attention so we may address the concerns.
+
+Thank you,"
+9445692,"{'steamid': '76561198008436291', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1394693819}",english,"This game is painfully bad.
+
+It has no explaination of what's going on, no text anywhere, cryptic symbols, no way to tell what is art, UI or just plain broken... uninteresting mechanics (apparently), and just no appeal whatsoever.
+
+And I say this as a person who loves turn based strategy games. But Ground Pounders reminds me of a bad 1970s boxed game with chits, only it forces you to play the game while hopped up on novacane.",1394693890,1394693890,False,46,1,0.416590899229049683,1,True,False,True,False,,,
+9399183,"{'steamid': '76561197970598485', 'num_games_owned': 0, 'num_reviews': 52, 'playtime_forever': 803, 'playtime_last_two_weeks': 0, 'playtime_at_review': 741, 'last_played': 1404389444}",japanese,"ターンベースのウォーストラテジー。生産の要素はなく、限られたユニットを慎重に使うタイプ。
+カードビルドみたいな要素があるような触れ込みだが、実際はおまけみたいなものなので、
+そこには期待しない方がいい。
+
+ウォーストラテジーとしての満足度は、平均以上はある。",1394377621,1394377621,True,12,0,0.536215066909790039,0,True,False,True,False,,,
+9154472,"{'steamid': '76561198004174990', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1392595198}",english,"This game looked promising in the description but it led me to actually doubt my way of supporting developers by buying early access...
+
+The interface is horrible and I have seen some bad design etc. in my 25 years of gaming experience.
+
+There is no tutorial whatsoever, so I was put off and had no nerve to even try and understand the tactical gameplay after 30 minutes into the first game of the campaign.
+
+I can only advise everyone to wait for the final product or just skip this title. Sorry lads.",1392645021,1392645037,False,76,2,0.447326689958572388,16,True,False,True,False,,,

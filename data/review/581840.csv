@@ -1,0 +1,227 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+161817455,"{'steamid': '76561198355752399', 'num_games_owned': 2263, 'num_reviews': 2772, 'playtime_forever': 2374, 'playtime_last_two_weeks': 2374, 'playtime_at_review': 531, 'last_played': 1712253781}",russian,💋,1711818140,1711818140,True,1,1,0.506493508815765381,0,True,False,False,True,,,
+160695939,"{'steamid': '76561199134095780', 'num_games_owned': 553, 'num_reviews': 475, 'playtime_forever': 456, 'playtime_last_two_weeks': 62, 'playtime_at_review': 394, 'last_played': 1711625281}",english,<3,1710617551,1710617551,True,0,0,0.476190477609634399,0,True,False,False,True,,,
+160434185,"{'steamid': '76561199251774836', 'num_games_owned': 146, 'num_reviews': 53, 'playtime_forever': 298, 'playtime_last_two_weeks': 0, 'playtime_at_review': 298, 'last_played': 1710077556}",russian,Неплохая головоломка,1710313192,1710313192,True,0,0,0,0,False,False,False,True,,,
+158924228,"{'steamid': '76561198327205690', 'num_games_owned': 188, 'num_reviews': 2451, 'playtime_forever': 321, 'playtime_last_two_weeks': 0, 'playtime_at_review': 321, 'last_played': 1708552018}",english,‎,1708552637,1708552637,True,0,0,0.476190477609634399,0,True,True,False,True,,,
+158067545,"{'steamid': '76561198844282465', 'num_games_owned': 1575, 'num_reviews': 4684, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1707972292}",russian,☀️,1707647424,1707647424,True,0,0,0,0,True,False,False,True,,,
+156141385,"{'steamid': '76561199528664919', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 257, 'playtime_last_two_weeks': 0, 'playtime_at_review': 227, 'last_played': 1705500446}",russian,"Игра под пиво
+",1705454890,1705454890,True,0,0,0,0,True,False,False,True,,,
+154787888,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 239, 'playtime_last_two_weeks': 0, 'playtime_at_review': 239, 'last_played': 1688152499}",english,bad game,1703926752,1703926752,False,0,0,0.333086609840393066,0,True,False,False,True,,,
+154143566,"{'steamid': '76561198035471401', 'num_games_owned': 253, 'num_reviews': 17, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 73, 'last_played': 1703738966}",english,"Got it on sale, and I've gone through two worlds so far. 
+
+It's a tough puzzle game, but not impossible. Worth a check if you like challenging 3D puzzles.",1703264302,1703264302,True,0,0,0,0,True,False,False,True,,,
+153576935,"{'steamid': '76561199396546524', 'num_games_owned': 63, 'num_reviews': 3, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1706705158}",schinese,就是3D推箱子，感觉不太好玩，但是有卡片，所以加分。如果有优惠可以入手,1702564795,1702564795,True,0,0,0,0,True,False,False,True,,,
+152986643,"{'steamid': '76561199104890802', 'num_games_owned': 1851, 'num_reviews': 369, 'playtime_forever': 403, 'playtime_last_two_weeks': 0, 'playtime_at_review': 403, 'last_played': 1701794645}",schinese,3D推箱子，还有点意思,1701870701,1701870701,True,0,0,0,0,False,False,False,True,,,
+150518710,"{'steamid': '76561198151696853', 'num_games_owned': 545, 'num_reviews': 207, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1700346135}",english,"I would enjoy this a lot more if the controls weren't so clumsy: you avatar is not constrained to a grid making lining up block pushes a pain, and in the short while I played it I spent more time fighting with the controls than solving puzzles. The fact that it's in 3d allows some puzzle other sokoban games can't do, but the tedious controls don't justify that slight advantage.
+
+",1700522681,1700522681,False,0,0,0,0,True,False,False,True,,,
+149455381,"{'steamid': '76561199558431213', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8321, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3005, 'last_played': 1699356081}",russian,Nnnnice,1699030163,1699030163,True,0,0,0,0,True,False,False,True,,,
+149416053,"{'steamid': '76561198049823783', 'num_games_owned': 1712, 'num_reviews': 1265, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1698980175}",latam,"Juego de puzzles estilo minecraftero en cuanto a los graficos, cada puzzle se pasa si ademas de activar el boton para abrir el portal, tocas la estrella.
+
+Debo destacar que son bastante dificiles y te dejan muy pensativo, apenas pude resolver muy pocos y no hay walkthroughs en internet, esta bastante bueno para costar tan poco, y se suma el hecho de que tiene cromos obviamente lo cual sube el valor del titulo.
+
+El concepto es simple, patear cajas con el pie, pegarle con el puño si estan elevadas respecto a vos y todo en linea recta, no podes hacer nada en diagonal ni agarrar cajas con la mano, podes trepar alturas de 1 bloque y no podes saltar y trepar estilo spiderman. Como digo, mecanicas simplificadas pero combinado con la linda musica y los graficos decentes, se hace bastante pasable a pesar de su enorme dificultad.
+
+7/10 - Pena que no tiene workshop ni ayudas.",1698980412,1698980412,True,0,0,0.47826087474822998,0,True,False,False,True,,,
+149137699,"{'steamid': '76561199390230696', 'num_games_owned': 477, 'num_reviews': 53, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1689708462}",turkish,"2020 videolarını izle
+kar edicem diye al 
+zarar et👍",1698595900,1698595900,True,0,0,0,0,True,False,False,True,,,
+148459875,"{'steamid': '76561198233941008', 'num_games_owned': 2343, 'num_reviews': 2008, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 218, 'last_played': 1697412073}",brazilian,"[h1]Caliper: Um Desafio Intrigante e Cinético[/h1]
+
+Introdução:
+Prepare-se para uma experiência única e desafiadora em ""Caliper"". Este é um jogo que coloca sua mente em ação, exigindo que você domine as leis das forças cinéticas e resolva quebra-cabeças intrigantes. A ação é sua companheira constante, e a solução é sua busca incansável.
+
+Fusão de Movimento e Mistério:
+""Caliper"" é uma fusão de movimento e mistério, onde as forças físicas e as leis da cinética são seus guias. Os dispositivos e objetos no jogo obedecem a essas leis e são seus instrumentos para desvendar quebra-cabeças únicos. Você deve entender como o movimento e a física funcionam no mundo do jogo para avançar.
+
+Desafios Complexos:
+Os quebra-cabeças em ""Caliper"" são complexos e recompensadores. Eles desafiam sua mente a cada passo, e a solução muitas vezes reside em entender como os objetos interagem uns com os outros em um ambiente dinâmico. Cada novo quebra-cabeça oferece uma oportunidade para você explorar e aplicar suas habilidades de resolução de problemas.
+
+Estilo de Arte Distinto:
+O jogo apresenta um estilo de arte distinto que reflete a atmosfera única do mundo de ""Caliper"". A combinação de elementos visuais e físicos cria uma experiência imersiva que cativa seus sentidos.
+
+Recomendação:
+""Caliper"" é um jogo para aqueles que buscam um desafio mental e visual. Se você é apaixonado por quebra-cabeças cinéticos e intrigantes, este jogo é uma escolha sólida. Ele oferece uma oportunidade de mergulhar em um mundo de física e movimento enquanto trabalha para resolver quebra-cabeças desafiadores. Prepare-se para ser cativado e desafiado por ""Caliper"". Cada nível é uma nova chance de explorar as leis da física e ver sua mente em ação.",1697668879,1697668879,True,2,0,0.529005527496337891,0,False,False,False,True,,,
+148080924,"{'steamid': '76561197963806644', 'num_games_owned': 12, 'num_reviews': 1, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 100, 'last_played': 1697129010}",russian,+++,1697122563,1697122563,True,0,0,0,0,False,False,False,True,,,
+148080602,"{'steamid': '76561197963787063', 'num_games_owned': 12, 'num_reviews': 1, 'playtime_forever': 279, 'playtime_last_two_weeks': 0, 'playtime_at_review': 130, 'last_played': 1697155176}",russian,+++,1697122209,1697122209,True,0,0,0.476190477609634399,0,False,False,False,True,,,
+146741474,"{'steamid': '76561199474773614', 'num_games_owned': 0, 'num_reviews': 82, 'playtime_forever': 2803, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1700335991}",brazilian,Pedra,1695334353,1695334353,True,20,1,0.75,0,True,False,False,True,,,
+146633858,"{'steamid': '76561198995387103', 'num_games_owned': 6510, 'num_reviews': 3379, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1695349832}",schinese,"别看商店页面不咋样，实际体验，比预想好很多--想法，新意是值得好评的，宝藏游戏，3内强烈推荐入库。没有成就，降低了获得感，幸福感，成就感。无中文可玩，主打3d推箱子+手脚不同高度推+动作玩法，看上去内容比较少，希望能继续更新。
+
+特有规则或键位备忘：键盘wasd移动，鼠标视角方向，q脚踢地面箱子并推动（台上不可），e拳打台上箱子并推动（地面不可），tab美女换装（想多了），右键切换视角，shift跑，空格跳或攀爬，跑+跳=大跳。
+
+画面：**
+音乐：*
+剧情：*
+演出：*
+玩法：***
+创意：****
+手感：***
+难度：****
+丰富：**
+耐玩：**
+优化：**
+更新：*
+热情：*
+细节：*
+打磨：***
+诚意：*
+
+不足，bug，建议等：we need new update. we need chinese. we need cloud save. we need Ach.
+
+202304，steam，steam掉卡抵扣，t a o宝，支付宝红包，humble，indie gala，daily indie game，fanatical，杉果，它处自定义包入的本体约4元。爱人如己，目前就这，看以后追评。有中文的游戏请耐心自研体验乐趣，攻略指南尽量不用。不建议使用外挂，插件，作弊之类的，游戏都要这样搞，那现实里那更是如此了。兄弟萌，强烈建议不要第三方平台的小店买y u额，通过饰品等挂steam市场转的，高概率red信乃至封号，且行且珍惜。",1695196504,1695197133,True,0,0,0,0,True,False,False,True,,,
+144673864,"{'steamid': '76561199210951428', 'num_games_owned': 329, 'num_reviews': 12, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1692568069}",spanish,lo recomiendo,1692567662,1692567662,True,0,0,0,0,True,True,False,True,,,
+142642297,"{'steamid': '76561199276101515', 'num_games_owned': 554, 'num_reviews': 69, 'playtime_forever': 293, 'playtime_last_two_weeks': 0, 'playtime_at_review': 293, 'last_played': 1688126120}",turkish,✅Kartları satılarak kâr edilebilir.  profilimdeki incelemelerime bakabilirsiniz,1690117439,1690117439,True,0,0,0,0,True,False,False,True,,,
+142407424,"{'steamid': '76561198025571064', 'num_games_owned': 2180, 'num_reviews': 1520, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1689102398}",russian,"Caliper – головоломка. У вас есть своеобразное меню, поделённое на области, в областях несколько горящих маркеров. Заходите на маркер, телепортируетесь на уровень. Вам надо додвигать камень на красную кнопку, чтобы открылся портал, опционально ещё можно достать звезду из какого-нибудь сложного места. Главная сложность в том, что блок можно двигать только от себя, в связи с чем начинается чехарда.
+
+Графика отдаёт Minecraft’ом, особенно в меню, хотя сам персонаж вполне себе округлый, анимации слабенькие, музыка и звуки так себе.
+
+Мусор.",1689775842,1689775842,False,19,1,0.736842095851898193,0,False,True,False,True,,,
+141594349,"{'steamid': '76561198252070106', 'num_games_owned': 750, 'num_reviews': 237, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 132, 'last_played': 1688922899}",english,good,1688816901,1688816901,True,2,0,0.438632220029830933,0,True,False,False,True,,,
+141588367,"{'steamid': '76561199088276534', 'num_games_owned': 1080, 'num_reviews': 187, 'playtime_forever': 241, 'playtime_last_two_weeks': 0, 'playtime_at_review': 241, 'last_played': 1688516183}",turkish,al kart kas para kas,1688809998,1688809998,True,0,0,0,0,True,False,False,True,,,
+141163268,"{'steamid': '76561199071436128', 'num_games_owned': 356, 'num_reviews': 500, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1689193638}",russian,"Вроде и говно, а вроде и затянула на час. Детская игра, но даже в чем-то прикольная. Но лучше все же подрочите",1688329002,1688329002,True,0,0,0.373134315013885498,1,False,False,False,True,,,
+141112644,"{'steamid': '76561198120091280', 'num_games_owned': 4846, 'num_reviews': 297, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1688236787}",english,"[b]awesome stuff.[/b]
+
+it could easily be one of the most hidden gems I've ever found, and it's fascinating the old trashy look it has. 
+
+a must-have fundamental puzzle fossil.",1688284176,1688284176,True,3,0,0.475869536399841309,0,False,False,False,True,,,
+141022526,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 79, 'last_played': 1688102502}",spanish,"─▄───────▄█▄───────▄─
+▐█▌──▄──█████──▄──▐█▌
+─█──███▄▄███▄▄███──█─
+░█░░█▄█▄█▀▒▀█▄█▄█░░█░
+██▄▄█▄█▄█▒▒▒█▄█▄█▄▄██
+",1688184872,1688184872,True,0,0,0,0,True,False,False,True,,,
+140996021,"{'steamid': '76561198385306369', 'num_games_owned': 1021, 'num_reviews': 1594, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 297, 'last_played': 1688131411}",turkish,"- Oyunu Satın Al
+- Koleksiyon Kartları Düşür
+- Koleksiyon Kartlarını Sat",1688153261,1688153261,True,2,0,0.523622035980224609,0,True,False,False,True,,,
+140412342,"{'steamid': '76561198887427948', 'num_games_owned': 1392, 'num_reviews': 595, 'playtime_forever': 195, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1680882616}",english,bull shoot,1687300543,1687300543,False,5,0,0.417188346385955811,0,True,False,False,True,,,
+138782399,"{'steamid': '76561199028972373', 'num_games_owned': 709, 'num_reviews': 592, 'playtime_forever': 279, 'playtime_last_two_weeks': 0, 'playtime_at_review': 279, 'last_played': 1684780314}",turkish,"✅İndirimdeyken alınıp kartları satılarak kâr edilebilir.
+
+Hesabımda bunun gibi birsürü inceleme var kâr yaptıran oyunlar mevcut profilimden bakabilirsiniz.
+
+Üstte kalması için incelemeye geri bildirim bırakmayı unutmayın.",1684780505,1684780505,True,2,0,0.54356849193572998,0,True,False,False,True,,,
+138554651,"{'steamid': '76561199035562959', 'num_games_owned': 0, 'num_reviews': 87, 'playtime_forever': 377, 'playtime_last_two_weeks': 0, 'playtime_at_review': 377, 'last_played': 1684511054}",russian,"прикольная головоломка, но чота сложновато",1684511297,1684511297,True,0,0,0,0,True,False,False,True,,,
+138515595,"{'steamid': '76561198201246082', 'num_games_owned': 3232, 'num_reviews': 1500, 'playtime_forever': 194, 'playtime_last_two_weeks': 0, 'playtime_at_review': 194, 'last_played': 1680675264}",turkish,"Caliper, benzersiz ve ilgi çekici bir oyun deneyimi sunan bir bulmaca oyunudur. Oyun, engelleme ve yardım etme, donma ve erime, frenleme ve kayma, parlama ve solma kavramları etrafında dönmektedir. Oyuncuları, çeşitli engelleri aşmak için bulmaca dünyasının ortak yasalarını anlamaya ve uygulamaya zorlar.
+
+Caliper'da oyundaki cihazlar ve unsurlar birbirine bağlıdır ve her biri belirli kuralları ve davranışları takip eder. Bulmacalarda ilerlemek için bu kuralları anlamak çok önemlidir. Örneğin, erimiş bir şey dondurulamaz veya suya batırılamaz. Öte yandan, boğulma ve donmaya maruz kaldığında bile yanmadan kalan unsurlar olabilir. Farklı etkileşimlerin ve özelliklerin karmaşık bir bulmaca mekaniği ağı oluşturduğu bir dünya.
+
+Oyunda ateş kömürleri için uygun olmayan buz köprüleri bulunuyor ve bu da başka bir stratejik düşünme ve problem çözme katmanı ekliyor. Oyuncular doğru çözümleri bulmak için her bir elementin özelliklerini ve çevreyle nasıl etkileşime girdiklerini dikkatle değerlendirmelidir.
+
+Caliper'daki bulmacalar mantıksal düşünme ve gözlem becerilerinizi zorlayacak şekilde tasarlanmıştır. Hassas eylemler ve bulmaca mekaniğinin anlaşılmasını gerektiren çeşitli engeller ve zorluklarla karşılaşacaksınız. İlerledikçe zorluk seviyesi artar ve bulmaca meraklıları için ödüllendirici bir deneyim sunar.
+
+Görsel olarak Caliper, bulmaca çözme oyununu tamamlayan benzersiz ve minimalist bir sanat tarzı sunuyor. Ayrıntılı grafikler yerine mekaniklere ve etkileşimlere odaklanılması, oyuncuların bulmaca çözme deneyimine tam olarak katılmalarını sağlıyor.
+
+Genel olarak Caliper, düşündürücü ve sürükleyici bir bulmaca macerası sunuyor. Oyuncuları kutunun dışında düşünmeye ve zorlukların üstesinden gelmek için oyunun mekaniklerini denemeye teşvik ediyor. Mantıksal akıl yürütme ve yaratıcı problem çözme gerektiren bulmacalardan hoşlanıyorsanız, Caliper büyüleyici ve tatmin edici bir oyun deneyimi sunuyor.",1684451873,1684451873,True,1,0,0.516129076480865479,0,True,False,False,True,,,
+138485735,"{'steamid': '76561198853962733', 'num_games_owned': 0, 'num_reviews': 420, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1684413331}",russian,надо хорошо подумать головой если хочется это пройти,1684413306,1684413306,True,3,0,0.565217375755310059,0,True,False,False,True,,,
+138426256,"{'steamid': '76561199504153785', 'num_games_owned': 51, 'num_reviews': 51, 'playtime_forever': 4267, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1684951245}",turkish,"Steam koleksiyon kartlarını düşürüp, kartları steam leveli veya ekonomik olarak kullanabilirsiniz. Ben Kaan, tavsiye ediyorum...
+
+You can drop Steam trading cards and use them at steam level or economically. I'm Kaan, I recommend...",1684314997,1684314997,True,0,1,0,0,True,False,False,True,,,
+138347938,"{'steamid': '76561199438434097', 'num_games_owned': 247, 'num_reviews': 636, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1684173160}",turkish,TOMB JOE DAN GÜZEL OLDUĞU KESİN ORASI DOĞRU DA YİNE DE BOK GİBİ AMK,1684173229,1684173229,False,0,0,0,0,True,False,False,True,,,
+138335461,"{'steamid': '76561197965155028', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 235, 'playtime_last_two_weeks': 0, 'playtime_at_review': 235, 'last_played': 1680675268}",turkish,"⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿
+⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿
+⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠜⣿
+⣿⣿⣿⣿⠿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿
+⣿⣿⡏⠁⠀⠀⠀⠀⠀⣀⣠⣤⣤⣶⣶⣶⣶⣶⣦⣤⡄⠀⠀⠀⠀⢀⣴⣿
+⣿⣿⣷⣄⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡧⠇⢀⣤⣶
+⣿⣿⣿⣿⣿⣿⣾⣮⣭⣿⡻⣽⣒⠀⣤⣜⣭⠐⢐⣒⠢⢰
+⣿⣿⣿⣿⣿⣿⣿⣏⣿⣿⣿⣿⣿⣿⡟⣾⣿⠂⢈⢿⣷⣞
+⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣷⣶⣾⡿⠿⣿⠗⠈⢻⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠻⠋⠉⠑⠀⠀⢘⢻
+⣿⣿⣿⣿⣿⣿⣿⡿⠟⢹⣿⣿⡇⢀⣶⣶⠴⠶⠀⠀⢽
+⣿⣿⣿⣿⣿⣿⡿⠀⠀⢸⣿⣿⠀⠀⠣⠀⠀⠀⠀⠀⡟⢿⣿
+⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠹⣿⣧⣀⠀⠀⠀⠀⡀⣴⠁⢘⡙
+⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⠗⠂⠄⠀⣴⡟⠀⠀⡃",1684154757,1684154757,True,0,1,0,0,True,False,False,True,,,
+136971252,"{'steamid': '76561198237676960', 'num_games_owned': 5411, 'num_reviews': 2874, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1681930349}",turkish,3d platform bulmaca oyunu ama dışardan güzel görünsede hiç eğlenceli değil boşkoyun,1681931852,1681931852,False,0,0,0,0,True,False,False,True,,,
+136609417,"{'steamid': '76561199158292051', 'num_games_owned': 2792, 'num_reviews': 1619, 'playtime_forever': 352, 'playtime_last_two_weeks': 0, 'playtime_at_review': 352, 'last_played': 1681359153}",schinese,4.33，3D推箱子。有卡,1681359198,1681359198,True,0,0,0,0,True,False,False,True,,,
+136452287,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 182, 'last_played': 1681100908}",english,"Caliper is more Russian shovelware glutting Steam, in this case, a simple, badly made 3D puzzle platformer with a Minecraft ripoff appearance (don't be mislead by that, this is just a very basic platformer with a few Sokoban ripoff puzzle elements). 
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+There's no options to change the resolution for the game or customise the graphics settings.  There's no way for gamers to ensure this is running at the native resolution of their displays... there's no guarantee this game will look right on any PC as a result of this hamfisted design decision.  There's no way for gamers to try improve the low quality graphics. 
+
+The game features lazy low-polygon voxel ""Minecraft""-like ""art"", making this look like a barely functional 3D game from the 1990s.  A lot of amateur developers see Minecraft's success and assume it's because it looks bad, not because it had unique and appealing game mechanics, and they try to emulate the success without understanding it.  It also happens to be easy, and doesn't need any proper talent in terms of game development/graphic artists etc.  That's why reviewers are faced with so many of these terrible games with confrontingly bad graphics.  Developers must learn that Minecraft succeeded despite the bad graphics, not because of them.
+
+The controls and game handling are notably very clunky and unsmooth here.  It's janky and unsatisfying to play... and any experienced gamer will tell you, the handling, responsiveness and general gameplay feel of the control scheme must be well polished for this kind of game to succeed.  Unfortunately, this is something the developer seems to have phoned in, with little to no apparent gameplay testing.  They dropped the ball on this one.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a very healthy spike in player counts for the game.  But this only appears around the same time that trading cards were applied to the game... so this is just card idlers getting their cards and moving on.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+Caliper is relatively cheap at $1 USD, but it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.",1681101104,1681101104,False,2,2,0.242881670594215393,0,True,False,False,True,,,
+136370254,"{'steamid': '76561198318716253', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1680965674}",turkish,"Yarram Gibi
+",1680987114,1680987114,False,0,1,0,0,True,False,False,True,,,
+136364126,"{'steamid': '76561197983267187', 'num_games_owned': 5317, 'num_reviews': 888, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1680980324}",english,Taking out the trash is more fun than this game.,1680980363,1680980363,False,2,2,0.475260496139526367,0,True,False,False,True,,,
+136327553,"{'steamid': '76561198897122574', 'num_games_owned': 76, 'num_reviews': 30, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1680899795}",brazilian,"[h1]Como fazer Ovo Pochet[/h1]
+
+[b]Ingredientes[/b]
+[list]
+ [*]1 ovo
+ [*]1 copo de 250 ml de vinagre
+ [*]1 litro de água
+[/list]
+
+[b]Modo de Preparo[/b]
+[olist]
+ [*]Quebre o ovo em um recipiente e reserve.
+ [*]Numa panela, leve ao fogo a água com o vinagre e deixe ferver. Baixe o fogo, mexa a água até formar um ""redemoinho"" e coloque o ovo no meio.
+ [*]Deixe cozinhar por 3 minutos, retire e resfrie na água fria se quiser uma gema bem mole.
+ [*]Tempere com sal e pimenta e sirva a seguir.
+[/olist]
+
+Pronto! Agora você já sabe fazer um Ovo Pochet! Pode me agradecer depois
+",1680946442,1680946442,True,0,0,0,0,True,False,False,True,,,
+136048973,"{'steamid': '76561198083413093', 'num_games_owned': 3787, 'num_reviews': 2801, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1680560000}",turkish,"░░░░░░░░░░░████
+░░░░░░░░░░░█░░█
+░░░░░░░░░░█░░░█
+░░░░░░░░░█░░░░█
+██████▄▄█░░░░░███▄
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░
+░░░░░░░░░░░░▀▀",1680560057,1680560057,True,0,0,0,0,True,False,False,True,,,
+95559850,"{'steamid': '76561198278017217', 'num_games_owned': 812, 'num_reviews': 131, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 86, 'last_played': 1689774406}",latam,"Mira pa, esto es así:
+Venís, lees mi reseña; Me das una medalla para comprarme un fondo que llevo tiempo con ganas de comprarmelo; te vas.
+Subis y compras el juego, ganas cromos y los vendes para ganar plata... Chaucha",1626033867,1626033867,True,0,1,0.441176474094390869,0,False,False,False,False,,,
+95152489,"{'steamid': '76561198055140732', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 358, 'playtime_last_two_weeks': 0, 'playtime_at_review': 302, 'last_played': 1639951677}",brazilian,"O jogo parece ser um completo lixo... MAS NÃO SE ENGANE! CALIPER É DO CAR@LH0! Os puzzles são desafiadores e fazem vc quebrar a cabeça. Muitos poucos bugs, acho que o maior deles é que vc spawna um monge careca e dps de morrer na ilha de seleção de fases na primeira vez vc vira um camponês espanhol (?)",1625542399,1625542399,True,0,0,0,0,False,False,False,False,,,
+51129197,"{'steamid': '76561198405284089', 'num_games_owned': 3395, 'num_reviews': 95, 'playtime_forever': 1193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1193, 'last_played': 1560046056}",english,"The goal of this game is simple -- in each stage (level/puzzle), you move blocks around to allow you to collect a star, move a block onto a button, and go through the exit portal.  Similarly, the rules are simple (for example, stone blocks can be pushed one space forward on non-ice surfaces, ice blocks slide across the ground, other blocks slide on ice, fire blocks melt ice, etc).  How you accomplish the goal is anything but simple, especially in the later stages.  These puzzles are very well-designed, often requiring significant logical thinking to deduce the correct solution.
+
+There are 30 stages total, grouped into 6 areas, and you must complete all 5 stages in one area before you can proceed to the next area.  There are different types of blocks (stone, ice, fire/red-hot, freezer, flame-thrower, and teleporter), which allow for very diverse and intricate puzzles.  I did not encounter any errors or inconsistent behavior.
+
+If you're a puzzle enthusiast, I definitely recommend this game.  I found it to be extremely fun and satisfying, and you can't beat the price.",1560047386,1560047386,True,0,0,0,0,True,False,False,False,,,
+45299913,"{'steamid': '76561198164458835', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1663498078}",italian,"This is a very nice little game. The only bad thing is that here are no instructions, and this can be confusing at the beginning. In fact, the first time I was playing the levels I was just trying to find the exit. It took me a while to understand that I also needed to get the stars in every level.
+Said that, the game can provide hour of simple and entertainig fun.",1539718129,1539718129,True,0,0,0,0,True,False,False,False,,,
+41043962,"{'steamid': '76561198362589595', 'num_games_owned': 247, 'num_reviews': 49, 'playtime_forever': 169, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1522699541}",english,Caliper is a 3D sokoban type of game that offers complex puzzles with simple rules.,1521988457,1521988457,True,2,0,0.549888491630554199,0,True,False,False,False,,,
+40656067,"{'steamid': '76561198126592129', 'num_games_owned': 900, 'num_reviews': 143, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 197, 'last_played': 1647020463}",english,"Really good 3d puzzle game!! The graphics might not be the best, the controls aren't always perfect, and the english version of the store's description makes no sense, but the puzzles are actually REALLY good, really well designed and really challenging! The game is inspired by Sokoban style games, but it adds a lot of new and fun mechanics to the genre.
+
+Only negative side of this game (well, apart from the bad english translation, but that's not really important since there isn't any text in the game other than in the menu) is that there is no ctrl-z feature, so if you make a small mistake, or hit the wrong button (for example push instead of kick), you have to start the puzzle again from the beginning.
+
+If you like this type of game, don't let the presentation keep you away from it, it's definitely one of the good ones!
+
+[quote]For more reviews like this, follow [url=http://store.steampowered.com/curator/32020206-Indie-Puzzle-Games/]Indie Puzzle Games Curator Page[/url].[/quote]",1520520636,1521435890,True,4,0,0.557690918445587158,0,True,False,False,False,,,
+40412279,"{'steamid': '76561198291676744', 'num_games_owned': 420, 'num_reviews': 5, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1519642339}",english,"[h1] Nice little puzzle game, that gets you thinking [/h1] Every level seems to be constantly [b] evolving [/b] when tring to solve it, You think you have worked it all out in your head but it turns out differently from what you first thought, and have to rethink maybe 3 or 4 more times. I like the addition of using the blocks first to collect the stars before escaping which doubles the challenge.
+my only criticism, is when you punch (e) or kick (q) he doesn't move the block first time, and he ends up punching the air several times before it moves, which starts to become a bit tedious. 
+Apart from that a good game, and would recommend.
+",1519643607,1519643607,True,4,0,0.554565668106079102,0,True,False,False,False,,,
+39175041,"{'steamid': '76561198253999569', 'num_games_owned': 123, 'num_reviews': 29, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1703297068}",spanish,vaya juegazo recomendado 100% no fake xd,1515396738,1515396738,True,0,1,0.476190477609634399,0,False,False,False,False,,,
+38875540,"{'steamid': '76561198429683929', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1514133385}",ukrainian,класна гра,1514666709,1514666709,True,2,0,0.545454561710357666,0,True,False,False,False,,,
+34982628,"{'steamid': '76561198056959014', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1507482660}",russian,"Хорошая, приятная игра, её определённо стоит открыть для себя любителям головоломок. Сама по себе она достаточно простая, хотя некоторые её моменты способны поставить в тупик на короткое время. Сам по себе интерфейс напоминает MineCraft, но графика в целом совершенно иная, слегка отдалённая от реализма, отчего происходящее напоминает незатейливую сказку. Физика также достаточно простая и плавная.",1505514510,1505514510,True,5,1,0.580419540405273438,0,True,False,False,False,,,
+33108784,"{'steamid': '76561197989580996', 'num_games_owned': 0, 'num_reviews': 315, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1502728080}",english,Top-notch Puzzles at a  Great Value!,1498957104,1498957104,True,1,0,0.421305358409881592,0,True,False,False,False,,,
+31773021,"{'steamid': '76561197998856370', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 744, 'playtime_last_two_weeks': 0, 'playtime_at_review': 380, 'last_played': 1683622153}",english,"As said before, the store description makes no sense. Read The Virgin Queen's ""New Description"" post instead.
+But this is a great little puzzle game, once you figure out what you're supposed to be doing.
+Go into the yellow entrances, push and/or kick the various blocks around to collect the star and press the red button to get back out the portal doorway.
+Once completed the doorway will turn green. Red doorways are locked.
+Great game, nice graphics, very addictive. Enjoy!",1494869125,1494869168,True,8,0,0.60532766580581665,0,True,False,False,False,,,
+30015594,"{'steamid': '76561197979932327', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 146, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1487453699}",english,"Please do not judge this game by that absolutely laughable description. Caliper may sound terrible and not look like the prettiest game on the block, but this one of those little hidden gems. The idea of the game is to solve each level by collecting the star and unlocking the portal to move onto the next level - and then eventually a whole new zone. As you progress through each zone the puzzles get more difficult. The puzzles range from relatively easy to true head-scratchers and I applaud the dev for keeping me challenged!
+
+All in all, a nice little puzzle game and definitely worth the 99 cents.
+
+If you care for it, I did a 60 second review. See below! :)
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=866863735",1487442695,1487442695,True,23,0,0.72984468936920166,0,True,False,False,False,,,
+29678972,"{'steamid': '76561198071145231', 'num_games_owned': 998, 'num_reviews': 62, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1569856537}",russian,"Приятная небольшая игра-головоломка, напоминающая старые добрые Sokoban и Solomon's Key. 
+
+С удовольствием поддержал разработчика, той небольшой суммой, которую он просит за свою работу. Жаль, что на наших СНГ-пространствах очень немного таких ""людей-оркестров"", способных доводить свои проекты до состояния готового продукта. Большинство либо в вечных поисках, либо пилят кривые поделки из ассетов Unity/UE4.",1486160030,1486160030,True,8,0,0.559437394142150879,1,True,False,False,False,,,

@@ -1,0 +1,125 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+161029514,"{'steamid': '76561198067893750', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 5091, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5091, 'last_played': 1615647205}",english,"friend of my dad create it, so it so good",1710976498,1710976498,True,0,0,0.46961328387260437,0,True,False,True,True,,,
+140409520,"{'steamid': '76561198077064688', 'num_games_owned': 1006, 'num_reviews': 13, 'playtime_forever': 658, 'playtime_last_two_weeks': 0, 'playtime_at_review': 658, 'last_played': 1687295737}",russian,"Конечно было бы неплохо, если бы каждые 5 минут не было каких-либо багов.
+Во время прохождения игры постоянно вижу при снятие/надевание шмота баги, которые не дают использовать предметы одежды, закрывают их для использования, дублируют или еще что-то.",1687295887,1687295887,False,0,0,0,0,True,False,True,True,,,
+127874400,"{'steamid': '76561198030012858', 'num_games_owned': 0, 'num_reviews': 55, 'playtime_forever': 2550, 'playtime_last_two_weeks': 0, 'playtime_at_review': 569, 'last_played': 1670929615}",russian,"Что не так с этой игрой ? , Почему в ней просто пропадают предметы инвентаря !?
+Персонажи полностью ломаются если их одновременно, за сессию, одеть и вкачать статы, или приходят карты, а у магов ломаются статы на воинские...
+Так много багов полностью ломающих игровой процесс, что создается впечатление что всё еще не выбралась из альфа версии с 2017",1670109744,1670929887,False,0,0,0,0,True,False,True,True,,,
+54347812,"{'steamid': '76561198075221093', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 336, 'playtime_last_two_weeks': 0, 'playtime_at_review': 336, 'last_played': 1555004713}",spanish,"Aunque parte de una muy buena idea, siendo un tower wars con un componente RPG importante, el juego está tremendamente roto...
+
+Los bugs son importantes: objetos que desaparecen por arte de magia, mejoras que no tienen uso alguno... Ahora bien, la joya de la corona de los bugs reside en que, de vez en cuando, las estadísticas de las unidades disminuyen por algún motivo. Por ejemplo, experimenté que por una razón desconocida, imagino que incluso desconocida por los propios desarolladores del juego, las stats de las unidades  disminuyen. En mi caso, el arquero pasó a tener un rango menor al de las unidades de melee... A las pocas partidas fue el turno del mago. Así, que en las pocas horas que le he dedicado, me he quedado con una cuadrilla de soldados a melee, algunas de ellas completamente inútiles...
+
+Una pena, desaconsejo totalmente su compra.",1564356120,1564356120,False,1,0,0,0,True,False,True,False,,,
+50360800,"{'steamid': '76561198118641732', 'num_games_owned': 154, 'num_reviews': 12, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1549903577}",english,"v1.0.7 ""early access"" seems to be a broken/abandoned game - character stats randomly reset for me after 40 minutes, other people also reported this on the forum but there is no response from the dev :(",1556409003,1556409084,False,3,0,0.496843069791793823,0,True,False,True,False,,,
+49256475,"{'steamid': '76561198034029685', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 456, 'playtime_last_two_weeks': 0, 'playtime_at_review': 456, 'last_played': 1551321301}",english,Wow,1551239504,1551239504,False,2,0,0.494296550750732422,0,True,False,True,False,,,
+47860195,"{'steamid': '76561198032265427', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 838, 'playtime_last_two_weeks': 0, 'playtime_at_review': 835, 'last_played': 1552142436}",english,"DO NOT BUY !
+
+This game is currently abandonned and isn't in any kind of working condition anymore.
+The list of bugs and broken things is really too long to write here.
+Currently you cannot improve your "" towers "" anymore, I reported that 3 MONTHS ago and there isn't a single reply from the dev.
+
+DO NOT BUY !",1545902880,1552142264,False,5,1,0.52695995569229126,0,True,False,True,False,,,
+47294876,"{'steamid': '76561198085450333', 'num_games_owned': 799, 'num_reviews': 39, 'playtime_forever': 2737, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2727, 'last_played': 1547365378}",english,"I really hate to write a bad review, especially for an early access game, but ...
+There are multiple problems with the game:
+
+Most of all, it's a boring grindfest. As in most tower defense games, you place your towers (in this case characters) on the map. But in this case there are just two kinds of towers: Ranged and Melee. And they do damage. In game you get ""stars"" which can be used to make one character stronger. 
+
+The tactics part is rather small, because there are not a lot of options. Basically it is:
+-) Place characters.
+-) Wait
+-) Put star on a ranged character (it's pretty pointless to star a melee character)
+-) Wait
+-) Put star on a ranged character (it's pretty pointless to star a melee character)
+-) Wait
+...
+
+Grind the current level till the ranged characters have earned enough xp. Level them and play repeat the grinding on the next level.
+
+Since only the characters that kill an enemy get xp, all xp go to the ranged characters. --> Melee characters are dead weight, since they stay several levels behind.
+
+So, it is basically endless grinding.
+
+Items: There seem to be alot of items, but in the end it's just cosmetics. Ok, there are several better versions of the current item till you get Legendary items, but, there you are. Crafting is possible, but useless. By far too random and you craft so many crap ... It's better to sell the items and buy new items in the shop.
+
+
+And then there are the bugs: I lost about a ton of items because they simply vanished. These vanishing items bugs persist now for a year or so. Today one of my ranged characters suddenly became melee and with that totally useless (that bug would be really nice the other way round). Happened to somebody else too, as I found out when looking into the forum.
+",1543945609,1543945609,False,7,0,0.62076115608215332,0,True,False,True,False,,,
+43435805,"{'steamid': '76561198198896114', 'num_games_owned': 88, 'num_reviews': 8, 'playtime_forever': 1026, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1026, 'last_played': 1531189341}",english,"This game is fun at the beginning, but it gets repetitive very soon. There are not many elements in the game for you to play around with. You basically have a tavern to manage your deck, a shop and somewhere you can combine parts to get a new and sometimes better part. The heroes are quite similar, except for the begining stats.
+However, I see much potential in this game. Lots of elements could have been added to the game to make it a gem, such as more customization and individual differences (skills?) for the heroes, more varieties of cards and  more facilities that allow customization.
+I will not recommend this game at this point, but I will if the developer could add more depth and fun to the game. (There hasn't been any update since March though, sigh)",1531189911,1531190043,False,2,0,0,0,True,False,True,False,,,
+41594658,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 207, 'last_played': 1524335256}",romanian,Very nice game,1524264192,1524264192,True,0,0,0.431632965803146362,0,False,False,True,False,,,
+40109613,"{'steamid': '76561198075358004', 'num_games_owned': 662, 'num_reviews': 20, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1518729211}",russian,"Даже для раннего доступа очень бедненько. Ухитряется тормозить, хотя графика совершенно никакая. 
+Ролевой системы нет, хотя классы отдаленно напоминают DnD.
+Увы, идея может и неплохая, но реализация очень кондовая.",1518729543,1518729543,False,7,1,0.54759681224822998,0,True,False,True,False,,,
+39910646,"{'steamid': '76561198098228974', 'num_games_owned': 194, 'num_reviews': 14, 'playtime_forever': 237, 'playtime_last_two_weeks': 0, 'playtime_at_review': 237, 'last_played': 1518026395}",russian,Сойдёт),1518017745,1518017745,True,0,0,0.45762711763381958,0,False,False,True,False,,,
+39878172,"{'steamid': '76561198034960142', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 3506, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2056, 'last_played': 1544467153}",english,"GAME IS ABANDONED.... Do not throw away money. below is my original negative review
+
+I pulled this straight from discussion page that i wrote rather then rewrite all the same crap in a review. Its all true, and none of it subjective. If you can handle TERRIBLE interface/ a pure DPS tower defense grind with zero strategy/ and glitches, then have fun playing 12$ for this trash. Here is what i wrote in discussions below: i edited it after 3 hours and wrote points 6-8.
+
+Badly needed interface
+So i have played this game for all of 24 minutes and have noticed some seriously lacking UI. Come on devs, this stuff i suggesting is STANDARD issue in any good game nowdays. Game is borderline unplayable till below interface added.
+
+1-Needs item compare when in tavern. Maybe even compare to ALL heros button.
+
+2-You can right click an item to wear it, but have to manually drag item off. Why can i not just right click again to remove item?
+
+3-No desciptions for anything in game when doing a mouse over. Even better an option to toggle on/off descriptions once you know the game. All icons on top of screen, cards and even your soldiers have NO descriptions until you drag them and place them. So i have to memorize the stats of all soldiers and memorize what each card does by a simple icon? This is so weakly implemented.
+
+4-Often when i try to place soldiers it wont let me, but a milimeter one way or another and it works? For a board so wide open, why am i soooo limited in placement?
+
+5-Cannot rename Heroes or create your own.
+
+6-There is a blue arua that range of unit in battle. Once you click on a Hero(tower) this aura NEVER goes away till your honor levels up. You just have to live with it on one of your heroes till aforementioned solution.
+
+Bad UI is gamebreaking and unacceptable in todays gaming world. Please fix, as nothing i have mentioned here is overly demanding
+
+Now 2 hours in and wish i had refunded this game while i had the chance, as the game has glitched out and i will get to that.
+
+7-This game is 100% DPS tower based. SO play goes like this. Beat a couple levels, then replay a few levels to get your DPS up to speed for next batch of levels.
+
+GAMEBREAKING GLITCH
+
+8-The 'Tavern""-where you equip and level up characters. Takes forever to load suddenly, and wont go back to normal even after restart. Any new card i have is just blank, with no indicating icon, nor does it show level ups for characters anymore. ^$#* this game!!!",1517879272,1538096126,False,7,0,0.481831103563308716,0,True,False,True,False,,1540373145.0,"Hello We apologize for such a long lack of updates.
+The game is alive and soon we will release an update.
+Thank you for your feedback, in future updates we will try to correct the shortcomings you described.
+I hope our improvements you will like and you change the review. Details in the news:
+https://steamcommunity.com/games/566430/announcements/detail/1682551398045106937"
+39174573,"{'steamid': '76561197996158917', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1515392024}",english,If you got duped into this game because you thought it was an RPG I feel bad for you.  this is just a game where characters you dont control and are completely stationary act like towers that shoot at creatures that walk on roads.  There are hundreds of versions of this game that are free to play.  I recomend those instead.,1515394737,1515394737,False,3,0,0.428938865661621094,1,True,False,True,False,,,
+38485063,"{'steamid': '76561198164426986', 'num_games_owned': 132, 'num_reviews': 7, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1513611967}",english,"This game for not everyone. It has some intresting things such as random cards with charaters and creating equipment. But after 15 minutes playing you'll feel so boring...
+I think developers should add some thing which will motivate player continue play this game.
+5/10 for indie game.",1513855363,1513855363,True,1,0,0,0,False,False,True,False,,,
+38253088,"{'steamid': '76561198082024984', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 426, 'playtime_last_two_weeks': 0, 'playtime_at_review': 297, 'last_played': 1513274331}",russian,"Игра обманчиво простая, в действительности достаточно продумана и затягивает. Простота графического интерфейса абсолютно не напрягает. Единственное что нет никакого обучения, и многие аспекты нужно понять самостоятельно, но видно что к игре подошли с умом. РПГ составляющая напутствует на то,что нужная карта/сложность так просто не дадутся и перед идеальным прохождением нужно будет ""подкачаться"", что предоставляет длительный геймплей. В игре есть мелкие недостатки, которые я уверен будут закрыты к моменту релиза.",1513070580,1513070580,True,0,0,0,0,False,True,True,False,,,
+36495380,"{'steamid': '76561197993307740', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1510335635}",russian,"В целом не плохо! Есть прокачка, гринд, карты. Залип на час...))Разработчикам удачи!))",1510592287,1510592287,True,1,0,0,0,True,False,True,False,,,
+36440262,"{'steamid': '76561198023986537', 'num_games_owned': 0, 'num_reviews': 87, 'playtime_forever': 149, 'playtime_last_two_weeks': 0, 'playtime_at_review': 149, 'last_played': 1510398285}",russian,"Крайне примитивная ТД. начиная от графики и заканчивая геймплеем.
+У вас есть 6 бойцов, класс им сменить нельзя, новых нанять нельзя, внешний вид фиксирован.
+В бою вы выбираете из 4 доступных карт взятых рандомно из вашей колоды, это может быть как боец так и улучшение.(остальные карты колоды открываются с течением времени).
+
+Вообщем уныние а не игра, не понимаю кто дал ей положительные отзовы, может сами разработчики и их друзья.",1510398754,1510398941,False,13,0,0.551270067691802979,1,True,False,True,False,,,
+36435927,"{'steamid': '76561198344258138', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1967, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1953, 'last_played': 1511259478}",english,"Very lagging and hard to process game without any guide.
+
+Not player friendly
+
+little content pretty bored after 1 day playing
+
+
+
+",1510383152,1510383152,False,6,0,0.382374078035354614,3,True,False,True,False,,,
+36431094,"{'steamid': '76561198094628303', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 822, 'playtime_last_two_weeks': 0, 'playtime_at_review': 202, 'last_played': 1528542755}",russian,"Все тот же TowerDefence с волнами врагов. Но особенностью является то, что вам будут выпадать случайные карты с героями и бафами. И от этого рандома уровень будет либо легким, либо придется слегка запариться. Изза чего прохождение одного и того же уровня будет отличаться, что несомненно является плюсом для геймплейя.
+Плюс прокачка героев, фарм шмота и очень простой крафт.
+Мне понравилось.",1510362519,1510362519,True,3,0,0,0,True,False,True,False,,,
+36429743,"{'steamid': '76561198107076869', 'num_games_owned': 50, 'num_reviews': 2, 'playtime_forever': 448, 'playtime_last_two_weeks': 0, 'playtime_at_review': 447, 'last_played': 1510446436}",english,"Pretty mature tower defense. Have some glitches, but gameplay is really hardcore.",1510356555,1510356555,True,2,1,0.457830756902694702,0,True,False,True,False,,,
+36428277,"{'steamid': '76561198032818967', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1508356201}",russian,"Игра классная! Пробовал еще в бете и в ранних пред релизах и каждый раз залипал надолго, хотя обычно по долгу в такие игры не играю. Так что рекомендация однозначно покупать, не пожалеете!",1510351057,1510351057,True,2,0,0,0,True,False,True,False,,,
+36426217,"{'steamid': '76561198029203455', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 149, 'playtime_last_two_weeks': 0, 'playtime_at_review': 149, 'last_played': 1510350354}",english,"Nice TD , colorful graphics , intresting card set up",1510343407,1510343407,True,2,1,0.457830756902694702,0,True,False,True,False,,,
+36425339,"{'steamid': '76561198053005358', 'num_games_owned': 2073, 'num_reviews': 4, 'playtime_forever': 1252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 255, 'last_played': 1546601226}",english,The game is a tower defense mixed with RPG and in my opinion this mixture is very fortunate. With impatience I will wait for the full game),1510340618,1510340618,True,5,1,0.519143939018249512,0,True,False,True,False,,,
+36424694,"{'steamid': '76561198072897325', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1508152488}",english,"Хорошая игра.Поиграл, выиграв ключ и решил купить её, чтобы поддержать разработчиков. Интересная система крафта и вариативность использования карт и прокачки персов.",1510338574,1510338574,True,3,0,0.447039783000946045,0,True,False,True,False,,,
+36423518,"{'steamid': '76561198000792915', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1510334781}",russian,игра приятная. забавная))   по классике )),1510334861,1510334861,True,2,0,0,0,True,False,True,False,,,
+36421841,"{'steamid': '76561198053343928', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 422, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1672091832}",russian,"Установил и играю вот уже второй день. Очень даже неплохо, можно залипнуть на час точно)) Отличная игра для тех у кого свободный график или просто появилось немного времени среди рабочего дня. Если задумываетесь о покупке, берите без раздумий. Рекомендую.",1510329889,1510329889,True,2,0,0,0,True,False,True,False,,,
+36420052,"{'steamid': '76561198112778350', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 15443, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5610, 'last_played': 1558191953}",english,"I play it since the beta test. I like the game for a mix of genres (RPGs, TD and CCG) and complexity. Also there is a large selection of builds and tactics.
+
+I see great progress in how the design has changed over the last time and how developers respond to all community suggestions.
+
+I think the game will appeal to those who love the old good RPG and TD. I was interested to go through all the content, collect the best items and legendary cards. I hope for the new updates and new content.",1510324828,1510324828,True,5,0,0.514615356922149658,0,True,False,True,False,,,
+36416156,"{'steamid': '76561198028637401', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 1752, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1545, 'last_played': 1537522863}",russian,"Отличный и качественный проект в отлдскул стилистике, с элементами классических RPG, Стратегии, Tower Defense и коллекционных карточных жанров, все то что каждый из нас любит с детства. Отличная игра по залипать в свободное время или отдохнуть от современного треша и графико-мании. Надеюсь игра будет развиваться, а своя аудитория для хорошего проекта всегда найдется.",1510312462,1510312462,True,5,0,0.547325074672698975,0,True,False,True,False,,,
+36415105,"{'steamid': '76561198050461698', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1510392244}",english,Sometimes I like to play good tower defence games and this is one of them. It is not very easy so it even better.,1510307864,1510307864,True,3,0,0.443251639604568481,0,True,False,True,False,,,
+36384664,"{'steamid': '76561198059524616', 'num_games_owned': 289, 'num_reviews': 38, 'playtime_forever': 380, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1535546277}",russian,"Ждал игры очень годная тдшка,играл последний раз бету в которой много всего не было,но следил за обновлениями от разработчика. Игра реально годная,рекоменедую ее преобрести!",1510180000,1510180000,True,3,1,0,0,False,True,True,False,,,
+36382732,"{'steamid': '76561198120155714', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1510173678}",russian,"Давно ждал , все супер",1510172308,1510172308,True,5,0,0.528907954692840576,0,False,False,True,False,,,

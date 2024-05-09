@@ -1,0 +1,218 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+162174493,"{'steamid': '76561198036629241', 'num_games_owned': 2001, 'num_reviews': 7194, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1701965781}",english,⠀,1712224025,1712224025,True,3,1,0.543523907661437988,0,False,False,False,True,,,
+160473209,"{'steamid': '76561198089344398', 'num_games_owned': 186, 'num_reviews': 12, 'playtime_forever': 497, 'playtime_last_two_weeks': 0, 'playtime_at_review': 497, 'last_played': 1710365127}",french,A roguelite without anything that makes the genre fun.,1710365160,1710365160,False,0,0,0,0,True,False,False,True,,,
+157866333,"{'steamid': '76561198036176076', 'num_games_owned': 0, 'num_reviews': 4382, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1707412167}",russian,"Игра хорошая, но однотипная. Надо больше контента",1707413144,1707413144,True,1,0,0.442028999328613281,0,False,False,False,True,,,
+144428348,"{'steamid': '76561198086000429', 'num_games_owned': 394, 'num_reviews': 9581, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1692296085}",turkish,"Assault on the Necrospire, ilginç ganimet ve karakter oluşturmaya vurgu yapan bir roguelike oyunudur. Senin görevin Necromancer'ı yok etmek. Büyü kitabınızdaki tozu silin; ona ihtiyacın olacak",1692296125,1692296125,True,2,0,0.545454561710357666,0,False,False,False,True,,,
+140336081,"{'steamid': '76561198056616754', 'num_games_owned': 39, 'num_reviews': 3, 'playtime_forever': 185, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1654623843}",russian,"Good game with some interesting mechanics. Have some balance issues, but nothing too bad. I hope developer is doing well and working on new games!",1687186033,1687186033,True,0,0,0,0,False,False,False,True,,,
+122146075,"{'steamid': '76561198350914535', 'num_games_owned': 715, 'num_reviews': 14, 'playtime_forever': 407, 'playtime_last_two_weeks': 0, 'playtime_at_review': 407, 'last_played': 1662896189}",russian,"[h1] Отличный рогалик у которого незаслуженно низкая оценка [/h1]
+Небольшой и несложный ""айзек-подобный"" рогалик в котором нужно дойти до 10 этажа и убить Некроманта. Хорошая графика и музыка, багов не заметил. Хоть в игре и не так много контента, но все выполнено очень хорошо. Не хватает правда русского языка и мб ачивок. Но самое главное, что эта игра абсолютно бесплатная, и я советую в нее поиграть каждому! [8/10]",1662998133,1662998133,True,1,0,0.523809552192687988,0,False,False,False,True,,,
+119885154,"{'steamid': '76561199024334493', 'num_games_owned': 149, 'num_reviews': 17, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1659365676}",russian,Сервера отключили походу,1659365882,1659365882,False,0,0,0.476190477609634399,0,False,False,False,False,,,
+116542414,"{'steamid': '76561198015548296', 'num_games_owned': 556, 'num_reviews': 78, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1654457656}",english,"Good game that needs extra thought on levels and enemies.
+Nevertheless, nice job!",1654457866,1654457951,True,12,0,0.655147910118103027,0,False,False,False,False,,,
+114470065,"{'steamid': '76561198815748328', 'num_games_owned': 2991, 'num_reviews': 710, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1650913133}",english,"Competent clone of https://store.steampowered.com/app/113200/The_Binding_of_Isaac/
+Easier and much higher resolution.  I got as far as the third boss (not the third [b]room[/b]) on my first try.
+On a controller, you have to aim with the right stick AND then hold fire to fire.  Just make the right stick do both jobs.
+The power-ups are mildly interesting.
+I can't really see anything to dislike here... I guess I'm just sick of fantasy dungeon setting.",1650913341,1650913341,True,0,0,0,0,False,False,False,False,,,
+102819200,"{'steamid': '76561198985973439', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1636975179}",russian,Мультик пультик почините,1636975245,1636975245,False,0,0,0.476190477609634399,0,False,False,False,False,,,
+84257418,"{'steamid': '76561197972526943', 'num_games_owned': 500, 'num_reviews': 52, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1610066029}",english,"The controls just don't mesh with my brain. Not being able to rebind the controls for the controller makes this game mostly unplayable for me. Yes, there are keyboard controls as an option, but if you have a controller plugged in there's not an option to use the keyboard instead, nor a way to swap control settings from within the game. The game looks fun, but I just can't play it.",1610066145,1610066145,False,0,0,0,0,True,False,False,False,,,
+81799645,"{'steamid': '76561198005086553', 'num_games_owned': 0, 'num_reviews': 1051, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1607241243}",russian,"К сожалению, этот продукт без русской локализации.",1607370930,1607370930,False,0,0,0.45685279369354248,0,False,False,False,False,,,
+77395002,"{'steamid': '76561198072155841', 'num_games_owned': 1359, 'num_reviews': 586, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1592555408}",schinese,"总的来说这是一款各方面都还算合格的以撒类作品，作为免费游戏，画面动作关卡设计这些都还可以，但要说有什么特别特出的优点和特色好像也找不到。
+只能说喜欢这类游戏又实在没新作玩的同学可以试一下。",1602421954,1602421954,True,0,0,0,0,False,False,False,False,,,
+72685671,"{'steamid': '76561198054008254', 'num_games_owned': 1104, 'num_reviews': 1458, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1594746344}",english,"the game is nice but the real problem is there's no save function, i guess it's very hard for dev to make it for such random roguelike game.",1594746542,1594746542,False,1,1,0.484550297260284424,0,False,False,False,False,,,
+61823862,"{'steamid': '76561198055119582', 'num_games_owned': 323, 'num_reviews': 2060, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1578922539}",english,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☑ Gnome.
+
+---{Gameplay}---
+☐ Very good
+☑ Gnome.
+☐ It‘s just gameplay
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☑ Gnome.
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☑ Gnome.
+☐ Teens
+☐ Adults
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boiiiiii
+☑ Gnome.
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☑ Gnome.
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☑ Gnome.
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☐ Text or Audio floating around
+☑ Gnome.
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☑ Gnome.
+☐ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☐ Worth the price
+☐ If u have some spare money left
+☑ Gnome.
+☐ You could also just burn your money
+
+---{Bugs}---
+☐ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☑ Gnome.
+☐ The game itself is a big terrarium for bugs
+",1578968533,1578968533,True,0,0,0.463510841131210327,0,False,False,False,False,,,
+60271223,"{'steamid': '76561198208620115', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 1150, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1145, 'last_played': 1584333163}",english,FUNNEST FREE GAME I'VE PLAYED,1576964932,1576964932,True,0,0,0.47034764289855957,0,False,False,False,False,,,
+55026226,"{'steamid': '76561198018446175', 'num_games_owned': 0, 'num_reviews': 565, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1567985597}",english,"Nice title for a free game, go check it out!",1567985623,1567985623,True,0,0,0.47034764289855957,0,False,False,False,False,,,
+55019530,"{'steamid': '76561198269053609', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1567952518}",english,"I tried to play it with afriend, but i couldn't connect. I'll try the game alone and come back.",1567952599,1567952599,False,0,0,0.466321229934692383,0,False,False,False,False,,,
+54135321,"{'steamid': '76561198125392509', 'num_games_owned': 715, 'num_reviews': 5239, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1563310742}",english,gamesense,1563310782,1563310782,True,0,1,0.00830866303294897079,0,False,False,False,False,,,
+53940014,"{'steamid': '76561198072551023', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1562261434}",italian,"Un discreto roguelite senza infamia e senza lode, vale la pena provarlo ora che è free-to-play.",1562518303,1562518303,True,0,0,0,0,False,False,False,False,,,
+44626472,"{'steamid': '76561198138459229', 'num_games_owned': 341, 'num_reviews': 63, 'playtime_forever': 2133, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2072, 'last_played': 1592631351}",english,"iffy on my vote. it is a $5 game. get this on sale. it does become a little easy once you get a feel after a few runs. classes are just starting with different items, nothing too crazy. trading safety for item (relic) rarity is nice. game DOES NOT SAVE IF YOU EXIT. i repeat GAME DOES NOT SAVE. so i do have some idle hours in this game. graphics are alright. controls are ok, the swipe-wand-deflect-projectiles move activates a little late, takes some getting used to. items are generally well balanced. spiders suuuuuck. overall 7/10 good in-between game when the major titles feel a little burnt out.
+
+there is one glitch in later levels, if you get hit with a miniboss's clusterbomb, you might be expelled from room boundaries. there is a fix; you need to walk (yes out of bounds) to the exit from the room, where you'd expect the collision detection is.",1536386207,1536386207,True,0,0,0,0,True,False,False,False,,,
+39497940,"{'steamid': '76561198037468781', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1516496816}",english,"Too many bugs... You play an hour, can't save and then the game crash. It's idiotic. Also, it's built with java.",1516496860,1516496860,False,0,0,0.466321229934692383,0,True,False,False,False,,,
+38380724,"{'steamid': '76561198171033130', 'num_games_owned': 456, 'num_reviews': 375, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1513526989}",english,"Almost beating the game on your first try is made even more obnoxious and frustrating when the only reason you did not win was because of poor design. The game was easy enough to beat on the first try but because the developer became desperate they started spawning all the spammy ridiculous rooms back to back.
+
+
+The music is poorly composed and sounds like emotionless stock, the floors have very little diversity to their appearance, the floor types are all same looking and do not even look like they should all be a part of the same building. The combat does not feel like combat it feels like shooting orbs at moving things while avoiding orbs they shoot at you. The enemies have little meaningful diversity and fight in very generic attack patterns. The player cannot shoot projectiles at certain angles when close to walls because the projectile spawns off centre with the direction it is going and thus spawns into a wall and destroys itself. Some enemies do not even have proper path finding. The heads up display is not transparent and thus blocks the corners of the screen, the map does not actually show the real room shape or door location the floor on the map is a heavily simplified version of the real floor and in turn is completely inaccurate. Many rooms are too large for the amount of enemies in those rooms, the items do not feel meaningful they just feel like more generic forgettable effects and statistic ups being stacked over and over. The flavour text on the items is bland and uncreative, the pop ups for displaying information about the item you are about to pick up are spawned in the game and not on the actual screen so often you need to move up physically in the game to see the full pop up because it is cut off at the edge of the screen.
+
+But those are just the comparatively harmless problems with the game.
+
+
+The game will sometimes spawn the player into a room with an enemy ontop or adjacent to them. Enemies have no line of sight, range of sight or aggravation range so in large rooms every single enemy is shooting at you all at once. Some rooms have obstructions which shape the floor into limiting pathways yet all the enemies in the room can still shoot at you, there are sometimes dead ends in the paths made in the floor of a room, or traps blocking certain floor paths at certain times which makes navigating extremely tedious to impossible without getting hit when in the middle of a projectile storm. Because the game funnels you into places with no room to move around in on your way to reach the enemy so you have to get hit. Enemies are constantly able to shoot at the player from off screen because of previous issues mentioned so a lot of the time the player cannot even see projectiles coming or where they are going to come from. A lot of projectiles have a velocity significantly higher then that of most other Rogue-likes which makes responding to and weaving between projectiles extremely difficult especially with all the other problems combined. The player is oversized and has a slightly oversized damage received hit box as well. And some of the later floor bosses are just absurd senseless projectile spammers.
+
+
+I got all the way to floor eight, which took an actual hour of playing to reach, encountering little challenge until the game started back to back spawning rooms where: the enemies shoot extremely fast projectiles in varying patterns, the room is large and most of the projectile sources are not on screen, the room is obstructed with drops in the floor that force me to go down narrow paths with no room to move around in while I was trying to find where the enemies were; and thus I kept perpetually getting hit because the enemies were spamming projectiles, the projectiles are overly fast, my character is oversized, there is literally no room to even move around in to dodge the projectiles, and I cannot even see them coming berforehand.
+
+
+So besides the game having a terrible artificial difficulty curve which requires an hour of playing, every run, of uninteresting, unchallenging gameplay until the artificial difficulty actually kicks in and unfairly game overs you; the game is not very well designed or satisfying to play in general.
+
+Not for this price, at all.",1513528539,1513536436,False,1,0,0.441851556301116943,0,False,False,False,False,,,
+37570678,"{'steamid': '76561198004007767', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 924, 'last_played': 1519846589}",russian,"Игра прикольная, но сыровата. Посидел часов 5-6 и почти все итемы знаешь и видел, комнаты кажутся однотипными. НО БЕСИТ ТО, что вылетает после прохождения 8 уровня, убиваешь босса , нажимаешь следующий этаж и ВЫЛЕТАЕТ. У всех так ?! что там после 8 уровня ? Сколько всего уровней ?",1511636958,1511636958,True,1,0,0.503950834274291992,0,True,False,False,False,,,
+34808789,"{'steamid': '76561198048497407', 'num_games_owned': 114, 'num_reviews': 4, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 130, 'last_played': 1504932138}",english,"it's fun, and very hard.",1504850929,1504850929,True,1,0,0.480821222066879272,0,True,False,False,False,,,
+34522879,"{'steamid': '76561198027140157', 'num_games_owned': 0, 'num_reviews': 84, 'playtime_forever': 333, 'playtime_last_two_weeks': 0, 'playtime_at_review': 333, 'last_played': 1503923523}",japanese,"Enter the Gungeonに似た、弾幕回避系のハクスラです
+ジャンプ回避みたいなのはなく、敵弾もけっこう大人しめ
+豊富なアイテムを組み合わせて、自弾のカスタマイズをしていくのが楽しい
+ボスも含めて難易度は低く、淡々と進んでいくが
+物足りなくなったら「自機ヘルス半分」とか「敵死亡時に爆発」などのMODを追加して遊べる
+より難度の高いMODを追加するごとに、アイテム出現率がアップするようです
+
+マルチはIP指定でポート開放必須、割と頻繁にクラッシュする
+アップデートはされてるようなので、改善されていくはずです
+マルチ時にボス突入でクラッシュする人は「ボスイントロ演出」を切ると治るかも",1503818382,1503818382,True,1,0,0.527559041976928711,0,True,False,False,False,,,
+34448020,"{'steamid': '76561197987129641', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 73, 'playtime_last_two_weeks': 0, 'playtime_at_review': 73, 'last_played': 1503547618}",english,"First off, I paid for this game. I like to support developers, especially ones that add elements to a genre. 
+
+I like that this game adds an inventory system to the rogue-like genre. I can customize my loadouts or change them based on the situation. 
+
+I like the music, although it would be great to add some more variety. 
+
+The Graphic style is appealling to me, the retro look is great. 
+
+For an early access game, I like it and look forward to future updates! Here's my Youtube review!
+https://youtu.be/gIyxGCVDJ-k",1503527484,1503527484,True,3,0,0.559434771537780762,0,True,False,False,False,,,
+30569967,"{'steamid': '76561198179412438', 'num_games_owned': 148, 'num_reviews': 1, 'playtime_forever': 763, 'playtime_last_two_weeks': 0, 'playtime_at_review': 625, 'last_played': 1497564580}",english,"Very good game, fun to play, levels are interestingly made and there's no moment of boredom",1489761893,1489761893,True,2,0,0,0,True,False,True,False,,,
+29515629,"{'steamid': '76561197993850478', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 242, 'playtime_last_two_weeks': 0, 'playtime_at_review': 242, 'last_played': 1485510788}",english,"This game looks very promising.
+It feels great to play.
+There are some really cool ideas happening here.
+It's basically a twin stick shooter roguelike type game, but with an item/ inventory system that allows you to tailor the combat to your liking (most of the time anyway, depending on the RNG factor)
+Pretty much all the items you find could be used in combination with another to make some really interesting, and often surprising, results.
+The game has only been out for a few weeks, and already it has greatly improved from the original build.
+I look forward to seeing what the developer does with this game.",1485497296,1485497296,True,5,0,0.563492059707641602,0,True,False,True,False,,,
+29210034,"{'steamid': '76561198028651970', 'num_games_owned': 1572, 'num_reviews': 131, 'playtime_forever': 231, 'playtime_last_two_weeks': 0, 'playtime_at_review': 231, 'last_played': 1483483143}",english,"[h1]Pros:[/h1]
+•	Lots of items that alter the gameplay (instead of just altering stats), which opens room for interesting combinations
+•	Well-drawn pixel Art
+•	Difficulty modifiers adjust the gameplay, opening new experiences, instead of simply
+•	The environment is well polished 
+•	Responsive controls
+•	Pleasant, not-annoying, ambient music
+•	Interesting Bosses, fights involve multiple stages
+[h1]Cons:[/h1]
+•	Slow Travel Time. Cannot really teleport between the rooms, even the ones that you’ve visited which often makes.
+•	Not that big room variety (80 room layouts means you’ll be seeing lots of duplicates if you play long enough), some rooms (especially the cross shaped one) don’t give much space for maneuvering resulting in inevitable loss of health
+•	As with most of RNG-based games, sometimes the random does not favor you. You might get bad rooms or bad items and die fairly quickly
+•	Only one basic attack at the start, could use a bit more variety (or improved feeling? Lesser damage but faster firing speed or just a bit shinier)
+
+Overall, I’d buy this one now if you like to give feedback on early access games. The developer is really friendly and you can clearly see that the game was made with love, so there’s potential. Otherwise, I think it’s worth to wait until there are more clarity and content to get the most out of it.
+
+Here's full review followed by gameplay in case you want to know more: https://www.youtube.com/watch?v=cTuN5hC4uHM",1484250665,1484250686,True,8,0,0.497483432292938232,0,False,True,True,False,,,
+29189039,"{'steamid': '76561198044442942', 'num_games_owned': 1558, 'num_reviews': 28, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1484158110}",english,"Assault on the Necrospire is a pretty simple/basic real time roguelike dungeon crawler.  You are a wizard (lacking the ability to cast many spells) roaming around the tower flinging your wand at anything that moves.  There are a few interesting items you'll come across to spice up the gameplay a bit, but at the moment there's not a lot to it.  Still, if roguelike dungeon crawlers are your thing, then this could potentially be a very fun little game.
+
+[url=https://www.youtube.com/watch?v=ZgmhLlrkP8k&list=PL3Hfqo2_KOlcCAC-iRwNhJI3baPGuSUcP&index=5] Here's my full review [/url]",1484161626,1484161626,True,5,1,0.439918398857116699,0,False,True,True,False,,,
+29183461,"{'steamid': '76561198124116781', 'num_games_owned': 449, 'num_reviews': 13, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 144, 'last_played': 1484487669}",schinese,"打着EtG，突然收到一封steam的邮件：“《Assault on the Necrospire》现推出抢先体验版”。怎么我没有印象，甚至连是什么时候放入愿望单也不清楚。
+
+打开商店页面，看了一下游戏又是独立制作。本来看了游戏的介绍视频觉得也就这样吧，游戏的操作各方面看起来都是那种小型独立制作游戏的劣质感。不过本着好歹也是个action-roguelite，就不抱着什么期待就买了。不过打了一局过后：“我要赶紧来给个好评！！！”
+
+简单来说，Assault on the Necrospire是一款action-roguelite，双摇杆射击游戏。玩家操控的是一个见习魔法师，用手中的法杖对抗敌人，探索9层城堡的游戏。游戏内都是固定的套路，每层包括各式各样的小房间，一个道具房，一个商店和boss房。
+
+本人玩EtG和以撒比较长时间了，而且从这个游戏中也看到他们的影子，可以说Assault on the Necrospire是EtG和以撒的生出了小孩。一开始上手时这个游戏的操作手感并没有游戏宣传视频看起来那么糟糕，不会有劣质的感觉。这个可以说先过了第一关了。
+
+游戏宣传中说了这个游戏亮点是有各式各样的物品，玩家也能随心所欲组建有趣的Build，这点相信也是吸取了以撒的特点。
+确实，玩过后发现游戏内道具十分有趣。
+道具分为：
+1、relic 主动道具。消耗魔法，只能携带1个；
+2、item 被动道具。相当于装备，加攻击力加移动速度等等与人物属性相关的道具，最多装备6个；
+3、spell 法术。因为 Assault on the Necrospire这个游戏以魔法师、法术为背景，所以也是一大亮点。法术目前所看见的都是被动法术，主要是使玩家射出子弹产生或者附带各种效果，也可互相之间产生化学作用。
+
+游戏内敌人种类还算可以，打了六层每进新的一层都能见到新的敌人。既有经典的史莱姆，也有释放法术的法师和弓箭手等等。每个房间敌人设置合理，可以看出制作者的用心。游戏性方面更偏向于gungeon的弹幕类型。不过整体不会太难，boss战可以说是简单的躲弹幕。这里重点说一下一个十分有趣的细节：每个小房间都会有一个对应本房间特点的名字。例如有一个房间中间有一个大的水池，然后这个房间叫做“relaxing pool”。可以再次说明制作者的用心。
+
+在今年gungeon之后，很少能找到这么仔细、认真、注重游戏各方面细节的游戏了。要知道这是刚在steam上架的第一个测试版的游戏，游戏已经打了一个这么好的基础，在之后就是不停地加入新鲜的血液，丰富游戏。十分期待Assault on the Necrospire的未来。记得gungeon面世之前，一个外国UP说过“This will be something special"",如今我也是这样评价这个游戏。",1484144310,1484151233,True,12,0,0.686754822731018066,1,True,False,True,False,,,
+29180277,"{'steamid': '76561197999613929', 'num_games_owned': 406, 'num_reviews': 161, 'playtime_forever': 310, 'playtime_last_two_weeks': 0, 'playtime_at_review': 310, 'last_played': 1484001200}",english,"Assault on the necrospire needs life. Currently its a bland experience with no flavor poured into a solid foundation.
+
+Video:
+https://www.youtube.com/watch?v=c9DXtuX0n38
+
+Text:
+Sure, it's early access - and we make allowances for that, but from a game play viewpoint, the game has the excitement and personality of a wet dishrag.
+
+Its easthetic is well executed and clean, but doesn't deviate from ""oh, retro"". It doesn't look bad, and you're never confused about things, and the various tilesets are decenty varied and with a clean animation quality, but if you put it against 10 other retro style games I'd be hard pressed to find a something to point out as exceptional about it, its safe and clean in a market saturated with it.
+
+Its randomised levels and rogue like progression are basic and provide very little variety or emergent gameplay besides the basics, and while different mobs spawn everywhere you have no need to adapt or alter your tactics or think ahead... it's all identical ""hold down left mouse button and wait""
+
+When most your game consists out of ""Hold down LMB and wait"" in terms of combat or tactical complexity, in a game where combat is 95% of the gameplay - that is a massive issue and needs to be adressed from the ground up. This games combat, progression and itemisation / character building is so very bland, it might as well not exist.
+
+Which isn't to say this game doesn't have potential, as from a technical perspective this is one of the most stable and technicly competent titles to come into early access in ages. It runs smooth, clean and performs fine.
+
+..It's just that the combat mechanics puts you to sleep.",1484131719,1484551021,False,11,0,0.484090447425842285,3,False,True,True,False,,,

@@ -1,0 +1,142 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+159653134,"{'steamid': '76561198045061508', 'num_games_owned': 945, 'num_reviews': 213, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1709346971}",english,"A neat concept of a survival type game in VR but its very limited what you can do in this game. There don't seem to have been any updates in quite some time, so I expect this is the way the game will remain. Everything shown in the trailers is basically everything in the game. There is nowhere to explore nor anything further to learn aside from a crafting recipes book you can find that is very difficult to open. Still, I recommend it on a sale because you can have some sort of entertainment value out of it.",1709347189,1709347189,True,0,0,0,0,True,False,False,True,,,
+138242631,"{'steamid': '76561198303550359', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1683949452}",english,its boring and its short and its realy glichy,1683992549,1683992549,False,0,0,0,0,True,False,False,True,,,
+136328664,"{'steamid': '76561199365697618', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 177, 'playtime_last_two_weeks': 0, 'playtime_at_review': 177, 'last_played': 1676387368}",english,its a bit bland but you get what you pay for,1680948109,1680948109,False,0,0,0,0,True,False,False,True,,,
+101752401,"{'steamid': '76561198123766732', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1635361288}",spanish,"La versión del juego que se vende no está terminada ni parece que se vaya a terminar.
+No puedes salir de la isla porque esa parte no está en el código",1635421486,1635421486,False,0,0,0,0,True,False,False,False,,,
+90854782,"{'steamid': '76561197989529620', 'num_games_owned': 420, 'num_reviews': 39, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1619278370}",german,"Dieses kurze Spiel entführt einen auf eine einsame Insel um zu überleben, was mal gut und mal schlecht gelang. Ich starb viel, da die Funktionalität des Spieles nicht von Anfang an verständlich ist und noch sehr wackelig zu sein scheint, jedoch ist es für ein kurzen Spaß ausreichend.",1619290385,1619426277,True,0,0,0,0,True,False,False,False,,,
+71948716,"{'steamid': '76561198112548841', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1593782028}",english,"I bought this on sale and I'm still returning it.  No update since 2018.
+You can't even save your game.",1593782221,1593782221,False,4,0,0.543726265430450439,0,True,False,False,False,,,
+71113393,"{'steamid': '76561198031696114', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 498, 'playtime_last_two_weeks': 0, 'playtime_at_review': 393, 'last_played': 1638002154}",english,"Worth the price. Has its issues, but its still fun. I recommend buying the game if you liked the movie ""Castaway"".",1592721540,1592721540,True,1,0,0,0,True,False,False,False,,,
+61939963,"{'steamid': '76561197972990339', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 204, 'last_played': 1579185655}",japanese,"突然無人島に放り出されて何もない状態から生存し脱出するらしいゲームです。
+やや古いVRゲームのせいか移動はワープのみでコントローラーによる方向転換ができません。
+某ハンドシミュレーターのように危険な敵対生物もいない孤独なシングルプレイになります。
+安いのでちょっと無人島体験してみたいならやっても良いかと思います。
+ただしバグやチュートリアルから分かりづらい仕様があるので以下に書きます。
+
+スタートすると体が半分地面に埋まっていますが落ち着いてメニューから視点の高さを上げましょう。
+まず行うべきは棒を拾って草を叩きロープを発生させて組み合わせることです。
+コントローラーをアイテムに近づけると黄色く光るので掴み、棒とロープを両手に持ち近づけるとブルブルしますのでそのまましばらくキープすると棒にロープを巻いたものが完成します。これがこのゲームにおける合成です。
+やや平たい石とこの棒を合成すれば斧が完成するので木を叩いて椰子の実や丸太を収穫できます。
+このゲームは水の減りが早いので椰子の実を叩き白いものが見える状態で口に近づければ中身を飲めます。
+そこから更に叩けばココナッツを食べられます。
+石組みしてあるところに木材を集め、石2個を叩けば火花が飛ぶので着火できます。
+この焚き火がこのゲーム上一番の危険で安全そうに見える距離でも火傷をしゴリゴリ体力を奪います。
+バケツを拾い海水を焚き火近くに置けば沸騰し、しばらくすれば飲めます！カニやカモメも火に突っ込めば台詞とともに焼き上がり食べられます。
+丸太を叩くと板材になり、これと丸太それぞれ4本でクラフトテーブルを指定の岩場に作れます。
+弓矢からシェルター等はここに指定数資材を起き、鈍器で殴ることで完成します。
+私の場合は殴った表紙にシェルターがどこかへ飛んでいき、海中に沈んでいました。
+シェルターが無いとセーブもできませんし2個目を作ることもできないようです。吹っ飛んだら諦めてください。
+Playspacemover等VR移動ツールを持っていたら海中から拾うことはできます。
+稀にコントローラーが黄色く光らなくなり物が掴めなくなりますがこうなると復帰不能なので諦めてください。
+弓やフレアガンは手に持つと簡単には離れてくれません。持っているコントローラーのトラックパッドの上を押して移動すると離れます。フレアを何発か打ち上げると脱出できるのでしょうか？私は2発で諦めました。",1579193204,1579193204,True,9,0,0.631449639797210693,1,False,True,False,False,,,
+58190141,"{'steamid': '76561198450610175', 'num_games_owned': 18, 'num_reviews': 3, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1574866618}",russian,"игра огонь....
+",1574863944,1574863944,True,2,0,0,0,True,False,False,False,,,
+54804609,"{'steamid': '76561198049611962', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1567459267}",english,Great game and i cant wait for more. ty,1566771130,1566771130,True,2,0,0.418754249811172485,0,True,False,False,False,,,
+51445395,"{'steamid': '76561197988272783', 'num_games_owned': 189, 'num_reviews': 11, 'playtime_forever': 864, 'playtime_last_two_weeks': 0, 'playtime_at_review': 854, 'last_played': 1655898975}",english,"Relax and enjoy,,",1561477257,1561477257,True,2,0,0.418754249811172485,0,False,False,False,False,,,
+50507826,"{'steamid': '76561198009087139', 'num_games_owned': 677, 'num_reviews': 98, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 49, 'last_played': 1496710879}",english,"Was promising when it first came out, but became abandonware. Such a shame!",1557127365,1557127365,False,9,2,0.610257208347320557,0,False,False,False,False,,,
+45740346,"{'steamid': '76561197999526875', 'num_games_owned': 286, 'num_reviews': 52, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1541854708}",english,not good,1541855249,1541855249,False,1,0,0.454545468091964722,0,True,False,False,False,,,
+44637853,"{'steamid': '76561198117395779', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1536433298}",english,my friend loves it!,1536432500,1536432500,True,2,0,0.386393487453460693,0,True,False,False,False,,,
+41425287,"{'steamid': '76561198436143045', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1523491044}",english,"This game is basiclly a virus that breaks your VR setup.
+
+Crashes on start HMD turns totally off. 
+Upon reboot, my floor hight was over my head.  Now it is just a grey room and none of my buttons work. I will have to reinstall steamVR and run my rom setup all over again. Thanks alot,.
+
+Finally got this gabage to work. The graphics are muddy, blurry and total trash. The Voice in the game speaks HORRIBLE english. Sounds like a french guy with a mouth full of rocks. The floor hight is all the way to my neck and cant be adjusted with OpenVR. The in game stterings to adjust hight do not work. Teleport only, you can't walk around like a normal human. You can't even get close to the plants that it forces you to interact with, thus making the game come to a full stop before you even play it.
+
+0/10. Don't waste your money on this wannabe VR Minecraft ripoff.
+
+
+Vive, Titan V gpu, 64g ram, i7 core, water cooled. (That means the problem is the game, not my rig)",1523491071,1523491188,False,5,1,0.442798405885696411,0,True,False,False,False,,,
+41221872,"{'steamid': '76561198419614150', 'num_games_owned': 8, 'num_reviews': 1, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1523706675}",schinese,草。    我8g运行都玩不了,1522651346,1522651346,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+41210048,"{'steamid': '76561198138083145', 'num_games_owned': 0, 'num_reviews': 27, 'playtime_forever': 112, 'playtime_last_two_weeks': 0, 'playtime_at_review': 110, 'last_played': 1522476770}",english,"Have you ever wondered how it feels like to be stranded on a desert island? Well, Lost in the Ocean is a survival game where you will experience the desperation of being lost and alone on an unknown place. To survive, you will have to find enough supplies to satisfy your basic needs, such as eating. To ""win"" the game, you have to build a raft that's strong enough to handle the power of the reckless and unforgiving sea. While doing so, you will enjoy a great soundtrack, good quality graphics and a smooth gameplay. 
+
+If you are looking for a survival title that's realist, instead of horror-movie like, then you should check out this game.",1522603862,1522603862,True,3,1,0.523809552192687988,0,False,False,False,False,,,
+41047817,"{'steamid': '76561198009251484', 'num_games_owned': 394, 'num_reviews': 45, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1572978636}",hungarian,"Jó játék, Riftel is müködik. Kicsit optimalizálatlan és a craft rendszer kezdetleges, de lehet olyan jó mint a Stranded Deep csak ez ráadásul még VR is. A szigetet egyenlőre nem tudtam még elhagyni, fogalmam sincs lehet e vándorolni. De érdemes kipróbálni.",1521999075,1521999075,True,2,0,0,0,False,False,False,False,,,
+41027686,"{'steamid': '76561198008299258', 'num_games_owned': 822, 'num_reviews': 351, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1521856340}",english,"I first played after the recent patch 3.1, and I dig where the game is going! Right now, there’s not a ton to do or interact with… but come to think of it, there’s not much to do on a deserted island, so maybe that’s how it should be! Game play consists of monitoring your water and food meters, while gathering resources and building objects. Interactions are pretty straightforward; put the components near each other and bash them until they stick together. The graphics are nice – it’s a beautiful island, and very peaceful (great idea including the “relax” mode on the latest release!) It runs smooth and stable. Hopefully the developer can keep adding things to do! Thumbs: Up!",1521929034,1521929034,True,3,0,0.523809552192687988,0,False,False,False,False,,,
+38466918,"{'steamid': '76561198058929800', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1513798249}",german,"Meh.... its content is okay but the game has one major problem, atleast I have it and I dont know how to fix it... 4/10 stars
+
+When I look around it starts to stutter and lagg/freeze for no reason. It only happens when I look twords the Island tho, that is really bad for the eyes.
+
+I've 2 GeForce TitanX with each 12 GPU and an AMD 8 Core prozessor Overclocked to 4.9Ghz and 32GB RAM....the game and all oculus software is installed on a fairly empty SSD. Every other VR game doesnt lagg/stutter. 
+
+I dont know what is causing this, but I will not play this aslong as its like this.",1513802237,1513802237,False,0,0,0.435835361480712891,3,True,False,False,False,,1521487910.0,"Hello, the problem that you are experiencing is because this game doesn't support Oculus Rift but only Htc Vive. Anyway in few weeks we will release an update with also the Oculus Rift Edition. I hope you will enjoy that."
+37643305,"{'steamid': '76561197980478889', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1511688377}",german,"i7 7700k
+gtx 1080
+16gb DDR4
+
+Es wirkt momentan noch eher wie eine Techdemo als wie ein Game. Der Ansatz ist nicht schlecht, allerdings hängt es noch an vielen Ecken und Kanten. 
+Es gibt zum beispiel kein Ingame Menü.Zumindest habe ich keines gefunden. Somit sind personalisierte Einstellungen nicht möglich. Mit einem Slider kann man lediglich die Cam höhe regulieren und diese passt selbst auf der höchsten Stufe nicht. Meine Knöchel waren quasi im Boden.Dazu kommt noch das Gegenstände zu überdimensioniert sind. Die Perfomance ist auch nicht die beste. Ruckeln und Framedrops. Motionsickness garantiert. Das Craftig Prinzip ist grobmotorisch. Muss man nun wickeln,drehn,drücken oder schieben?! Ich hab kein Plan. Dürch unkontrollieres Fuchteln kam ein werkzeug raus.
+Alles in allem kann ich keine Kaufempfehlung geben.",1511689427,1511689427,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+35908464,"{'steamid': '76561198062030794', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1508640738}",english,"WTB Frames.  Cant seem to find any on this game XD
+",1508640985,1508640985,False,0,1,0.418012708425521851,0,True,False,False,False,,1521488000.0,Hello can you write us which Virtual Reality device are you using for the game and the specs of your computer. So we can try to figure out how to solve your problem
+35804143,"{'steamid': '76561197972275228', 'num_games_owned': 586, 'num_reviews': 7, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1522517382}",english,laggs! i have oculus rift cv2.. 7700hq and 1070 gtx how is this lagging? help please,1508272804,1508272804,True,2,0,0.46877482533454895,2,True,False,False,False,,,
+31402290,"{'steamid': '76561198098142484', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 570, 'playtime_last_two_weeks': 0, 'playtime_at_review': 103, 'last_played': 1514651364}",english,"Well, Enjoyed the game, noticed all the neg. comments come from users who are suppose to be into crafting/survival type games. I thought the game is well put together and is on the right track, the crafting and mechanics of the game are no different than any other non vr survival game (minus the crafting menu), The graphics are great, the game play is fun. Only thing i didnt like about the game, is it isn't long enough, I was blasting flares, and doing everything i could to get my raft off the island LOL, oh and i found me a ""WILSON"" HAHHAHA. Love the game, hoping they add alot more to it. This the exact kinda games i want my for my VR gameplay (only more indepth).",1493327815,1493327815,True,11,2,0.587294220924377441,0,True,False,False,False,,,
+30716534,"{'steamid': '76561198038994471', 'num_games_owned': 0, 'num_reviews': 115, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1490456540}",english,"So I saw this and it reminded me of that other game where you are trapped on an island and must survive, but only in VR. Great idea and I love it.
+
+However... The FPS is jumping around a lot which really hurts the eyes, makes you have motion sickness, and isn't great for the experience the game is trying to give you. Not only that but it is unclear how to make items. I spend 4 minutes trying to figure out how to make a axe. Then you have the character talking to you (himself) about how he needs to do something/what he needs before he does something. At first it was helpful but after 10 minutes it gets old after the 4th time of him explaining how to get rope.
+
+Really if they fixed the FPS and make it where he just says something once or twice then it would be a okay game. As it is, not really worth the try.",1490405685,1490405685,False,3,0,0.512232422828674316,2,True,False,False,False,,1521488138.0,"Hello, can you write us which Virtual Reality Headset are you using and the specs of your computer? so we can try to figure out which is the problem"
+30488419,"{'steamid': '76561198038063000', 'num_games_owned': 286, 'num_reviews': 38, 'playtime_forever': 100, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1503766926}",russian,"Неплохой симулятор выживания на острове. Пока тут делать особо нечего, кроме добычи воды-еды и побега. После побега многозначительное ""продолжение следует"". Выглядит достаточно красиво все, но есть косяки. Косяки с предметами - если их положить на землю, они начинают медленно укатываться, косяки в управлении - вы не можете ходить с той руки, в которой у вас предмет, соответственно если у вас два предмета в руках, то не сможете их перенести. Это все замедляет и немного подбешивает.
+Можно устраивать охоту на крабов разложив вокруг топоры. Они будут сами на них натыкаться и умирать. 
+Реализм: если бросить ведро воды или краба в огонь, они приготовятся без вашего вмешательства. Что удобно.
+
+[url=https://www.youtube.com/watch?v=tpeoPKxXNs0]Прохождение всей игры с побегом и крабьим суицидом от Бабушки",1489401988,1489402297,True,5,1,0.508519411087036133,0,True,False,False,False,,,
+30397925,"{'steamid': '76561198301565396', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 156, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1653751290}",english,"We had a chance to try the game out and was quite happy with the game-play.  It was graphically pleasing and we were impressed with the light placements and quality of the assets.  The physics on creating/using objects of course, could use some work but we liked it nonetheless. The only issue some of us had was when you get dizzy from low health, and the double vision occurs. Many of us had to sit down with a slight vertigo/nauseous feeling. Possibly there is another way to go about the ""dizzy"" effect without the double vision? We site Phosphor Games - Brookhaven experiment as they have done it very well. We know this is early access but we look forward to your multiplayer, and all other updates when they become ready to roll out. Very exciting concept and worth the purchase.",1489006284,1489006284,True,10,1,0.59896087646484375,0,False,False,False,False,,,
+30365609,"{'steamid': '76561198183496411', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 230, 'playtime_last_two_weeks': 0, 'playtime_at_review': 230, 'last_played': 1494209910}",english,"**My review was positive but until the developer comes back I can't give it a good review anymore**
+
+This game is a bloody good start to a brilliant game! If your sick of horrors and just want a game with nothing to worry about except your food and water then it's great! Their Roadmap seems to be the start of a great game!
+
+Stranded Deep + VR = Lost In The Ocean! 
+
+So longs as they keep working on it, I will happily tell my friends to try it. Needs crafting and a BUNCH of other things but once that starts, it'll be great! Good work Devs!
+
+**New Gameplay Footage, New Island etc!**
+https://www.youtube.com/watch?v=kMi85bRLOBQ
+
+
+** Heres a video of my gameplay**
+https://www.youtube.com/watch?v=4Qmg9mLNTw8",1488854386,1509776619,False,18,0,0.720669806003570557,3,True,False,False,False,,,
+30232316,"{'steamid': '76561198332477776', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 839, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1594337141}",english,"Graphics are a little fuzzy, still, Im sure that will clear up. Fire is too big, as someone else mentioned, its easy to burn yourself.  I still havent gotten the raft in the water, but i think that is because when u set an object down, it rolls into the ocean, very slowly.  if you could fix the issue of my rocks rolling off the island so i dont die of dehydration, that'd be cool :)  otherwise, I am Very glad to see a game like this, and look forward to more updates :)  I run a store in kamloops, BC, and have been looking for family friendly content, and this fits the bill perfectly.  oh, and just hopeful thinking...i think a shark would make this feel more...visceral?  Love the work, keep it up!",1488249266,1488249266,True,6,1,0.540229856967926025,1,True,False,False,False,,,
+30212998,"{'steamid': '76561197963322624', 'num_games_owned': 532, 'num_reviews': 70, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1488166613}",english,"Here's my first time gameplay video: https://youtu.be/zzUqw5oZkZg
+
+
+I also review other VR games on my channel: www.youtube.com/c/thefishstick
+
+The graphics are decent; thats about it. The most fun I had was trying to beat a crab to death with the paddle I found (which didn't work by the way). 
+
+How I spent 20 minutes on this game is beyond me; most of it was spent running around in circles on the island swinging my paddle around at various things hoping I'd accidentally make some sort of progress. This is a prime example of a game someone is asking money for that should just be a free demo in its current state.I see no reason how someone could ask for money for this game. 
+
+I like survival games so this one intrigued me especially since it was in VR (which I think is a great idea!); it did look a bit fun but at the same time I had serious doubts about it. It definetely did not look worth the price being asked which is the reason I actually ended up paying money for it in order to put out a review warning people not to waste their time. Over time I've gotten increasingly annoyed with people realsing these types of games and asking WAY to much money for them.   
+
+
+It was difficult to figure out anything beyond the obvious which for me was building a fire to boil water that I collected in the bucket. I was eventually able to figure out how to get rope when I accidently started wacking a plant with the paddle and rope started popping out. I saw the rope automatically would started coming together in a raft shape when i put it in the designated ""raft building spot"" so I managed to gather enough till the narrator said ok thats enough rope. I obviously needed wood and the wood I used for the fire wasn't good enough. With the limited amount of interactive items on the island I was suprised I wasn't able to find some sort of way to make it happen, hoping something would just pop into place on accident. I gave the game several attempts but lost interst pretty quick. 
+
+I hate being negative toward teh VR Devs and like to support them but this game is not worth the price being asked. 
+",1488170496,1488170496,False,6,1,0.424987614154815674,0,True,False,False,False,,,
+30182386,"{'steamid': '76561198056577254', 'num_games_owned': 101, 'num_reviews': 2, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1488070476}",english,"Nice game, i'm really enjoying it. UPVOTED!!!",1488070575,1488070575,True,7,0,0.482152789831161499,0,True,False,False,False,,,
+30166785,"{'steamid': '76561198298394165', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1488028201}",english,"Very funny game!
+I love staying on this island, I could stay here for hours just staring at the sea waiting for the sunset!",1488028403,1488028403,True,8,2,0.470737099647521973,0,True,False,False,False,,,
+30165537,"{'steamid': '76561198369389203', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 146, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1488035321}",english,"Very solid game concept. I played a lot to Stranded Deep and always wanted to try this kind of game in Virtual Reality. Of course like the most of the VR games, also this one is still really basic, but if dev team keep it updated with new patch it can become a trend. A couple of things to fix: 
+- the movements of the oars on the raft seems not so natural 
+- the no teleport zone near fire and raft is to big
+
+Anyway I really suggest the game, developers have done really good work with it. Keep working on!",1488024788,1488024788,True,11,3,0.471491575241088867,1,True,False,False,False,,,
+30165073,"{'steamid': '76561198262877314', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 233, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1488188813}",english,"Really interesting VR experience. The game is a mix between a survival game and an escape room. I really appreciate the graphic of the game (usually VR experience don't reach this level) the lights, and the colors. I spent 10 minutes just laying on the sand looking the sunset.
+I hope there's in plan to implement the game soon because I'd love to explore more islands.",1488023419,1488023419,True,9,0,0.457371175289154053,0,True,False,False,False,,,
+30155165,"{'steamid': '76561197984876260', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1487985419}",english,"I only had to play this game for 30 minutes to know that this is the worst VR game I've ever played.
+
+Right off the bat, it just throws you onto a tiny island telling you only how to pick things up, show your stats, and move around. It only tells you what you're supposed to do when you're 2 feet away from where you're supposed to do it, and even then, it doesn't even tell you how to do it.
+
+Also, what is up with the physics in this game? whacking herbs with a paddle makes ropes come out, rocks and sticks are made of styrofoam, and water just defies all logic.
+
+This game is barely complete enough to be considered early access let alone a full game. Don't purchase this game in its current state.",1487986523,1487986523,False,14,1,0.457868486642837524,0,True,False,False,False,,,
+30151369,"{'steamid': '76561197966401809', 'num_games_owned': 0, 'num_reviews': 917, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1487966904}",german,"Die Idee eines VR Survival-Simulators als Gestrandeter ist gut, allerdings mangelt es an der Umsetzung. Zu stressiges Beschaffen von Material und viel zu tun gibt es leider nicht. Zudem kein Updates..
+
+Meine Kuratorseite:
+https://store.steampowered.com/curator/30155555
+
+Meine Steamgruppe:
+https://steamcommunity.com/groups/voodoode
+
+https://www.youtube.com/watch?v=8xjgAuUEm7Q",1487973069,1554886351,False,1,0,0.5,0,False,True,False,False,,,

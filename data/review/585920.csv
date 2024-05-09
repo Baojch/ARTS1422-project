@@ -1,0 +1,47 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+141069729,"{'steamid': '76561198038867779', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 172, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1688782654}",english,"When I was a kid, I got a Rubik's Cube, got really excited, threw it up in the air, it hit the ceiling, and then I broke it.
+
+Thanks to Puzzle One, I can now attempt to solve colorful group theory puzzles from the comfort of a 2D monitor, without risk of destruction to plastic objects.
+
+The orientation markers are helpful for me to get my bearings. I'm a fan of puzzles, but color swippy-swappy puzzles are still kind of new to me.",1688234758,1688234758,True,0,0,0,0,True,False,False,True,,,
+134974461,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1704368187}",english,"Puzzle One is a 2D minimalist mobile app-like tile matching puzzle inspired by a Rubik's Cube theme, or perhaps that old Nokia mobile phone game from the mid 1990's where you rotate numbers around a grid until you get them all to line up.  Gameplay consists of rotating puzzle sections around until all the colours match and are in the right positions, that's all there is to it.  On the upsides this is a bit more sophisticated than most mobile apps that get dumped on Steam pretending to be mobile apps, but that's really a lot like bragging about being pretty tall for a midget. 
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+There's no options to change the resolution for the game or customise the graphics settings.  There's no way for gamers to ensure this is running at the native resolution of their displays... there's no guarantee this game will look right on any PC as a result of this hamfisted design decision.  There's no way for gamers to try improve the low quality graphics.  The implementation here is of such poor quality, the developer couldn't work out how to make the game display in fullscreen, it only runs in a window.
+
+The game features extremely lazy, minimalist ""art"", of the type you normally expect to see in low effort Flash/browser games and mobile apps.  Considering this is being evaluated as a PC game, having the graphics phoned in like this isn't going to result in a high quality, visually impressive game that PC gamers are used to seeing.
+
+This looks and feels like a mobile app, but it doesn't seem to have made it to the app stores.  It's unclear why this was put on Steam instead of the app stores it seems to have been designed for.  Maybe it was removed, maybe it was rejected by Apple and Google (they do have more rigorous quality standards than Valve does for Steam, after all).
+
+Regardless, for all intents and purposes ""Puzzle One"" might as well be a mobile app, it has the same limitations and dumbed down qualities.  It's impossible to recommend such a game to PC gamers.  We don't spend all this money building gaming rigs so we can pretend they're iPhones and play games that might as well be mobile apps.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+The poor quality of this game is reflected in the general public reception.  At the time of this review, SteamDB shows the all-time peak player number was only 5 players.  That's right, only 5.  This is a remarkably low number, and now, the only player activity occurs once or twice a month, presumably someone loading it up to see what it is then quickly uninstalling it.  Considering there's over 120 million gamers on Steam and well over 50,000 games for gamers to choose from, the overwhelming lack of interest in the game is to be expected.  Gamers just didn't take this low quality game seriously, and for good reason.
+
+Puzzle One is relatively cheap at $1 USD, but it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.",1679238792,1679238792,False,2,1,0.242881670594215393,0,True,False,False,True,,,
+113738063,"{'steamid': '76561198137285867', 'num_games_owned': 0, 'num_reviews': 2553, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1649766460}",english,6/10,1649767679,1649767679,True,0,0,0,0,True,False,False,False,,,
+96372409,"{'steamid': '76561198122369889', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 155, 'last_played': 1628216300}",english,This is a fun yet simple puzzle game. It resembles multiple twisty puzzles in 2D. I would recommend this to anyone who enjoys puzzles like the rubik's cube.,1627250904,1627250904,True,1,0,0.525862038135528564,0,True,False,False,False,,,
+76880147,"{'steamid': '76561198165801186', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 3328, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2835, 'last_played': 1636242791}",english,u know what? This game gives me a different perspective on group theory.,1601585307,1601585307,True,2,1,0.53271031379699707,0,True,False,False,False,,,
+53094952,"{'steamid': '76561197960373660', 'num_games_owned': 2084, 'num_reviews': 4137, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1562054119}",english,󠀡,1562054454,1562054454,True,2,0,0.211267605423927307,0,True,False,False,False,,,
+39455504,"{'steamid': '76561198134219338', 'num_games_owned': 1038, 'num_reviews': 768, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1516356709}",english,If you like trying to solve a rubik's cube this is the same style. Fun for fifty cents!,1516356807,1516356807,True,0,0,0.476190477609634399,0,True,False,False,False,,,
+38225732,"{'steamid': '76561198364974638', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 766, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1601939985}",english,i'm,1512957638,1577069586,True,1,0,0.423023581504821777,0,True,False,False,False,,,
+33530924,"{'steamid': '76561198195202387', 'num_games_owned': 1210, 'num_reviews': 47, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1500019391}",schinese,"这游戏玩过模魔方的应该比较好上手，内置了很多小谜题，可以自动打乱，玩家的目标是最少时间，最少步数还原。
+
+还有创意工坊可以制作谜题，不过怎么制作还不知道
+
+总的来说5块钱入比较值得。",1500019522,1500019522,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+33513536,"{'steamid': '76561197993156502', 'num_games_owned': 8379, 'num_reviews': 197, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1499985420}",english,"The app basically just opens with a list of arranged shapes, and you choose one, and then have to manually enable the scramble.
+Feels a bit lacking really. 
+There is no satisfaction for solving the puzzle, and there is no acknowledgement when you complete it.
+There is a ""high score"" button, but looks like it currently only acknowledges the developer's time. 
+
+It a dollar, but can find free simple swap 'games' online for free.",1499985468,1499985468,False,7,0,0.513856410980224609,5,True,False,False,False,,,
+33513369,"{'steamid': '76561197999120693', 'num_games_owned': 1009, 'num_reviews': 29, 'playtime_forever': 114, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1508362304}",english,"If you like Rubiks Cubes and other tiwsty puzzles, you'll like this.
+
+Clean and simple interface, pick your puzzle, click scramble and solve either with mouse presses or hovering your mouse and using the keyboard. There is a timer too and a leaderboard tracking moves and times to solve if youre into speed solving. Theres 20 puzzles to start with and workshop support so hopefully people will make more.
+
+The editor is not friendly to begginers, you will need to know how to code in XML. There is a guide on how to do this on the community section for the game, made by the developer, but still not a simple editor to use. I would love to see the devs update this with some kind of drag n drop gui so idiots like me could make some puzzles.
+
+It's cheap as chips, give it a go if you can spare the 71p",1499984793,1500505991,True,7,0,0.599124908447265625,0,True,False,False,False,,,

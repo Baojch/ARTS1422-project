@@ -1,0 +1,736 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+153830026,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1690297267}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702862829,1702862829,True,1,0,0.409909904003143311,0,True,False,False,True,,,
+147963155,"{'steamid': '76561198066346696', 'num_games_owned': 2239, 'num_reviews': 1253, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1696920662}",russian,"Одна из целой бесконечности игрушек, сделанных на движке RPGMaker (хотя честно не знаю, возможно это даже другой движок?), не представляющая из себя никакой ценности, ибо такое надо бесплатно раздавать, а то и с доплатой.",1696920796,1696920796,False,1,0,0.538087546825408936,0,False,False,False,True,,,
+143235082,"{'steamid': '76561198995387103', 'num_games_owned': 6510, 'num_reviews': 3379, 'playtime_forever': 385, 'playtime_last_two_weeks': 0, 'playtime_at_review': 385, 'last_played': 1686270433}",schinese,救济性好评，米中文也不推荐。chinese can u do it? 能更新中文吗？202211下，t a o宝，支付宝红包，杉果，本平台，本平台充值折扣掉卡，indie gala，fanatical，humble，daily indie game，loot boy，它处自定义包入的本体约3元。爱人如己，目前就这，看以后追评。有中文的游戏请耐心自研体验乐趣，攻略指南尽量不用。不建议使用外挂，插件，作弊之类的，游戏都要这样搞，那现实里那更是如此了。兄弟萌，强烈建议不要第三方平台的小店买y u额，通过饰品等挂steam市场转的，高概率red信乃至封号，且行且珍惜。,1690938898,1690938898,True,0,0,0,0,False,False,False,True,,,
+138544369,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 276, 'playtime_last_two_weeks': 0, 'playtime_at_review': 276, 'last_played': 1684498404}",english,"RPG Maker strikes again!
+
+Moonstone Tavern - A Fantasy Tavern Sim! is one of hundreds of low effort retro-pixel RPG Maker asset/construction kit flips spamming the Steam catalog, made with the RPG Maker video game construction kit... in their own words, ""Our easy to use tools are simple enough for a child.""  Like all RPG Maker ""games"", this is essentially a bunch of low quality/canned assets from RPG Maker coupled with a cringeworthy high school anime club fan fiction.
+
+While the premise of this RPG Maker asset flip is that you run a tavern, that's not exactly what it's about, you run dungeons to progress in the game, and they're terribly, horribly unbalanced.  If you die, you suffer a permanent HP loss that you can't recover... the game design here just sucks completely.  It's a pretty incredible achievment to be worse than most RPG Maker asset flips, which in turn are some of the worst things on Steam, but here we are.  
+
+As with all RPG Maker games, the poor quality engine displays badly in fullscreen and doesn't have full HD support or any graphics tweaking options, making this unacceptable for any dedicated modern PC gamer.  The point can be made that the intention of RPG Maker is to make demos and small games to pass around friends, and shouldn't be used for ""professional"" game development.
+
+Like most RPG Maker shovelware and asset flips, the game features extremely low quality copy + pasted 2D retro pixel art, looks awful, and has even worse gameplay.  RPG Maker is an absolutely terrible construction kit, and never results in games of any reasonable quality or value to gamers.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a very healthy spike in player counts for the game.  But this only appears around the same time that trading cards were applied to the game... so this is just card idlers getting their cards and moving on.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+Moonstone Tavern - A Fantasy Tavern Sim! is stupidly expensive for an RPG Maker pixelcrap asset flip at an eye watering $8 USD, and it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.  Gamers who want a good retro JRPG experience would be better off playing the originals, like Final Fantasy, Star Ocean or Chrono Trigger.
+",1684499759,1684499759,False,3,1,0.245456427335739136,0,False,False,False,True,,,
+130267146,"{'steamid': '76561198166165759', 'num_games_owned': 105, 'num_reviews': 11, 'playtime_forever': 4129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4129, 'last_played': 1622502049}",english,"time moves very fast, there is no real point to the game?
+the tavern runs itself after you get a cook, there is no point in upgrading the tavern other that the arena rooms.
+the fight are easy when you repair the houses for the adventurers, to the point you don't need a weapon as you have 6 or 7 party member, 4 adventurers, 1 dark beast, 1 pet, and one offspring.
+
+your role is to go gather stuff for the cooks so you can pay tax's, that's it.
+its a mobile game really and a unfinished one at that",1673010215,1673010291,False,0,0,0,0,True,False,False,True,,,
+98950386,"{'steamid': '76561198135019757', 'num_games_owned': 51, 'num_reviews': 1, 'playtime_forever': 629, 'playtime_last_two_weeks': 0, 'playtime_at_review': 589, 'last_played': 1631040392}",english,"I can understand some of the bad reviews. Personally, I have fun playing the game. I just played about 10 hours and will play some more until my tavern is in better shape. Sure, it was bumpy at first, but I am a perfectionist, so the first round (a few in-game days) is always to learn the basics and some strategies to make it better on the second start.
+
+Some feedback to the bad reviews or advice for potential new players:
+After ""get the barkeeper back""-quest and getting some silver coins from the cat: go to the stables and rebuild the fountain, the familiars will learn the spell ""heal"". The familiar will use it automatically on you both or you can press the button ""4"" to activate heal (unlimited), just to be sure. You won't die anymore on ""easy"" quests. Hire a basic cook for human meals and try to get a standard egg. With standard familiars, you can clear ""medium"" quests and with rare familiars ""hard"" quests"" (though I have to press ""4"" repeatedly). I didn't get very rare yet, but that's for ""impossible"" quests.
+
+If the familiar gets stuck somewhere, press ""1"" to call it back to you. It get's stuck if it can't reach the focused enemy on the other side, if you are too fast or sometimes, it get's stuck on the same place as the enemy. Just press ""1"" (pet control hotkeys). You can't see the HP of the familiar unless you want to use a potion (you can go back without using it).
+I am just letting my familiar do the fighting - no difference in exp or skill points - and just collect the loot. I am even not carrying any ammo or potions with me, useless spending.
+
+I bought this game cheaper with a code for less than a coffee, so I don't have any negative feelings about it. I like the concept and this will be fun for me for a week or two.",1631039773,1631039773,True,2,0,0.534302592277526855,2,False,False,False,False,,,
+96347405,"{'steamid': '76561198029532205', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 1738, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1738, 'last_played': 1627939579}",english,fun and quite an interesting game,1627217956,1627217956,True,0,0,0,0,True,False,False,False,,,
+90560230,"{'steamid': '76561198158390286', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 1216, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1213, 'last_played': 1686377754}",english,It excessively grindy... though i did enjoy running around it world i found there was a lot of rng. You die alot and i do mean a lot but once you find a set up that works its not half bad. i did enjoy it but unless you are very patient i suggest you look elsewhere.,1618810173,1618810173,True,0,0,0,0,True,False,False,False,,,
+83227141,"{'steamid': '76561198089719552', 'num_games_owned': 573, 'num_reviews': 215, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1608990331}",spanish,"La historia de por si esta bien planteada, el objetivo esta claro... pero el planteamiento del gameplay es lo que no me gusta de este juego. Es como mezclar RPG con un simulador de tabernas. Una mezcla mala. Yo no lo seguiria jugando ni aunque fuera gratis.",1609010231,1609010231,False,0,1,0.47486037015914917,0,False,False,False,False,,,
+71237383,"{'steamid': '76561198068273937', 'num_games_owned': 0, 'num_reviews': 101, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1592938132}",english,"I like the concept, but the design, optimization and graphic options are absolutely pathetic. Save you money and buy a happy meal. Shame on you Trevor Jones",1592938247,1592938247,False,2,0,0.521912336349487305,0,True,False,False,False,,,
+66855220,"{'steamid': '76561198105374635', 'num_games_owned': 126, 'num_reviews': 13, 'playtime_forever': 131, 'playtime_last_two_weeks': 0, 'playtime_at_review': 131, 'last_played': 1673841146}",english,"Okay so i bought this game awhile ago and had not gotten around to playing it yet... oh boy let me start off with the pros of this game; it's art style is actually really pretty and the idea of the game is a really neat idea. However, this game is literally the worst it is soooooo laggy it's not even funny. There  are no instructions or story line in this game right away the game gives you basic instructions on how to move and that is it. Finding the main story line is something I have yet to do probably because it takes forever to travel and get stuff done. Time in this game is non existent the day starts at 6 am and like 8 minutes later real time its a new day again. You cannot fight anything and get stuff done in the same day. The fighting mechanics are awful. When you level up it just raises your health that's all. Whenever you die you lose 10 health until you level up again. Quests are boring and repetitive. The taxing in this game is way too much, especially when getting money is difficult. Traveling is literally awful because the game is buggy and laggy. Now this game has a lot of potential but this version of the game is a beta at best. If the developer put in the time to make this game run better and play better it would be a great game however, how it is now is definitely not worth 8$ and change.",1586305523,1586305523,False,2,0,0.545454561710357666,0,True,False,False,False,,,
+65053698,"{'steamid': '76561198018124881', 'num_games_owned': 397, 'num_reviews': 105, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1584228682}",english,"Appealing concept, but a lot of issues: simplistic combat; counter intuituve controls (ex: sometimes esc enters dialog or menu, sometimes leaves); fully prebuilt tavern (ex: fully stocked kitchen or fully built yet disabled houses), you just need to repair things with zero input into function or looks; economics of tavern itself also appears to be simplistic with very little controls (sans repairs), e t c.",1584227445,1584295425,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+55006356,"{'steamid': '76561198126417780', 'num_games_owned': 0, 'num_reviews': 107, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1567879841}",english,"Absolutely horrible frame rates, looked promising but sadly this extreme shuttering can cause EYE DAMAGE! Don`t play it unless you are masochistic or don`t need eyes. I need mine and I`ll try to look for better one...
+
+P.S. Tried several fixes already - still the same garbage, better frame rates but no music. Yuck this and move on!",1567879609,1567879915,False,1,0,0.523809552192687988,0,False,False,False,False,,,
+53063358,"{'steamid': '76561198005810533', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 12220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12219, 'last_played': 1616884906}",english,"I have tried playing through the story 3 times now, and every time the game glitches at the same point, stopping me from re-entering the human town. All I can do is improve the tavern, but I can 't progress the plot.",1562039739,1562039739,False,2,0,0.533277153968811035,0,True,False,False,False,,,
+50582920,"{'steamid': '76561198173669699', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 593, 'playtime_last_two_weeks': 0, 'playtime_at_review': 593, 'last_played': 1557541489}",english,Fun game and great concept for a game! but needs work on optimizing game  play,1557541631,1557541631,True,0,0,0,0,True,False,False,False,,,
+48980653,"{'steamid': '76561198172461895', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 1158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1158, 'last_played': 1497920343}",english,"I would love to recommend this game... It had so much potential and was really fun! .... Until the devs locked it in a closet and forgot about it... They will -NOT- work on this game and they will -NOT- finish it and they will -NOT- maintain it... So even though it's a cheap game... Save your money and buy a game that hasn't been left to rot. I'll happily change my review if they ever (though I highly doubt they will...) come back and work on this. And no, they don't respond to messages regarding this game. They will happily ignore the fan requests to work on it.",1550118518,1550118518,False,5,0,0.595292925834655762,0,False,False,False,False,,,
+48340209,"{'steamid': '76561198172925593', 'num_games_owned': 14023, 'num_reviews': 4533, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1549819995}",schinese,"这个开发者的好几个游戏都是类似的ACT+sandbox相结合
+比较大量的可制作物品+养成模式，其实光从内容来说是值得深挖的游戏
+但最大的问题就是RPG Maker真的不是一款合格的动作类游戏引擎",1547527285,1547527285,False,1,1,0.52173912525177002,0,False,False,False,False,,,
+48060716,"{'steamid': '76561198079990013', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 559, 'playtime_last_two_weeks': 0, 'playtime_at_review': 559, 'last_played': 1546490994}",english,"I've had this game on my sitting on my wishlist since it was on Greenlight, but never got around to buying it. Someone just recently got it for me as a gift. Yay!
+
+Now, the whole gifting situation has me feeling sentimental, and as a long-time fan of the genre I want desperately to love Moonstone Tavern. There are a lot of really cool mechanics, and the concept is something I'm happy to see explored. 
+
+...However, though it has the benefit of all my doubts, I can't recommend this game. The same issues that plagued earlier reviewers continue to detract from gameplay. The frame rate and mapping are wack, the controls are unresponsive, the battle mechanics are boring, and it seems the developers have long since abandoned it. 
+
+Devs. Please come back. This could be so good. Don't leave me hangin' here. I wanna play the heck out of this game, but it's just so unpolished.",1546492703,1546492703,False,2,0,0.544477641582489014,0,False,True,False,False,,,
+46104275,"{'steamid': '76561198018843029', 'num_games_owned': 0, 'num_reviews': 260, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1542848130}",english,"Another RPGmaker game with a brilliant concept but poor execution.
+The part inside the tavern where you will need to be alot, is well lagging like crazy for me, and that alone is enough for me to request a refund, even if the amount of money isnt high, i wont pay for a broken and unplayable game. Instead get Void City, the concept is somewhat similar and is not nearly as buggy as this.",1542848412,1542848412,False,1,0,0.511555850505828857,0,True,False,False,False,,,
+45854714,"{'steamid': '76561198007273581', 'num_games_owned': 267, 'num_reviews': 40, 'playtime_forever': 616, 'playtime_last_two_weeks': 0, 'playtime_at_review': 616, 'last_played': 1542434744}",english,"Well okay then................................................................................................
+
+So I beat the game today, but what I find is that I was pretty underwhelmed by the ending. I guess the real quesiton is.....what ending? It lasted like 5 second and there was like zero fighting. There was about 8 lines of conversation.
+
+The concept of the tavern running is pretty good, and its fun upgrading the tavern and getting rich and famous from it, the issue lies that as other have said, it feels fairly disconnected. While I like that I dont have to deal with the grunt work of getting mats for meals or anyhting (becasue I pay tehm to do it, why should I?), there seem to be a lack of people who treat you as the owner, your own staff barely know you exist and aside from ugrading, there is nothing else to do at the tavern.
+
+It would have bene pretty neat to have little options where you can get drunk and vomit or do things with the customers, however none of that exists.
+
+As for the combat, I went more of a minion lord than a person who actually fights, and that worked pretty good for me. I like that aspect becasue if I am rich enough why not have a bunch of hired thugs to do your bdding right?  TRying to fight yourself is a nightmare though because the controls mixed with the choppy movement and screen chopping makes it near impossible to fight anything, hence you must rely on your minions to do the fighting for you 90% of the time.
+
+Your spouse is also extremly disconnected, they only have a single line of text they repeat over and over and over and they don't even do anything aside from laze around in the room repeating their one line conversation, which was a pretty big dissapointment for me becasue I like to have at least a pretended relationship in a game. It felt as though I was forced into an arranged marriage to a broken record.
+
+This game should be concidered a game simialr to that of Adventure Capitalist with elements of a dungeon crawler, becasue thats all it really is, a simulated tavern without any real interaction.
+
+Although, I did kind of enjoy it a bit, would have been nice if the game was not lagging 100% of the time on a computer that runs Planetside 2 and FF14 on extreme graphics with no problems. I am not sure why the un-neccessary lag but it certainly affects the enjoyability of the game.
+
+Also, to wrap up......... a gremlin came up to me and said he was a gnome. Gremlins and Gnomes are two different races.",1542436273,1542436273,False,1,1,0.512499988079071045,0,True,False,False,False,,,
+44814509,"{'steamid': '76561198352322792', 'num_games_owned': 881, 'num_reviews': 52, 'playtime_forever': 2451, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2451, 'last_played': 1537479060}",english,I am loving this game the story line is fun.  yeah bit rought around the edges but if your into the Indie RPGmaker style games this w a harvestmoon kind of twist this is really lots of fun!,1537382660,1537382660,True,0,0,0,0,True,False,False,False,,,
+44011389,"{'steamid': '76561197968210099', 'num_games_owned': 0, 'num_reviews': 231, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1463346107}",english,"10/10 idea.
+
+2/10 execution.",1533781694,1533781694,False,3,0,0.546618998050689697,0,True,False,False,False,,,
+43639392,"{'steamid': '76561198065176763', 'num_games_owned': 1315, 'num_reviews': 1772, 'playtime_forever': 201, 'playtime_last_two_weeks': 0, 'playtime_at_review': 201, 'last_played': 1532214521}",schinese,"还行吧。
+
+Not Bad.",1532077568,1532077568,True,2,0,0.501983463764190674,0,False,False,False,False,,,
+42741777,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 243, 'playtime_last_two_weeks': 0, 'playtime_at_review': 243, 'last_played': 1529098365}",romanian,Very nice game,1529067859,1529067859,True,0,0,0,0,False,False,False,False,,,
+42521661,"{'steamid': '76561197975765451', 'num_games_owned': 805, 'num_reviews': 45, 'playtime_forever': 688, 'playtime_last_two_weeks': 0, 'playtime_at_review': 688, 'last_played': 1463782856}",english,Kind of incomplete and... not very good.,1528253330,1528253330,False,0,0,0,0,True,False,False,False,,,
+41387387,"{'steamid': '76561198009745978', 'num_games_owned': 0, 'num_reviews': 77, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1464059205}",english,"Had potential, but just bad, very bad.",1523306103,1523306103,False,0,0,0,0,True,False,False,False,,,
+40712044,"{'steamid': '76561197987391854', 'num_games_owned': 2380, 'num_reviews': 611, 'playtime_forever': 365, 'playtime_last_two_weeks': 0, 'playtime_at_review': 365, 'last_played': 1464721600}",brazilian,"Têm bastante potencial, e eu gostei da mecânica do jogo. Como alguém que jogou Apocalypse Hotel, posso dizer que este jogo tem uma interface amplamente melhorada e parece ter um mundo muito maior a ser explorado.
+
+Único problema é quê parece quê os desenvolvedores meio quê abandonaram o jogo, mas tirando isso é um bom jogo de RPG.",1520689988,1520689988,True,1,0,0,0,False,False,False,False,,,
+40449395,"{'steamid': '76561198083864101', 'num_games_owned': 156, 'num_reviews': 6, 'playtime_forever': 364, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1536661436}",brazilian,"Jogo possui uma proposta muito boa, porém mau executada.
+Deveriam ter polido melhor a jogabilidade,",1519775640,1519775640,False,0,1,0,0,True,False,False,False,,,
+39985982,"{'steamid': '76561197995790724', 'num_games_owned': 1432, 'num_reviews': 4, 'playtime_forever': 369, 'playtime_last_two_weeks': 0, 'playtime_at_review': 369, 'last_played': 1505878512}",english,"Honestly, it's nowhere near as bad as others are making it out to be. It's a pleasant enough little RPGmaker crafting sim, if you like that kind of thing. Nothing special. If you have lag problems (and you probably will), simply turn off weather effects and problem solved. Don't be deceived by my hours played. That must have reset. I played to the end and it takes much longer than 6 hours to get there.",1518294847,1518294847,True,1,0,0.466984987258911133,0,False,False,False,False,,,
+39944829,"{'steamid': '76561198259781414', 'num_games_owned': 2587, 'num_reviews': 129, 'playtime_forever': 555, 'playtime_last_two_weeks': 0, 'playtime_at_review': 555, 'last_played': 1518042714}",brazilian,"Incrivelmente interessante para uma premissa tão simples. O jogo envolve no controle de tempo, história e recursos . você não vai ganhar na primeira vez que jogar, mas tudo bem, irá se sentir duplamente motivado para enfim conseguir a vitória. Apesar de pontos muito simples nas regras e controle o jogo vale a pena (no preço promocional claro)",1518147069,1518147069,True,1,0,0.525547444820404053,0,True,False,False,False,,,
+38669525,"{'steamid': '76561198116784622', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1503789562}",english,Just awful. The battle mechanic is just keep clicking,1514229681,1514229681,False,0,0,0,0,True,False,False,False,,,
+38211919,"{'steamid': '76561198030464920', 'num_games_owned': 2774, 'num_reviews': 300, 'playtime_forever': 1667, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1647, 'last_played': 1512915371}",turkish,"Her ne kadar eksik yönü olsa da bence oynanabilecek bir oyun.Akrabasından kalan barı yönetiyorsunuz.3 katlı odaları geliştiriyorsunuz,bir kaç yenilik yapıyorsunuz ve küçük su borusu tamir etme felan.Dışında ise yoldaşlar için ev,malzeme üreticileri için çadır tamir ediyorsunuz.Baya bi tamir var yani barın.Evcil hayvan ediniyorsunuz yumurtadan çıkıyor isim veriliyor.Bara gelen kahramanları 24 saatlik kiralıyorsunuz,ona ev tamir ettiyseniz dışardan orda kalıp size kalıcı hizmet veriyor siz gönderene kadar.Ocakta yemek yapabiliyorsunuz malzeme mevcutsa müşteriler için.3 farklı karakter var.Yakıncı kılıç taşıyan,Menzilci(tüfekçi genelde yay yok) ve büyücü var.3 farklı tanrı mevcut farklı özelliklerle.3 farklı sınıf var insan,elf ve cüceler diyelim.Under diye geçiyor oyunda.Olay başlarda gelişmek ve barı tamir etmek.Sonradan hikayeye kayıyor.Arena var bahis oynuyorsunuz.Savascılar gece sizde kalıyor ordan para geliyor ayrıca.Oda başta 3 sonradan 7 ye kadar çıkabiliyor,tamir etmeniz lazım.Evlenme var ama şart olduğu için hikâyeye bağlı bir görev diyelim.Eksikliklerden bahsedeyim:
+-Her ölümde max can azalıyor.Başlarda ölüm fazla,biraz zor.Ben kaydet,ölünce tekrar yükle yapıyordum.
+-Bazı itemleri kullanmak sıkıntı.Mesela xp,altın veren parşömenleri 1 kere kullanınca çantayı kapatıyor anında.Birden fazla varsa seri kullanamıyorsunuz ve bu itemler tüm malzemelerin en altında olunca kullan sonra 10sn aşağı in çanta listesinde sonra tekrar seç kullan.Uğraştırıcı..İksirlerde sıkıntı yok ama
+-Çanta çok düzensiz ve baya malzeme var.
+-Bazı canavarlar çok seri vuruyor ve fazla.1 sn de ölebiliyorsunuz farkına bile varmadan.Bence bu güzel olmamış.
+-Haritalar belli sayıda.Müşterilerden görev alıyorsun ama kısıtlı sayıda harita olunca aynı haritalarda oynuyorsun hep.Bu da bir süre sonra döngü oluşturuyor.
+-Düşman haritasında kaydettikten sonra çıkıp tekrar girdiğinde canavarlar size saldırmıyor.Rahatlıkla yürüyebilirsiniz.Bug oluyor.İşime de gelmedi değil zor haritala böyle kolay geçebiliyorsun.
+-Savaşma haritasında yandaşların canları görünmüyor.Ölmeye yakın olsa haberiniz olmaz.Anca çantadan iksiri kullanayım derken görünüyor.
+-Ana görev ne olduğu yazan yok.Unutulsa ne yapılacağı,sıkıntı olabilir.
+Tüm bunlara rağmen oyun bana kendini oynattı,hikâye bitti ama oyun sonsuz bitirmiyor.Öyle barı işletmeye devam..
+6/10",1512916861,1512916861,True,3,0,0.570707082748413086,0,False,True,False,False,,,
+35923739,"{'steamid': '76561198114202956', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 2666, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1167, 'last_played': 1575591664}",english,"This game is a bit more challenging than my normal fare, but I'm quickly becoming addicted. You definitely can't play this if you can't prioritize. I love that the MC isn't just one generic dude. You get to choose appearance, class, have different familiars etc. This game is currently competing with Stardew Valley as my absolute favorite.",1508685907,1508685907,True,1,0,0.465398252010345459,0,True,False,False,False,,,
+34976248,"{'steamid': '76561198110717909', 'num_games_owned': 659, 'num_reviews': 25, 'playtime_forever': 245, 'playtime_last_two_weeks': 0, 'playtime_at_review': 245, 'last_played': 1463439055}",english,"This is one of the reasons why Greenlight is getting replaced.
+
+Overall the Idea was good but it was horribly executed and instead of making the game better the developers basically abandoned it. I would not recommend buying this game nor other games from the same developers.",1505493585,1526143367,False,9,1,0.573965072631835938,0,True,False,False,False,,,
+34430153,"{'steamid': '76561198149763454', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 238, 'playtime_last_two_weeks': 0, 'playtime_at_review': 214, 'last_played': 1505937142}",english,Well this is my first review and it's not good nor bad just plain no flavor at all. The graphics are o.k but then the srceen skips and the gameplay is a gut grinder you make money so slow just so some tax man can come and take your hours of hard work away in secounds. I think if they fix the skipping and the money issue it might be worth a little to those who like to waste time alot of time.,1503464257,1503464257,True,0,0,0,0,True,False,False,False,,,
+34181260,"{'steamid': '76561198065025186', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1502502791}",english,"I'm not one to write reviews but here I am doing it.. DO NOT BUY THIS GAME... I have a very good GPU card and yet this game lags to hell and back JUST FOR WALKING. Then in the beginning of the game when you're typing in your name if you so happen to have a name with the letter 'C' in it, it thinks it's enter so imagine me, Hi my name is Chelsea, so when I'm typing my name in the moment I type 'C' the game goes on and says 'Nice to meet ya, C' I tried it again with the name Meaya and it worked fine the actually accepted the name. This game makes it incredibly hard to like it and believe me I wanted to.
+0/10
+Don't buy, I'm mostly writing this review because their aren't any recent ones which is why my smarty pants self decided to give it a chance.",1502503118,1502503118,False,4,0,0.522727251052856445,2,True,False,False,False,,,
+34068879,"{'steamid': '76561198066533446', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1597409415}",english,"This game was ported over to Unhappy ever after, where those that already have this game would get it for free... but i never got it.",1502053912,1502053912,False,0,0,0.47826087474822998,0,True,False,False,False,,,
+33902360,"{'steamid': '76561197992298312', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 565, 'playtime_last_two_weeks': 0, 'playtime_at_review': 565, 'last_played': 1463842119}",english,This will never be finished is it now? It must been about a year since I heard about moving this to new engine and I can see not a single thing changed. Time to shit list this. learn to communicate with your customers or learn how to be a dev studio OR don't pretend to be able to finish something that you simply cant.,1501413065,1501413065,False,9,0,0.589272260665893555,0,True,False,False,False,,,
+32490572,"{'steamid': '76561198091704565', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1517785558}",english,"EDIT: As of 8/22/2017
+So far it seems to be a working product. Yay! Which is great, as this game implemented alot of neat and entertaining ideas and gameplay. I seen it'd been patched and reinstalled it. To my pleasant surprise, it installed. I started up the game and wasn't disappointed. The title screen came up, character selection engaged, the opening mini tutorial played. I got to actually see the Inn itself, wander through the stables and inn, talk to NPCs, cook a meal, go adventuring with a hireling and sleep. This is every bit of fun it'd promised to be. I'm happy for the dev to have fixed their product. It is a brilliant start, if not for the shaking launch, it could have been another Stardew Valley or Harevest Moon/Rogue RPG. With than in mind, I am resending my earlier review. 
+
+
+
+Previous Review on Purchase: 
+Unfortunately, this looked like a great title that wasn't getting a fair chance. As they say ""Buyer beware"" It has a neg rating for a reason. I almost wish there was a -- to give. I was one of the few lucky individuals who the game wouldn't even load properly. It downloaded and installed fine. It booted up fine. I selected my character and started the game...And that was it. It got stuck on this dream sequence like scene that didn't respond to any controls, not even exiting. I had to manually restart my laptop. I've uninstalled and reinstalled it to no avail. Now the game won't even start up, it has script errors. So save yourself the headache and move along.",1497662141,1503396703,True,0,0,0,0,True,False,False,False,,,
+32373282,"{'steamid': '76561198004310606', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 504, 'playtime_last_two_weeks': 0, 'playtime_at_review': 504, 'last_played': 1497380343}",english,"It's a pretty cool game.  It's indie, and there's a little jankyness, but no game breaking bugs.  Kinda difficult at first, there isn't much hand holding here.  After a few hours of play and reading a couple little guides on steam, I'm doing well.  Thumbs up.",1497299027,1497299027,True,9,1,0.604562759399414063,0,True,False,False,False,,,
+32239486,"{'steamid': '76561197977213739', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1496788485}",english,"The concept seemed absolutely perfect for me: Run a fantasy-style inn, but as noted in other reviews, the execution missed the mark. 
+
+The controls are clunky. ChronoTrigger controls better than this game.
+
+There is clearly a lot of content, but it is very unclear how most things work or how to go about succeeding in a number of different tasks. I understand that not every game has to hold your hand, and the freedom is nice in theory (play the game how you want to play it), but this felt like one of those GBA ports you'd find in the bargain bin, play for 20 minutes, and never pick up again because the concepts were never transmitted to the user properly. 
+
+Potentially my biggest gripe is the technical elements of the game. While the sprites are generally nice, you're locked into windowed mode. Even if you play full screen, you'll only be able to view the game through a roughly 800x800 window. Further, the sound is not great. the sound effects are kind of jarring and discordant. The music is ok, but falls into the same trap as the sound effects. It just doesn't /sound/ very good. 
+
+I really wanted to like this game, but I have to settle for Not Recommend.",1496844661,1496844661,False,5,0,0,1,True,False,False,False,,,
+32076189,"{'steamid': '76561198289758763', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 353, 'playtime_last_two_weeks': 0, 'playtime_at_review': 353, 'last_played': 1472516663}",english,"Was a nice concept, but like many have said, poorly exicuted and no updates in too long.  Controls suck and many features do not seem to be implamented.",1496197285,1496197285,False,16,1,0.689208090305328369,0,True,False,False,False,,,
+31678130,"{'steamid': '76561198042216397', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1463362540}",english,It's like Stardew Valley without any content,1494483084,1494483084,False,4,6,0.449750036001205444,0,True,False,False,False,,,
+31514442,"{'steamid': '76561197966022897', 'num_games_owned': 3304, 'num_reviews': 97, 'playtime_forever': 238, 'playtime_last_two_weeks': 0, 'playtime_at_review': 238, 'last_played': 1466773283}",english,"Not even worth leaving a review it's just that much of a buggy mess.  Devs are crooks that never fix their games and abandon them when the money stops flowing and then they make another cookie cutter game virtually identical to the last to try and make a few more dollars, rinse, repeat.
+
+Avoid these devs at all costs, their ideas are good but they couldn't develop a functional game to save their lives.  They have a bright future ahead of them as politicians with all the empty promises and not cleaning up their old messes before starting a new one.",1493763989,1493763989,False,28,1,0.727960109710693359,1,False,False,False,False,,,
+29553261,"{'steamid': '76561198051765926', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 2938, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1291, 'last_played': 1553363160}",portuguese,"Estou adorando também. Mas não nego que ele pode melhorar e muito! 
+É um jogo que parece complicado, até acharmos o ""Jeitinho certo"", quando isso acontece, aí é só acompanhar a história e ver as quests. São bem legais",1485649180,1485649180,True,0,0,0,0,True,False,False,False,,,
+29203551,"{'steamid': '76561198009854709', 'num_games_owned': 3087, 'num_reviews': 549, 'playtime_forever': 244, 'playtime_last_two_weeks': 0, 'playtime_at_review': 244, 'last_played': 1480372256}",italian,"UN MIGLIORAMENTO ALLA VOLTA (Moonstone Tavern) - Novità
+Action JRPG gestionale con elementi di crafting. Un sacco di generi miscelati assieme in modo interessante. Basta una bella idea per fare un bel gioco?
+
+https://www.youtube.com/watch?v=DJTKAN5-oREd",1484230061,1484230061,False,0,0,0.440069109201431274,0,False,True,False,False,,,
+28276590,"{'steamid': '76561198168043611', 'num_games_owned': 442, 'num_reviews': 51, 'playtime_forever': 143, 'playtime_last_two_weeks': 0, 'playtime_at_review': 143, 'last_played': 1473183624}",english,"What about this game?
+I try to play it, but it was so unstable and unplayable, that I close it after 20min. 
+I read the discussions etc. if anyone have an idea to fix that bug, but nothing helped. It's getting annoying. 
+
+Can't tell anthing about gameplay or story. I didn't come so far. 
+At least (I'm over the time to get my money back from steam) I let the game run in Background and sell the cards. 
+Very bad. :(",1481315931,1481315931,False,1,0,0,0,True,False,False,False,,,
+27610800,"{'steamid': '76561198063048114', 'num_games_owned': 2657, 'num_reviews': 540, 'playtime_forever': 98, 'playtime_last_two_weeks': 0, 'playtime_at_review': 98, 'last_played': 1480145065}",english,"-- The Good:
+Drops trading Cards..
+
+-- The Bad:
+No objectives..
+No instructions..
+The combat sucks
+Game is laggy
+
+1/10",1480145042,1480145042,False,10,0,0.476438969373703003,0,False,False,False,False,,,
+26457137,"{'steamid': '76561198258321053', 'num_games_owned': 95, 'num_reviews': 74, 'playtime_forever': 216, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1707386494}",schinese,不支持！不支持！不支持！（重要的事情说三遍！）XD,1478441611,1478441611,False,2,0,0.536461293697357178,0,False,False,False,False,,,
+25926757,"{'steamid': '76561198037063744', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 2171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1284, 'last_played': 1485708573}",english,"Getting this in a bundle for 1.50 I didn't expect much, especially not after seeing alot of negative reviews.
+But let me tell you I was positively surprised. Didn't lag at all for me as people claim to and it's a very addictive game.
+The game is a tavern simulator blended with rpg elements. You upgrade things around your tavern and build rooms to get more guests and new races to stay at your tavern. Speaking to your guests you will be given quests that will reward you with gold, gear, new companions, reagents for upgrading your gear and so on. As you progress through the game you will be given more challenging quests with better rewards. All in all I'm having alot of fun with this little game.",1475937987,1475937987,True,7,0,0.598617911338806152,0,False,False,False,False,,,
+25490358,"{'steamid': '76561197969331425', 'num_games_owned': 1305, 'num_reviews': 133, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1463566662}",english,The game doesn't work properly on many people's PC's. The issue has been brought up to the developer and he doesn't really seem interested in correcting it. It's sad because it seems like it *could* be a fun game.,1473751906,1473751906,False,9,0,0.557495534420013428,0,True,False,False,False,,,
+25133916,"{'steamid': '76561198079444545', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 1456, 'playtime_last_two_weeks': 0, 'playtime_at_review': 640, 'last_played': 1534519145}",english,"It is very confusing at first, but overall is a fun game.",1472138092,1472138092,True,2,0,0.465366989374160767,0,False,False,False,False,,,
+25105551,"{'steamid': '76561198138564746', 'num_games_owned': 872, 'num_reviews': 34, 'playtime_forever': 346, 'playtime_last_two_weeks': 0, 'playtime_at_review': 346, 'last_played': 1467777651}",english,"This isn't a bad game per say. In fact I found it quite entertaining, if a little rough around the edges. The problem isn't that the game is bad, but the developers. Had they continued to push out content and updates, this game could have been great. I could have dumped hours and hours into it. However, less than a week from the official release, the developers went radio silent. They even promised a new update way back on May 18th, slated for May 25th. It is now August 23rd at the time I write this review, and there has not been a word, or an update since that post.
+
+Now, I normally don't write reviews about this kind of thing. Shit happens, people have lives. A small group of indie devs can have things come up. But it's been three full months. The dev's haven't posted or replied to anything on the forums in that time. They also gave absolutely no indication they were going on hiatus. They just took the money and ran.
+
+Apparently this developer group has a history of abbandoning games. Their last couple hotel simulator games were abbandoned and left incomplete. This is just one more on the list.
+
+Is it a bad game? No. Is it worth the money? Honestly, the $8.00 asking price is quite reasonable for what you get.
+
+Should you buy it?
+I wouldn't, the game needs work, and it doesn't look like its ever going to get it. If the game had any future prospect I would probably recommend it, but right now, while it isn't a bad game, you can do better with your $8.00.
+
+Developers shouldn't be encouraged to do this shit. I will say that at least this group moved out of early access before abbandoning the project. But they still abbandoned it within a week of its release, so that isn't much better.",1472011359,1472011543,False,26,0,0.746016383171081543,0,True,False,False,False,,,
+24831823,"{'steamid': '76561198020841208', 'num_games_owned': 0, 'num_reviews': 46, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1472072696}",english,Boring gameplay and doesn't work too well with stronger graphics cards,1470946722,1470946722,False,3,0,0.430460929870605469,0,False,False,False,False,,,
+24735956,"{'steamid': '76561198275951474', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 864, 'playtime_last_two_weeks': 0, 'playtime_at_review': 864, 'last_played': 1470455681}",english,"Spoiler Alert
+
+So much could have been done for this game. The ending was horrible and made little sense. So the kid takes over... but why is it named after it's parent and why does everyone say good luck still? Like nothing happened... I did enjoy it but there were many glitches in the gameplay. Sadly... this game could have been amazing if more time and effort was put into it. The idea was wonderful but it was not pulled off 100%. Sorry.",1470456199,1481083587,False,4,0,0.483581125736236572,0,True,False,False,False,,,
+24535896,"{'steamid': '76561198073041019', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 1822, 'playtime_last_two_weeks': 0, 'playtime_at_review': 943, 'last_played': 1464431088}",english,"I think this game has alot of potential thats not being realized and would love to see more from it. The story is quite good and did keep me wanting to find out more. The combat is... basic but reminded me of Ys, which is one of my fav games of all time.... Now that the praise is out of the way.... This game needs alot more work then what its getting, calling it rough is being nice honestly. It has Framerate issues and building up the tavern is... not terriable rewarding other than money, which after a point becomes almost 100% useless. Some of the systems seem half finished, suchs as the Marrage system, which from what i can tell was suppose to have more than one choice... but when i looked into the other two they didn't work.
+
+PLEASE MAKE THIS GAME AWESOME!!!!!!",1469535066,1469535066,True,0,0,0,0,True,False,False,False,,,
+24447440,"{'steamid': '76561198055716027', 'num_games_owned': 2286, 'num_reviews': 539, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1469044169}",german,"Schon mit ihrem anderen Spiel ""Fortune's Tavern"" haben sie die Leute abgezockt !!!
+Das wurde zum Glücvk ausm Shop genommen !!!
+Dieses Spiel wurde - wie alle anderen ihrer Spiele - AUFGEGEBEN !!!!
+Nur mal schnell Geld abzocken!
+Schaut au gerne in die Discussionen etc. ihrer anderen Spiele, so ein schmutziges DEV-Team!!!
+Helft mit Steam sauber zu halten und MELDET dieses und alle ihre andere Spiele direkt auf der Shopseite an Steam, in der Hoffung, dass diese Betrüger endlich von hier entfernt werden!!!
+Kurz zum Spiel: ca 100000 bugs, laggt wie hölle - unspielbar",1469131191,1491815861,False,3,0,0.440375983715057373,0,True,False,False,False,,,
+24174097,"{'steamid': '76561198051766150', 'num_games_owned': 1171, 'num_reviews': 22, 'playtime_forever': 2553, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2287, 'last_played': 1464553079}",english,"It's an unpolished game, and actually unfished game. You can be the game fairly quickly and then there's nothing else. There's really like an hour or two worth of game play.
+
+In the forums the dev says that it's not even done. Should have been relased as early access. 
+
+Buyer beware kind of deal here.",1467953516,1467953516,False,10,0,0.564138412475585938,0,True,False,False,False,,,
+24143428,"{'steamid': '76561198059500902', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 479, 'playtime_last_two_weeks': 0, 'playtime_at_review': 479, 'last_played': 1467294001}",swedish,"I got the game at 55% off during the Summer Sale and to be honest, I find it quite fun, but it has a few flaws.
+I'll take those one at a time:
+
+First of all, there's no way to change controls. That is kind of a bummer. I prefer using my keyboard for RPG's but oh well.
+
+Second, the grammar/dialogue is a bit... Cheesy. I'm not saying it's bad, but it feels very awkward to read at times.
+There's a lot of grammar errors, typos and it uses a very ""basic"" level of English. ""Hello, my name is [name], how might I help you?"", for example. It's not bad, but it feels weird.
+A lot of times, I feel as if I read an old book when reading the dialogue and I'm not playing a game.
+There's also times when the character (you) think/talk in the middle of a field. While enemies are attacking you. And you have no way to defend yourself in that case! More often than not, you're going to die.
+
+
+Sadly, the game has some bad bugs.
+Some of those bugs are - sadly - fairly game breaking. Such as having 3 Priests spawn on the same tile. I wanted to speak with one of you guys, not all 3...
+It's also possible to get married in this game, but again, I ran into a MAJOR bug related to this.
+To meet your - I think only possible - wife, you have to go visit another village, which requires you to repair a bridge. Hey, makes sense!
+Except not.
+By complete accident, I was checking up my tavern and found a new NPC that I hadn't seen before. I spoke with her as - I thought she was a new Priest as it said a priest had come to visit me. She told me she wanted to marry me. And that to do so, I needed to grab an item for her.
+Needless to say, I was up for that.
+
+I then head to the other town, sit through some (sadly very cheesy) dialogue and... Wait. It's the exact same girl? What the...
+So yeah. I met her IN MY TAVERN before I was supposed to be able to meet her. ...Yeah. That happened.
+
+
+Finally, the biggest bummer of them all - the fighting system.
+You start the game with 1500 HP. You might think that it's a lot, but no, it's not. 
+Enemies can gang up on you - more often than not, I fight 3 or 4 enemies at once. And each of them can deal 250-500 damage! There's no recovery time, either. I've had SEVERAL enemies attack me 3 times at once, each attack dealing like 530 damage (that's about 1600 damage and I had about 2600 max HP!)
+With no recovery time, ONE MINOR ERROR and you're dead.
+The fight system is also very clunky - like I said, one enemy can attack you 3 times quickly, but your attack animation is so slow, I stopped fighting. I left that to heroes that I hire (or lives in my cottage) and my familiar while I just run from point A to point B. I find it much easier - and faster, for that matter.
+
+
+Here's some warnings for newbies:
+The time progress is VERY fast in this game. In fact, do NOT assume you'll make a lot of Silver - the money in the game - early on. In fact, just do the first quest that the cat guide/NPC gives you. Talk to him again for 150 Silver and use that money to bet on the arena.
+
+Time NEVER stops in this game, unless you're in the menu or the game is minimized - so if you have to AFK, minimize the game or enter the menu. Do not leave the game running thinking nothing will happen, because it WILL.
+You're talking to NPCs in game? Tough luck, the time progress as normal.
+
+
+Get a human cook ASAP! The best you can get (from what I've seen) is a female one. She costs 10 silver per day and cooks 10 meals per day. Now, if you were to buy meals from the nearby camp, that's 8 silver/meal. Needless to say, that becomes VERY expensive VERY quickly.
+
+So, why do I say I recommend this game, despite all negative things I've written up to this point?
+
+Because they don't bother me as much as you might think it does. 
+The game is VERY unforgiving early, but quickly becomes managable.
+I wouldn't say the game is worth the full price - sadly - but I got it at 55% off, who am I to complain? 
+If you can get it at half-off or a better sale, you have got yourself a really fine deal in my opinion. If the creators could fix the things I listed, I'd say it's worth the game at full price, but as it is now, at full price, it's sadly too expensive.
+
+So, if you're out adventuring, feel free to drop by Moonstone Tavern! 
+Note: Coop not included. You'll have to get to my tavern some way or another. I'm not helping you with that.",1467839593,1467839625,True,2,0,0.553072631359100342,0,True,False,False,False,,,
+24067745,"{'steamid': '76561197973993697', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1466324926}",english,"this game had a great premise and I really looked forward to playing it, however the graphics settings were too limited. I have a PC with 27 inch monitors, at 640x480 (which was the only resolution I could really get to work... and the fact that fullscreen was not windowed, it made the game nearly unplayable for me. I don't want to give it a bad review but until the graphics options are updated, I cannot recommend this game. If they fix that, I will changemy review.",1467598641,1467598641,False,7,1,0.49587365984916687,0,True,False,False,False,,,
+24011947,"{'steamid': '76561198056782913', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 1606, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1606, 'last_played': 1467628678}",english,"So as someone who has replayed the game 3 times. I can say that while there are problems with the game; the tutorial is fairly useless, the combat mechanics make no sense, the lack of diversity in the battle system entirely, and the bare bones mechanics of understanding your character's status (and the fact you can't even check other party members aside from level) I can't for the life of me understand some of the other gripes people are making about this game. 
+
+It's a fun little game with a unique system. I love the option of making your own Tavern. All I really want is more more more though. I want to be able to modify my character a bit. I want a bit more of variety in gear or at least some more methods of improving my character's abilities. The way to accumulate money only ""seems"" hard at first but, once you understand a good portion of the mechanics you realize that gathering cash should never be an obsticle ever. It's just not done in the standard way of ""kill enemies and watch them drop money"". Which to be honest is actually a nice touch in my opinion. 
+
+All in all this game could have much much more added to it. but, the unique premise just makes me want to greedily play it more and more and hope for vast additions to the game or just more additions to this type of genre.  8/10",1467455764,1467455764,True,10,0,0.57086491584777832,0,True,False,False,False,,,
+23908514,"{'steamid': '76561198278382853', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1482959716}",english,"I was given a copy of this game for reviewing purposes. This has is no way altered my review of the game.
+
+Moonstone Tavern is an interesting concept, but very poorly executed. I'll spare lots of details to not be redundant, since many other reviewers have covered them, but it's all true: the terrible game mechanics (combat especially), clunky menus and interface, difficulty in earning money/getting upgrades, and so on and so on. 
+
+My personal biggest problem with this game is that it's a blatant ripoff of the developer's previous game, Fortune's Tavern, which is currently no longer on Steam. Supposedly it's a prequel, but having the exact same graphics, music, gameplay, interface, and problems seems suspicious. And lazy. That's something I can't excuse here. I understand these are indie developers and making games are difficult, but this just screams cash grab to me. All in all, I don't recommend Moonstone Tavern. The idea is cool, but it's too frustrating to play and its many problems are very distracting.",1467155059,1467155059,False,29,1,0.6869087815284729,0,False,True,False,False,,,
+23816917,"{'steamid': '76561198023678300', 'num_games_owned': 432, 'num_reviews': 10, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1466921260}",english,"The concept for this game is incredible....and that's what makes me so sad. I feel like there would be many, many hours of gameplay here. Unfortunately, the entire game just feels clunky. the frame rate is terrible, the mechanics are a bit wonky, time FLIES by and doesn't pause during open dialogue with other npcs. In time and with some work, this could be incredible. But as it is now....not so much. I will remain hopeful, though. So for now, I would not recommend this...let's hope that changes!",1466921413,1466921413,False,70,1,0.858616828918457031,0,True,False,False,False,,,
+23804369,"{'steamid': '76561198014389496', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 747, 'playtime_last_two_weeks': 0, 'playtime_at_review': 747, 'last_played': 1463502295}",english,"There is some roughness, such as the controls, that you have to tank through. They also dont hold your hand so you learn by doing. However, I stuck with it and after I adjusted I had a very good time. The flow of money gets easier later but there always seems to be something to buy so it keeps you busy.",1466887118,1466887118,True,4,0,0.571136832237243652,0,True,False,False,False,,,
+23774764,"{'steamid': '76561198027188645', 'num_games_owned': 285, 'num_reviews': 7, 'playtime_forever': 403, 'playtime_last_two_weeks': 0, 'playtime_at_review': 403, 'last_played': 1466815303}",english,"I love the premise of running a tavern, questing to improve your town and attract more customers, as well as leveling up your characters and upgrading your equipment to take on tougher challenges.
+
+Unfortuantely, this game lacks polish. The actual questing and gameplay are very repetitive. Pathfinding and hit boxes feel clunky.
+
+It's been fun for a few hours but without a deeper story or stronger motivation, I'm not feeling a lot of incentive to keep grinding.",1466815783,1466815783,False,17,1,0.670541584491729736,0,True,False,False,False,,,
+23769913,"{'steamid': '76561198041698026', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1466799476}",english,"Plz give options. The music is bad.
+
+I mean, im a fan of games like this. I'm weird like that. but this is uhm...
+
+It could be better? its really kinda janky, it feels like its somebody's first project, which is why i don't wanna be like ""THIS GAME ISN'T GOOD FUCK YOU"" 
+
+I like all the options, and being a witch is cool.
+but it could do with some quality upgrades, Maybe take some lessons from harvest moon or story of seasons.",1466803346,1466803346,False,7,1,0.563696086406707764,0,True,False,False,False,,,
+23751831,"{'steamid': '76561198006363388', 'num_games_owned': 631, 'num_reviews': 85, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1463420727}",english,"While a great game in theory, it takes way too much effort to even get a little bit of progress.
+
+When I'm not scrambing for food, I'm scrambling for rent making upgrades quite difficult. Did not enjoy.",1466765014,1466765014,False,2,1,0.472676128149032593,0,True,False,False,False,,,
+23706275,"{'steamid': '76561198070678411', 'num_games_owned': 0, 'num_reviews': 69, 'playtime_forever': 306, 'playtime_last_two_weeks': 0, 'playtime_at_review': 306, 'last_played': 1466359875}",english,Amazingly awful in every possible way.,1466604068,1466604068,False,2,1,0.450958311557769775,0,False,False,False,False,,,
+23531666,"{'steamid': '76561198007752310', 'num_games_owned': 0, 'num_reviews': 58, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1465793505}",english,"Performance tanks in 'busy' areas (places with LOTS of things).
+Controls are awkward during combat.
+
+Sure it is an RPG Maker title (I assume) but the limitations of that software
+package are very noticable on modern hardware.",1465793595,1465793595,False,8,1,0.498766273260116577,0,True,False,False,False,,,
+23347787,"{'steamid': '76561198156465529', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 143, 'playtime_last_two_weeks': 0, 'playtime_at_review': 143, 'last_played': 1464395319}",english,"Let me start off this review by saying that this game has a lot of potential.
+
+However, it is sorely lacking. It should have been developed more before being released.
+Pros:
+Nice art style, kinda like an old RPG.
+Lots of freedom in what you do - sorta.
+You can explore a lot.
+
+Cons:
+No instructions whatsoever, They tell you how to move around, but not where anything is, or how to do anything other than find the bartender. For God's sakes people, just put some signs up!
+Quests are all the same. You literally find all the same quests in difficulties you can't choose.
+It takes forever to get any money, especially in quests. This is compounded by the fact that you have to pay A LOT of taxes. I'd either remove the tax system, or make getting money much easier.
+The 'romance' is flat, one-sided, and doesn't take any 'story' progression at all. Seriously, this game needs a lot more work before I'd buy it, even for eight dollars. Also, the movement is shoddy.
+
+Overall, needs work. It's a neat idea for a game, but they went a bit overboard in terms of NOT THINKING about what they were doing. I returned the game for steam cash within two hours.
+
+Sorry if this seemed like a bash on the developers. This could be a fantastic little game, but it's not nearly there yet.
+Consider that before you buy the game.
+",1464888717,1464888717,False,39,0,0.751260519027709961,0,True,False,False,False,,,
+23284358,"{'steamid': '76561198230519224', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 399, 'playtime_last_two_weeks': 0, 'playtime_at_review': 319, 'last_played': 1493668158}",english,"This game feels incomplete, I've read that certain people are supposed to spawn at specific times in game but I've gone countless in-game months trying to have them spawn with no avail. I haven't even made it to the gnome home world that everyone in my tavern are talking about which is as I've figured the first place you actually unlock and everything in my tavern is already at its maximum level (from my knowledge)
+
+Edit: This game has also be scrapped by the devs, there was an update schedueled for the 18th of May that has not been dropped and noone has heard from the devs about this game since then, do not waste your money on this game like I did",1464576744,1469843429,False,3,0,0.457831323146820068,0,True,False,False,False,,,
+23280930,"{'steamid': '76561197984415204', 'num_games_owned': 1219, 'num_reviews': 172, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1464030038}",english,"Awful game. Bad perfomance. Horrible menu system. Disastrous combat. Puny crafting. Primitive quests.
+I bet there is some depth in this game. But you have to handle a lot of bad to mediocre base mechanics to get to it.",1464558015,1464558015,False,17,0,0.560777783393859863,0,True,False,False,False,,,
+23194295,"{'steamid': '76561198013547396', 'num_games_owned': 1204, 'num_reviews': 30, 'playtime_forever': 117, 'playtime_last_two_weeks': 0, 'playtime_at_review': 117, 'last_played': 1474042534}",english,"Honestly I need to play this game more.  Like Fortune's Tavern before it, it has a wonderful premise, restore a rundown tavern, go out and collect items to craft more stuff, and fix up your home more.
+
+Unlike Fortune's Tavern, you actually gain more control over your pet, which was my main complaint of the older game, being disabled it was hard for me to survive in the last game, however, dispite that the premise was too good to just let sit.
+
+So far I've had fun with both products, I just need to make a new gamepad profile for this game, to fully get a feel for it, and plan to update my review when I do.",1464142590,1464142590,True,2,2,0.370538294315338135,0,False,True,False,False,,,
+23147240,"{'steamid': '76561198036241399', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 1370, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1173, 'last_played': 1692467593}",english,"This game offers a unique blend of RPG and Business Simulator. You go out and adventure so you can earn silver to fix up the Tavern. You can add new rooms, hire people, add new facilities and many other things. Meanwhile there is enough information to guide you through various quests so you an unlock more areas. Eventually you will be able to even open new taverns. The graphics are not that great everything is in 8-bit (similar to the old NES,SNES, and Genesis) but I don't know as if great graphics would really add that much to the game. In terms of stability I must say this is one of the more stable new games I have come across. I have had no crashes and only a couple of minor glitches none of which hurt game play. Like all RPG games there is definately a level of grinding so you can earn money to fix up your tavern. The quests are a bit redundant taking you through a series of randomly generated screens. Over all I like the game I have spent 15 hours playing it as of the writing of this review. The author says they will continue to add more content but even if they never added more content it is still woth the small $7.99 price tag.",1463957959,1463957959,True,2,1,0.473321855068206787,0,True,False,False,False,,,
+23145294,"{'steamid': '76561197975831685', 'num_games_owned': 9454, 'num_reviews': 104, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1463948981}",english,"You have to give someone a little credit when they try to do things a little differently. I have enjoyed my time with this game, it isn't AAA but you aren't paying for a triple A game. You are getting swomething that passes a little bit of time that is well worth the entry fee.
+Graphics are good but a little laggy.
+Sound is just fine.
+So far so good.
+I look forward to the usual additions and tweaks offeed by the Dev in previous games.",1463949452,1463949452,True,4,2,0.492049604654312134,0,False,True,False,False,,,
+23119550,"{'steamid': '76561198254706351', 'num_games_owned': 122, 'num_reviews': 5, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1463469489}",english,I'm sorry I paid for this. The in-game framerate is disgusting. I can't even walk around smoothly. I've tried manipulating the graphics settings to no avail. There's no interaction with customers or selling of items to them. This is nothing that I thought it would be.,1463847204,1463847204,False,3,0,0.457831323146820068,0,True,False,False,False,,,
+23110002,"{'steamid': '76561198021711287', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1463548701}",english,"Great idea, but once in it was pretty disappointing. :(",1463806266,1463806266,False,5,0,0.468134760856628418,0,True,False,False,False,,,
+23096520,"{'steamid': '76561197962944413', 'num_games_owned': 637, 'num_reviews': 84, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1463745535}",english,"I like the overall concept of the game but the execution here is terrible. The controls are... nonsensical is probably the best word to use. For instance, the escape button works to exit some menus but not others, and their claims of ""mouse 1 to attack"" seem to be incorrect. And also weird, because you wouldn't otherwise have your hand on the mouse at all. Further, gamepad support would be very helpful here, but of course it isn't present. 
+
+And of course, no way to remap keys. Or at least not that I can find: the menus are another example of execution issues here. You can hit a button to bring up audio and graphics options, which launches a Windows options box with check marks and all, but doing so doesn't release the mouse cursor to you to actually have an affect on it, and therefore I haven't been able to click through the menus. 
+
+I'd love to be able to say ""but the story/art/music is so charming that once you get used to the controls it's great"", but those aren't stellar either. The music is ok but not stellar, the art kind of irks me for reasons I can't quite put into words, and while the story (so far) is ok, the dialogue for it is weak. You don't feel transported to a magical land, you feel like you're still struggling to figure it all out. 
+
+If this was an early access game, or it had had a lengthier QA / testing cycle (as in, getting someone who was willing to provide direct and honest criticism to play it), then it might be in a better state and poised to sharpen itself up with some patching. It doesn't at all feel like that's the case here. 
+
+",1463746248,1463746248,False,16,0,0.61504286527633667,0,True,False,False,False,,,
+23093101,"{'steamid': '76561197969453870', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1463723625}",english,"I really like the premise for this game, but the execution is not there.
+
+The Tavern starts off rather complete already, customization is kind of limited, and the basic controls feel extremely rough.
+If you have a gun, clicking fires the gun during ANYTHING you are doing, including talking. So I just randomly hear gunshots. The basic movement feels... disconnected and clunky.
+
+It becomes clear pretty quickly that adventuring is what you are going to do, not quite so much of running the tavern itself, so the premise devolved into a generic 2d action rpg a little quickly.
+
+I hope this will be developed further, but right now it just doesn't feel like enough to spend the time grinding.",1463723875,1463723875,False,2,0,0,0,False,False,False,False,,,
+23092680,"{'steamid': '76561198052386399', 'num_games_owned': 0, 'num_reviews': 50, 'playtime_forever': 974, 'playtime_last_two_weeks': 0, 'playtime_at_review': 974, 'last_played': 1463791928}",english,"Moonstone Tavern is a combination of a city builder (or tavern in this case) and an ARPG, similar to Pokemon Mystery Dungeon type games, but in real time and focused on the development of the tavern, which then adds stat bonuses to your character and extra party members.  It has both a main quest line and repeatable quests of various difficulty that strengthen the main character in different ways.
+
+
+Pros - 
+
+Lots of depth to developing the tavern
+
+Enemies are fairly difficult to start
+
+Marriage, familiar system, and hired heroes for a fairly large party (main character + 7 others that I know of)
+
+Crafting system to make most gear, as well as food for the tavern and other things
+
+Cons - 
+
+Heavy lag inside the tavern, less in combat but still enough to slow the game down and make fighting more jerky than it should be
+
+While there are many different enemy sprites, there are apparently only two kinds of enemies (melee and ranged) with no real distinction between any of them; higher level enemies sometimes move and attack faster, making them very dangerous, but there's no inherent difference between a dragon and a blob of goo.
+
+Bad follower AI, party members often get left behind or trapped inside enemies and unable to fight
+
+Clunky UI, mouse works in some areas and not in others
+
+A lot of terrain that looks like obstacles but isn't
+
+
+This type of game is rare for RPGmaker.  It has a lot of bugs but a lot of potential.  The game is unique and the devs are active in responding to and fixing the issues, which is why I gave it an overall positive review.
+
+Edit - this review was written in Mid-May 2016.  There's a good chance patches and updates may have resolved some of the issues listed here since the time of writing.",1463720896,1464308856,True,0,1,0.497427105903625488,0,True,False,False,False,,,
+23088633,"{'steamid': '76561198007065259', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1463695807}",english,"Had a crash the first time starting the game, after that, it only starts in 640x480 pixels. (Native 1920 x 1080). No answers from the devs in the topic. A real shame. Will change this review when the problem is solved.",1463695818,1463695818,False,5,0,0.533577144145965576,0,True,False,False,False,,,
+23083414,"{'steamid': '76561198306754232', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 1064, 'playtime_last_two_weeks': 0, 'playtime_at_review': 421, 'last_played': 1463952771}",english,"Imagine if an RPG met The Sims and they wanted to settle down and run a tavern, but didn't want to hang up their adventurer boots just yet. Enter Moonstone Tavern. The gameplay is basic: use your keyboard or mouse clicks to move your avatar around as they quest through friendly villages and deadly forests. You are given quests which help you gather materials to create better equipment and stats, but also ingredients to make meals for your tavern guests, or find a priest to help exorcise your haunted rooms. Fun extra are unlocked as you play, such as the arena where you can place bets, but also challenges like the dreaded tax collector!
+Overall I am having a lot of fun with this game. The enemies are challenging but not impossible, there are a ton of quests and assignments so you're never unsure of what to do, and you have a ""pet"" (I say pet since my current one is a giant blob of goo!) companion that battles with you, and you can gather more with different abilities. There is a clock that gauges day from night so you may collect bills from your guests- I have never played a game before where the lighting in the game fades from light to dark as you play, to signify the sun setting/rising. This little added touch just adds another memorable experience. 
+The characters are cute, it's fun, and a good combination of RPG and Sims, I like Moonstone Tavern, and I'm excited to continue playing to unlock more!",1463675192,1463675192,True,3,1,0.429706960916519165,0,False,True,False,False,,,
+23081738,"{'steamid': '76561198068075986', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 471, 'playtime_last_two_weeks': 0, 'playtime_at_review': 471, 'last_played': 1463667760}",english,"I really wanted to like this game. It has a fun concept and that's about it. Definitely not worth the price tag. If you want repetitive quests and don't mind clunky design, then go ahead and try it. I'm asking for a refund.",1463668331,1463668331,False,5,0,0.533577144145965576,0,True,False,False,False,,,
+23056723,"{'steamid': '76561198012221863', 'num_games_owned': 0, 'num_reviews': 254, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1463303057}",english,"Basically, if you played Fortune's Tavern, this is a game in the same vein. Sadly enough it is bogged down with issues, many of which were present in FT as well. Can't recommend it as is.",1463586834,1463586834,False,5,0,0.548626542091369629,0,True,False,False,False,,,
+23049392,"{'steamid': '76561198087742995', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 330, 'playtime_last_two_weeks': 0, 'playtime_at_review': 330, 'last_played': 1463456218}",english,"Interesting game overall, and I am really interesting in the future for this game. Nice work
+
+Here is a list of the pros and cons:
+
+Pros
+-Type of a homestead rebuilding game where you can watch your tavern grow and prosper
+-Decent and challenging combat
+-A good companion system
+-Cool pets
+-Interesting Dungeon Feature
+-Good Game Idea
+-Hours of content
+-Old style RPG game in real time
+-Interesting Events
+-Fun for any age
+Cons
+-Lack of character backstory/customization
+-Some grammar mistakes in the dialogue
+-Sometimes hard to manage inventory
+",1463546070,1463546070,True,0,1,0.497427105903625488,0,False,True,False,False,,,
+23049272,"{'steamid': '76561198032575716', 'num_games_owned': 116, 'num_reviews': 3, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1463624754}",english,"Oh mah gawwwd, the framerate is so bad! It's a frickin rpg maker game!",1463545316,1463545316,False,2,0,0.467544645071029663,0,True,False,False,False,,,
+23049119,"{'steamid': '76561198027069394', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 56, 'playtime_last_two_weeks': 0, 'playtime_at_review': 56, 'last_played': 1463542877}",english,"Not in it's current state.
+
+This game wants to be so much more than it is.
+
+The Good:
+Honestly nothing yet.
+
+The Mediocre:
+Most of this game so far...
+Balancing,
+Dialogues,
+Events,
+Crafting,
+Tavern Management,
+World Depth and Inspiration,
+Creativity.
+
+The Bad:
+The combat,
+the combat,
+the combat. (this is 99% of the game)
+This makes some bad third party NES titles look like they have good combat programing. This is like Cheetahmen bad. If you do play, do not pick the fighter class, you will just die. Do not pick the guns, you will run out of ammo and will not have enough ore to make more, then die. See latter but with mage. Pick the Ranger class with both guns and wands and you may have a chance to not die, but no gaurentees.
+The platform/programming. 
+
+This is a rush title with an amazing premise. It is sad that the developers chose to rush out the product instead of taking the time to produce a quality piece of software that would be solidly enjoyable. I played for a little under an hour and was completely underwhelmed. I wanted the negetive reviews to be trolls, but they aren't. This game is plagued with legitimate problems and should be labeled an early access title in its current state of completion. It is in a very rough beta at best.
+
+All the love to the developers, as I hope they can polish a diamond out of what is a particularly soft piece of coal at the moment. I am going to get a refund for now though.",1463544350,1463544350,False,24,0,0.676671206951141357,2,True,False,False,False,,,
+23046635,"{'steamid': '76561198053711053', 'num_games_owned': 771, 'num_reviews': 47, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1478328947}",english,"To be honest, I would love to give this game a good review, it’s a great idea, and the developers have put in a lot of work. But the reason I cannot recommended this game is that currently it has some major issues with frame rate, and optimization, currently (5/17/2016), it is a good game idea, and if you want to support more, hopefully better games from the dev, then buy the game, and maybe try it out, but as is, I wouldn't call it really playable from my experience.
+
+For reference, I have 8 GB of ram, and an Intel i5 -3570k CPU
+
+Update: The lag has been fixed, this is a great game from what I could tell when I first got it, go try it out! (11/4/16) There's a lot of content in terms of classes, familiers, and followers as well as a lot to repair as part of the tavern. I could see this game being a lot of fun and like a cross between rpg and tycoon style games.",1463529662,1478329129,True,0,0,0.472676128149032593,1,False,True,False,False,,,
+23045310,"{'steamid': '76561198134808942', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1463521644}",german,"Leider so unfertig und lieblos, dass ich es zurückgeben musste. Schlechte Menüs, extrem miese Steuerung, alles wirkt sehr billig, von der Musik bis zu den Charakter-Sprites... für gewöhnlich liebe ich diesen Stil, aber momentan ist das nichts als unrunde Geldhascherei. Vermutlich ist Moonstone-Tavern ein Versuch auf den Zug mit Titeln wie dem großartigen Stardew Valley aufzuspringen - leider kläglich gescheitert.
+Ich hoffe, der Entwickler reagiert auf die vielen Beschwerden, denn die Spielidee klingt nach richtig viel Spaß und selbst der Trailer sieht nach viel Spaß aus.",1463522473,1463522577,False,7,0,0.641034960746765137,0,True,False,False,False,,,
+23041507,"{'steamid': '76561198032119470', 'num_games_owned': 485, 'num_reviews': 5, 'playtime_forever': 610, 'playtime_last_two_weeks': 0, 'playtime_at_review': 424, 'last_played': 1465129929}",english,"So, some people have been hating on this game.  Yes it's unpolished, but the devs are trying to take care of that.  Others are hating on how difficult/simpistic it is.  Either hire a human basic cook at the beginning and sit on your hands wasting time away or lose in frustration to the Royal Tax Collector (who seems to be the biggest actual enemy in the game).  But there's a pattern to everything.  As of this review, all you have to do is remember six dates:  the 5th, 15th, and 25th then the 6th 16th and the 26th.  The first three are when the arena happens and at 1900 the organizer needs rooms for his guys.  At the start an easy 300 gold.  The second set of dates is when the true archvillain of the game shows up, the tax collector.  Seriously?  What tax collector shows up that many times in a single month?  He's pocketin most of your harrd earned cash, no doubt.  But, if you stockpile meals with the cook, open rooms slowly, you can easily deal with these obviously over TRITE obstacles.  Just kill/gather enough to make up the differece and soon you'll be able to wander/kill/gather/kill to your herat's delight.  And as a bonus, please take this into consideration:  At 0600 (the start of the new day with the management screen popping up)  everything resets.  So, if you're in, let's say, a DRAGON HORDE MISSION, and you've cleared everything out  and it's close to 0600, just wait there until afterwards and watch every chest close and refill with goodies.  And don't forget about the Shadow Famliar.  It can be a major boon if you take the time.  The game is not perfect, but it is a very good time management sim that deserves some credit.",1463507917,1463507917,True,14,2,0.648651301860809326,0,True,False,False,False,,,
+23031909,"{'steamid': '76561198261889289', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 1594, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1164, 'last_played': 1624646561}",english,"Definitely worth the seven dollars and change that I spent on it! Lots of things to do and quirks to enjoy and puzzles to solve! There have been some odd bugs here and there, and some parts seem unfinished, but updates have been coming out regularly to fix them so it's all good. Most of the comments saying how disconnected it gets once you're established with the bartender, cooks, etc... but really that's just if all you want to do is scratch the surface of the game. It reminds me a bit of hybrid Recettear and Rune Factory-both of which I love",1463456721,1463456721,True,1,1,0.495835185050964355,0,True,False,False,False,,,
+23031740,"{'steamid': '76561198042873266', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1463963449}",english,"Nope.
+
+Edit:
+
+Just for clarification, I have no idea what I was thinking I was buying, but this game really lacked any hook for me to want to care about what is going on. Here pick an Avatar... Pick a class (kinda?)... no details, just a vague here you go make choices. I would have appreciated my choices having some meaning and maybe creating a back story other then walking out of a ?Portal? and talking to a cat? Oh my aunt left me a Tavern? The charms of investment into the why is just as important as the what. I have only played a tiny part, I doubt I'll play more. If I ever desire to spend/waste time going any further in the game I made have more to say, but I'd simply recommend to the people who want a game with a reason to look elsewhere. I'm suprised this game has a mostly positive rating. If I hear about big story update 2.0 I may be interested in this one as the concept seemed kind of fun.",1463455670,1463535978,False,3,0,0.212583944201469421,0,True,False,False,False,,,
+23026119,"{'steamid': '76561198276798449', 'num_games_owned': 1838, 'num_reviews': 80, 'playtime_forever': 213, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1463318188}",russian,"Только знакомлюсь с данным жанром, поэтому по сути не с чем сравниать, но игра понравилась. Неплохой сюжет, суть которого восстановить унаследованную таверну, выполняя различные задания в открытом большом мире с магией) Музыка годная, картинка приемлемая.
+Однако из-за огромного количества текста без русского языка довольно трудно приходится(",1463427492,1463427560,True,0,0,0.45508536696434021,0,False,False,False,False,,,
+23025963,"{'steamid': '76561198298632388', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 5193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 524, 'last_played': 1464560312}",russian,"Это не игра, а безумие. Спасибо создателям за такую интересную инди игру. Я фанат рпг макер игр и по совету знакомого начал играть в Таверну. Хочу сказать, что от нее у меня только одни мысли. Надеюсь эта эйфория скоро пройдет (не хочу), т.к. думать о других играх не получается. Ребята, просто возьмите и запустите игру. Она такая классная, что у меня нет подходящих слов чтоб описать ее.
+Купили - установили - наслаждайтесь.
+
+Enjoy!",1463426866,1463426866,True,3,0,0.435640394687652588,0,False,False,False,False,,,
+23025923,"{'steamid': '76561198298641379', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 4909, 'playtime_last_two_weeks': 0, 'playtime_at_review': 555, 'last_played': 1464560312}",english,"I am a fan of RPG games and could not pass up - Moonstone Tavern, thank you for this opportunity to a friend, I now dwell in this game.
+
+A large number of characters, a huge number of objects, beautiful, interesting and exciting bonus + everything has trading card! I just CURRENT.
+If you love the game in the style of Diablo (RPG), then you'll love Taverna!",1463426695,1463426695,True,1,1,0.47287711501121521,0,False,False,False,False,,,
+23025793,"{'steamid': '76561198298109904', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 4367, 'playtime_last_two_weeks': 0, 'playtime_at_review': 488, 'last_played': 1464560312}",russian,"
+God, this is not a game but a masterpiece ! This killer Diablo !
+5 of 5 crabs",1463426181,1463426181,True,2,0,0.436024725437164307,0,False,False,False,False,,,
+23025597,"{'steamid': '76561198043461755', 'num_games_owned': 2144, 'num_reviews': 21, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1463425409}",english,"From the title, you can probably guess what you might be engaged with doing in a game such as this, and that's running a tavern in a fantasy setting; one that seems to be rather enjoyable, even with my little time in the game.
+
+The game opens up with having you teleport to this epic, fantasy land, where you're there to claim your inheritance from an aunt; an aunt who just seemed to of owned a tavern and has left it in their will for you. After a few minutes in, you'll discover that the tavern is understaffed and dilapidated, and requires your hard work to return it to its former glory.
+
+Part of the game involves you searching around the rather giant map, looking for ingredients to help feed your guests, as well as repair the tavern itself. Unfortunately, in ""RPG-land"", there's no such thing as safe, hence why there are monsters for you to battle all over the place. Thankfully, you won't be doing it alone, as the game has a pet system employed to help you protect yourself. This system isn't the type of thing that simply got shoehorned in, as in actual fact there are 50 familiars (pets) for you to take along with you and help train up.
+
+Aesthetically, the game may disappoint some people with the fact that it is an RPG-maker game, but thankfully the developer themselves have opted to implement their own art assets for the game. Ultimately, this has only increased the enjoyment of the game, especially when you spend some time searching around the dilapidated areas in the game.
+
+Overall, Moonstone Tavern does a number of things different from your conventional video game, and breathes a little extra life and hope to the RPG-maker engine, an engine that tends to be linked with laziness, but with this title it makes sure to stay well away from such a feeling!",1463425433,1463425433,True,4,0,0.475009918212890625,0,False,False,False,False,,,
+23021487,"{'steamid': '76561198248104974', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 311, 'playtime_last_two_weeks': 0, 'playtime_at_review': 311, 'last_played': 1463406581}",russian,На мой взгляд не плохая инди игруля. Большое разнообразие предметов. + карточки. Вполне оправдывает свою цену.,1463410829,1463410829,True,2,0,0.414460211992263794,0,False,False,False,False,,,
+23018426,"{'steamid': '76561198053788131', 'num_games_owned': 0, 'num_reviews': 352, 'playtime_forever': 147, 'playtime_last_two_weeks': 0, 'playtime_at_review': 131, 'last_played': 1463398823}",english,"NOTE: This game was given to me by the developer for review purposes. This did not influence my review in any way.
+
+[h1]==========================================================
+---------------------------------------OVERVIEW-------------------------------------
+==========================================================[/h1]
+Moonstone Tavern is the latest game from Michael Flynn, the developer of other great and original RPG Maker games: Apocalypse Hotel, Star-BOX, and Fortune's Tavern: the Fantasy Tavern Simulator.
+
+I have all of Flynn's other games, lacking only a couple of DLC, and I immediately added this one to my wishlist when I saw it on Steam. So bear in mind that I'm a bit of a fan; Flynn's games have been the most enjoyable RPGMaker games that I've played.
+
+Moonstone Tavern plays a lot like Apocalypse Hotel, but in a fantasy rather than a zombie-infested, post-apocalyptic setting. You play a very green adventurer who inherits Moonstone Tavern from you aunt, whom you've never met. Arriving at the tavern through a portal, you are greeted by your aunt's talking cat, who guides you around the tavern and grounds and introduces you to the basics of the game.
+
+If you've played Apocalypse Hotel then you'll be familiar with the gameplay of Moonstone Tavern as well: alternately manage and improve your tavern, and go out on adventures in search of loot and resources to use on the next round of tavern improvements.
+
+[h1]==========================================================
+----------------------------------------QUALITY-------------------------------------
+==========================================================[/h1]
+Graphics - Moonstone Tavern is a RPGMaker game, so the graphics are as you'd expect for this engine: generally quite nice low-res graphics, in this case with a fantasy theme. The tavern itself and all of the maps I've seen so far are well designed and nicely laid out.
+
+There have been a number of reports of poor graphics performance, and my laptop has these issues when playing Apocalypse Hotel as well, which I put down to issues with the RPGMaker engine on this hardware. However, I've not run into the same problems with Moonstone Tavern, which is a welcome surprise. The developer has been working with the community to try to identify and resolve these issues, in any case.
+
+Sound - Sound isn't the best. The cancel sound (when pressing escape to close a menu) in particular is grating and too loud, but most of the other sound effects are okay. The music is quite nice, but seems a bit too electronic for the setting; I'd expect some nice classical flutes, rather than the electro vibe I get at the moment.
+
+Gameplay - When you start a new game you get to choose the sprite you'll control for the game, as well as the generic 'class' of your character, based on his or her ability with magic, swords, and guns.
+
+Gameplay is extremely similar to Apocalypse Hotel, but in a fantasy setting. In your 'safe zone' -- the tavern -- you wander around keeping track of stats, talking to guests, and tending to the running of the hotel. You then venture out of the safe zone into the surrounding areas, killing creatures that respawn each time you enter the map and collecting the loot you find, which is hopefully what you want to further your tavern enhancements.
+
+It's a formula that works well and keeps you playing for longer than you mean to, with that ""just a little more"" feeling dragging you on to the next map, to complete the next quest, or to get enough silver to upgrade the next room. Unfortunately it doesn't include Steam Achievements, which would make this striving feel a bit more worthwhile.
+
+Personally, I've been running into the same problem I had with Apocalypse Hotel, although not to quite the same degree: I keep running out of ammo and other necessary resources. I'm not sure if it's intended to be this way, or if I haven't quite got the hang of it yet, but each time I've played I've fairly quickly exhausted my ammo supplies, relegating me to melee combat whenever I venture out in search of food or other supplies. And I also keep finding myself changing map without intending to.
+
+[h1]==========================================================
+-------------------------------------PROS & CONS------------------------------------
+==========================================================[/h1]
+Pros:
++ A good sense of humour
++ Tried and true formula, polished from Apocalypse Hotel
++ Lots to do! Moonstone Tavern will keep you busy for a long time
++ Responsible and responsive developer, with a proven history on Steam
++ Trading cards
+
+Cons:
+- It could use a copy editor: ""Choose the character which you'd like play as.""
+- The cancel sound (pressing escape from a menu screen) is awful
+- Hard to get started; not enough ammo, and basic resources are expensive, although the gift of silver near the start helps significantly
+- It's sometimes hard to tell when a dead-end pathway on a map is just a dead end, or whether it will lead to another map
+- No achievements
+
+[h1]==========================================================
+--------------------------------------CONCLUSION-----------------------------------
+==========================================================[/h1]
+I really like Moonstone Tavern. It's a nice fantasy rework of Apocalypse Hotel and although it's not quite as original anymore, it's still a very good game.
+
+The lack of Steam achievements brings it down a little, as do the numerous errors in the writing, but the cat-led tutorial works well and there's plenty to do once you get the hang of how the game works.
+
+[h1]7/10[/h1]
+
+[code]For more recommendations by LL's Game Giveaways and Reviews on quality indie games or ones with high potential follow our group curations [url=http://store.steampowered.com/curator/10405952/]here[/url]![/code]
+",1463398573,1463398573,True,9,4,0.49076494574546814,0,False,False,False,False,,,
+23018318,"{'steamid': '76561198137849187', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1463396833}",english,"There’s some special charm all indie games have, and this one is no different! It’s made as a classical RPG, but with some cute new features and more advanced gameplay. Fans of the RPG genre will find all the familiar features here like loads of quests, loot, the search for different items and a variety of management tasks you’ll have to complete to move through the game. Most of the problem-solving will concern you precious Tavern, which to be fair is pretty beaten up, so you’ll have a lot of things to fix, build and many people to hire. One of the cool features is the ability to change the class of your character after you’ve created him and played for some time. You can change your gaming style and complete more quests this way.
+You’ll get to meet and interact with cool characters like elves, funny gnomes, brutal orcs and many others. You can also find, collect and even breed your own pets that sometimes, but not always, come with some useful abilities. In any case, it’s always interesting to see what hatches out of those eggs you find. There’s also an Arena – an interesting way to earn money without doing anything. You don’t need to fight, just place bets and see who wins!
+I’m having fun playing the game, it’s witty and has nice graphics. Recommend!",1463398175,1463398175,True,3,0,0.500081717967987061,0,False,False,False,False,,,
+23016725,"{'steamid': '76561198022594559', 'num_games_owned': 0, 'num_reviews': 100, 'playtime_forever': 1109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 735, 'last_played': 1463941034}",russian,"Играл ещё в прошлую часть был фан, тут ещё и доработали",1463390388,1463390388,True,0,0,0.496941894292831421,0,True,False,False,False,,,
+23012386,"{'steamid': '76561198059766000', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 1515, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1295, 'last_played': 1569781632}",english,"So this game is built on an awesome concept, and a very enjoyable storyline, (with two plot twists so far that I did NOT see coming!) There are dozens, and I do mean DOZENS, of varied characters to meet and interact with, interesting events, and a variety of quests, (from easy to impossible!) Altogether I've found it an enjoyable game so far.
+
+As it's still bran spankin' new though there are some issues and bugs to fix; the frame rate is pretty terrible, and there aren't any ways to customize the options. I've also found that their in-game option menu (F1) only leads me back to the windows help menu on my desktop, so trying to fix the lag was a no-go for me. These are small issues though and when I commented on it they got back to me IMMEDIATELY, so I'm not worried about it in the long run.",1463362462,1463362462,True,5,0,0.554243505001068115,0,False,False,False,False,,,
+23009278,"{'steamid': '76561197982683595', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1463263639}",english,"I love the idea behind this game. However, the outdated engine that the game uses spoils the experience. As good as the content may or may not be, I can not recommend this game to anyone until the techinical issues are resolved.",1463348256,1463348256,False,5,0,0.432286530733108521,0,True,False,False,False,,,
+23006608,"{'steamid': '76561197989744147', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1463339736}",english,"Moonstone Tavern kind of caught me off guard a bit as I did not know what to expect when entering this game.  I was expecting more of a Sim feel than an RPG retrospect.  This game has a Final Fantasy feel to it right off the start although, it is very different from any Final Fantasy game.  I really like the day and night effect feel giving you a small amount of light to see your surroundings.  This gives you a feeling of terror when trying to move around the map, and you are unaware of your surroundings.  The death part is also something I found to be interesting, even though your character loses 10hp when you die, your heath points will go back up.  I like the fact the when you die, you do not need to reload your game, you just reappear in the tavern to continue where you left off from.  Moonstone Tavern can go a long way with new updates improving the overall game and game mechanics.  I do not see anything wrong with the way the game is at the moment, and I would recommend for anyone to check out Moonstone Tavern if you are an RPG fan.  I just started playing and I’m already addicted to this game.",1463339967,1463339967,True,2,0,0.522160649299621582,0,False,False,False,False,,,
+23003431,"{'steamid': '76561198023510615', 'num_games_owned': 1122, 'num_reviews': 39, 'playtime_forever': 419, 'playtime_last_two_weeks': 0, 'playtime_at_review': 419, 'last_played': 1463282464}",english,"Moonstone Tavern is an Indie based Simulation RPG game.  This game reminds me of games that you have played that you have had to run a resturant, hotel, hospital, etc.  It gives you that simulation and challenging feel.  THe controls and the sounds are great, the graphics bring out the old school style gameplay.  The thing I like about this game is that it is simple, you do not need to have big fancy graphics to have a great game, this has the ""old school"" graphics with excellent gameplay.  Any bugs that occur seem to get patched quickly, Since having this since launch, I have seen an update or two already.  Highly recommend!!",1463330775,1463330775,True,2,0,0.51958012580871582,0,False,False,False,False,,,
+23003083,"{'steamid': '76561198017811269', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1463329214}",german,"Sry Leute...
+
+DIe Idee finde ich sehr gut....
+Aber es lagt. Anders kann man es nicht beschreiben. Und das liegt daran, dass das Spiel viel zu schnell abläuft. Das ganze wirkt sehr unflüssig und ist auch aufgrund der nicht änderebaren Auflösung sehr anstrengend zu spielen.
+
+Der dauerende Musikloop im Hintergrund...sry aber für das Genre ungeeignet.
+
+Kann ich so nicht empfehlen und habe ""refund"" beantragt.",1463329709,1463329709,False,4,0,0.557524800300598145,2,True,False,False,False,,,
+23002203,"{'steamid': '76561198060280885', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 160, 'last_played': 1470875014}",english,OK game I know it's pretty new so I hope a few things get changed the way the game moves feels a little clunky but I really like a lot of what's going on in the game as an idea,1463327017,1463327017,True,2,0,0.486381322145462036,1,True,False,False,False,,,
+23001016,"{'steamid': '76561198169997625', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 102, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1463338009}",english,It's a good game just that the quests have too little detail to them. Enjoying it so far 7/10 also the frame rates are a bit poor,1463323253,1463323253,True,2,0,0.465386092662811279,1,True,False,False,False,,,
+23000201,"{'steamid': '76561198022363999', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1463408772}",english,I thought this might be a good game but you can not adjust the graphics. The screen loads to where you can not see the boarder and can not make out you hp or anything on the sides and bottom. So until you can increase or decrease the screen like run it in full screen windows. i will have to wait. Good luck,1463320849,1463320849,False,7,1,0.522466838359832764,0,True,False,False,False,,,
+22998369,"{'steamid': '76561198053482143', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 186, 'last_played': 1463314938}",russian,"Игрушка очень даже приличная, но отсутствие Русского языка огарчает(, но и при этом в неё можно и нужно повеселиться))))))",1463314876,1463314876,True,2,0,0.506666660308837891,0,False,False,False,False,,,
+22996991,"{'steamid': '76561198008157437', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1464064786}",english,"Let me start by saying I enjoyed this game, And I enjoyed this game more than I thought I would. I think there is a lot this game could improve on, but that's ok. This game is no Stardew Valley, but I'm sure it will certainly keep you interested. The graphics are nice, really pulling you back to those SNES, secret of mana age. The music was pretty good, although I wish there would be more of it. The sound effects need to tuning as well. But this being a indie title, those can be forgiven. For under 8.00 dollars, this game is something I would mind suggesting to a few of my friends who love RPGs.
+I'm likely to continue playing this game for a little longer, and if it is maintained through patches well, maybe a while longer.",1463309577,1463309577,True,6,0,0.512870490550994873,0,False,True,False,False,,,
+22995940,"{'steamid': '76561198053007379', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 405, 'playtime_last_two_weeks': 0, 'playtime_at_review': 405, 'last_played': 1463377188}",russian,"Хорошая приключенческая бродилка :)
+Обожаю ОлдСкул 2D-шные ролевушки с открытым миром
+А если в них присутствует разнообразие квестов, то тут трудно устоять
+Графика не плохая... Чистый ОлдСкул... Бессмертный ОлдСкул...
+Приятный звук и хорошо проработанный открытый мир
+Жаль вот нет русского языка, но зато присутствуют карточки)
+Хорошая игра, рекомендую",1463305635,1463305635,True,2,0,0.457831323146820068,0,False,False,False,False,,,
+22995627,"{'steamid': '76561197968282586', 'num_games_owned': 2141, 'num_reviews': 33, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1464930851}",russian,"Прикольная игра, но я плохо дружу с Англиским, надеюсь будет русский перевод.
+Гравика приятная
+Звук тоже",1463304443,1463304443,True,2,2,0.402902990579605103,0,False,False,False,False,,,
+22995274,"{'steamid': '76561198073923199', 'num_games_owned': 904, 'num_reviews': 62, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1463283342}",russian,"Очень интересная приключенческая бродилка ,в игре очень интересный сюжет и незабываемая графика ,можно запросто провести в ней несколько часов и даже этого не заметить, в общем игра стоит своих денег.",1463302860,1463302860,True,0,1,0.434367537498474121,0,False,False,False,False,,,
+22994619,"{'steamid': '76561198022592631', 'num_games_owned': 9257, 'num_reviews': 311, 'playtime_forever': 264, 'playtime_last_two_weeks': 0, 'playtime_at_review': 264, 'last_played': 1463275707}",english,"[b] Moonstone Tavern - A Fantasy Tavern Sim! ... [/b]
+... does offer a fun gameplay with decent graphics. The controls are simple and working out well. It is possible to interact with the characters in the Game and getting new quests...but sometimes they could have been better written. The Story at a whole is pretty interesting and the game itself does feel finished. If monotonous backgroundmusic and some Problems with the settings and the Quests are ok for you, it is a decent game. But i would recommend waiting for a larger sale to catch it up. 
+
+- Played and Reviewed by my Brother",1463300395,1463300395,True,14,0,0.532416760921478271,0,False,False,False,False,,,
+22993599,"{'steamid': '76561197970059875', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1463297504}",english,"I didn’t know if I woud like this game, when I was launching it, but it pulled into the hole of gaming! Pretty designed levels (reminds me ofc of To the Moon), old-fashioned electronic music, but gameplay absolutely different. You must control your tavern in a magico-medieval age! There is a lot of things you can do and I suppose developer much more content soon. Accept as many guests as you can. 
+10 rumors out of 10
+",1463295899,1463295899,True,5,0,0.44491499662399292,0,False,False,False,False,,,
+22990082,"{'steamid': '76561198008496967', 'num_games_owned': 349, 'num_reviews': 16, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1463525098}",english,I really wanted to like this game.  The premise is great and the foundation is great.  But it is just dreadfuil to play.  It seems like it is unfinished and it is very hard to use.  Maybe after its been out for a while it will improve.,1463278976,1463278976,False,23,0,0.654423415660858154,0,True,False,False,False,,,
+22990057,"{'steamid': '76561198103769709', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 666, 'playtime_last_two_weeks': 0, 'playtime_at_review': 666, 'last_played': 1463608902}",english,"Rough. Very Rough. The tavern runs itself once you get a starting cook. No one needs you. It's incredibly disconnected. Your guests are your quest givers who occasionally vomit on floors. That's it. Adventuring costs you money in health potions. The difficulty grade of quests only changes the amount of maps you have to run through till you reach your goal. Notice ""run through"" as you cannot realistically fight and expect to survive. Each time you die it takes 10 points from your max health, ensuring your next death comes that much quicker. You can forage for ingredients sure. But the items you pick up are worthless for vendors, eliminating that route for early game cash. Leveling only allows you to use the next tier gear and is pretty much a joke. The most cost effective way to earn money is to sit on your hands and do nothing while the clock ticks over into another day. I wanted to like this game. I like simulation games. This feels like a rushed, unbalanced, grab at fans of Stardew Valley. Save your money and wait. Hopefully, with some work, this will be a good game. But right now it's not worth it",1463278869,1463278869,False,182,0,0.889253437519073486,4,True,False,False,False,,,
+22989376,"{'steamid': '76561198121692524', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 128, 'last_played': 1463274506}",english,"As someone who doesn't usually like these kinds of games, I'm enjoying it immensely! The game allows you to change classes after character creation, making changing your playstyle or fixing ""mistakes"" easy and forgiving. Rebuilding and enhancing your Tavern is very addicting and fulfilling as you gain more and more guests, workers and luxuries in your Tavern. You also get your own animal followers called ""Familiars"" who you can hatch, level-up and even find rare ones. There are tons of NPCs to meet, quests to go on, familiars to find, and things to build in your Tavern. The Arena, where you get to place bets and watch combatants duke it out is fun to watch and a nice break from slaying creatures and collecting loot. It can also make you a good bit of silver if you're lucky (bandit ftw). Definitely reccomend!",1463275390,1463275390,True,8,0,0.512343108654022217,0,False,False,False,False,,,
+22988363,"{'steamid': '76561198126693392', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1463270190}",english,"The idea is a very good one, not sure I enjoyed it though. At least it didn't hold my interest long and it had a bit of lag or framerate issues. The combat is strange at least as a druid, you have to face a certain direction and click and thats the way you fire and since you cant angle yourself you have to get in line with enemies before firing. Just a lot of little quirks like that, that should be worked out and it'd be a good game. May write more once I play it a bit longer. As of right now I wouldn't recomend it, but if they work on it some more and fix some issues then definitely.",1463270600,1463270600,False,5,0,0.534920096397399902,0,True,False,False,False,,,
+22987414,"{'steamid': '76561198129846929', 'num_games_owned': 379, 'num_reviews': 1, 'playtime_forever': 263, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1522184101}",english,"It's quite a fun game! If you are a lover of RPG games, then you'll love this. The concept of the game is unique. It does have a little lag, so lower end computer might have a harder time. The controls are easy and the story is very interesting. I believe it has quite the potential and am excited to see how the game progresses.
+
+",1463266952,1463266952,True,6,1,0.454489558935165405,0,False,True,False,False,,,
+22986466,"{'steamid': '76561198042662158', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 122, 'last_played': 1463262745}",english,The awkward UI and controls combined with the low frame rate make this game hard to enjoy.,1463263189,1463263189,False,9,0,0.559893250465393066,0,True,False,False,False,,,
+22983236,"{'steamid': '76561198059281684', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1463434410}",english,"I love the concept of this game but the controls and in game menus are horrible, makes it frustrating to play. However, I have decided not to request a refund with the hopes that the devs will do a rehaul on these mechanics. Has the potential to be a good game, but as of now I would not recommend buying it.",1463252723,1463253548,False,57,0,0.724416017532348633,0,True,False,False,False,,,
+22981388,"{'steamid': '76561198125182672', 'num_games_owned': 1214, 'num_reviews': 54, 'playtime_forever': 292, 'playtime_last_two_weeks': 0, 'playtime_at_review': 256, 'last_played': 1527343654}",english,"Moonstone Tavern is a game you NEED to try if you are found of traditional RPG maker games. For a indie title it is surprising how very well achieved it is as a product overall and I will start to explain:
+
+The game runs perfectly on me after turning the effects off. Honestly it wasn't impossible with them on, just slightly laggy. It is a smooth experience, and most problems I've read about have been addressed by the developers in a very fashionable timeframe. Always good to know that the game is just not released as is, but a work further developed as bugs get pointed out. As someone already pointed out in a review, Performance Issues seem to be the only issues with the game so far, and that was taken care at most cases.
+
+You get a big Tavern to run, a Hatchery for your pets (yes, a whole pet hatchery system) and a big world to explore. Beside the normal tasks that you will get from running the Tavern, there is much more to be done in-game, and the tutorial day will get you started with pretty much all you need to know. Day and night cycle, and each day will sum up how much you did with your tavern, listing both expenses, taxes and of course, profit. 
+
+A lot of the game is set on exploration, so do not expect to be told about everything exactly. Some things you just have to go and give it a try (like Arena fights or promotions where you can get extra currency or special items). A whole lot of the game is based on completing some tasks so others can be unblocked (or used, like most buildings). At all times it will be required that you do your best from a day, and that implies task>exploration>task routine.
+
+Graphically it has a lot of ""eye-candy"", as everything is done in pixel-art style and always looks coherent with the rest of the scenery elements. From a visual appealing color palette to the little nice animations here and there, pretty much everything adds up to the gameplay itself. The tunes are nice and match the magical dimension you are playing in.
+
+The user interface is very simple and works great too, the only think I would ""touch-up"" is really how the dialog system behaves. I would add extra smoothness to it, but it turns out to be a detail as they work perfectly as is (and I mean, you can always clearly read what you are supposed to read). I would point out the resolution issue, but it seems the development team is already at it. And maybe a couple of achievements would also add out to the experience and hook up players even more!
+
+So if you are still wondering, I'd say go for it. It's a game you get to love very quickly and for the work obviously put into it the price tag is really low ;)",1463247385,1463247403,True,17,0,0.595239937305450439,0,False,False,False,False,,,
+22980542,"{'steamid': '76561198210585787', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 240, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1587395023}",english,It's a very good game but im not expecting it to be perfect since it only came out (very) recently. But ive been reading through other reviews and i have to agree: Please try and fix the lag stopping the walking feature from working this game definatly has a lot of potential. Thanks ~Asriel x,1463244796,1463244796,True,5,1,0.483761817216873169,2,True,False,False,False,,,
+22978919,"{'steamid': '76561198060277415', 'num_games_owned': 0, 'num_reviews': 632, 'playtime_forever': 183, 'playtime_last_two_weeks': 0, 'playtime_at_review': 183, 'last_played': 1463247508}",english,"Moonstone Tavern - A Fantasy Tavern Sim! the robot is a game that I recommend because:
+- is a method to banish boredom
+- it has an acceptable price
+- it is indie 
+- it is a good RPG
+- it has trading cards
+
+Enjoy!",1463239924,1463239924,True,9,1,0.238532155752182007,1,False,False,False,False,,,
+22978271,"{'steamid': '76561198054133240', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 276, 'playtime_last_two_weeks': 0, 'playtime_at_review': 265, 'last_played': 1463271443}",english,"TLDR?  Its pretty good, especially for the price, but low end computers might struggle a bit.
+
+
+Hey there, if you're being discouraged by the bad reviews note that almost all of them are due to performance issues. 
+It doesn't seem to be optimized the best since I'm also getting fairly poor framerate, but I'm fairly certain that has more to do with my system than the game itself. He did update for a ""no effects"" option and that has helped slightly.
+
+The game has been very charming and entertaining so far. The visitors to your tavern all have different quirks and stories to tell, and the variety of crafting/pets its nice.
+
+For its price I think this game is well worth it, especially if you have a system that can handle it well. Hopefully it will be optimized a little better here in the soon future for people like myself.
+
+I'm not sure how limited RPG maker is, but I do have a couple suggestions for the developer, other than making the game run smoother.
+
+1: Maybe make it so loot from baddies is auto picked up when walking over/near it.  Sometimes when an enemy dies their loot gets sent flying behind some trees and it can be quite difficult to find.
+
+2: More random events within the tavern.  These travelers and heroes have character and it would be fun to see them interact more, maybe get into bar fights, have a druid accidentally set something on fire, that sort of deal.  I'm not sure if these are already implemented as I'm still pretty early into the game.
+
+3. Customization. Lots of people enjoy personalizing and making something their own.  If possible maybe implement some sort of decorating system. (different flooring, wallpapers, rugs, tables, mats, etc. That can be placed where they want, so you can make it different.)  It will make you feel more so like you've actually built it up from the ground. 
+
+
+Just a few suggestions, but otherwise its a real solid game so far, just needs some polish.  Keep up the hard work and keep updating the game and it could go far.",1463238012,1463238012,True,12,0,0.526126325130462646,4,True,False,False,False,,,
+22973776,"{'steamid': '76561198228638448', 'num_games_owned': 862, 'num_reviews': 67, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 218, 'last_played': 1463251544}",english,"Moonstone Tavern - A Fantasy Tavern Sim! - A game of FlynnFour Gamez. The game tells the story of a man who inherited from aunt tavern.
+Unfortunately the tavern has seen better days. With only two functioning rooms, crumbling architecture, and an ever-diminishing reputation there is plenty of room for improvement. Can you turn this dilapidated ruin into a thriving business? 
+
+Pros:
++ Fun gameplay
++ Easy controls
++ Nice graphics! 
++ Great characters that you can talk to and get quests from.
++ Interesting story
++ The possibility of breeding animals
+
+Cons:
+- There are some minor problems with the settings of the game, but working on it)
+- Monotonous background music
+
+Generally we have an interesting game with a good storyline. Definitely I recommend 9/10",1463223018,1463223018,True,12,0,0.427047967910766602,0,False,False,False,False,,,
+22966859,"{'steamid': '76561198000569427', 'num_games_owned': 601, 'num_reviews': 42, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1463190784}",english,bad controls,1463190835,1463190835,False,5,0,0.244463652372360229,3,True,False,False,False,,,
+22965948,"{'steamid': '76561198046090017', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 412, 'playtime_last_two_weeks': 0, 'playtime_at_review': 412, 'last_played': 1463433959}",english,Fun game. Loven the concept behind it.,1463186701,1463186701,True,6,0,0.331380486488342285,1,True,False,False,False,,,
+22963454,"{'steamid': '76561198084773236', 'num_games_owned': 103, 'num_reviews': 21, 'playtime_forever': 273, 'playtime_last_two_weeks': 0, 'playtime_at_review': 138, 'last_played': 1463408307}",english,"i am truly enjoying this game some far and i think this game can really go far :D great work on this game and i want to thank you guys for allowing me to make my videos on this and to be able to play this game before its release so thank you guys so much.
+
+but i do have a surggestion it would be a really good idea to put a opinions menu in so that we can turn the game music down as the music is like really really loud also the opinions to turn the sound effects down that would be a awesome idea to have as well",1463176101,1463176101,True,8,0,0.391972780227661133,1,False,True,False,False,,,
+22962951,"{'steamid': '76561198126696476', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 366, 'playtime_last_two_weeks': 0, 'playtime_at_review': 104, 'last_played': 1463495352}",english,"I'm a huge simulation geek! So of course I had to pick this up. 
+I played only a little bit for now but, I'm very pleased! I'm playing the most amazing but unlikely hero ever. He wields a sword and runs around with his octopus friend Freddie. 
+
+There's a snake in my kitchen! (Don't worry, she's a great cook!) and I've been running some pretty amazing beer-quests. 
+
+Pros:
+- Fun gameplay
+- New form of sim
+- Easy controls
+- Nice graphics! 
+- Super on-the-ball crew that will respond quick on the discussion forum.
+
+Cons: 
+- I died ;-;
+- No controller support (YET! They are working on this)
+- No way to change the resolution (YET! They're working on this as well!)
+- I need more character customisation for I am a character customisation freak.
+
+TLDR -- Buy the game, show support and have some fun!",1463174437,1463174437,True,12,0,0.515381217002868652,0,True,False,False,False,,,
+22962325,"{'steamid': '76561197973288882', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1463168563}",english,"I bought this thinking it looked like it was gonna be an awesome game. When I started it up there are no graphics options whatsoever, the game tells you to push f1 but these are not graphics options. I play on a large screen at 1440 so apparently for me i have to play this game with it centred in the screen with massive black bars on either side as my computer is just too good. So a warning to anyone who normally plays games at 1440 you will not be able to play this game full screen.",1463172333,1463172333,False,6,0,0.244002878665924072,4,True,False,False,False,,,
+22961761,"{'steamid': '76561198216571592', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1463170485}",english,I wish game had more options like to turn off day over menu but I am liking it so far.,1463170555,1463170555,True,5,0,0.346032470464706421,1,False,False,False,False,,,
+22961481,"{'steamid': '76561198045400869', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 241, 'playtime_last_two_weeks': 0, 'playtime_at_review': 241, 'last_played': 1463423308}",english,"UPDATE: After about four hours of play, I find this review I originally made after the bartender quest is still valid. Still, even with a few problems and frustrations, I've played the game for four hours, so it isn't all bad!
+
+I've found the game feels very unpolished and clumsy, and if I had known the game was in this state, I would not have purchased it.  However, I love the premise of the game, and I'm going to hold onto this game rather than request a refund, in hopes the developer will polish it up a bit and make it run smoother.
+
+The framerate is terrible, and moving around it feels like the screen is constantly making tiny jumps, instead of smoothly flowing with the motion of your character. The tutorial is barely adequate, with a talking cat helping you find your way along a little.  Combat was confusing to me, and my familiar ""passed out"" as well as myself passing out (-10 max health after awakening in the tavern) and I have no idea how to see how much life my familiar has.
+
+UPDATE on screen jumpiness: Turning off effects helped a bit, but I'm still having troubles, and my computer, although two years old, isn't poor by any means... Still, I watched a couple videos on YouTube of this game, and noticed others are able to run the game fine without the screen jumpiness I experience while moving.
+
+In town, the menus are clumsy, and I learned the hard way I can't simply switch from purchasing to selling items, without first exiting the purchase screen (by hitting esc) then hitting sell to get the sell menu.  I ended up buying something I didn't need by accident trying to switch screens instead.
+
+I think this game might be fun after spending some more time getting used to how poor the UI is, and maybe taking some anti-seizure medication for the screen jumpiness.  here is hoping the game improves with time and patches.",1463169582,1463515933,False,89,4,0.794928491115570068,7,True,False,False,False,,,
+22961304,"{'steamid': '76561198044911050', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1463169685}",english,"The performance is horrible. The framerate is so low that the already very ""challenging"" controls become very unfun to handle. I was baited by a good and interesting concept and received one of the worst performances ever.
+Unfortunately time to make a refund on steam again.",1463168969,1463169501,False,25,1,0.557035088539123535,5,True,False,False,False,,,
+22958638,"{'steamid': '76561198061745409', 'num_games_owned': 299, 'num_reviews': 4, 'playtime_forever': 2182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2182, 'last_played': 1463600423}",english,"Where to start... Well, first off, I got this game for free to play, enjoy and do Let's Plays of. When I first started, I started with out a class, which in all honesty, was funny. Other than that, starting out, things worked great! Tutorial was pretty straight forward, (im just an idiot at times XD ), Things start off easy, getting customers and making food and all that. I like how you have to manage things, like making sure you have money to pay any employees you hire, cleaning up sick guests messes, the diversity of the races you have in your Tavern, etc.
+
+   A familiar, a great ally that can heal you, once you get a fountain repaired, is a wonderous thing. Even better is when you can repair cottages and have heroes to help you out. Makes things much easier to deal with, so you can gather more resources needed for things, like making food or crafting your own gear. And in the recent updates, you can ride a unipony, though I've yet to find one. And there's new merfolk beds just recently added as well. Combat is pretty fun. I've yet to try other classes, though I've been a Sword Saint since the beginning. 
+
+    Each weapon has a interesting effect/animation when you attack regularly, like the Fall Sword has a bunch of stars that come out when you hit an enemy. Underworld sword has fire. Even heroes have weapons like that as well. Your allies don't die either, they just get knocked out. You can revive them with revive potions too. When you lose all your HP (if it doesn't bug and transfer control to a allied unit, though you should either let the hp get to 0 or rush the quest, cause if you strike at all with a companion, the game will crash)  you go to your room in your tavern, so there's no game over.
+
+    You only lose a small amount of health or magic, which isn't a big deal! There's a few side quests, as well as the main ones and the quests you get from your customers. There's varying difficulties as well, ranging from easy, to impossible. I Suggest you don't take impossible, unless you have a couple allies with you, that being a familiar and at least 1 or 2 heroes. It's a fun, casual RPG. A lot of the time, it's hard for me to quit the game, even after finishing an episode of it, because it's addicting to me. Like all RPG's though, there IS some grinding, but you don't have to grind too much, really. Oh! Also, there's someone that everyone 'loves'. It's the Tax Collector as well! Giving him other things, like food or piety helps reduce the tax costs, though, if you're making enough money and don't want to sacrifice anything else, pay in full. 
+
+    It's honestly not that much, compared to what you'll be making. Basing the taxes on number of people and rooms and such, can be a pain, but it's nothing you can't fix :D. The music is fairly interesting too. It seems to change after every few screens I think, I couldn't pinpoint the timing on that ha ha. Things only got better with updates/patches. Over all, it's a fairly enjoyable game! Sure, it had some bugs here and there, but most of them weren't game killing. By that I mean, making your game crash. Definitely worth playing!",1463160010,1463254305,True,8,0,0.374870926141738892,4,False,True,False,False,,,
+22955917,"{'steamid': '76561198074717039', 'num_games_owned': 3537, 'num_reviews': 56, 'playtime_forever': 112, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1465747519}",english,it is a nice unique game.,1463151241,1463151241,True,8,2,0.211577445268630981,1,False,True,False,False,,,
+22955452,"{'steamid': '76561198183878979', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 594, 'playtime_last_two_weeks': 0, 'playtime_at_review': 594, 'last_played': 1462986350}",english,"[b]Disclosure:[/b] I was given this game free in alpha as a direct download and through Steam in
+
+beta, this has not affected my review!
+
+[h1] My Background: [/h1] 
+
+I’ve been playing games by FlynnFour Games since I backed STAR-BOX on Kickstarter. I have al ow/average pc and so I enjoy it when low spec games like these are produced with modern ideas. If you feel it matters, I am a girl.
+
+[h1] The Review: [/h1] 
+
+This game is two things in equal measure: a sandbox tavern sim, and a quest oriented, action RPG.
+
+The first it does well, immersing you in the daily chores of a tavern manager in a fantasy world: mopping up sick, speaking to guests, hiring staff, setting prices, repairing leaks, chasing of rodents, dealing with bandits and hauntings, and generally upgrading the place to make it more accessible to a whole host of humans, gnomes, dwarves, fairies, and so on! As for the quest oriented RPG part it does this fine, not amazingly, but fine. There are plenty of different quests to go on from finding  eggs to hatch to collect new pets, through collecting resources, to slaying dragons. It is let down very slightly by the combat which is basically shoot stuff with guns and wands, or hit them with your sword (depending on your class). Personally I prefer to rely on breeding up a strong accompanying pet, or hiring heroes rather than doing much fighting myself. You still get all the rewards and XP if you let your companions do it, so I just run around foraging the maps as they do all the killing.
+
+One of my favourite parts of the game, as you may have guessed, is the creature breeding. A talking cat has told me that there are around 50 collectable and breed capable creatures. You begin with two working stables although you can upgrade to five (please devs add more I hate sending pets away). You can get new eggs by going on quests and by breeding your creatures using genetimagic (don’t know how to pronounce that). Breeding creatures is simple yet fun, although crafting the magical ingredients can be difficult.
+
+Crafting is a huge part of the game. Alongside cooking there are so many armors and weapons, magic potions, scrolls, and magic gems that it can be, at first, a little overwhelming. Learning where to get all the ingredients from (which there are definitely over 100) is a challenge in itself.
+
+There is of course a story, and although it uses some common fantasy tropes, such as a blight spreading across the land, it does so in a way that is new and interesting. I especially like that the elves seem to be the bad guys, although, as in all games by these devs, the whole world is cast in shades of grey rather than in black and white. The story is also linked directly to your success as a tavern manager which is obviously important. I’ve not finished the main storyline yet but I think I’ve guessed where it is going due to reading some of the books located throughout the world.
+
+[h1] My Last Hour of Play: [/h1] 
+
+In my last hour of play I purchased another tavern (you don’t get to manage it but you do get profit).
+
+I went on a quest for some magical ink to write out a scroll but I still need to find a feather before I can craft it. I got killed by some orcs in a mine. I did my daily forage and was annoyed that I got no feather. I spoke to my guests and met some new ones (all guests have a funny few things to say – definitely worth talking to. I tried to get married but there is a curse on my potential husband and need to go on another quest.
+
+Pros:
+
+- So much to do – although can be a little overwhelming.
+
+- Great characters that you can talk to and get quests from.
+
+- Interesting story.
+
+- Can start as one of ten different characters and six classes.
+
+- Beautiful pixel graphics.
+
+- Breeding pets!!!
+
+Cons:
+
+- Simple battle system – although can be mostly ignored.
+
+- I have to turn off weather effects when its blowing as it makes my computer lag. (2009 laptop)
+
+- Sound effects need to be more varied.
+
+- No journal so you have to remember what to do or go back and ask again if you forget. In a normal RPG this wouldn’t be so bad but it’s easy to forget when you’re running a tavern.
+
+- No window mode!?!
+
+Overall I would give this game: 8/10 – However you must be aware this is an RPG Maker game, and not a AAA title.",1463149673,1463149822,True,60,5,0.617838740348815918,2,False,True,False,False,,,

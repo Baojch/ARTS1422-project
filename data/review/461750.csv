@@ -1,0 +1,639 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+160574638,"{'steamid': '76561199564341871', 'num_games_owned': 0, 'num_reviews': 99, 'playtime_forever': 168, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1709943537}",english,"⠄⠄⠄⢀⠄⠄⢀⠠⢂⣵⣾⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⠂⠄
+⡀⠄⠈⢀⡠⡌⣴⣾⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄⠄⢀⣤⡎⠄⠄
+⠁⠄⢀⣠⣤⣤⣤⣈⠈⠄⠄⠄⠄⠄⠄⠄⠠⢊⢄⣽⡟⠄⠄⠄
+⠆⢰⠋⠄⠄⠄⠙⢿⣿⣦⡄⠄⣣⣤⣶⣯⣤⡔⣿⡟⡀⠄⠄⠄
+⣷⣷⣀⢔⠄⠄⠤⣼⣿⣿⣿⢀⢩⣽⣿⣿⣿⣿⣟⡄⠄⠄⠄⠄
+⣿⣿⣿⣷⣦⣲⣾⣿⣿⣿⡿⢸⣾⣿⣿⣿⣿⣿⣿⣿⣷⣶⣄⣀
+⣿⣿⣿⣿⣿⣿⣾⣿⣻⣿⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⣋⣍⡈⠙
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⡀⣀⣿⡇⣀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣠⣾⣿⡴⠋
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⠏⠄⠄
+
+I am not scared. You're scared
+",1710498370,1710498370,True,1,1,0.525547444820404053,0,False,False,False,True,,,
+154294074,"{'steamid': '76561198086000429', 'num_games_owned': 394, 'num_reviews': 9581, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1703409292}",turkish,Ziyaretçileri ölümüne korkutacak ev eşyalarına sahip olan yaramaz hayalet Ghoul Kid olarak oynayın. Dalga tabanlı bu oyunda Ghoul Kid insanlar tarafından görülemiyor. İnsanları ölümüne korkutmak için evdeki nesneleri manipüle etmek için zekanızı ve yeteneklerinizi kullanın!,1703423504,1703423504,True,2,0,0.545454561710357666,0,False,False,False,True,,,
+150050049,"{'steamid': '76561198280639547', 'num_games_owned': 0, 'num_reviews': 121, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1699859309}",spanish,meh,1699860827,1699860827,True,0,0,0,0,False,False,False,True,,,
+137676024,"{'steamid': '76561198037048322', 'num_games_owned': 113, 'num_reviews': 34, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1683033387}",french,"⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿
+⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿
+⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠜⣿
+⣿⣿⣿⣿⠿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿
+⣿⣿⡏⠁⠀⠀⠀⠀⠀⣀⣠⣤⣤⣶⣶⣶⣶⣶⣦⣤⡄⠀⠀⠀⠀⢀⣴⣿
+⣿⣿⣷⣄⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡧⠇⢀⣤⣶
+⣿⣿⣿⣿⣿⣿⣾⣮⣭⣿⡻⣽⣒⠀⣤⣜⣭⠐⢐⣒⠢⢰
+⣿⣿⣿⣿⣿⣿⣿⣏⣿⣿⣿⣿⣿⣿⡟⣾⣿⠂⢈⢿⣷⣞
+⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣷⣶⣾⡿⠿⣿⠗⠈⢻⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠻⠋⠉⠑⠀⠀⢘⢻
+⣿⣿⣿⣿⣿⣿⣿⡿⠟⢹⣿⣿⡇⢀⣶⣶⠴⠶⠀⠀⢽
+⣿⣿⣿⣿⣿⣿⡿⠀⠀⢸⣿⣿⠀⠀⠣⠀⠀⠀⠀⠀⡟⢿⣿
+⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠹⣿⣧⣀⠀⠀⠀⠀⡀⣴⠁⢘⡙
+⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⠗⠂⠄⠀⣴⡟⠀⠀⡃",1683033480,1693048547,False,0,0,0,0,False,False,False,True,,,
+134244713,"{'steamid': '76561198267943216', 'num_games_owned': 0, 'num_reviews': 84, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1678163116}",brazilian,"é um game curtinho e divertido, vale a pena dar uma jogadinha.",1678202547,1678202547,True,1,0,0.523809552192687988,0,False,False,False,True,,,
+133508746,"{'steamid': '76561197981267353', 'num_games_owned': 0, 'num_reviews': 230, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1677257808}",russian,"Когда я наткнулся на эту игру, то я сразу же вспомнил времена, когда объектом моего обожания была игра Haunt the House, являющаяся на тот момент бесплатной и имеющая лишь 1 локацию (её новая версия куда богаче ""истока""). Думаю, что та игра из ""прошлого"" сильно повлияла на моё впечатление об Ghoul Kid, именно поэтому ничего позитивного написать я уже не смогу... Одна и та же локация, которую можно изучить вдоль и поперёк буквально за 2-3 минуты, скудная реакция людишек, странные попытки удержать призрака и его действия на грани страшного и смешного, не шибко хорошая графика и т.д. и т.п. Короче говоря, 5 минут игры хватит, чтобы окунуться в убивающую морально монотонность. Я бы попытался пройти всю игру и даже задумался бы о получении всех ачивок только в том случае, если в стиме уберут все игры, кроме этой.  Но... так как это маловероятно, то игра просто уходит пылиться в библиотеку.",1677259142,1677337561,False,0,0,0,0,False,False,False,True,,,
+130019855,"{'steamid': '76561198345697726', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1672744851}",english,"This game reminds me of Ghost master. Good idea but it is too short and it is boring. cute but boring. but it is free, so yeah :)",1672745219,1672745219,True,3,0,0.565217375755310059,0,False,False,False,True,,,
+123483949,"{'steamid': '76561198856151813', 'num_games_owned': 114, 'num_reviews': 334, 'playtime_forever': 970, 'playtime_last_two_weeks': 0, 'playtime_at_review': 938, 'last_played': 1665150442}",polish,"Topowe robienie w kuchni jak ojciec kłócący się z matką o dominację
+
+Moja ostateczna opinia to 7.5/10",1665148755,1665148755,True,0,0,0,0,False,True,False,True,,,
+105908247,"{'steamid': '76561198082351346', 'num_games_owned': 831, 'num_reviews': 666, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1463325201}",russian,Imba,1639638811,1639638811,True,0,0,0,0,False,False,False,False,,,
+96154774,"{'steamid': '76561198092280721', 'num_games_owned': 1120, 'num_reviews': 87, 'playtime_forever': 174, 'playtime_last_two_weeks': 0, 'playtime_at_review': 172, 'last_played': 1630599956}",english,"Ghoul Kid is charming and jocular in her own kind of way at beginning, but briskly becomes pique and unvarying which has made the game very diminishing. 
+The rudiments for the game are not bad, despite being in only one miniature house, makes the lack of diversification both in levels and in adversaries. This fashions the game gripping for no more than an hour or two at most manufacturing the state of being playable not excessive.
+The game gets weary because it only embraces a scenario in several different flows. There is not much restructuring and content in the few unspecified number of minutes you've heretofore tried that the map has to offer and you're just ending up performing more of the same labor as the wave goes by and the numeral amount of people in the house inflates. 
+The regards of the game turn out to be utterly swiftly constricted.
+
+For a free of charge game, the entirety feels done quite in an efficient and capable way, but like mentioned before, there is very minor content in the game, and the whole affair apacely gets tedious, and you pretty much go from side to side only for the sake of procurements.
+I was amused with this game and I kinda liked it in a manner of speaking? The graphics were alluring, the music was tuneful, and the gameplay was unwinding and leisure. If considering the orientation of the game, then it kinda caused me to remember older games called Haunting from the Mega Drive/Genesis platform and Ghost Master from PS2/Xbox platform coalesced.
+
+Sentence: 3.7/5 - Which is proficient enough, but not significant.
+- not right up someone's street for the people everywhere.
++ uncomplicated and pleasant graphikos.
++ to one's liking sound.
++ congenial idea.
+
+I will say that it is still worth taking part in at least one time. 
+It presumably will be fun for an noon, lunchtime or maybe even for an evening?
+I offer as one's opinion this game to inhabitants who like to attain accomplishments and get 100% on games.",1626905556,1626905556,True,3,1,0.576470613479614258,0,False,False,False,False,,,
+87254005,"{'steamid': '76561198356659398', 'num_games_owned': 750, 'num_reviews': 331, 'playtime_forever': 159, 'playtime_last_two_weeks': 0, 'playtime_at_review': 159, 'last_played': 1614027858}",portuguese,"Um jogo muito divertido em que nós controlamos um fantasma e o nosso objectivo é assustar pessoas que entram na nossa casa, e para isso podemos possuir objectos e usar powerups para nos ajudar nisso, o jogo tem 3 modos diferentes e também tem umas proezas que não são muito dificeis de fazer.
+Eu recomendo este jogo às pessoas que gostam de fazer achievements e de dar 100% nos jogos.",1614032809,1614032809,True,0,0,0,0,False,False,False,False,,,
+87203567,"{'steamid': '76561198155150242', 'num_games_owned': 0, 'num_reviews': 5443, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1613964912}",english,"⠄⠄⠄⠄⣠⣴⣿⣿⣿⣷⣦⡠⣴⣶⣶⣶⣦⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄it's good
+⠄⠄⠄⣴⣿⣿⣫⣭⣭⣭⣭⣥⢹⣟⣛⣛⣛⣃⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄Play it
+⠄⣠⢸⣿⣿⣿⣿⢯⡓⢻⠿⠿⠷⡜⣯⠭⢽⠿⠯⠽⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⣼⣿⣾⣿⣿⣿⣥⣝⠂⠐⠈⢸⠿⢆⠱⠯⠄⠈⠸⣛⡒⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⣿⣿⣿⣿⣿⣿⣶⣶⣭⡭⢟⣲⣶⡿⠿⠿⠿⠿⠋⠄⠄⣴⠶⠶⠶⠶⠶⢶⡀
+⣿⣿⣿⣿⣿⢟⣛⠿⢿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣷⡄⠄⢰⠇⠄⠄⠄⠄⠄⠈⣧
+⣿⣿⣿⣿⣷⡹⣭⣛⠳⠶⠬⠭⢭⣝⣛⣛⣛⣫⣭⡥⠄⠸⡄⣶⣶⣾⣿⣿⢇⡟
+⠿⣿⣿⣿⣿⣿⣦⣭⣛⣛⡛⠳⠶⠶⠶⣶⣶⣶⠶⠄⠄⠄⠙⠮⣽⣛⣫⡵⠊⠁
+⣍⡲⠮⣍⣙⣛⣛⡻⠿⠿⠿⠿⠿⠿⠿⠖⠂⠄⠄⠄⠄⠄⠄⠄⠄⣸⠄⠄⠄⠄
+⣿⣿⣿⣶⣦⣬⣭⣭⣭⣝⣭⣭⣭⣴⣷⣦⡀⠄⠄⠄⠄⠄⠄⠠⠤⠿⠦⠤⠄⠄",1613964939,1613964939,True,0,0,0.232945248484611511,0,False,False,False,False,,,
+84135110,"{'steamid': '76561198305244950', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 147, 'playtime_last_two_weeks': 0, 'playtime_at_review': 147, 'last_played': 1609924220}",russian,"Огромный плюс данной игры в том, что она распространяется бесплатно. Второй плюс заключается в простоте освоения и не напряжности для нервов.
+А теперь перейдём к минуса. В игре насчитывается всего 6 комнат, в каждой из которых по 3-5 предметов, в которые можно вселяться. Собственно цель нашей игры, довести до инфаркта всех приходящих в дом людей. Анимация ""запугиваний! и само исполнение, к сожалению, не оставляет никакого впечатления. Сама идея не нова, но в данном исполнении выглядит слишком уныло. Через минут 15-20 игровой процесс становится крайне монотонным и тягомотным. 
+Если рассматривать направленность игры, то среди всего хотелось бы выделить более старое творение ещё с платформы SEGA. И речь идёт Haunting Starring Polterguy, где предстоит играть за призрака-панка, и которая стоит на порядок выше многих игр и, соответственно выше данного творения.
+В оправдание скажу, что поиграть всё же стоит. Хотя бы один раз.",1609924692,1609924692,False,1,0,0.523809552192687988,0,False,False,False,False,,,
+83811581,"{'steamid': '76561198136289358', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1602095664}",english,You play as a ghost that haunts object in the house to scare people to death. there are a decent amount of haunt objects to use and 3 types of characters to scare you have to scare all the people in the time limit to go to the next round. It's a fun little free game.,1609591924,1609591924,True,0,0,0,0,False,False,False,False,,,
+82478818,"{'steamid': '76561198015122447', 'num_games_owned': 2596, 'num_reviews': 220, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1608101119}",english,Fun game,1608101163,1608101163,True,0,0,0.487465173006057739,0,False,False,False,False,,,
+79423350,"{'steamid': '76561198439211300', 'num_games_owned': 34, 'num_reviews': 11, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1591195488}",spanish,PORFA DENME EL GOLDEN UNICORN PLS SE LOS AGRADECERIA MUCHO :'D,1605634887,1605634887,True,0,0,0,0,False,True,False,False,,,
+78985696,"{'steamid': '76561198110152608', 'num_games_owned': 889, 'num_reviews': 41, 'playtime_forever': 163, 'playtime_last_two_weeks': 0, 'playtime_at_review': 163, 'last_played': 1604909592}",english,"Ghoul Kid
+
+My estimated review score before playing: 5/10
+My final review score: 1/10
+Buy/Pass?: Pass. It's free, but, it's also a waste of time.
+
+Genres:
+Arcade
+Casual/Relaxing
+Family Friendly
+Free
+Funny
+Graphics - Cartoon
+Graphics - Cute
+Game Length - Short
+Grinding Achievements
+Indie
+Paranormal/Supernatural
+Singleplayer
+Strategy
+
+Pros:
+	+I like the artwork. I just wish there was more variation between the adult & kid models.
+	+The artwork reminded me of watching Ruby Gloom or Hotel Transylvania with my daughter which I enjoyed.
+	+I laughed at each of the various interactions the ghost caused when they possessed the furniture.
+
+Cons:
+	-The controls are difficult to understand at first.
+	-The Powerups don't work.
+	-Oftentimes you'll be fighting the camera & controls more than the ""enemies"" themselves.
+	-The game is based more on luck than skill.
+	-There is a handful of bugs/glitches. Not completely game breaking, but almost.
+
+Warning:
+	!There is an achievement for ""killing"" 100 Babs. Babs are the kid characters.
+	!It's a cartoon, but I imagine this could still trouble some people. 
+	!If it does please do yourself a favor and don't play this.
+
+Achievement difficulty: I retired the game before fully completing it because I didn't like the luck over skill gameplay and stopped having fun.
+Approximate time to 100%: ?
+Collection Achievements: 0
+DLC-Only Achievements: N/A
+Does difficulty affect Achievements: 
+Grinding Achievements: 5
+Guide available for 100%: Yes
+Missable Achievements: 0
+Multiplayer Achievements: N/A
+Number of playthroughs needed: This is an arcade game. Not a story game.
+People on AStats who have 100% at the time of this post: 205
+RNG-Achievements: 0
+Time-gated Achievements: 0
+Unobtainable/glitched Achievements: 0",1604910511,1604923859,False,2,0,0.545454561710357666,0,False,True,False,False,,,
+75562361,"{'steamid': '76561198044721583', 'num_games_owned': 4578, 'num_reviews': 676, 'playtime_forever': 105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1599423219}",english,"While the game is decently cute, it is extremely rough. Many (if not all) of the animations seems to be stock assets, and I wouldn't be surprised if some of the models were too. The upgrade system barely works (and for one of them, seemingly doesn't work at all). The controls are very fiddly, and you have to rely a great deal on luck.
+
+Overall, I say that this isn't really worth your time.",1599423382,1599423382,False,1,0,0.520547926425933838,0,False,False,False,False,,,
+75178444,"{'steamid': '76561198848041259', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 269, 'playtime_last_two_weeks': 0, 'playtime_at_review': 269, 'last_played': 1598808215}",english,me no like,1598808235,1598808235,False,0,0,0.466081798076629639,0,False,False,False,False,,,
+74954269,"{'steamid': '76561198258976400', 'num_games_owned': 26, 'num_reviews': 1, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1598465320}",english,Super cute and fun! I love the hoMage to haunt the house. Also great 3d Modeling. I do agree with soMe of what everyone else was saying about the controls being a bit difficult at first. Great job!,1598465700,1598465700,True,1,0,0.520547926425933838,0,False,False,False,False,,,
+74171038,"{'steamid': '76561198375029180', 'num_games_owned': 1496, 'num_reviews': 919, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1609107741}",brazilian,"Muito divertido esse joguinho gratuito de câmera lateral com profundidade no qual vcê controla um fantasma cm objetivo de tornar a casa mal-assombrada e assustar todos os moradores até qe morram!! Parece profano, mas o jogo ainda assim é super bonitinho (nos gráficos) e fornece uma gama de objetos qe podem ser possuídos para “criar vida” e assustar as pessoas... seja um piano tocando sozinho, uma geladeira abrindo as portas e fzendo barulho ou até mesmo uma pia jorrando água sem parar, o importante é tirar o fôlego da família toda e fazê-los entrar em pânico perseguindo-os e assustando-os por toda a casa. E embora seja super legal e tenha três modos diferentes (qe só mudam na quantidade de pessoas ou de vida) o jogo acaba cansando rápido por só conter um cenário cm várias ondas diferentes. Não há muita inovação e em alguns minutos vcê já experimenta tudo qe o mapa tem a oferecer e só fica fazendo mais do mesmo conforme vai passando de onda e o número de pessoas na casa vai aumentando.",1597209480,1597209480,True,77,6,0.840215384960174561,6,False,False,False,False,,,
+62003525,"{'steamid': '76561198330178968', 'num_games_owned': 244, 'num_reviews': 86, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1489006265}",turkish,"-Korkma süt oğlan 
+-Korkmuyorum,ama geliyor.
+-Geliyor,gelebilir süt oğlan,seni çok seviyorum süt oğlan.
+-Baba mı?
+-Asıl babanı severdim.
+-Bu oyunu?
+Puan:13/100",1579307292,1579307292,False,0,0,0.483870983123779297,0,False,False,False,False,,,
+61820914,"{'steamid': '76561198055119582', 'num_games_owned': 323, 'num_reviews': 2060, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1578908751}",english,"---{Graphics}---
+☑ Gnome.
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☐ Good
+☐ It‘s just gameplay
+☑ Gnome.
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☑ Gnome.
+
+---{Audience}---
+☑ Gnome.
+☐ Teens
+☐ Adults
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ Gnome.
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☑ Gnome.
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☑ Gnome.
+☐ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+---{Story}---
+☐ Story?
+☐ Text or Audio floating around
+☐ Average
+☐ Good
+☐ Lovely
+☑ Gnome.
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☑ Gnome.
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☐ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☑ Gnome.
+
+---{Bugs}---
+☑ Gnome.
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+",1578965230,1578965230,True,1,0,0.475846081972122192,0,False,False,False,False,,,
+56789501,"{'steamid': '76561198239086830', 'num_games_owned': 46, 'num_reviews': 40, 'playtime_forever': 85, 'playtime_last_two_weeks': 0, 'playtime_at_review': 85, 'last_played': 1465220582}",russian,Так себе,1573250249,1573250249,True,0,1,0,0,False,False,False,False,,,
+56546817,"{'steamid': '76561198015082998', 'num_games_owned': 547, 'num_reviews': 244, 'playtime_forever': 363, 'playtime_last_two_weeks': 0, 'playtime_at_review': 363, 'last_played': 1572608880}",russian,Бесплатная симулятор по пугать людей),1572948576,1572948576,True,1,0,0.52173912525177002,0,False,False,False,False,,,
+55986073,"{'steamid': '76561198364324642', 'num_games_owned': 14, 'num_reviews': 6, 'playtime_forever': 339, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1596116267}",russian,Это. Просто. Ахуенно,1572521331,1572521331,True,0,0,0,0,False,False,False,False,,,
+55850532,"{'steamid': '76561197998280696', 'num_games_owned': 3109, 'num_reviews': 606, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1572283624}",brazilian,"Gostei da proposta do jogo.
+As interações com os objetos são legais e a arte dos personagens é uma fofura.",1572235144,1572283705,True,2,0,0.547325074672698975,0,False,False,False,False,,,
+55705852,"{'steamid': '76561197973230221', 'num_games_owned': 14324, 'num_reviews': 849, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1571680297}",english,"interesting idea with 3 modes to play & that for free i have a few minutes fun to play & to see what is the best strategy to beat ever of this 3 challenges
+
+Good for Achievement Hunters",1571680368,1571680368,True,42,3,0.799157381057739258,0,False,False,False,False,,,
+55512734,"{'steamid': '76561198443587955', 'num_games_owned': 649, 'num_reviews': 1668, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1570554080}",russian,Rammstein,1570554102,1596559184,True,0,0,0,0,False,False,False,False,,,
+54023088,"{'steamid': '76561198096305141', 'num_games_owned': 0, 'num_reviews': 430, 'playtime_forever': 1192, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1192, 'last_played': 1562799085}",brazilian,"É legalzinho, de resto é repetitivo para um caraleo.
+Sempre na mesma casa, sempre os três tipos de pessoas: A mulher, o gordo que se caga nas calças e as crianças do cão.
+No jogo você é um fantasminha tosco que só fica em um casa com 6 cômodos, usando sempre os mesmos objetos da casa para assustar os NPCs.
+Os três modos de jogo são as mesmas coisas, e tem uma tal de festa que não presta pra nada, só pra tu olhar.
+É grátis, mas e daí, só fica na mesma coisa.
+As conquistas se tornam enjoativas pelo mesmo motivo do jogo ser tosco.
+O melhor objeto pra assustar é a batedeira de bolo, que dá um raio top.",1562799865,1562799865,False,1,0,0.439999967813491821,0,False,False,False,False,,,
+50974991,"{'steamid': '76561198088031234', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 157, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1559313402}",english,Another cool free game. Around 2 hours to complete and interesting concept,1559313481,1559313481,True,1,0,0.478147208690643311,0,False,False,False,False,,,
+49162397,"{'steamid': '76561198196971463', 'num_games_owned': 99, 'num_reviews': 122, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1462444081}",russian,"Ты приведение малыша.
+(Это мой досканальный перевод)
+Иди пугай людей. Но вообше мне не зашло.",1550870004,1550870004,False,0,0,0,0,False,False,False,False,,,
+49117721,"{'steamid': '76561198031254862', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 741, 'playtime_last_two_weeks': 0, 'playtime_at_review': 741, 'last_played': 1550661046}",english,awesome lil  game to kill some time!!,1550661198,1606357717,True,0,0,0,0,False,False,False,False,,,
+47493529,"{'steamid': '76561198125392509', 'num_games_owned': 715, 'num_reviews': 5239, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1544660282}",english,gamesense,1544660377,1544660377,True,0,0,0.0093698473647236824,0,False,False,False,False,,,
+44475348,"{'steamid': '76561198110794056', 'num_games_owned': 473, 'num_reviews': 46, 'playtime_forever': 255, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1535669590}",english,"Short, but funny little game. Reminds me a lot of Ghost Master ;)",1535669649,1535669649,True,1,1,0.50777202844619751,0,False,False,False,False,,,
+43798714,"{'steamid': '76561198122816815', 'num_games_owned': 581, 'num_reviews': 17, 'playtime_forever': 182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 182, 'last_played': 1532791494}",english,Suprisngly more fun than i expected. Not hard to get all the achievements either ;),1532791574,1532791574,True,0,1,0,0,False,False,False,False,,,
+42341982,"{'steamid': '76561198274377420', 'num_games_owned': 109, 'num_reviews': 41, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1492097202}",turkish,Steamda oynadığım ilk oyundu güzeldi TAVSİEYEM,1527524639,1527524639,True,0,0,0,0,False,False,False,False,,,
+42191811,"{'steamid': '76561198083583393', 'num_games_owned': 0, 'num_reviews': 100, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1, 'last_played': 1527038332}",brazilian,"É um jogo pra passar o tempo, o gráfico ta excelente pra um jogo para crianças, mecânica fácil e insentiva a ser melhor cada partida. Tipo de jogo comum, engraçadinho no começo e bom.",1527072643,1527072643,True,0,0,0.472222238779067993,0,False,False,False,False,,,
+40463889,"{'steamid': '76561198809107407', 'num_games_owned': 2148, 'num_reviews': 338, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1519831483}",schinese,"[h1]
+┏📌
+　100%🏆Achievements
+[/h1]
+[i]　　　　　　　　　　　by 2018.02.28
+[/i]
+[h1]
+　　　　　　　　　　　　┛
+[/h1]",1519831995,1584011070,True,0,0,0,0,False,False,False,False,,,
+39637744,"{'steamid': '76561198009507355', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1462330306}",english,"Fun, short game! Very cute art, design, and concept. It's great work for a bunch of students. It doesn't have a ton of content and you probably won't want to play it for too long, but it's super great in short bursts.",1517000539,1517000539,True,0,0,0,0,False,False,False,False,,,
+39572469,"{'steamid': '76561198059733665', 'num_games_owned': 578, 'num_reviews': 41, 'playtime_forever': 192, 'playtime_last_two_weeks': 0, 'playtime_at_review': 190, 'last_played': 1568933640}",english,A fun free game where you get to scare the crap out of people and do a dance party at the end,1516765099,1516765099,True,1,0,0.513618707656860352,0,False,False,False,False,,,
+39390337,"{'steamid': '76561198089505080', 'num_games_owned': 205, 'num_reviews': 66, 'playtime_forever': 138, 'playtime_last_two_weeks': 0, 'playtime_at_review': 111, 'last_played': 1516107249}",spanish,"Quise esperar a conseguir el 100% de los Logros disponibles antes de decir una sola palabra sobre el juego, cosa que he logrado hace unas horas.
+Al igual que los comentarios sobre el juego que lo califican como ""Variado"", mi opinión es igual. Lamentablemente, al no poder poner esa calíficación, supongo que le daré un pulgar arriba, aunque no esté muy preciso.
+
+Ghoul Kid es un juego programado en Unity, bastante simple. Consiste en un protagonista fantasma que se dedica a asustar hasta la muerte (literalmente) a los niños, mujeres, y señores gordos que entran en la casa donde habita, para así quedarse con sus almas. Bastante peliagudo eso de matar decenas de niños, pero bueno. Durante el poco gameplay que he tenido, los únicos fallos técnicos que he podido ver son colapsos en los modelos 3D de los personajes secundarios, por lo demás, está impecable. Los controles son poco fluidos al principio, y he visto mucha gente quejándose de ello, pero debo decir que es cuestión de costumbre. Al cabo de 3 o 4 partidas se vuelven sencillos.
+
+Lo único que me tira para atrás realmente del juego, apartando a un lado el tema de la historia, que es bastante meh, y la calidad gráfica, que al final me da exactamente igual; es que realmente se vuelve aburrido. Una vez completas el modo historia y los otros 2 modos de juegos, ¿qué? Ya no tienes más contenido después de 30 minutos. Un modo cooperativo, ya sea en el mismo ordenador o conectándote a un amigo para jugar a un modo mucho más difícil le daría mucha más vida, y modos más extensos, no solo en esa casa 3D tan aburrida. Las actualizaciones son lo que garantizan cuanto te importa tu propio juego, y que la compañía no trabaje en él desde hace 2 años sin tener otro juego en la colección da mucho de qué pensar.
+
+Dejaré el juego en mi biblioteca esperando noticias, y ojalá sean buenas.",1516111595,1516111595,True,3,0,0.565217375755310059,0,False,False,False,False,,,
+38503861,"{'steamid': '76561198160049753', 'num_games_owned': 236, 'num_reviews': 74, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1513810979}",english,"i  recommend this game to other peoples :} because it is fun for 25 mins :} lol 
+
+If you got Bored playing other Action games alll the time then My Brothers This game is for you The game is Based on Unity Engine not that high Graphic engine hehe but its 3d based as you can see it Personally i give this game rating By 5 out of 3
+:} Have fun on this little Horror game and Don't forget to scared those little Kids :}",1513889959,1513889959,True,1,1,0.48167005181312561,0,False,False,False,False,,,
+38487313,"{'steamid': '76561198380380314', 'num_games_owned': 0, 'num_reviews': 777, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1615393615}",russian,"В восторге от этой игры и она мне очень понравилась. Графика очаровательна, музыка запоминающаяся, а геймплей - это весело и не принужденно.",1513859370,1513859370,True,0,0,0.38567766547203064,0,False,False,False,False,,,
+33904510,"{'steamid': '76561198282515356', 'num_games_owned': 7, 'num_reviews': 4, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1462095187}",hungarian,Kaksi,1501420241,1501420241,False,1,0,0.502487540245056152,0,False,False,False,False,,,
+33075687,"{'steamid': '76561198164382571', 'num_games_owned': 1104, 'num_reviews': 422, 'playtime_forever': 113, 'playtime_last_two_weeks': 0, 'playtime_at_review': 113, 'last_played': 1498898442}",french,"[i][b]Ghoul Kid[/b][/i] est un petit jeu [u]gratuit[/u] d'une qualité tout à fait décente. Son histoire se déroule dans une maison, composée de six pièces, que vous - brave goule de votre état - vous efforcez de hanter. Votre rôle consiste donc à effrayer ses occupants jusqu'à ce que mort s'ensuive. Venir à bout du jeu nécessitera de se défaire d'une dizaine de vagues, chacune d'elles libérant un nombre croissant d'ennemis. Ces derniers sont plus ou moins rapides et disposent d'une jauge diminuant à chaque frayeur, frayeur que vous provoquerez en possédant des objets : lampe, télé, four, chaise et j'en passe. Selon que vous ayez affaire à une enfant, son père ou sa mère, il vous faudra renouveler l'opération entre deux et quatre fois. A noter que le jeu propose deux autres modes : Double Trouble (vitesse de déplacement accélérée pour tous) et Trick & Treat (des enfants en grand nombre, tuables en un coup).
+
+Pour peu que vous cerniez l'endroit névralgique de cette maison, les succès deviendront très accessibles. L'interêt du jeu quant à lui s'avère assez vite limité. En bref, l'affaire d'une heure ou deux, tout au plus.
+
+[h1]Verdict : 3/5 - Ce qui est assez bien, mais pas top.[/h1]",1498901405,1498901405,True,2,0,0.543726265430450439,0,False,False,False,False,,,
+32016008,"{'steamid': '76561198379332021', 'num_games_owned': 339, 'num_reviews': 201, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1558987587}",italian,"+ grafica semplice e piacevole
++ sonoro simpatico
++ idea carina
+- non adatto a tutti
+
+Un giochino divertente con poche pretese e dalle meccaniche semplici! Sei un fantasmino che devi far ""spaventare"" i tuoi familiari. E' gratis, è immediato e divertente, non capisco d'altronde chi si lamenta, infondo è specificato tutto prima di provarlo! Io l'ho trovato simpatico e vale la pena di provarlo",1495964834,1495964834,True,0,0,0,0,False,False,False,False,,,
+31874898,"{'steamid': '76561198203961431', 'num_games_owned': 192, 'num_reviews': 1356, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1495340543}",russian,"Цель игры:напугать всех жителей дома до смерти , вселяясь в предметы.
+В целом задумка хорошая и выполнено все хорошо, но 6 комнат быстро надоедают и в итоге вам просто станет скучно.",1495340762,1495340762,False,2,0,0.43590545654296875,0,False,False,False,False,,,
+31766697,"{'steamid': '76561198041512403', 'num_games_owned': 1837, 'num_reviews': 2465, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1494845192}",koreana,"귀신 소년의 집에 어서오세요!
+
+사람들의 눈에 보이지 않는 꼬마 귀신으로 플레이합니다.
+WASD로 이동을 하며, 마우스 좌클릭으로 위로/ 우클릭으로 아래로 이동하죠.
+귀신이기에 가능한 공중 부양!!
+
+게임의 목표는 간단합니다. 사람들을 죽... 기절시키는거죠.
+꼬마 귀신이 사는 집에 사람들이 방문합니다. 소녀, 아저씨, 아줌마.
+사람들은 마치 자기 집인 듯 자유롭게 돌아다니고 이에 꼬마 귀신은 화가 나죠(실제 스토리 아님)
+그래서 이 사람들을 혼내주려고 합니다. 집 안에 있는 물건들을 이용해서.
+
+집 안의 물품 중 일부에 다가가면 푸른 테두리가 나타납니다.
+이때, E키를 누르면 해당 물품과 하나가 되고 다시 E를 누르면 귀신들린 물건이 되어 움직이죠.
+물건에는 범위가 존재하여, 이 범위 내에 사람들이 있을 때 작동하면 놀라면서 겁을 먹게 됩니다.
+소녀는 2회, 아저씨와 아줌마는 3회 놀래키면 겁이 MAX가 되어 기절하죠.(하지만 아이콘은 해골이지)
+
+웨이브 방식으로, 각 웨이브가 진행됨에 따라 사람들의 수가 점점 늘어납니다.
+플레이어는 제한된 시간 이내에 모든 사람들에게 겁을 주어 기절시켜야하죠.
+실패한다면? 꼬마 귀신은 자신의 실력이 부족함을 느끼고 승천합니다(?)
+
+3종류의 스킬을 사용할 수 있습니다. 사람들을 놀래키면서 이를 채울 수 있죠.
+1번은 시간 멈추기로 제한 시간을 정지합니다. 사람들은 멈추지 않죠.
+2번은 모든 물품 사용하기 입니다. 모든 물품이 움직이는데.... 사람들은 놀라지 않더군요 뭐지.
+3번은 쿨타임 초기화입니다. 물건에 빙의하여 사람을 놀리키면 해당 물품은 일정시간 사용할 수 없습니다.
+하지만, 3번 스킬을 이용하면 이 제한 쿨타임이 초기화되죠.
+
+아쉬운 점
+-조작이 생각보다 힘듬(상하이동+내외부 이동)
+-룸 방식의 화면 전환(방 사이의 벽을 통과하면 다음 방으로 화면이 전환됨)
+-쿨타임이 있는 전체 화면 보기
+-스킬 설명 부족
+-짧게 사람들을 놀래키는 방식의 게임을 원하는 이들에겐 추천",1494847725,1494847725,True,2,0,0.540636062622070313,0,False,False,False,False,,,
+31697874,"{'steamid': '76561197962090181', 'num_games_owned': 0, 'num_reviews': 842, 'playtime_forever': 417, 'playtime_last_two_weeks': 0, 'playtime_at_review': 417, 'last_played': 1494688676}",english,6/10,1494579292,1494579292,True,2,0,0.495233297348022461,0,False,False,False,False,,,
+31631823,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 1287, 'playtime_last_two_weeks': 0, 'last_played': 1494367792}",romanian,Very nice game,1494269050,1494269050,True,0,0,0.426540285348892212,0,False,False,False,False,,,
+31354029,"{'steamid': '76561198188572927', 'num_games_owned': 54, 'num_reviews': 3, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1464274501}",schinese,如果说是子供的游戏，还可以理解，画质很渣，操作也不流畅，做值得赞叹的要数题材了吧，毕竟这种可以下住熊孩子的游戏还，还是值得赞扬的,1493113483,1493113483,False,1,0,0.502487540245056152,0,False,False,False,False,,,
+31346540,"{'steamid': '76561198048048796', 'num_games_owned': 0, 'num_reviews': 678, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1493071374}",english,good game,1493070009,1493070009,True,0,0,0.449244886636734009,0,False,False,False,False,,,
+31128981,"{'steamid': '76561198298352491', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1469230196}",english,How is it fun to scare people in a 2d game?,1492144674,1492144674,False,0,1,0.352357774972915649,0,False,False,False,False,,,
+30473973,"{'steamid': '76561198116879965', 'num_games_owned': 1283, 'num_reviews': 6897, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1656964177}",russian,"Ghoul Kid
+10 из 10",1489334816,1656964470,True,11,0,0.14094860851764679,0,False,False,False,False,,,
+30408990,"{'steamid': '76561198023073191', 'num_games_owned': 6290, 'num_reviews': 629, 'playtime_forever': 489, 'playtime_last_two_weeks': 0, 'playtime_at_review': 489, 'last_played': 1489161748}",japanese,"ヤクいょぅι゛ょがキメ顔しながら謎の館に大挙として押し寄せひしめく
+その中をプレイヤーはグールキッドくんに成り代わって
+ひたすら訪問してくるょぅι゛ょたちを驚かして生命活動を停止――死んだのだ、させていく謎ゲー
+そのょぅι゛ょの数はなんと50とか80とかにも及ぶ
+非常にサタイア的なヤバいゲーム
+
+[spoiler]作った奴頭おかしい…[/spoiler]",1489069255,1489069255,True,10,3,0.486360102891921997,2,False,False,False,False,,,
+30263297,"{'steamid': '76561198155953992', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 133, 'playtime_last_two_weeks': 0, 'playtime_at_review': 133, 'last_played': 1488416749}",english,Fun and challenging.,1488386743,1488386743,True,0,0,0,0,False,False,False,False,,,
+30112960,"{'steamid': '76561198078635679', 'num_games_owned': 53, 'num_reviews': 1, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1487827334}",english,This is a swell game for a group of students.  Pretty neat!,1487827873,1487827873,True,0,0,0.470376282930374146,0,True,False,False,False,,,
+29369773,"{'steamid': '76561197982504799', 'num_games_owned': 4252, 'num_reviews': 2873, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1484874967}",russian,"Малыш Гуль - милая и забавная по началу, но быстро надоедающая и становящаяся монотонной игра.
+
+Играем мы за детёныша-гуля, который может вселяться в разные предметы в доме, дабы напугать его жильцов. Собственно идея не новая, она есть в старой и до сих пор годной стратегии Ghost Master. Соответственно наша цель напугать всех до инфаркта, и [strike]одному остаться[/strike] завладеть их душами. Сделано все в целом неплохо, но вот контента в игре очень мало, и весь процесс быстро надоедает. 
+
+По пунктам в игре есть следующее:
+- один дом с предметами в которых можно вселиться. Дом, его планировка и расположение предметов всегда одни и те же.
+- одни и те же клонированные представители семьи, одна модель мамаши на всех, одна папаши, несколько на детишек.
+- есть три режима игры, различие в них только во вариантах жильцов и их количестве. К примеру в одном режиме есть только детишки, но их много. 
+- игра против таймера, и с волнами. Довели одну волну людей до инфаркта до истечения таймера, ждем следующую, и так до конца. Так как дом и окружение не меняются процесс быстро становится монотонным.
+- есть ачивки для любителей з@дротства, в духе доведи до инфаркта сто папаш, сто мамаш, сто детишек, и одного игрока выбивающего их.
+
+Как итог: задел игры неплох, но только один маленький дом, отсутствие разнообразия как в уровнях, так и в противниках, делают игру интересной не более чем минут на 10. Дальше она становится скучной и проходить её можно разве что только ради ачивок.
+5 пародий на Ghost Master из 10.",1484891400,1484891824,False,5,0,0.558839678764343262,0,False,False,False,False,,,
+28810247,"{'steamid': '76561198076499220', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1463072716}",english,Video review and playthrough: https://www.youtube.com/watch?v=AmWGsRI-iAg,1483057137,1483057137,True,0,0,0,0,False,False,False,False,,,
+26862115,"{'steamid': '76561198176573493', 'num_games_owned': 790, 'num_reviews': 35, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1478436328}",english,"WELL RECOMMENDED - Not a big game, not much going on either, but it is free and for a free game it's worth it's while :) Ghoul Kid is an interesting game. Don't go in expecting a horror game, rather go in expecting a fun little indie game experience.
+
+The game itself is a free indie ""horror"" game, where you play as a ghost and try to scare other people. And for a free game, it is really a lot of fun. Good graphics, cool gameplay, fun concept, and this game makes it all work together perfectly.
+
+Currently don't have any gameplay on my current YouTube channel (https://www.youtube.com/@kyrostarplayshorror) but I do have a video on the old gaming channel: https://www.youtube.com/@DoodleStar
+
+Fun game and it's free - do I need to say more?",1479933027,1685959241,True,0,0,0,0,False,False,False,False,,,
+26632918,"{'steamid': '76561198088092201', 'num_games_owned': 2366, 'num_reviews': 5, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1479317805}",english,"If you enjoyed this game than play ghost master, if you thought this game was repititave than play ghost master, in ghoul kid you scare three people in a wave fashon but in ghost master you go from one area to the next following the story and solving the problems presented to you, you scare sorority girls in the first level and you release trapped haunters as you go climaxing in the hospital.",1479318852,1479318852,True,0,0,0.470376282930374146,0,False,False,False,False,,,
+26430211,"{'steamid': '76561198054008254', 'num_games_owned': 1104, 'num_reviews': 1458, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1478330825}",english,"+unique genre
+-poor control
+i'm neutral on this, it's a good arcade indie game, good for casual but that's it..you'll play few rounds and leave it...",1478331036,1478331036,False,0,0,0.447166770696640015,0,False,False,False,False,,,
+26401459,"{'steamid': '76561198206041679', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1478189516}",brazilian,"  O pouco tempo que joguei este game eu adorei !
+
+      Pros
+
+-Art do game é fantástica
+
+-Trilha sonora ótima !
+
+   Contras
+-Poderiam adicionar um multiplayer pois ficaria perfeito para assustar seu amigos como Depth ou outros games !",1478189652,1478189652,True,1,0,0.502487540245056152,0,False,False,False,False,,,
+26359885,"{'steamid': '76561198235872132', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1464058242}",english,"I LOVED this game. not much to it, but it was fun!",1478025499,1478025499,True,0,0,0,0,False,False,False,False,,,
+26323109,"{'steamid': '76561198284954121', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 152, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1572390302}",brazilian,"Melhor jeito de realizar o sonho de assombrar as pessoas!
+O jogo é maravilhoso, mas infelizmente é muito subestimado",1477856149,1480285802,True,0,1,0,0,False,False,False,False,,,
+26188167,"{'steamid': '76561198170859537', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1462568440}",english,Too repetative not much fun.,1477250660,1477250660,False,0,0,0.473856210708618164,0,False,False,False,False,,,
+26152025,"{'steamid': '76561198115069184', 'num_games_owned': 314, 'num_reviews': 11, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1477166445}",brazilian,"Recomendo .. se diverti muito assustando todos da casa, muito bom! Kkk",1477083316,1477083316,True,0,0,0,0,False,False,False,False,,,
+26116537,"{'steamid': '76561198086793445', 'num_games_owned': 80, 'num_reviews': 7, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1476821849}",english,quite good for when u are bored of other games,1476890908,1476890908,True,0,0,0,0,False,False,False,False,,,
+25735320,"{'steamid': '76561198171899239', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 62, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1573795663}",english,"if you like to scare ppl and get your cruel side going and laugh about it, this game is for you",1475040965,1475040965,True,0,0,0,0,False,False,False,False,,,
+25099172,"{'steamid': '76561198083692273', 'num_games_owned': 83, 'num_reviews': 2, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1471985003}",russian,"Идея хорошая и графика тоже. Но в геймплейме есть минусы.
+
+",1471985177,1471985177,True,0,0,0.451399922370910645,0,False,False,False,False,,,
+24797147,"{'steamid': '76561198061762323', 'num_games_owned': 623, 'num_reviews': 28, 'playtime_forever': 298, 'playtime_last_two_weeks': 0, 'playtime_at_review': 297, 'last_played': 1518980219}",english,"[h1]Ghoul kid, a spoopy game[/h1]
+Ghoul kid is a game where the player takes control of a ghost whom just wants some interaction with humans, not the Casper the friendly ghost type, more like a jigsaw type.
+Your mission consists in scarying to death your intruders in form of waves, which consist in three types: children (takes two scares), the milf (takes 3-4 scares) and the coward dad (takes 3 scares), the enemy variety isn't there, the devs could had jeovah's witnesses, and more annoying stereotypes for more fun.
+To scare people to death your ghost must possess the objects around the house (radio, tv, piano, blender, microwave, jackinthebox, etc...) the collection of objects is very constrained but the size of each house division can help you drain the souls faster.
+The sound consists on a single track that can make you slowly descend into madness or shutdown the music.
+The game has three modes: normal ( which tells your story - 10 waves ), trick or threat (10 waves on children that you have to scare to death) and Double Trouble (10 waves - i call it story 2).
+
+[h1]Conclusion[/h1]
+Although the game isn't anything new or inovative, it still is a kind of fun, sure there are limitations in terms of object interaction, enemy design, lack of personality on the main character (yes i know it's a ghost but there are good ghosts), and repetion can become a turn off, but if you like the discount neightbors from hell vibe, and have a few time to spare and want some easy acheviements give it a shot, for me it waas simply not worth it.",1470764271,1470764271,False,0,0,0,0,False,False,False,False,,,
+24586876,"{'steamid': '76561198043327000', 'num_games_owned': 1108, 'num_reviews': 275, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1469753840}",english,I tried but is very bad!,1469753871,1469753871,False,2,0,0.40297400951385498,3,False,False,False,False,,,
+24033124,"{'steamid': '76561198045147690', 'num_games_owned': 0, 'num_reviews': 51, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1467507439}",english,Bored after 5 minutes of gameplay... can't complained too much cause it's free. :/,1467507491,1467507491,False,1,0,0.388883292675018311,0,False,False,False,False,,,
+23947519,"{'steamid': '76561198299472151', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1463874420}",spanish,EL MEJOR JUEGO DEL MUNDO,1467271154,1467271154,True,0,0,0,0,False,False,False,False,,,
+23490511,"{'steamid': '76561198045607800', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1462502820}",spanish,good game >:V/),1465591236,1465591236,True,0,0,0,0,False,False,False,False,,,
+23472179,"{'steamid': '76561198035285721', 'num_games_owned': 5118, 'num_reviews': 1098, 'playtime_forever': 156, 'playtime_last_two_weeks': 0, 'playtime_at_review': 156, 'last_played': 1465495990}",english,"[h1]""Haunt the habitants""[/h1]
+What a nice little F2P fun game. You are a ghost and like to scare 3 different family members (Mom, Dad, children) to death. The old cliche that Moms have the strongest stomach is prooved again. They need 4 scares to die, Dads 3 scares and the children 2 scares. So haunt them in that order. Btw why are the Moms mostly fleeing into the kitchen? Ok, sorry. That was a really bad chauvenistic joke by me.
+
+The controls are a little bit clunky. Especially the floor change and the use of the minimap. There could be some pointer for the last remaining survivors. The gameplay is simple like search for scare objects and activate them when many ppl are in its circle. Lateron there are 2 more gamemodes. Halloween mode means loads of little children flooding the house but you can kill them with one hits. And double-trouble mode is ppl are moving double fast but also the scare object animations are double fast. So the hardest mode is still beating the main game. Some grindy achievements in the end but also a perfect integration of XBox Controller. If you don't get nerved by the music loop this is a nice casual fun for some hours.",1465497393,1465523562,True,10,2,0.594176828861236572,0,False,False,False,False,,,
+23445447,"{'steamid': '76561198014926595', 'num_games_owned': 775, 'num_reviews': 967, 'playtime_forever': 144, 'playtime_last_two_weeks': 0, 'playtime_at_review': 56, 'last_played': 1574014997}",english,"Wow....a half-way decent Unity game.  I'm a little surprised... and it's a student project from EAE (a game development school in Utah.  Same school behind [i]Maui[/i]).
+
+Welcome to [i]Ghoul Kid[/i], the game where you get to play as Sans from [i]Undertale[/i] as you take over Lewis' job from the Mystery Skulls animations.  Your goal is to scare visitors of the house to death.  These victims include Angelica Pickles (Rugrats) / a younger Helga Pataki (Hey Arnold!) as well as Judy Neutron and a morbidly obese Hugh Neutron (Jimmy Neutron).  Your job is to make sure that they're gonna have....a bad time.~
+
+You have 3 modes:  Regular mode, ""kill tons of little girls"" mode (or ""Pedophile mode""), double speed mode,
+
+PROS:
++ Play as Sans
++ Free
++ Achievements
+
+CONS:
+- Kinda' annoying
+- Sometimes time isn't enough
+- Music loop is irritating
+- Sometimes you stay inside a possession object for too long (choose your objects wisely)
+
+If you ever wanted to play as Sans, then have at it.  I don't think I'll pick this game up again, though....
+
+5/10  Play as Sans, but gets old.  Gets boring fast.",1465352792,1525325389,True,3,1,0.516956806182861328,0,False,False,False,False,,,
+23231036,"{'steamid': '76561198043109111', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1464156630}",german,Irgendwie total laaaaaangweilig,1464339335,1464339335,False,0,0,0,0,False,False,False,False,,,
+23229989,"{'steamid': '76561197999987434', 'num_games_owned': 160, 'num_reviews': 10, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1464332472}",english,Awesome!!!!!!,1464332503,1464332503,True,1,0,0.434956669807434082,0,False,True,False,False,,,
+23225064,"{'steamid': '76561198095917598', 'num_games_owned': 498, 'num_reviews': 1815, 'playtime_forever': 3431, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1662052295}",brazilian,"I've only briefly played it, enough to get to round 5 a couple times, and I find this pretty fun. This is a game you can play when you have a spare 5-10 minutes. I imagine if you were playing it non-stop, the music might get a little annoying, but other than that, I'd recommend this game, espcecially for free.
+
+The controls do take some getting use to, but once you got it, it becomes easier to find everybody and scare them. Give it a try, there's nothing to lose except possibly 10 minutes. Reminds me of the Sega Genesis game 'Haunting Starring Polterguy'
+I thought this was pretty fun! If you enjoy scaring little kids & adults to death. then this is the game for you. It's very repetitive, nothing but floating up and down the floor and possessing random object to move just to scare the ♥♥♥♥s. The best thing about the game is seeing fat adults making the *I just ♥♥♥♥ my pants* motion XD I enjoyed the game for the first 20 mins. After that, it's pretty boring. Here's a link to my video if you would like to see a quck gameplay. Thank you for taking the time to read this review :) https://youtu.be/qS1KQgf6PS4",1464298628,1464298628,True,0,0,0,0,False,False,False,False,,,
+23217177,"{'steamid': '76561198141341934', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1463968560}",english,"Despite the loose keyboard controls, this is a pretty fun game. I'd say that the keyboard controls are my biggest complaint about this game. There are some instances where if you don't judge the distance just right you slide through the walls or past the object you want to possess. I did end up getting stuck in the piano at one point as well, but aside from that I had fun.",1464266347,1464266347,True,1,0,0,0,False,False,False,False,,,
+23178270,"{'steamid': '76561198072380911', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1481702613}",russian,"забавно, эта игра меня рассмешила )))
+Думаю для поиграть на полчаса сойдет!",1464080091,1464080091,True,0,0,0.426639020442962646,0,False,False,False,False,,,
+23121609,"{'steamid': '76561198305690020', 'num_games_owned': 189, 'num_reviews': 4, 'playtime_forever': 138, 'playtime_last_two_weeks': 0, 'playtime_at_review': 112, 'last_played': 1493152228}",german,cool,1463854015,1463854015,True,0,0,0,0,False,False,False,False,,,
+23116612,"{'steamid': '76561198052565335', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1463837030}",polish,"this game isn't good BUT isn't bad to perfect world to describe this game is meh preety good 5/10 controls are iritaiting sometimes but sometimes they are very good. There is very good idea on gameplay similar to game ""ghost master"" if i remember and.... there is nothing more to say you just scare anyone to death thats all",1463837358,1463837358,True,0,0,0,0,False,False,False,False,,,
+23098158,"{'steamid': '76561198171456417', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1463932559}",english,"i just fegerd it out
+",1463753579,1463753579,True,1,1,0.460721641778945923,0,False,False,False,False,,,
+23056404,"{'steamid': '76561198231669964', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1463830434}",english,"7/10 would recommend 
+for bored players that look for a fun and sometimes hard game that doesn't take too long to play a couple rounds
+I remember a flash game with the same concept it was fun just like Ghoul Kid
+but this is less responsive and I'd suggest to change controls as soon as you get the game it's weird to go up and down clicking but that might be just me",1463585665,1463585665,True,2,0,0.523809552192687988,0,False,True,False,False,,,
+23046914,"{'steamid': '76561198301426234', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1467769876}",english,"it is SO fun!!! I love scaring people to death but i can't do it in real life cause, well its illegal.. so it really helps me get my halloween hype out , but! the sprites could use some work and the controls are simple, but hard to get use to
+
+overall , a pretty good game!",1463531220,1463531220,True,6,1,0.560000002384185791,0,False,False,False,False,,,
+23018737,"{'steamid': '76561198164442291', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 267, 'playtime_last_two_weeks': 0, 'playtime_at_review': 267, 'last_played': 1463399888}",french,"Not bad, the game has potential. I would love to see it with more budget, it could be really cool. The ideas are there, but there is a real lack of diversity (in the gameplay, the animations, a better AI maybe?). But it's free, and still enjoyable.",1463400108,1463400108,True,0,0,0,0,False,False,False,False,,,
+23014470,"{'steamid': '76561197987571611', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1463374737}",english,"couldnt play it, froze on the loading screen",1463374897,1463374897,False,1,0,0.404287159442901611,0,False,True,False,False,,,
+23013683,"{'steamid': '76561198260607816', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1463369484}",english,The controls are awkward and the directions srolled passed the limits of the game's screen. Not a bad game but really not good either.,1463369580,1463369580,False,8,1,0.498850435018539429,0,False,True,False,False,,,
+23005516,"{'steamid': '76561198208906041', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1463336501}",english,not the best but its free,1463336711,1463336711,False,2,0,0.442045301198959351,0,False,False,False,False,,,
+22975669,"{'steamid': '76561198066346696', 'num_games_owned': 2239, 'num_reviews': 1253, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 100, 'last_played': 1474565440}",russian,"Это воплощение игры с Sega, называемой Haunting Starring Polterguy, посредством Unity-движка в 3D-измерении. Можно конечно назвать таковой более толковую и сложную Ghost Master, но в том-то и дело, что она более сложная в освоении.
+Процесс игры представляет из себя вселение призрака в разные предметы и пугание ими. Конечно у каждого предмета есть время на восстановление и определенная область действия (почти у всех одинаковые ""кружки""). И таким образом нужно подлавливать несколько людей сразу, потому что чем дальше идем по волнам, тем больше нужно напугать, а время-то поджимает. Притом у всех свои степени ""ссыкливости"" и кого-то придется пугать больше.
+Дети самые пугливые, но и с ними связан наиболее забавный режим игры, где их целые кучи, но и пугаются с первого раза (а стандартно со второго). Под конец режима последняя волна уже насчитывает 70 маленьких девочек одновременно (до этого момента каждая волна нарастала), заходящих в дом со всех каких только можно сторон, даже из мест, где казалось бы или стена или окно. Я бы противопоказал данный режим беременным и прочим любителям пускай даже виртуальных чад... и сделал ""плашку"" с предупреждением им.
+Обычный режим имеет еще взрослого толстячка со стройной дамой, но там уже таких зашкаливающих цифр по людям нет. Также есть вдвое ускоренный режим. Я так понял есть заморозка (которая похоже не работает или делает что-то иное), но вот копящиеся спецсилы в виде отката времени действия предметов и активации их всех разом в одной комнате действуют прекрасно. Только едва ли это помогает осилить все 10 волн для прохождения игры. В этом плане режим с пугливыми детьми самый простой, т.к. они целыми кучами пробегают центральную комнату с лестницей и там врубить сразу все предметы имеет максимальную пользу.
+Для бесплатной игры все сделано довольно грамотно и немного неудобно только поначалу ориентироваться призраком, да также средняя кнопка мыши почему-то не показывала мне карту всего дома. В общем, жду от этих же разработчиков полноценной платной инди-игры с отсылками на Сеговскую Haunting, но пусть обязательно подчеркнут что именно с нее черпали свое вдохновение (т.к. иначе и быть не может, я считаю).",1463229654,1463229654,True,1,0,0.505459308624267578,0,False,False,False,False,,,
+22954906,"{'steamid': '76561198049950524', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1463147830}",polish,"Gra bardzo szybko się nudzi 
+sterowanie mimo że banalnie proste to czasem bywa toporne
+",1463147896,1463147896,False,0,0,0,0,False,False,False,False,,,
+22904896,"{'steamid': '76561198129703372', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1493070318}",english,"this game is lots of fun and simple to play! also, it's a bit spooky which is always nice. :3",1462931799,1462931799,True,3,0,0.541666686534881592,0,False,True,False,False,,,
+22889277,"{'steamid': '76561198259235897', 'num_games_owned': 179, 'num_reviews': 4, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1469166726}",japanese,Meh Its an Ok game. Didnt really interest me though,1462847237,1462847237,False,0,0,0,0,False,False,False,False,,,
+22888589,"{'steamid': '76561198020253488', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1462833978}",english,"Ghoul kid seems like an inspiration from the Sega Genesis game ""Haunting"".  You play as ghoul kid (a ghostly apparition) who needs to haunt objects in a home to kill the stranger’s visiting it.  
+
+There are three different types of enemies who differ in the amount of items you need to haunt near them to kill and the models.  Killing a certain type of enemy will give you point towards a power up that can be activated to assist you.  All enemies in a wave need to die before 99 seconds expire or you lose.  It appears that the waves are endless, but I only made it to wave 6 before getting overwhelmed.  All controls are customizable and there appears to be a fair amount of video settings.  The one setting that this game is missing is audio as the music can be a little annoying after time.
+
+In my opinion, this game does not offer much in replay ability in spite of the 3 modes that can be selected.  If this is the developers first attempt at creating a game, he did a phenomenal job.  However, I don’t recommend this game more than just a 5-10 min time waster.  This game would probably benefit more from being on a mobile device. 
+
+If you would like to see more of this game please check out the link below.  I have created other videos for free games on steam if you would like to check them out.  https://youtu.be/Rf6EdO5T8qU
+",1462842718,1462842718,False,2,0,0.510506808757781982,0,False,True,False,False,,,
+22883454,"{'steamid': '76561198277166753', 'num_games_owned': 175, 'num_reviews': 18, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1462807227}",english,This was nice!,1462817512,1462817512,True,2,2,0.508825302124023438,0,False,True,False,False,,,
+22880399,"{'steamid': '76561198076388638', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1462805164}",english,"Challenging, but addictive game. I'd give it a pure 9.6/10",1462805211,1462805211,True,5,0,0.496369987726211548,0,False,True,False,False,,,
+22872648,"{'steamid': '76561198121598766', 'num_games_owned': 438, 'num_reviews': 19, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1462753723}",english,"Besides being ridiculously hard, the controls are unintuitive, and most often, non-ressponsive. Looks pretty good for a free game though.",1462753783,1462753783,False,1,0,0.439063340425491333,0,False,True,False,False,,,
+22869686,"{'steamid': '76561197976597024', 'num_games_owned': 0, 'num_reviews': 297, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1462738430}",english,yes,1462738436,1462738436,True,5,1,0.419488310813903809,0,False,False,False,False,,,
+22860213,"{'steamid': '76561198136435450', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1462495087}",english,"its  repetitive game it gets boring very quickly
+",1462701659,1462701659,False,1,0,0.465425550937652588,0,False,False,False,False,,,
+22849034,"{'steamid': '76561198093267975', 'num_games_owned': 1673, 'num_reviews': 219, 'playtime_forever': 320, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1527429725}",schinese,吓唬小孩的。。。。。操作感觉有点蹩脚，不过还算可以~感觉玩两个小时就能全成就了。,1462645752,1462645752,True,0,0,0,0,False,True,False,False,,,
+22846048,"{'steamid': '76561198253943403', 'num_games_owned': 133, 'num_reviews': 9, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1462633429}",english,FUKEN 2 SPOOKY FOR ME SPOOKY/420,1462634922,1462634922,True,2,7,0.485003173351287842,0,False,False,False,False,,,
+22832909,"{'steamid': '76561198286806722', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1462560971}",english,very stiff controls.,1462567480,1462567480,False,2,0,0.502074718475341797,0,False,True,False,False,,,
+22807312,"{'steamid': '76561198293539135', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1462366097}",schinese,耐玩性不高,1462438558,1462438558,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+22806138,"{'steamid': '76561198019095716', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 81, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1507240607}",english,"An interesting game to say the least.  There's very little to this game, but I can't deny that there's just something special about scaring the living daylights ouf of people.  It reminds me a lot of the game Haunting Starring Pouterguy on the Sega Genesis, which I personally found to be a lot of fun.  I do have to add that it is incredibly tough.
+
+This is a decent game that, while you're only going to play it a for little bits at a time, there was just something addictive about it that kept me coming back, other than the achievements.
+
+It's a free-to-play game, and check it out only if you're into that kind of thing.",1462429759,1462429759,True,5,0,0.559310197830200195,0,False,True,False,False,,,
+22799750,"{'steamid': '76561197998455537', 'num_games_owned': 0, 'num_reviews': 809, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1462391437}",english,"It's a free game. You're a Ghost haunting a mansion and you're trying to scare potential buyers to your mansion. The concept is like Casper, the friendly ghost. I would probably recommend this to people to try once since it's free, but that's the end of it. Nothing really interesting beyond triggering traps.
+
+PROS
+1. It's free
+Free stuff. You even have to check a box that says ""Check this box if you received this product for free.""
+
+2. The Different Scares
+I kind of liked how the different objects did different things when they scared people.
+
+CONS
+1. Repetitive
+You do nothing except inhabiting items by pressing E and triggering it when the victims get close by. You know your aura radius based on the circle. Very similar to activating traps.
+
+2. Controls.
+Left Click to Float Up, Right Click to Float Down. Those aren't intuitive. I would have preferred Spacebar to float up and Left Ctrl to Float Down
+
+
+
+",1462391752,1462391752,True,2,0,0.513971865177154541,0,False,True,False,False,,,
+22789251,"{'steamid': '76561197972498544', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1462340502}",english,"Become one with the spook.
+
+commit a massacre just so that you have friends to dance with-
+8/8
+
+plus it is freeeee",1462340847,1462340847,True,7,6,0.505968332290649414,0,False,False,False,False,,,
+22788745,"{'steamid': '76561198002014636', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1462336355}",english,simple and fun,1462336934,1462336934,True,1,0,0.467289716005325317,0,False,True,False,False,,,
+22783797,"{'steamid': '76561198167014772', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1462407914}",spanish,"Este juego me recuerda al Un Vecino infernal, en el buen sentido de lo entretenido de hacer pasar un mal momento a nuestros inquilinos. Ademas es bueno estar del otro lado del susto para variar. Si estas buscando un juego simple y entretenido, sin importarte los graficos bastante pobres (no son nada impresionantes y el juego tiene genera una sensacion 2D, a pesar de que nuestro personaje se mueve en un espacio tridimensional, la tematica de ""casita de muñecas"" genera este efecto), entonces este es un juego para vos!",1462307682,1462307682,True,0,0,0,0,False,False,False,False,,,
+22780030,"{'steamid': '76561198122846498', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1462291371}",english,"Nah.. Just.. Nah. Controls are weird and gameplay is just meh.
+Idea is cool, but execution not so much.
+At this point I can't recommend.",1462291684,1462291684,False,3,0,0.524473607540130615,0,False,False,False,False,,,
+22754831,"{'steamid': '76561198267689291', 'num_games_owned': 212, 'num_reviews': 28, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1462156137}",english,Its not too bad of a game but when switching rooms the camera is slower than the player so its very hard.,1462156203,1462156203,True,2,0,0.52173912525177002,0,False,False,False,False,,,
+22754284,"{'steamid': '76561198132354359', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 276, 'playtime_last_two_weeks': 0, 'playtime_at_review': 276, 'last_played': 1462153040}",english,"If you enjoy scaring little kids & adults to death. then this is the game for you. It's very repetitive, nothing but floating up and down the floor and possessing random object to move just to scare the fucks. The best thing about the game is seeing fat adults making the *I just Shit my pants* motion XD I enjoyed the game for the first 20 mins. After that, it's pretty boring. Here's a link to my video if you would like to see a quck gameplay. Thank you for taking the time to read this review :)
+
+https://www.youtube.com/watch?v=qS1KQgf6PS4",1462152829,1462152850,True,16,4,0.6541251540184021,0,False,False,False,False,,,
+22743006,"{'steamid': '76561198156417340', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1462107392}",english,"Great little game, especially as it's free!",1462109681,1462109681,True,1,0,0.485003173351287842,0,False,False,False,False,,,
+22731762,"{'steamid': '76561198014772674', 'num_games_owned': 204, 'num_reviews': 13, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1482020569}",english,"This is a fun game with a great concept. It's missing quite a few features, but it is a free title. It's worth it's buck, and worth a try.",1462054495,1462054495,True,2,0,0.485003173351287842,0,False,False,False,False,,,
+22724074,"{'steamid': '76561198120545982', 'num_games_owned': 248, 'num_reviews': 56, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1462059898}",english,ITS FUN AND SCARY MOSTLY FUN AND SCARING PEPOLE IS FUN,1462027182,1462027182,True,1,1,0.477941185235977173,0,False,False,False,False,,,
+22722109,"{'steamid': '76561198140028123', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1462019713}",thai,"เป็นเเนวจำลองการเป็นผีหลอกคนในบ้าน โดยทำให้กลัวหรือถึงตาย
+-ข้อดี
+หลอกคนสนุกดี สิงของ ทำของตก หรือของเคลื่อนไหว สนุกเเถมเล่นฟรี
+-ข้อเสีย
+การบังคับที่ยาก ตัวเกมไม่มีไรมาก มีด่านเดียว ต้องรอต่ออาจมีอะไรเพิ่มเติมภายหลัง",1462019897,1462019897,False,0,0,0,0,False,False,False,False,,,
+22713451,"{'steamid': '76561198078687525', 'num_games_owned': 218, 'num_reviews': 28, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1461974603}",english,Great game! It literally is about scaring people to death!,1461974832,1461974832,True,1,0,0.485003173351287842,0,False,False,False,False,,,
+22713104,"{'steamid': '76561198204389712', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1463198417}",brazilian,"muito legal!
+a jogabilidade em si é muito boa eu recomendo.
+Apesar de ter um momento em que fica muito dificil xD
+Bem Mas isso que é a graça do jogo então tudo bem
+Gostei bastante :)",1461972750,1461972750,True,0,0,0,0,False,False,False,False,,,
+22711073,"{'steamid': '76561198077181885', 'num_games_owned': 375, 'num_reviews': 126, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1461961784}",english,"Camura doesn't agree with the players movements.
+Depth perception is horrible to play with and makes it
+harder than it should be to use the objects within the game.
+
+Over all, i really like the gameplay and with work it could become a better one.
+If you want a new game to try, give this one a try.",1461962509,1461962509,True,1,0,0.433954119682312012,1,False,False,False,False,,,
+22697854,"{'steamid': '76561198150474326', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1461716397}",english,Worst game ever!!!!,1461895930,1461895930,False,1,0,0.379856109619140625,0,False,False,False,False,,,
+22696316,"{'steamid': '76561198024935550', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1462310490}",english,"Reminds me of the Sega Genesis game 'Haunting Starring Polterguy'
+I thought this was pretty fun!",1461886328,1462217659,True,21,4,0.649920642375946045,0,False,False,False,False,,,
+22695281,"{'steamid': '76561198045381877', 'num_games_owned': 557, 'num_reviews': 2587, 'playtime_forever': 313, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1469296771}",english,"Ghoul Kid is a neat concept, but there is not much to do in game yet. You simply hid in household objects and scare the visitors to death, recharging some buffs/ abilities along the way. Without more content added and smoothing out the patchy parts of the game (animations, sound) I can only say that Ghoul Kid is neat and worth looking at. I will have to wait and see where it goes before I recommend it toe everyone.",1461880489,1461880489,True,3,0,0.477386444807052612,0,False,False,False,False,,,
+22695245,"{'steamid': '76561198164151349', 'num_games_owned': 2681, 'num_reviews': 229, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1462072909}",english,"[h1]It's quite amusing[/h1]
+You play a ghoul in a house. Various numbers of people enter the house per round, and your job is to possess objects and scare each of them till they reach a certain threshold and drop dead of shock. There is a timer so you have to do it fast, or [i]you[/i] end up being the dead one. (That is, if ghouls can even die.)
+
+[h1]It has issues with movement[/h1]
+The game is in 3D - using the keyboard with your left hand, you have to control how near/far your ghoul is, and using the mouse with your right hand, you control how high/low he is. This wouldn't be a problem, except for the ""sliding"" that occurs with each move. That is, if you stop pressing the left mouse button or the ""left"" command on the keyboard for instance, your ghoul doesn't immediately stop, but continues to move a bit more before he finally does. This lack of precision with the controls makes it hard to accurately control your ghoul, and becomes especially frustrating because there is a timer every round, so not having precise movement wastes the amount of time you have left.
+
+[h1]Would've been better with some semblance of a story[/h1]
+Or at least, a point to all of this. Of course, scaring peeps is fun, but how about a bit of backstory as to why you became a ghoul, why you're haunting this house, what you hope to achieve, and so on. Just sayin'.
+
+[h1]It's free though[/h1]
+With that in mind, go give this game a try. The premise is pretty interesting, the graphics alright, and the objects you get to possess quite fun. (There's a grand piano, grandfather clock, and trophy bear among many others.)
+
+[code]U P D A T E
+
+As of my last edit, this game is in a somewhat unfinished state and there are a few bugs/problems. These are a few that I encountered:
+
+- You can sometimes get ""stuck"" in the piano after you possess it;
+- Game jams up periodically (after you press ""restart"" the timer just gets stuck);
+- Power-ups 1 and 2 are virtually useless (i.e. they don't do anything);
+- No audio during the tutorial (no, it's not your speakers that are faulty);
+- People in the house can jam each other up, especially if there are too many of them.[/code]",1461880365,1462345364,True,7,0,0.569372415542602539,0,False,False,False,False,,1462511564.0,"We wanted to thank you for your feedback especially badhairqueen. That’s why we decided to personally respond to your review. The team also wanted to apologize about the achievements coming in late. The studio received feedback requesting achievements so we added them in. Sadly the update took a little time to get out to the audience. 
+
+We are taking a look at the bugs you noted right now and hope to fix them as soon as possible. Thank you again for bringing them to our attention. 
+
+To clarify the power ups the first one freezes time on the timer not the actual people in the house. While the second resets the cool down time for the objects. (Chaining it with the scare all or the third power up is a great use of both power ups.) 
+
+In response to the keyboard controls. Some people like using the keyboard but others prefer the controller. We tried to make both as smooth as we could, however in light of your comments we will take a look at the keyboard controls again. 
+
+Thanks again for supporting us and taking a look at our game! 
+
+
+"
+22691582,"{'steamid': '76561197998923260', 'num_games_owned': 410, 'num_reviews': 41, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1461815953}",english,"https://youtu.be/KXpXztOtAVI
+
+Pros:
+- Neat Concept
+- Multiple Modes
+- Decent Graphics/Animations
+- Free
+
+Cons:
+- Movement hard to get used to
+- Limited ways to scare",1461865020,1461865020,True,4,3,0.452706217765808105,0,False,False,False,False,,,
+22691431,"{'steamid': '76561198283257373', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1461792339}",english,"It's an OK game for around 10 minutes, but becomes quite repetitive and boring for more than that. I can see how some people would like the game but I imagine is targeted at young children as it's quite simple to control and to play.",1461864446,1461864446,False,1,0,0,0,False,False,False,False,,,
+22686788,"{'steamid': '76561198057690087', 'num_games_owned': 0, 'num_reviews': 40, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1461844549}",spanish,"No está mal. Puede ser divertido para una tarde de competición tipo ""a ver quién asusta a más personajes"".",1461844652,1461844652,True,0,0,0,0,False,False,False,False,,,
+22683461,"{'steamid': '76561198005506837', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1461867186}",english,"I love the concept, I think it is really fun and I love the full control of the character and how easy it is to go through everything. Controls I feel are very easy to get used to.
+
+It could see more variety in its soundtrack and more of a hint to the story behind the ghoul kid or the story of the house.
+
+Overall I like it, and I can see so much potential in future updates like different venues, objects, music, etc.",1461820771,1461820771,True,5,0,0.517504453659057617,0,False,False,False,False,,,
+22669232,"{'steamid': '76561198050768292', 'num_games_owned': 336, 'num_reviews': 17, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1461774716}",english,"That was fun for about 5 minutes, the controls are messy and it felt kind of like a phone game. It's entertaining but very repetitive, definitely worth the try since it's f2p however.",1461793333,1461793333,False,1,0,0,0,False,False,False,False,,,
+22666881,"{'steamid': '76561198301963247', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1461780253}",english,"Cool idea for a game, I don't feel its a stretch for this games potential.
+
+This review will be mostly critique as I am hoping to see improvements to this game. I really want to be able to recommend Ghoul Kid in the future.
+
+
+Graphics for the Ghoul Kid feel more polished than the levels and other characters, almost like conflicting/different art styles.   Ghoul kid looks awesome
+
+Was hard to get a good grasp of the game with the slow camera movement.   I didn't like how the character can move out of the screen.   I think a more fluid camera where it feels like your flying with ghoul kid would be a nice touch.  To be honest the camera made me want to stop playing. 
+
+I think ghoul kids animation needs to be faster or he needs to move slower.   The animation doesn't match the movement speed.
+
+I found it hard to use the mouse and the keyboard for movement.   I feel the game would function better as a 3D platformer like super smash bros with 2 deminsions of control.
+
+Ideas?   Perhaps not imobilizing ghost kid when haunting. Then you could do combo scares and direct the scares more.  Perhaps different types of traps.  ex. instead of using the phone to scare, the AI could move towards it.  Also activating a trap too early could cause the character to run in the opposite direction.   
+
+Its a good start, congrats on finishing your first release.  Catchy name",1461783244,1461786155,False,1,0,0,0,False,False,False,False,,,
+22664654,"{'steamid': '76561198241852756', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1461774585}",english,"I've only briefly played it, enough to get to round 5 a couple times, and I find this pretty fun.  This is a game you can play when you have a spare 5-10 minutes.  I imagine if you were playing it non-stop, the music might get a little annoying, but other than that, I'd recommend this game, espcecially for free.
+
+The controls do take some getting use to, but once you got it, it becomes easier to find everybody and scare them.   Give it a try, there's nothing to lose except possibly 10 minutes.",1461774748,1461774748,True,10,1,0.594463169574737549,0,False,False,False,False,,,
+22663023,"{'steamid': '76561198126863979', 'num_games_owned': 129, 'num_reviews': 45, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1461767912}",english,Bad controls and poor gamplay but its free so ..,1461767927,1461767927,False,1,0,0.476190477609634399,0,False,False,False,False,,,
+22662657,"{'steamid': '76561198138414487', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1461765340}",english,"I really, really can't recommend this.  If you want to scare the mortal fools, go look up Haunt the House-it's a 2D version that this was obviously inspired by, it doesn't have the relentless timer or the serious control issues with changing rooms/floors, and it's free.
+
+If you'd rather play on Steam, you can pay for a different version of Haunt the House right here... though if you're determined to pay, I'd highly recommend the old-but-good Ghost Master instead.  Why control a single, simpleminded poltergeist when you can have an entire cadre of spirits and haunts set up so they're ready to hammer a panicked lout who's fleeing from the last scary encounter?",1461766545,1461766545,False,11,1,0.586674988269805908,0,False,False,False,False,,,
+22658032,"{'steamid': '76561198004527444', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1461726659}",english,"Killed a defenseless child with a phone while the mom sprinted for the door...
+11/10 would commit phone murder again.
+
+https://www.youtube.com/watch?v=NsSw4P6aFzs
+
+Pros:
+~ Giving dad a heart attack by turning on the light.
+
+Cons:
+~ Srsly?... It's free...
+
+It's fun for a few minutes, and the music is oddly catchy. Reminds me very much of Fable.
+Don't get me wrong, this game doesn't have a ton to offer, but hey... it's free... Give it a try. Spook some people with houshold appliances and be on your merry, ghostly way! =)",1461739372,1461739689,True,5,4,0.447354137897491455,0,False,False,False,False,,,
+22656636,"{'steamid': '76561198019816374', 'num_games_owned': 1357, 'num_reviews': 1685, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1461711081}",english,"The gameplay is simple but fun.
+The premise is a new one to me and I like it.
+The different game modes are not really different, maybe change the enemies more than just giving them a hat?
+Overall this game is really good at the low price of Free.
+
+https://youtu.be/p8B1FGDVAEM",1461728655,1461728655,True,4,1,0.330553263425827026,0,False,False,False,False,,,
+22656620,"{'steamid': '76561198126742701', 'num_games_owned': 95, 'num_reviews': 9, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1461709831}",english,"Killed 3 people with a light bulb
+11/10 light bulbs",1461728551,1461728551,True,5,6,0.372056096792221069,0,False,False,False,False,,,
+22655481,"{'steamid': '76561198194075375', 'num_games_owned': 199, 'num_reviews': 16, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1461720874}",english,"i found it a fun little game a good time killer 4/5 needs better controls and more objects though because it tends to get repetivitve
+https://www.youtube.com/watch?v=HX3V0DwlAJM",1461720947,1461720947,True,11,2,0.43712887167930603,0,False,False,False,False,,,
+22655080,"{'steamid': '76561198029493212', 'num_games_owned': 2286, 'num_reviews': 370, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1461717474}",german,"Wirklich sehr Lustig.Auch wenn es anscheinend immer die selben Personen sind,das selbe Haus und die selben Scares ;D
+
+Hey dafür ist es kostenlos ;)",1461718528,1461774852,True,1,0,0.466061383485794067,0,False,False,False,False,,,
+22652706,"{'steamid': '76561198056272948', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1461704811}",english,"Clunky controls, poor camera following, half the game has no sound. It just feels unfinished.",1461704878,1461704878,False,14,1,0.489050567150115967,0,False,False,False,False,,,
+22652180,"{'steamid': '76561198044910550', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1461702301}",english,"It did not catch my intrest, 
+to clunky in its controlls, 
+could of been intresting if it was alittle more complex, without such a short timer.",1461702498,1461702498,False,9,1,0.425533801317214966,0,False,False,False,False,,,
+22652005,"{'steamid': '76561198037255814', 'num_games_owned': 749, 'num_reviews': 8, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1461701851}",english,"Hey, It's free! Plus, villain protagonists are the best, and they're hard to find.",1461701856,1461707315,True,6,2,0.433437347412109375,0,False,False,False,False,,,
+22651964,"{'steamid': '76561198041282518', 'num_games_owned': 188, 'num_reviews': 3, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1461701697}",english,Spoopy scary simulator 2019,1461701699,1461701699,True,5,12,0.306258797645568848,0,False,False,False,False,,,

@@ -1,0 +1,339 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+160841145,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1710913197}",english,"Hikikomori No Chuunibyou is yet another of literally thousands of 2D retro platformers infesting Steam and lowering the average quality of all video games everywhere.
+
+You might think this is just another copy + paste of the Ninjahtic game the developer cloned several times (why get paid for a game once when you can get paid 3 times?) but it's not... the brawling is different, there's a lot of differences, but then these are ultimately minor and while the game plays slightly better (but not much), it's got more in common with the Ninjahtic games than it has differences.  I guess that's the GameMaker Studio platformer template heritage. 
+
+One important note is that even though this is an amateur project, it does seem to be sincerely and genuinely made.  I couldn't find any flipped assets, plagiarism or any other kind of insincere actions from the developer, but unfortunately genuine intentions alone are not enough to produce a brilliant PC gaming experience.
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+A choice was made to use obsolete, decades old retro pixel ""art"" as a substitute for contemporary PC graphics.  It's unclear if this is due to lack of budget or talent, regardless, the overall visual quality of the game is extremely low as a result.
+
+There's no option to change the resolution and no useful graphics tweaks.  There's no way to ensure this is running at the native resolution of your display.  There's no guarantee this game will look right on any PC as a result of this hamfisted design decision.
+
+The controls and game handling are notably very clunky and unsmooth here.  It's janky and unsatisfying to play... and any experienced gamer will tell you, the handling, responsiveness and general gameplay feel of the control scheme must be well polished for this kind of game to succeed.  Unfortunately, this is something the developer seems to have phoned in, with little to no apparent gameplay testing.  They dropped the ball on this one.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers, left handed gamers or gamers using AZERTY or other international keyboard layouts.    To make matters worse, there's no mouse input, despite this being sold on PC as if it were a PC game.  This is unacceptable and somewhat insulting to PC gamers.  It's a good demonstration of the poor attitude the developer has towards PC gamers, and this attitude has resulted in yet another defect in this game.
+
+Some of the defects in the game can be attributed to the choice of using the GameMaker Studio construction kit/toolset.  This is a very poor quality toolset favoured by amateur developers as it's cheap and requires little in the way of development skill, but unfortunately has very limited capabilities.  Just as you can't make a silk purse out of a sows ear, you can't make a great video game if you use a terrible engine.  GameMaker Studio is most commonly used to make retro pixel shovelware and cash grabs.
+
+A strong argument can be made that construction kits like GameMaker Studio should never be used to make games for profit, as the ""developer"", Blaze Epic has done here.  These construction kits are intended to teach people some of the basic principles of game development, and to make small demos to pass around with friends.  They're not intended to replace to actual work of real, professional game developers.  So it's inappropriate when amateurs try to use these for profit, without any actual, real game development effort taking place.  This doesn't result in products that have any real meaningful value for gamers.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+You don't have to take my word about how bad the game is, we can measure the interest in a game by how much people bothered to play it.  Hikikomori No Chuunibyou has achievements, and they show us a very clear picture that the game absolutely failed to capture any interest from gamers.  The most commonly and easily attained achievement is for finishing the tutorial (without dying), trivial to achieve, but less than 10 percent of players bothered to get that far before uninstalling the game.  That's a tiny, tiny proportion of gamers who even bothered with this.  Ouch.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a modest spike in player counts for the game.  But this only happened once, and isn't consistent with the achievement stats, that show less than 10 percent of players bothered playing the game for any reasonable amount of time.  How is it possible for this game to have so many concurrent players who didn't bother engaging with this game?  Trading cards.  People will use card idling software to collect the cards and sell them, but this won't trigger any achievements in-game.
+
+That tells us people only really bought this game for trading cards, and that's a damning indictment of the woeful quality.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with little merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+Hikikomori No Chuunibyou is relatively cheap at $2 USD, but it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.  This is also competing with over 11,000 free games available on Steam, many of them far better than this paid product.
+",1710766678,1710766678,False,3,0,0.454924285411834717,0,True,False,False,True,,,
+148544442,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 151, 'playtime_last_two_weeks': 0, 'playtime_at_review': 151, 'last_played': 1689157159}",english,bad game,1697813373,1697813373,False,1,0,0.444444417953491211,1,True,False,False,True,,,
+141209153,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1688385745}",spanish,"░░░░░░░░░░░███████░░░░░░░░░░░
+░░░░░░░████░░░░░░░████░░░░░░░
+░░░░░██░░░░░░░░░░░░░░░██░░░░░
+░░░██░░░░░░░░░░░░░░░░░░░██░░░
+░░█░░░░░░░░░░░░░░░░░░░░░░░█░░
+░█░░████░░░░░░░░██████░░░░░█░
+█░░█░░░██░░░░░░█░░░░███░░░░░█
+█░█░░░░░░█░░░░░█░░░░░░░█░░░░█
+█░█████████░░░░█████████░░░░█
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░░░████████████████████░░░░█
+░█░░░█▓▓▓▓▓▓▓▓█████▓▓▓█░░░░█░
+░█░░░░█▓▓▓▓▓██░░░░██▓██░░░░█░
+░░█░░░░██▓▓█░░░░░░░▒██░░░░█░░
+░░░██░░░░██░░░░░░▒██░░░░██░░░
+░░░░░██░░░░███████░░░░██░░░░░
+░░░░░░░███░░░░░░░░░███░░░░░░░
+░░░░░░░░░░█████████░░░░░░░░░░
+",1688386121,1688386121,True,0,0,0,0,True,False,False,True,,,
+128104888,"{'steamid': '76561198344976999', 'num_games_owned': 0, 'num_reviews': 354, 'playtime_forever': 182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 182, 'last_played': 1672338870}",turkish,Ucuza alıp kartlarını satıp kar edebileceğiniz bir oyun.Bunun gibi daha fazla oyun isterseniz incelemelerimde 100 küsür oyun var bakabilirsiniz.,1670423517,1670423517,True,2,0,0.54356849193572998,0,True,False,False,True,,,
+127967755,"{'steamid': '76561198001148159', 'num_games_owned': 1018, 'num_reviews': 63, 'playtime_forever': 262, 'playtime_last_two_weeks': 0, 'playtime_at_review': 262, 'last_played': 1670223871}",english,"This [i]might[/i] earn a neutral if the option existed, but even then it'd still tether quite close to a negative. It's not the worst game I've played or everything, but for every thing it does right, it does at least one wrong.
+
+The gameplay is a mix of parkour with occasional slight ""stealth"" elements (read: there's patroling robots which more or less instakill you if they spot you) and brawler sections. For the parkour some of the moves (mostly wallruns) are slightly janky, which make successful completion of a couple of some manuevers unguaranteed (not ragequitting bad, but often enough to add up). These parts actually feels rather well when it's flowing well (though sometimes the timed obstacles prevent a superfluid motion like you can achieve in superior precision platformers). The brawler sections boil down almost entirely to button mashing (the tutorial swears there's combos, but I could never get find anything more complex than the air versions of light and heavy attack). There's a bit of strategizing to be done to make things easier and a couple of the bosses take more conscious actions, but they are all too similar not to feel like they're there for padding after a while. There's a few enemy variants found throughout the game, but their low number paired with all but one of the ""arenas"" being just a hallway (literally, more often than not) make this a chore.
+
+None of this is helped by how padded the game structure is. Every chapter contains at least one ""get to key, then backtrack to use it"" section, so you'll be crossing almost every screen in two directions (chapters two gets ""open worldy"", so there's even a few screens that need to be traversed four times). This isn't terrible because at least you don't need to hit switches again, but it rarely gives the rooms any significant new dimension. Oh, I mentioned switches... yeah, some screens contain switches needed to open gates, sometimes positioned so inconveniently that you'll actually need to traverse the screen three times in a row (without dying) before you can advance. There's relief when a particularly frustrating one gets finally completed and you don't have to deal with it anymore (until the return trip), but not in a ""I got gud"" manner that leads to self-congratulations.
+
+The final problem is a relatively minor one, but bears mentioning: there's no proper saving, just chapter select. These chapters can get relatively long, so may you hopefully not have to interrupt a chapter halfway and leave it for later, lest the last thirty minutes having been in vane. I get this is likely engine limitations, but it's annoying nonetheless.
+
+The plot is actually cute (and even includes a bit of self-awareness, as expected from a game with this title) and has some mildly funny parts. The protagonist is as loquacious as you might expect from a chuuni, but there's enough charm that even when it does get a bit too much in a couple of spots you can still wonder what comes next. Some of the fetch quests are legitimately funny. I'd quite like a remake which revamped or at least streamlined the gameplay, as sadly the sequel's tone doesn't appear to be as entertaining.
+",1670229410,1670229410,False,0,0,0,0,True,False,False,True,,,
+120475753,"{'steamid': '76561197963833670', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 184, 'playtime_last_two_weeks': 0, 'playtime_at_review': 184, 'last_played': 1660099091}",english,"This one's just too rough / flawed for me, and I stopped at Act V. That's when I learned that the save system only saves at the beginning of each act (augh!). I don't think I'm going to finish it.
+A lot of the problems with this game are fixed in the next one, so this one's interesting just to see the evolution.",1660273401,1660273401,False,0,0,0,0,True,False,False,False,,,
+79377186,"{'steamid': '76561198108047801', 'num_games_owned': 271, 'num_reviews': 21, 'playtime_forever': 185, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1605483386}",english,A fun little game worth the price you pay. If i had to complain I'd say the later parkour sections are borderline sadistic and that the wall jumping is fairly jank.,1605564257,1605564257,True,0,0,0,0,True,False,False,False,,,
+56306806,"{'steamid': '76561198120936315', 'num_games_owned': 1027, 'num_reviews': 223, 'playtime_forever': 361, 'playtime_last_two_weeks': 0, 'playtime_at_review': 361, 'last_played': 1572716145}",brazilian,"The game is pretty fun, but the climbing mechanic was hard to get used. 
+I miss a checkpoints during screens, because it only saves from one stage to another - athough you can choose what stage to go, it makes VERY hard to pass some parts (screens).
+
+In overall is a good (harcore from the stage 3 and so on) action plataformer.",1572716745,1572716745,True,0,0,0,0,True,False,False,False,,,
+54797034,"{'steamid': '76561198362693867', 'num_games_owned': 78, 'num_reviews': 5, 'playtime_forever': 679, 'playtime_last_two_weeks': 0, 'playtime_at_review': 541, 'last_played': 1647533437}",spanish,"La verdad este juego está bastante bien para lo que ofrece por su precio. Es un juego de parkour con una historia algo pasable. Este juego tiene mucho potencial para speedrunning porque hay que ser muy preciso en muchos saltos, inercia y timing. Si quieres pasar un buen rato jugando a un plataformas barato, este es tu juego. Pesa solo 6 MB y lo mueve todo PC, no se puede estar mejor optimizado.
+La única pega para alguna persona es quizá que no esté en todos los idiomas y en determinados puntos del juego te piden ir a tal sitio. Si no sabes inglés básico, no es tu juego.
+
+En general puedes pasarte unas buenas horas entretenido y a mi personalmente me ha encantado desde el principio, me he adaptado a él muy rápido, incluso la parte de lucha que hay diferentes enemigos con diferentes habilidades. Le doy un 8/10.
+
+",1566736949,1566736949,True,0,0,0,0,True,False,False,False,,,
+47080250,"{'steamid': '76561198099639387', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 438, 'playtime_last_two_weeks': 0, 'playtime_at_review': 438, 'last_played': 1541969117}",english,"A nice little platformer.  I liked the minimalistic aesthetic,  the jazzy music and the not too serious banter of the characters during the cut scenes .  I had a bit of trouble with the wall running mechanic at the start, but I found the explanation in the discussions page (you have to jump near the wall to run on it).  The game requires a good timing and precision in the most difficult rooms.  A good challenge for me (not a big player of action games), difficult sometimes, but not impossible.  
+",1543267083,1543267083,True,0,0,0,0,True,False,False,False,,,
+45348366,"{'steamid': '76561198309934011', 'num_games_owned': 420, 'num_reviews': 76, 'playtime_forever': 289, 'playtime_last_two_weeks': 0, 'playtime_at_review': 289, 'last_played': 1540003391}",english,"I really want to like and enjoy this game but it has the worst controls in a platformer i've seen in a while, just trying to ""parkour"" a wall that can't be done in one bound takes forever to pass and you'll be constantly jumping and wall-hugging, and SOMETIMES you are able to get over it. One other thing, sometimes you may get in places where its literally impossible to get out, what makes it worse that if you could just reset your position or refresh the screen, but you have to go back to the beginning of the WHOLE STAGE. Lastly, the plot is like if someone from wattpad or fanfiction.net were hired to make the story, as it has no structure; as if each part was made on a whim, after they finished their homework.
+
+TL;DR: Graphics are okay at best, combat is rather pointless, controls are very stiff and clunky, dialogue isn't very well written, story/plot is boring and actually makes no  literal sense at all.
+
+Take it from me, just dont get this game.
+
+
+My review to the sequal ""HIKIBYOU2"": https://steamcommunity.com/id/Roran212/recommended/586450",1540001817,1541960586,False,0,0,0,0,True,False,False,False,,,
+44783636,"{'steamid': '76561198273536383', 'num_games_owned': 712, 'num_reviews': 107, 'playtime_forever': 260, 'playtime_last_two_weeks': 0, 'playtime_at_review': 184, 'last_played': 1554963193}",schinese,...,1537198814,1537198814,True,0,0,0,0,True,False,False,False,,,
+42954604,"{'steamid': '76561198239812938', 'num_games_owned': 522, 'num_reviews': 162, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 220, 'last_played': 1503175083}",schinese,未下载，待评价,1529731012,1529731012,True,0,0,0,0,True,False,False,False,,,
+42914639,"{'steamid': '76561198063808247', 'num_games_owned': 591, 'num_reviews': 5, 'playtime_forever': 278, 'playtime_last_two_weeks': 0, 'playtime_at_review': 278, 'last_played': 1529697577}",english,"Does not accurately depict the life of a hikikomori, 0/10.
+Story makes no sense, as a hikki would not go outside for some manga. He also has unreal upper body strength - sure, let's say he has a pull-up bar in his room and works out. In that case, his room is still spotless, even to the point where his bed is made. There's not a single trace of manga or figurines in his room???
+
+Anyway, every aspect of the game was subpar. The combat was the worst in my opinion (happened too often, too repetitive). The movement made me want to vomit. It felt so clunky and random. 
+
+I was pleasantly surprised by the platforming and level design, although there are some cheap deaths here and there.",1529630685,1529679956,False,1,0,0.464313149452209473,0,True,False,False,False,,,
+40320194,"{'steamid': '76561198190642982', 'num_games_owned': 400, 'num_reviews': 170, 'playtime_forever': 280, 'playtime_last_two_weeks': 0, 'playtime_at_review': 262, 'last_played': 1521164005}",english,"I liked jump boxer so I bought this game. This is much better than jump boxer. The main downside is the backtracking. Everything you do, you do backwards too. Other than that, pretty good game with some nice art and mostly good controls",1519367424,1519367424,True,2,0,0.534883737564086914,0,True,False,False,False,,,
+35633061,"{'steamid': '76561198170935199', 'num_games_owned': 321, 'num_reviews': 15, 'playtime_forever': 217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 217, 'last_played': 1494099017}",turkish,Save olayını düzeltirlerse daha güzel olur.,1507704609,1507704609,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+34591954,"{'steamid': '76561198040768646', 'num_games_owned': 779, 'num_reviews': 72, 'playtime_forever': 433, 'playtime_last_two_weeks': 0, 'playtime_at_review': 433, 'last_played': 1504074504}",english,"(UPDATE) you finally figure out most of the RNG death jumps after 5-6hrs
+
+An Imp? A Fiend! was really tight fun platforming so I thought this would be the same, it kinda is but different and slightly worse.
+Random jumps are 10x harder than others because RNG if your person will grab the ledge or just slide fall to your death
+level 5 is just sadistic",1504049388,1521081646,True,0,0,0.455228567123413086,0,True,False,False,False,,,
+34073093,"{'steamid': '76561198069964096', 'num_games_owned': 893, 'num_reviews': 16, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1514369349}",english,"I wish there was a ""neutral"" thumb because this game COULD be good if they got rid of every cheap mechanic and polished controls a little bit. Every time you die it feels as if the game is purposely screwing with you. Some would say it just requires ""skill,"" but the controls are sometimes just intolerable. 
+Definitely one of the most frustrating games I have ever played, not asking for a refund just because it was one dollar.",1502072451,1502072467,False,3,1,0.520681977272033691,0,True,False,False,False,,,
+33685921,"{'steamid': '76561198330855910', 'num_games_owned': 310, 'num_reviews': 2, 'playtime_forever': 345, 'playtime_last_two_weeks': 0, 'playtime_at_review': 345, 'last_played': 1483086703}",spanish,Es un juego sensillo y corto pero si te gustan las mecanicas te atrapa rapidamente hasta que lo terminas.,1500601182,1500601182,True,0,0,0,0,True,False,False,False,,,
+33600964,"{'steamid': '76561198304018601', 'num_games_owned': 1279, 'num_reviews': 56, 'playtime_forever': 223, 'playtime_last_two_weeks': 0, 'playtime_at_review': 223, 'last_played': 1500187830}",japanese,"1周クリア。
+全5章仕立ての8Bit風アクションゲーム。
+ゲームの内容はダッシュ、ジャンプ、かべのぼり、つかまりなどを駆使して進むパルクールと、弱攻撃、強攻撃、ジャンプ攻撃を使って戦う戦闘パートで構成されている。
+かなりシンプルな内容だが、パルクール部分は操作に慣れてくるとかなり気持ちよくプレイできる。逆に戦闘パートはシンプル過ぎて面白味は少な目。せめて投げや溜め攻撃くらいは盛り込んでほしかったところ。
+ちなみに本作のタイトルは『引きこもりの中二病』だが、本編のテキストは全英語。まぁ、日本語なくてもクリアすることは可能ではある。
+
+以下ネタバレ含む攻略TIPS
+・かべのぼりはかべに向かってジャンプする距離が長いと出ない仕様。パルクールが上手くできない人はココを意識するとだいぶ変わってくるはず。
+・戦闘時何も入力しなければプレイヤーキャラはガードしてくれる（一部の攻撃で例外あり）
+・敵をダウンさせた直後にジャンプすることで反対側に回り込むことができる。挟み撃ちで近づかれるとジリ貧になるので必要な時に。
+・刀のボスの攻略法は『ボスが刀を振りかぶったらすかさず攻撃』あとは根気。",1500268893,1500268893,True,0,0,0.476190477609634399,0,True,False,False,False,,,
+33441208,"{'steamid': '76561198085487096', 'num_games_owned': 1624, 'num_reviews': 12, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1499638355}",english,"[h1] Hikikomori No Chuunibyou [/h1] is a little plateformer with combat element that I looked into almost randomly. It has a lot of good ideas but sometimes fails to executes them, making the game very frustrating sometimes.
+
+[b] Gameplay [/b]: So. This game is a 2D plateformer where the protagonist have parkour and fighting skills. You basicaly have to go from point A to point B to point A again to point C and so on. Of course your errand won't be without obstacle. You will have to go through lasers, surveillance drones and many other traps that sometimes have no reasons to be here. The run is quite enjoyable, you first feel like you can try to rush all levels because of the character's parkour assets but you will soon realize that is not the case because of the controls. You will eventually get the hang of it but still. They sometimes feel really inaccurate and some level with precise jump can become really frustrating to play. Plus, the condition to trigger the wall run are too specific (the wall which you want to run on have to be close from where you start the jump, too close), making the game more realistic in terms of wall running but in a game where some ennemies can hadoken and others can do Demon fang it feels out of place. Ah, while we are getting on it, there is combat too. The problem is : why. There is absolutly no point to introduce combat mechanism in a game like that, when you enter in a room where you have to fight, you cannot just run past them you have to knock them  out and it breaks the rythme of the game, You have to stop and just spam the A button, because battle are very easy. Even boss fight are too easy. 
+
+[b] Art [/b] : It is minimalistic, there is a lot of recycled sprite from precedent level is used but overall it's ok. It's not bad nor it's very good. However it can feel repetitive because of the abundance of recycled sprite for the background, particulary when you are inside,plus you have to do each level the other way so it doesn't help. thankfully (I guess) the game is very short so this feeling doesn't last.
+
+[b] Musics and sounds [/b] : I didn't hear a lot of different musics within the differents levels, actually during some cutscenes there wasn't any music at all. And in terms of sound design it's not very detailled, every sound in the game kind of sound the same, most ennemies doesn't have sound effect at all. Still musics and sounds aren't unpleasant, it just lacks variety, like for the art.
+
+[b] Story [/b] : This is the real bad point for me, you are basicly told to go from one point to one another for some stupid reasons, at one point I wanted to skip all the dialogue so bad but still paid a little attention to, it wasn't worth the effort.
+
+[b] Summary [/b] :
+
+Pros : 
+- Lot's of good ideas
+- Chalenging levels
+- High speedrun potential
+
+Cons :
+- Floppy and unprecise controls that can get you angry sometimes (thankfully I was patient)
+- Useless combat mechanism that will just break the fast paced rythm of some levels
+- Have to replay most levels in reverse
+- The story
+- The lack of variety is compensated by the short life time of the game, I don't know how to feel about that
+
+55/100 It is not bad, nor it is good but I still enjoyed it so I will give a positive mark. It is very short but the low price tag compensate for it (even if I usually don't take price tag in account, 3hour really does feel too short). Also keep in mind that I will give a positive review (above the 50/100 bar) for every game that made me entertained for the good reason but that there is similar game that are far better than this one. Still I won't give a negative review because there are other games that are better than that one. I just say that only if you have already look into most of the games that are similar to Hikikomori and you are bored then you should try it.",1499721954,1511481104,True,1,0,0.502487540245056152,0,True,False,False,False,,,
+33265410,"{'steamid': '76561198073644351', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 237, 'playtime_last_two_weeks': 0, 'playtime_at_review': 237, 'last_played': 1502498516}",english,"I really like this game, don't let the negative recommendation tell you otherwise. The only and major beef i have with this game is the combat mechanics. The game would benefit greatly if you made it more tolerable or removed it all together. It is the only thing that ruins the game for me. Other than that, this is a really entertaining game that is fun to try and speedrun when you've already beaten it.",1499242599,1499242624,False,0,0,0,0,True,False,False,False,,,
+33107432,"{'steamid': '76561198202131964', 'num_games_owned': 106, 'num_reviews': 13, 'playtime_forever': 253, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1610408716}",english,"The game is quite difficult and it has a tendency to throw you into situations where you have to spam your way to victory. It has some elements of parkour and some from fighting games. The story isn't anything to write home about, but seems to take a lot of queues from anime like Welcome to the NHK and such, it really likes making references to other anime. Overall, not a terrible experience considering the low asking price. 6/10.",1498954180,1708048419,True,1,0,0.52173912525177002,0,True,False,False,False,,,
+30441682,"{'steamid': '76561198251210292', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 232, 'playtime_last_two_weeks': 0, 'playtime_at_review': 232, 'last_played': 1489219197}",russian,"Честно говоря, практически во всем Hikikomori проигрывает второй части игры  - HIKIBYOU2. Платформинг проще, драки долгие и их нельзя пропустить, боссы очень легкие. Основная сложность - кривоватое управление, из-за которого ты часто можешь недопрыгнуть, перепрыгнуть, сорваться в пропасть/наткнуться на что-то и умереть на ровном месте. К счастью, это не так страшно, ведь перед каждым экраном игра автоматически сохраняется. 
+
+6/10 - не плохо, но и не хорошо. Лучше возьмите вторую часть",1489219733,1489219733,True,2,0,0.552784979343414307,0,True,False,False,False,,,
+30222218,"{'steamid': '76561198001074885', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'last_played': 1488209811}",japanese,"私個人的には、あまり心を射止めてくれるゲームではありませんでした。
+２Ｄゲームは大好きですが・・・・。
+やってると思うんですが、なんか足りないなぁーっと思うゲームでした。
+個人的なご意見ですので、ご参考までにｗ
+",1488210154,1488210154,False,13,0,0.600869596004486084,0,True,False,False,False,,,
+29790018,"{'steamid': '76561198141674472', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 343, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1512792893}",french,"HNC est un jeu fait pour les nostalgiques de jeux des années 80, le design et le game play s'en rapprochant pas mal. Effectivement faut pas s'attendre à une grosse bête, mais plutôt à un jeu rendant hommage à cette époque : j'ai pour ma part une Séga MasterSystem II, et HNC me fait un peu le même effet que certains des jeux dispos dessus, spécialement Shinobi. Un jeu à l'histoire simpliste (même si certains détails pour avancer dans le jeu sont dans les dialogues, incohérence sur ce point-là) et à l'ambiance fort sympatique de ville japonaise. Deux points négatifs que j'ai retenus tout de même : un contrôle du perso sur les murs parfois... disons ""étonnant"", et une quasi absence d'items, si ce n'est quelques clefs. Malgré ça je n'en regrète pas l'achat.",1486590007,1486590007,True,0,0,0,0,True,False,False,False,,,
+28485728,"{'steamid': '76561198067477613', 'num_games_owned': 223, 'num_reviews': 3, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1482239380}",koreana,"I liked the background, the concept and the atmosphere of the game. But it is repetitive and it is easy to get tired due to lack of patterns.",1482239752,1482239752,True,0,0,0,0,True,False,False,False,,,
+28446250,"{'steamid': '76561198075214178', 'num_games_owned': 314, 'num_reviews': 76, 'playtime_forever': 438, 'playtime_last_two_weeks': 0, 'playtime_at_review': 299, 'last_played': 1535353778}",english,"The style and tokyo music dragged me in.
+Even with the (somehow, someway) difficult controls
+of wallrun and walljump.
+The fighting parts are separated from the platformer parts.
+I liked the level design. getting a key and then going thru the same screens, only backwards.
+If you go for all achievements this game needs time and dedication.
+The game demands 100% timing and precision.
+
+I can recommend because
+Flying kicks RULE",1482064160,1482064160,True,3,0,0.550507843494415283,0,True,False,False,False,,,
+28361603,"{'steamid': '76561198144159089', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 427, 'playtime_last_two_weeks': 0, 'playtime_at_review': 427, 'last_played': 1515396316}",english,"https://www.youtube.com/watch?v=RjRt-kLBqHg
+
+well, it doesn't actually show much in the way of evolution, but I will admit I enjoyed this one even after marathon-ing his  previous three titles; which, at the time, I considered, slightly good, better than good, and a slap back down to boredom and frustrating for each one in turn.
+
+The story for this one: you are 14, a famous artist, a prodigy martial artist, and you are high... seriously,  in this one, the main character just does the auteur artist ""thing"" and gives his own version of ""by the power of grey skull"" right before he runs off for an appointment or opts to take a side quest. he goes on like this for a while, sometimes going into a huge goth/ anime/ Shakespearean sonnet when he runs into new people. The cosmic horrors don't REALLY show up until the end, and even then, the AI is programmed in such a way that everything looks more deliberate. so I personally choose to believe the ghosts and zombies near the end are actually magicians with flame throwers and homeless people respectively.
+
+My wording may be a bit sardonic, but really it’s a... YOU GUESSED IT... tale about a free runner kid in modern japan, who gets roped into dealing with the mob, and gets stalked by entities of cosmic horror, sort of...
+
+but here's the thing: ITS ACTUALLY GOOD!!!
+
+-the story actually follows a three act structure, with few plot holes (considering), and not only does it make sense, it also doesn't destroy the cannon of a far more deserving game. it's actually most like that of old school RPG's, but while it is a rigid story structure - it is still a giant leap in the right direction
+
+-the game play mechanics are similar to that of the way of the pixelated fist. while animation is less fluid, the really stupid press up or down to block randomly generated/ unpredictable attacks ""bull****"" is gone. fighting actually feels more like a skirmish with single button attack patterns and limited combos. its good!
+
+-the environments... well the environments still look like Ninjahtic a bit,
+
+-sound track... look smooth jazz in the rain is great, but for some reason it’s really grating here, AND all of the tracks seem to merge together after awhile. And as the game gets more and more tense, the music starts to lul me to sleep, and it just tenses my mind, to the point that I actually had to start listening to classic rock music just to be able to focus... if that makes sense
+
+-the main character (and all of the characters for that matter) actually has a personality. Some characters are all harsh and stern and some never really left Woodstock... but that's just fine and sometimes its wholly enjoyable!
+
+i just take umbridge with 3 things:
+
+1) game-play doesn't inform your story. 
+
+out on the street, trying to make a martial arts name for yourself? hey lets have a street gang fight the main character the entire way... instead of steadily getting worse with every poster...
+
+an impostor is hounding you? well lets just bring him up out of context among other anime references and drug addled ramblings... instead of running into him, stealing, and then selling your work a few times...
+
+2) the music, for some reason, doesn't sound as good...
+
+and 3)this isn't a new game play style.
+
+the screens don't scroll, to my knowledge, and the combat and free running elements are back in full swing. sure the pole standing mechanic is a breath of fresh air, and it isn't the same wall jumping, pixel nightmare like the last three, but the whole game is still a 2d/platformer/beat 'em up
+
+branch out, do something more zelda ish, or something more metroidvania, or even try to do something like hyperlight drifter to get out of the usual comfort zone. focus on making a HEARTFELT story and make an RPG, or just experiment with something else entirely different.
+
+i do, However, enjoy this game, and I choose to see it as both a fresh step, and a massive apology for releasing ""the way of the pixelated fist"" in a broken and unforgiving state.
+
+its good again blaze, just a few minor tweaks and it could really be something... but its all actually starting to feel FLAT. I marveled at ""samurai_jazz"" and all that was was a zelda dungeon stretched out to a full game all to itself (VERY Broadly speaking, that is) and I liked the sequel, but the sense of immersion has dimmed to less and less with each game; until now, when I see the city in the background as more of a matte painting than the setting of a grand adventure.
+
+if you want to move on, and get better:
+design something from scratch and make it a somewhat enjoyable experience, using what you learned as a guideline
+
+if you want to revisit your  classics and focus on the past, then let me suggest a script:
+
+""The demon lord has been defeated, and the earth has been fixed by Imp-Fiend (who now has no place to go and is stuck in the mortal plane). after doing the whole ghost/'poltergeist' thing around the world he runs into Dag. 
+Then, as Dag, you start to follow the advice of some shadow (that we all know as Imp Fiend) and make your own martial arts street gang steal a bunch of art and old weapons. This gets the attention of 'Ninja'.
+Ninja starts to notice the drones and cyber punk alien stuff gravitating to one point in the city. 'Ninja' runs about taking out the drones and 'tomb raiding in the catacombs'. 
+Imp Fiend then uses Dag's gathered tech and ancient weapons, to make a new body. the ancient tech goes haywire, and falls into the control of the aliens. 
+Dag and Ninja make a break for it into the jungle and meet Imp Fiend who basically says 'sorry, it’s what I do'. everyone has their backs up against the wall as the aliens approach... so Imp Fiend throws open a portal and calls fourth death incarnate. 
+tons of creatures and ghosts fly out of the portal. they all run again for a short time (all the while cursing this dark ghost (that we all know is Imp Fiend)). at the very end of the path, the 3 are hiding behind cover, from the aliens and malevolent spirits, and the Ronin digs himself from the earth, behind the hoard. As Ronin, you slaughter the alien herd and lead the others to safety. 
+The final levels take place in the neo 40's Tokyo district; and are equal parts poltergeist -ing, Ninja poof jumping through air ducts to hack computers, Dag directing runners/gang members to secure buildings, and Ronin hack & slashing and stealth killing AND dodging/acrobatically jumping over ghosts and aliens.
+When everyone gets to the end of the district, it turns out that 'Ninja' is still under the control of the aliens, and has actually been relaying info to them the whole time. He is beaten back into a coma by Dag. Imp Fiend, Ronin and Dag find the 3 spirit mobsters in the old building and ask them to banish the aliens and demons. the spirits retaliate, Imp Fiend wins his battle, but gets canceled out, Dag wins but gets thrown out of the building to the arms of his gang, and Ronin wins against his own special boss. The three tell him that the only way to banish the wicked spirits is if he dies (since Ronin is the last thing holding open Imp Fiend's portals).
+Ronin is assisted in suicide by the ghost of his dead master, as Dag and his gang watches the final honorable rite. cut to a final epilogue with a picture of Dag and his gang carrying Ninja and Ronin's sword back to the mega city all the while, stalked by the alien princess…”",1481730206,1548621302,True,1,0,0.502487540245056152,0,True,False,False,False,,,
+27899905,"{'steamid': '76561198018061433', 'num_games_owned': 1510, 'num_reviews': 1588, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1480290189}",german,"Ein Mix aus Kämpfen, Parkourmäßig durch die Areale kommen und von Gegner verstecken oder irgendwie durch kommen
+
+Wieder ein Spiel das sich etwas selbst ins Aus schießt... 
+Über die Steuerung lässt sich streiten, denn das Springen und Wände hoch laufen ist manchmal echt schwerfällig, wodurch man nur in den Tod springen kann. Anderseits ist diese Idee des Fortbewegens relativ neu und mal was anderes (gut). Die einzelnen Level ziehen sich teilweise in die Länge, wodurch man reines Areale abklappern macht, wie ein Arcade oder ein Gelegenheitsspiel. Mit einem Unterschied, das Spiel hat eine Story, die mich aber kaum beeindruckt hat. Was mir gerade beim ersten Level negativ aufgefallen ist, das wenn man es geschafft hat von A nach B zu kommen, wieder nach A zurück muss. Das heißt alles wieder von vorne sehen und machen. Naja zieht die Stimmung runter. Im zweiten Level war es leider nicht viel anders, nur neue Gegnertypen und Areale sind hinzu gekommen. Der Soundtrack ist jetzt nicht schlecht, aber baut kaum ein gutes Spielgefühl auf, da er sehr monoton ist. 
+
+Insgesamt nicht grottenschlecht. Man bekommt für 2 € das man dafür erwartet, also ist der Preis fair. 
+Eine Demo wäre hier nicht schlecht. Das Game ist Geschmacksache... Gameplay ist nicht schlecht, wurde mir aber nach fast einer Stunde zu langweilig und es wurde zu viel wiederholt.",1480291136,1480291317,False,3,0,0.544192850589752197,0,True,False,False,False,,,
+25685673,"{'steamid': '76561197971126472', 'num_games_owned': 871, 'num_reviews': 19, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 204, 'last_played': 1514983771}",english,"My apologies to the dev.
+Once, he reported me for abuse.
+I made a youtube vid about his game.
+It wasn't very nice.
+But I still don't like it.
+Yet now the video is gone :)",1474785569,1589704921,False,2,0,0.340170830488204956,0,True,False,False,False,,,
+24750604,"{'steamid': '76561198090575730', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1469050295}",english,"A boring and extremely stupid plot that makes no sense, and repetitive gameplay that makes me wanna punch myself in the nose.
+
+0/10 will never play again.",1470525399,1470525399,False,4,2,0.385113239288330078,0,True,False,False,False,,,
+24717543,"{'steamid': '76561198062232099', 'num_games_owned': 5821, 'num_reviews': 291, 'playtime_forever': 380, 'playtime_last_two_weeks': 0, 'playtime_at_review': 380, 'last_played': 1470358651}",english,"[h1]What is Hikikomori No Chuunibyou?[/h1]
+
+Hikikomori No Chuunibyou is a pseudo 8-bit platform-adventure game with beat-em-up, puzzle, and stealth elements. At its heart it is a classically inspired platform game with retro graphics and outstanding storytelling.
+
+However, unlike classic platformers the unique selling point here is the utilization of parkour-style abilities and martial arts techniques.
+
+[h1]Mixed Feelings[/h1]
+
+Unfortunately, I have mixed feelings this time around. There’s something about the gameplay that isn’t as well executed or as fluid. I cannot quite put my finger on it. The parkour-style wall jumping and platforming don’t feel as engaging nor as pleasurable as the Ninjahtic games. In fact, they were often quite frustrating and rage inducing.
+
+One of the problems was that there were rooms where I found myself stuck in for extended periods of time. This didn’t happen previously. I breezed through the tutorial and learned the commands required to play the game. However, when it came to the scenes following those early ones I struggled. This is unlike me. Others have reported having similar issues. Many who had successfully completed the Ninjahtic games.
+
+[h1]Presentation[/h1]
+
+I thoroughly enjoyed the presentation of the game. Blaze Epic have continuity in their games presentation and production value wise. For such an inexpensive game to achieve such a consistent level is pleasing.
+
+What I have come to expect from their games is honesty. In many of the games that I play I feel that the screen shots are not representative of the game that you play at all. With Blaze Epic games I know that they are the genuine article. If you enjoy the artwork that is demonstrated in the screenshots then you’re going to enjoy the in game art. The same logic applies with the soundtrack. If the music used in the trailer appeals to you then you’ll find the same type of music utilized in the game.
+
+[h1]Is it Steamified?[/h1]
+
+Blaze Epic is a developer that understands the needs and wants of the Steam community. Therefore, the game does include trading cards and Steam achievements. The game comes with a set of six trading cards while for hunters there’s a total of 13 Steam achievements.
+
+[h1]Verdict[/h1]
+
+Obviously I have stated that I found the gameplay to be lacking the fluidity of the Ninjahtic games. However, despite this fact, it would be overly critical to not recommend the game. There are more highs than lows. Those who enjoy platforming games will find much to love here as well. The game scores highly on the value proposition. There’s more than enough content here to justify the inexpensive purchase price. I do recommend that beginners to Blaze Epic snap up The Ninjahtic Series as well.
+
+For similar reviews and popular giveaways (including hardware) please visit [url=http://www.steamified.com]Steamified[/url]",1470359909,1470359909,True,13,1,0.650516331195831299,0,False,False,False,False,,,
+24672536,"{'steamid': '76561198033855360', 'num_games_owned': 0, 'num_reviews': 68, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1470064274}",japanese,"仕掛けに当たったらおおむね即死な
+横スクロールジャンプアクション。
+この開発元の他の作品をやったことがあるなら、
+それと大体同じです。引きこもりだの中二病だのは
+かき氷の味選択程度のフレーバーでしかないので、
+そこに期待するのは止めておいた方が賢明です。
+
+即死系ジャンプアクションとして見ると、
+そこまで難易度が高いわけではないけど、
+一画面が一ステージのような構成になっていて
+ステージ内での途中セーブは一切ないので、
+チェックポイント間の距離はそれなりに長い、みたいな構成。
+ボリュームは価格相応ではありますが、
+値段分はまぁ遊べます。その辺は手堅い作りです。
+
+難点としては、アクション面の合間に
+ちょくちょく敵と戦うだけの戦闘面が入るんですが、
+これがとても退屈。即死アクションだけだと疲れるので
+箸休めを、というのは分かるんですが、箸休めにしては
+分量が多すぎるというか。基本的に左右に移動しながら
+攻撃ボタンを連打するだけの作業なのに、
+妙に出てくる敵が多くて、しかも頻繁にやらされる。
+正直これ邪魔なだけじゃないかなぁ……と。
+
+あと、これが作者のイメージするところの中二病なんだと
+思うんですが、ダイアログが読んでて正直キツかった。
+なんかね、外人が想像するところの典型的な
+間違ったブシドー的なバカ丁寧でもって回った物言いを
+馬鹿正直に直訳した感じと言いますか。
+何？中二病って海外だとこういう理解をされてるの？
+みたいな謎さがあります。どっちかというとこれ、
+薄っぺらい量産型ラノベ主人公のような。
+しかもアクションゲームだからテキストなんて
+読み飛ばしてもいいかと思いきや、
+たまに読んでないと次どこへ進めばいいのか
+分からないことがあるという……。
+
+そんなこんなで、ゲームとしての中核である
+ジャンプアクション以外の部分が
+ことごとく何か邪魔をしている感があります。
+8.5bit風グラフィックですがモーションとかはとても丁寧で、
+アクションゲームとしては十分に価格水準以上なんですけどね。
+でもこの作者さん、昔っから世界観の方を見せたくて
+ゲーム作ってるフシがあるんだよなぁ。ままらなねぇよなぁ。",1470154637,1470157648,True,26,6,0.743449807167053223,0,False,False,False,False,,,
+24662920,"{'steamid': '76561198136191450', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 198, 'last_played': 1469688008}",tchinese,還不錯，但就是太過於複雜跟重複性，使得遊戲越玩越覺得煩悶。,1470104541,1622973328,False,0,0,0.465116292238235474,0,True,False,False,False,,,
+24600426,"{'steamid': '76561198203407209', 'num_games_owned': 0, 'num_reviews': 72, 'playtime_forever': 134, 'playtime_last_two_weeks': 0, 'playtime_at_review': 134, 'last_played': 1469529275}",english,"I wanted this game to be good so bad, but it's just...not. The combat could be improved with a little polish and less cheap enemies, sure, but the level design really kills it. Going back and forth between a huge linier map with the ocasional inexplicable dungeon isn't metroidvania, it's just a waste of time that drags all the other flaws into the spotlight. 
+
+The dialogue is also very, very bad. I understand not being a native English speaker, but at the very least it needs an editor. Every character sounds like it was written by a literal space alien-no real engrish, but it doesn't sound like anything anyone would say in real life anyway. 
+
+There's a sequel on the way and I sincerely hope it improves on this one's flaws, because there's so much potential that just sadly wasn't executed well here.",1469816706,1469816706,False,3,0,0.497613608837127686,0,True,False,False,False,,,
+24464983,"{'steamid': '76561198272094881', 'num_games_owned': 1157, 'num_reviews': 122, 'playtime_forever': 412, 'playtime_last_two_weeks': 0, 'playtime_at_review': 412, 'last_played': 1469214096}",japanese,"タイトルに面食らうが、懐かしい2Dアクションでまあまあの出来で楽しめた
+引きこもりの中二病でもこれだけできるんだぞ！みたいなノリなのかな
+
+主人公は何回死んでもリプレイできるので初心者にはありがたいかなと
+ただアクションは結構難しいです。
+全5ステージで、個人差はあるが1ステージ1時間ぐらいのちょうどいい長さ
+（来た道を戻らないといけない面倒臭さはある）
+
+気楽に懐かしのアクションゲームを楽しみたい方におすすめ
+
+[url=https://www.youtube.com/watch?v=uRQRp2hLQtU&list=PLpH9nKtc4btRmEJWa13yzD0XcSqWmeMQJ]一応クリアしたので再生リストを貼り付けておきます[/url]",1469214679,1469214752,True,5,0,0.502148211002349854,1,True,False,False,False,,,
+24454242,"{'steamid': '76561198068192847', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1469166021}",english,"This game is cheap, yes, but not terribly interesting. The controls for the parkour elements are finnicky and difficult, and the platforming challenges just aren't that grand. It also uses some beat-em-up sections to change things up a little; those are more of a hindrance than an actual challenge. You can pretty much button mash through all of those. They're just tedious and exceedingly repetitive with the simplistic controls.",1469166325,1469166325,False,1,0,0.476190477609634399,1,True,False,False,False,,,
+24433024,"{'steamid': '76561198157514854', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1475961829}",english,great buy! it's reallyworth it. I just got it and it rules!,1469054730,1469054730,True,5,0,0.439170151948928833,0,True,False,False,False,,,
+24427093,"{'steamid': '76561198047633091', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 236, 'last_played': 1469029702}",koreana,중2병의 행동을 게임으로 보여주어서 치료하는 게임,1469030068,1510692126,True,0,1,0,0,True,False,False,False,,,
+24421206,"{'steamid': '76561197971373352', 'num_games_owned': 11776, 'num_reviews': 63, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1531528399}",japanese,どこがhikikomoriやねん！hikikomoriなめんなよ！！,1469000787,1469000787,False,17,13,0.549993753433227539,1,True,False,False,False,,,
+24416351,"{'steamid': '76561197981620225', 'num_games_owned': 1630, 'num_reviews': 13, 'playtime_forever': 261, 'playtime_last_two_weeks': 0, 'playtime_at_review': 261, 'last_played': 1468968746}",english,"Based on the trailer, I thought I would end up enjoying this game quite a bit. I love retro-styled platformers, and the idea of one that incorporated a free-running movements system into a 2D platformer seemed intriguing. Unfortunately, the parkour system is a huge frustration, as it doesn't seem as if the wall running triggers reliably when it should. Pair this with the unnecessary repetition of screens by having to play every one at least twice on each level, and things get annoying quickly. There are also some issues with being able to tell when the character will grab onto a ledge or hang from a bar, which can lead to seemingly random deaths.
+
+The game also seems to have an identity problem, as the parkour movement encourages speed and free-flowing platforming (when it works), but then there will be things inserted into the levels that you have to stop and wait for, such as drones to hide from or precise jumps to time between laser beams. Similarly, the combat sections seem to want to replicate a martial arts fight, and while you have various types of attacks, you can simply mash your basic attacks and get through pretty much any fight.
+
+The story also makes no sense. I assume that the concept of ""chuunibyou"" is something that Japanese people or fans of anime and manga would understand, but I had to look it up. Once I did, though, it seemed like a simple enough idea. In the game, though, it seems less clear what is real and what is in the character's delusion. There are also times where there are sentences that just don't make any sense, and the dialogue is often awkward and unnatural (such as the time the characters are discussing the virtues of manga artists and how they should be viewed, which feels very preachy directly toward the player). It was all very bizarre.
+
+It's really a shame, too, as it has a lot of potential, and when things work like they're supposed to, it can be really fun. I try to keep in mind that the game was only $2, so I wasn't expecting something as polished as a Shovel Knight or Freedom Planet, but the four hours I spent with the game were four of the most frustrating hours I've spent with a game in recent memory.",1468969600,1468969600,False,17,0,0.674245774745941162,2,True,False,False,False,,,
+24384838,"{'steamid': '76561198277848429', 'num_games_owned': 69, 'num_reviews': 5, 'playtime_forever': 100, 'playtime_last_two_weeks': 0, 'playtime_at_review': 100, 'last_played': 1468830061}",schinese,这游戏第一关前面操作起来有点不会但后面就变得很考技术了还好是无限生命 尽管这个英语太看不懂 只有慢慢摸索了总体来说 还是非常不错的游戏 O(∩_∩)O哈哈~,1468821939,1468821939,True,6,0,0.59655296802520752,0,True,False,False,False,,,
+24365102,"{'steamid': '76561198094309963', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 178, 'playtime_last_two_weeks': 0, 'playtime_at_review': 119, 'last_played': 1484855851}",english,"From the 2 hours I've played, I've got to say this is a pretty good game especially for being only 2 dollars. It is easily one of the better 2D platformers I've played.",1468725805,1468725805,True,4,0,0.400119185447692871,0,True,False,False,False,,,
+24345662,"{'steamid': '76561198116737392', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 213, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1468651343}",english,"This game is wonderful
+10/10",1468636843,1468636843,True,7,1,0.222601234912872314,0,True,False,False,False,,,
+24345489,"{'steamid': '76561198046755463', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 1217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1016, 'last_played': 1468734188}",english,"Very Nice Game!
+The achievements are fairly easy, and the gameplay of the game is nothing to shy away from.
+There are times where you can't get to a certain place in the game due to how difficult it may be to wall run, but as you proceed farther, you'll eventually get the hang of it. There is also Combat in the game, its your standard beat'em up control scheme: Strong attack, Weak Attack, Jump. I'm not entirely sure if you can die in the game (since there is no indication of a health bar or meter), but if you do get stuck in between two enemies, get ready to struggle to your hearts content to break free. For what it's worth being around 1$~2$ I'd say its a game thats worth picking up if you want something short and fun.
+",1468635853,1468635853,True,16,2,0.596112251281738281,1,True,False,False,False,,,

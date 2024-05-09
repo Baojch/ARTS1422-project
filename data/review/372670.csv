@@ -1,0 +1,260 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+161445695,"{'steamid': '76561198086000429', 'num_games_owned': 394, 'num_reviews': 9563, 'playtime_forever': 37, 'playtime_last_two_weeks': 37, 'playtime_at_review': 37, 'last_played': 1711372219}",turkish,"Yolculuk dört sessiz kahramanla başlıyor. Zindanlara girerler, düşmanlarla savaşırlar, patronları yenerler ve seviye atlarlar. Ama hayatlarının hepsi bu mu? Bu arada, gerçek dünyada, bir grup canı sıkılmış oyun tasarımcısı, sanal ve gerçek dünyalar arasındaki boşluğu doldurmanın yollarını arıyor.",1711386948,1711386948,True,2,0,0.545454561710357666,0,False,False,False,True,,,
+149150354,"{'steamid': '76561198427577011', 'num_games_owned': 69, 'num_reviews': 39, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1699067431}",english,"so in the steam library, its called ""realm of perpetual guilds"" when everywhere else it says ""eternal realm""
+lots of grinding, bland combat, and with npcs trying to be meta, all combining into a nice game where you spend hours doing nothing productive for boring boss fights.
+just go play almost any other game, unless you want to do your own steam dumpster diving.",1698607780,1698607780,False,0,0,0,0,False,False,False,True,,,
+128713436,"{'steamid': '76561198042317098', 'num_games_owned': 0, 'num_reviews': 852, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1671267059}",english,1/10,1671267075,1671267075,False,0,0,0,0,False,False,False,True,,,
+116815166,"{'steamid': '76561198132503739', 'num_games_owned': 601, 'num_reviews': 548, 'playtime_forever': 294, 'playtime_last_two_weeks': 0, 'playtime_at_review': 294, 'last_played': 1654944847}",english,"[b]My Playtime:[/b] 4.6h (finished the game)
+
+[h1]Intro[/h1]
+[b]Realm of Perpetual Guilds[/b] / [b]Eternal Realm[/b] is a combat-focused RPG Maker game. You'll explore dungeons after dungeons to beat a boss at the end of the dungeon. The game offers 7 dungeons in total with a minimal story in between.
+
+[b]Pros:[/b]
+- Combat-focused gameplay
+
+[b]Cons:[/b]
+- The game can be repetitive and boring to some people
+
+[b]Specs[/b]
+Intel Core i5-9300H 2.40GHz, 8GB RAM, NVIDIA GeForce GTX 1650
+
+[h1]Should you play this game?[/h1]
+[b]Yes.[/b]
+[i]If you don't mind a repetitive, combat-focused, and mediocre RPG Maker game, try this game.[/i]
+
+[hr][/hr]
+[h1]In-Depth Review[/h1]
+
+[h3]Visuals[/h3]
+Dungeons and towns look empty due to the lack of decorations and variations, which are noted by an in-game character as intentional due to their lack of skill. Although it was made to look that way, it feels as if the developer made an excuse for their lack of mapping skills, and blame it on the said character. A similar style looks apparent in both realms, whether it's the one designed by the man who made the in-game realm or the one they lived in.
+
+[h3]Story[/h3]
+The game introduces two realms: one where a realm creator lives and another where the creation of the said person lives in. The in-game realm barely has any dialogues, especially since the main characters have the ""silent protagonist"" trait which made them unable to talk. NPCs only talk one-liner that consists of either a rant about the game or a random topic, discouraging exploration.
+
+The real plot will only start to kick in once you finished a dungeon. The realm creator will then talk to his friends about some plan, which in turn will lead to the ending. Although the concept is interesting, the story still doesn't explain anything, especially since the plot was done as a material for the sequel instead - there is hardly anything that you learn about the game at all. No conflicts, no resolution, nothing.
+
+[h3]The Game[/h3]
+[b]Gameplay[/b]
+As I said before, [b]Eternal Realm[/b] is a combat-focused RPG Maker game. You'll be teleported to a town with 2 dungeons, and you need to explore both dungeons to be teleported to the next one. Repeat that 3 more times until you reach the fourth town, which is named like that, by the way, where you'll have one dungeon instead of two to explore. The concept is too redundant and predictable, making it not suitable to be played in one sitting.
+
+You can choose between 10 classes to make a party member of four at the beginning. What I liked about this is that the game tells which skills each class will learn - you don't have to guess which party members are suitable for your playstyle. The game won't allow you to change the party members once you have finished with your selection, though, so you need to be completely sure about what you chose at the beginning.
+
+[b]Combat[/b]
+The combat uses a unique combat system. The game calls it the free-turn stamina system, where you get an action based on the number of active players per turn. The action can be used to control a character, regardless if they have done anything in that turn or not. This means that you can use one character four times if you have four active party members in the same turn, giving leeway to some strategy. Enemies have different resistances and weaknesses, so you need to use the party member that has an advantage over the enemies to finish the battle quickly.
+
+As a combat-focused game, it does its job well. I liked that HP and MP are restored after a battle and you can save basically anywhere. Moreover, there is no distinction between physical and magical classes - unlike other [i]RPG Maker[/i] games, both physical and magical classes use MP for both skills and normal attacks in this game. MP will regen every turn and can be refilled quickly by using the Rest command, which is similar to Defend in other [i]RPG Maker[/i] games. Higher damaging skills will also be available as well, costing more MP than usual. Some classes have a unique skill that can help to support the party members, others have AoE attacks that can hit all enemies. All classes are useful in one way or another, and the free-turn stamina system helps to utilize their trait to the fullest.
+
+Enemies are also challenging in some way. They are not hard, but you might get killed if you are not careful. Heck, some normal enemies can even knock out a mage character in one hit. Since enemies hit hard, you need to prioritize the lethal enemies, wiping as many enemies as possible at the beginning. Some strategy will be required for this, and you'll have to tweak it based on the enemies that you meet along the way.
+
+[b]Length and Difficulty[/b]
+I finished the game in 4.6h. It's not difficult at all - you just need to be careful of the enemies to avoid getting your healer knocked out. Moreover, grinding is not required to finish the game. Killing all enemies on each screen once is enough to get you properly leveled up to face the boss in each dungeon.
+
+[b]Problems[/b]
+The game crashed on me once in the final boss fight. The issue doesn't seem to happen after I reloaded my save, though.
+
+[h1]Conclusion[/h1]
+It's hard to recommend [b]Eternal Realm[/b]. My opinion of this game is purely neutral since I don't have anything worth noting except its combat-focused gameplay that I enjoyed. However, the combat isn't as hard as what hardcore players will like, and the game can be boring to some people due to its repetitiveness. As for me, I don't mind the repetitiveness at all since I didn't play the game in one sitting, which might be the best way to enjoy the game. That being said, I doubt many people will enjoy it because of those reasons, but still, if you somehow enjoy combat-focused RPG Maker games, this game is free. You can just try it and see if it works for you - just don't expect too much from it or you'll be disappointed.",1654952979,1654954089,True,13,1,0.650869846343994141,1,False,True,False,False,,,
+100730596,"{'steamid': '76561198017967750', 'num_games_owned': 1537, 'num_reviews': 1327, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1633704291}",english,"Typical RPG Maker rubbish with ""Elite & n00b"" theme.
+Very slow, does not progress in background... :/",1633704384,1633704384,False,0,0,0,0,False,False,False,False,,,
+99613226,"{'steamid': '76561198026050130', 'num_games_owned': 0, 'num_reviews': 668, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1632045816}",german,"Nichts außergewöhnliches in meinen Augen. 
+
+Gespielt auf diesem Laptop System: https://valid.x86.fr/0u9wfj",1632045931,1632045931,False,0,0,0,0,False,False,False,False,,,
+96513471,"{'steamid': '76561198052489539', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 202, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1627611341}",english,"Tongue in cheek old school RPG, looks like it was made with the old RPG Toolkit or something similar. Made with a good attitude and enjoyable if you are into a little mindless farming. The stamina-based combat system is enjoyable and functional.",1627474034,1627474034,True,1,0,0.532163739204406738,0,False,False,False,False,,,
+74868271,"{'steamid': '76561198016046767', 'num_games_owned': 0, 'num_reviews': 1614, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1598323983}",english,Nope!,1598323991,1598323991,False,4,0,0.516401052474975586,0,False,False,False,False,,,
+74014744,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1596956344}",english,"RPG Maker strikes again! This is one of hundreds of low effort retro-pixel JRPG ripoffs spamming the Steam catalog, made with the RPG Maker video game construction kit... in their own words, ""Our easy to use tools are simple enough for a child.""  Like all RPG Maker ""games"", this is essentially a bunch of low quality/canned assets from RPG Maker coupled with a cringeworthy high school anime club weeaboo fan fiction.  Well, usually they are.  The ""developer"" didn't even bother with a story for this game.  It's just the RPG Maker engine and a bunch of pointless grinding combats.
+
+This might be one of the worst RPG maker games ever made.  And that's saying something, because RPG Maker games are almost always godawfully terrible, some of the worst games ever made.   The ""developer"" alludes to a meta-plot for the game, but this really doesn't work and it falls flat.  Like sitting in a cardboard box for fun, but pretending it's a spaceship, these guys made the lowest effort possible for an RPG Maker game and are telling gamers to pretend it's a better game, when they say it's about ""Meanwhile, in the real world, a group of bored game designers are looking to bridge the gap between the virtual and real worlds.""  What rubbish.
+
+Gamers who want a good retro JRPG experience would be better off playing the originals, like Final Fantasy, Star Ocean or Chrono Trigger.  Leave this terrible low effort non-game in the shovelware bundles where it belongs.",1596956683,1596956683,False,0,1,0.252887874841690063,0,False,False,False,False,,,
+61823588,"{'steamid': '76561198055119582', 'num_games_owned': 323, 'num_reviews': 2060, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1578921066}",english,"---{Graphics}---
+☑ Gnome.
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ Paint.exe
+
+---{Gameplay}---
+☐ Very good
+☐ Good
+☑ Gnome.
+☐ Mehh
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☑ Gnome.
+☐ Very good
+☐ Good
+☐ Not too bad
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☐ Kids
+☑ Gnome.
+☐ Adults
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☐ Check if you can run paint
+☑ Gnome.
+☐ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☑ Gnome.
+☐ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☑ Gnome.
+
+---{Story}---
+☐ Story?
+☑ Gnome.
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Gnome.
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☐ Worth the price
+☐ If u have some spare money left
+☑ Gnome.
+☐ You could also just burn your money
+
+---{Bugs}---
+☑ Gnome.
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+",1578968191,1578968191,True,0,1,0.454368948936462402,0,False,False,False,False,,,
+58713029,"{'steamid': '76561198054008254', 'num_games_owned': 1104, 'num_reviews': 1458, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1575109282}",english,"same RPG make from the same dev, it has more party but the difficulty is not scaled from the start, still no real objective",1575109515,1575109515,False,0,0,0,0,False,False,False,False,,,
+54834949,"{'steamid': '76561197974484281', 'num_games_owned': 2306, 'num_reviews': 1398, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1566888926}",english,Bad,1566891622,1566891622,False,1,0,0.478917717933654785,0,False,False,False,False,,,
+47657151,"{'steamid': '76561198125392509', 'num_games_owned': 715, 'num_reviews': 5239, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1545332882}",english,gamesense,1545333081,1545333081,True,1,0,0.0268195029348134995,0,False,False,False,False,,,
+45540512,"{'steamid': '76561198116879965', 'num_games_owned': 1283, 'num_reviews': 6897, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1540996195}",russian,помойка стим,1540996204,1540996204,False,2,3,0.0475916378200054169,0,False,False,False,False,,,
+35744934,"{'steamid': '76561198028570547', 'num_games_owned': 0, 'num_reviews': 2563, 'playtime_forever': 341, 'playtime_last_two_weeks': 0, 'playtime_at_review': 341, 'last_played': 1508078571}",german,"""Realm of Perpetual Guilds"" ist ein RPG-Maker Game.
+
+Zu Beginn müssen wir uns vier Typen aussuchen. Einige setzen mehr auf Waffen, andere auf Magie, wieder andere sind besonders gut im Heilen. Dann geht es los. Wir latschen durch Dungeons, treffen alle fünf Meter auf die immer wieder ähnlichen Gegner, bekämpfen diese in einem Taktikbildschirm, in dem wir die Aktionen unserer Truppenmitglieder auswählen, latschen weiter, bekämpfen ähnliche Gegner, latschen weiter, finden eine Kiste, latschen weiter, bekämpfen ähnliche Gegner und nach reichlich Wiederholungen der obigen Sequenz kommen wir an einen Boss, der auch nicht anders zu bekämpfen ist als die ewig ähnlichen Gegner. Er hält nur deutlich mehr aus und ist nur zu schaffen, wenn wir schon mehr als reichlich Kämpfe bestritten haben und dadurch schon um einige Stufen aufgelevelt sind.
+
+Das ist das repetetive Spielprinzip vieler RPG-Maker Titel und das ist auch hier nicht anders. Einziger Unterschied: das Spiel ist sich dessen bewußt, nimmt sich nicht ernst und liefert immer wieder witzig gemeinte Kommentare zum Spielprinzip ab. Die sind allerdings nur bedingt witzig, denn das Spielprinzip bleibt monoton und eintönig: Wir latschen durch Dungeons, treffen alle fünf Meter auf die immer wieder ähnlichen Gegner, bekämpfen diese in einem Taktikbildschirm, in dem wir die Aktionen unserer Truppenmitglieder auswählen, latschen weiter, bekämpfen ähnliche Gegner, latschen weiter, finden eine Kiste, latschen weiter, bekämpfen ähnliche Gegner und nach reichlich Wiederholungen der obigen Sequenz kommen wir an einen Boss, der auch nicht anders zu bekämpfen ist als die ewig ähnlichen Gegner. Er hält nur deutlich mehr aus und ist nur zu schaffen, wenn wir schon mehr als reichlich Kämpfe bestritten haben und dadurch schon um einige Stufen aufgelevelt sind.
+
+Ach, das hatte ich schon geschrieben. Verzeihung, ich bin noch in diesen Wiederholungsschleifen gefangen.
+
+[h1]Wertung:[/h1]
+4/10 Atmosphäre
+5/10 Story
+4/10 Grafik
+4/10 Sound
+4/10 Spielmechanik
+3/10 Balancing
+4/10 Spielspass
+
+[h1]Fazit:[/h1]
+Perpetuum Immobile.
+
+[h1][b]4/10 Gesamtwertung",1508067158,1508067158,False,11,1,0.442840218544006348,0,False,False,False,False,,,
+34125627,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1502286987}",english,"Tags: Topdown - RPGMaker - Party RPG
+Additional Tags: Delete Local Content & Remove from Library
+
+Note: Paid for this in a bundle. Guess dev went F2P afterwards. 
+
+Dev did not know how to make a decent game that was not generic, so decided to make it generic on purpose. Unfortunately his lack of talent extends to level design, writing and humor and you end up with stock assets, maze like square rooms, npcs who talk about being npcs over and over beating a dead horse and bosses called ""entry level boss"". Dont bother",1502287121,1502287121,False,2,0,0.493633121252059937,0,False,False,False,False,,,
+29780633,"{'steamid': '76561198203107815', 'num_games_owned': 101, 'num_reviews': 49, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1470688668}",polish,xD wylosowałem ją na stronce xD,1486557601,1486557601,True,0,0,0.407594591379165649,0,False,False,False,False,,,
+28640405,"{'steamid': '76561198116517331', 'num_games_owned': 3242, 'num_reviews': 302, 'playtime_forever': 136, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1482686141}",english,"Probably the worst RPG Maker game I've played on Steam.  The writing is awful, and the combat system is so grind heavy that it's hard to play for more than two hours without giving up.",1482686136,1482686136,False,3,0,0.535873949527740479,0,False,False,False,False,,,
+23965179,"{'steamid': '76561198098400194', 'num_games_owned': 0, 'num_reviews': 463, 'playtime_forever': 647, 'playtime_last_two_weeks': 0, 'playtime_at_review': 647, 'last_played': 1467316949}",spanish,"No entiendo las críticas tan negativas.
+Sólo hay combates y apenas hay historia, si, pero ya desde el principio te advierten que el objetivo del juego es combatir.
+El sistema de combate es muy bueno, y lo suficientemente flexible como para no usar el botón d atacar una y otra vez.
+Los combates no son aleatorios, ves los enemigos en el mapa, y eso me gusta. Cada vez que acabas una batalla, te curas completamente, y los ccaidos resucitan, por lo que tienes inentivos para usar odo lo que tienes en los combates conn los enemigos comunes.
+En definitiva un buen uego para echar un rato si te gusta combatir en los JRPGs",1467317903,1467317903,True,0,0,0,0,False,False,False,False,,,
+20080366,"{'steamid': '76561198196444306', 'num_games_owned': 1155, 'num_reviews': 438, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1451420818}",english,"One of the problems I have with some RPGMaker games is that there aren't enough battles. Realm of Perpetual Guilds isn't like that, there are lots of battles, maximum gameplay with diverse characters and abilities. The story is solid too, self-aware and funny.",1451420127,1451420802,True,4,3,0.346124053001403809,0,False,False,False,False,,,
+18920391,"{'steamid': '76561197988663774', 'num_games_owned': 3547, 'num_reviews': 351, 'playtime_forever': 178, 'playtime_last_two_weeks': 0, 'playtime_at_review': 178, 'last_played': 1439874614}",english,"This JRPG is a dumpster fire. It has a potentially interesting base for the combat system, which it calls a ""Free-turn Stamina Battle System."" Basically, you get turns equal to the number of alive and action-capable party members you have in the battle, and may distribute them freely among your characters. This is balanced by everything, even basic attacks, costing SP.
+
+Unfortunately, I wasn't a big fan of the game balance or how the system worked even so, being as how it generally broke down to playing as normal (or just ignoring one character) in most cases, but ultimately even if it was better, this game would have squandered it both by not having many options available for your characters until late in the game (like, until almost the end game, characters will only be able to wield one physical element, or one magical element and suck at one physical element... and enemies have varied resistances that it is useful to overcome), the game being horrifically grindy, and how it basically doesn't have a story at all, except for a vague sequel hook.
+
+As such I have to say this is recommended for no one at all.
+
+(I didn't complete this game because it was terrible, but I decompiled the game to look at the mechanics and my friend shinichizio did complete it, so I feel comfortable saying it doesn't get better after when I stopped, and also with my choice not to play any more, ever.)",1446859236,1446859236,False,5,0,0.515939533710479736,0,False,False,False,False,,,
+18425056,"{'steamid': '76561198053070206', 'num_games_owned': 9982, 'num_reviews': 267, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1444556115}",english,"Maybe this game is one of the reason people hate RPG Maker games.
+No plot, No character development, Conversation only include joke lines.
+
+The gameplay is only grinding then fight the stronger enemies.
+Rinse and repeat till you finally finish the game.",1444556111,1444556111,False,33,2,0.705359280109405518,0,False,False,False,False,,,
+18393989,"{'steamid': '76561198087834803', 'num_games_owned': 0, 'num_reviews': 228, 'playtime_forever': 173, 'playtime_last_two_weeks': 0, 'playtime_at_review': 173, 'last_played': 1443672143}",english,"More like Realm of Perpetual Grinding.
+
+I mean, if you enjoy grinding, the battle system's not bad. Basically you get a turn for each character in your party and can divide them up as you want, so you can, for example, give more turns to your fire mage against enemies weak to fire, or change your party's turn order on the fly. Your health and stamina is restored after battles, and you can save anywhere--which more hardcore players might not appreciate, but fuck them.
+
+The story is a meta satire thing about a world of generic RPGs, but isn't clever enough to pull it off. Having characters basically say, ""Haha, [i]grinding[/i], am I right?"" isn't a substitute for actually trying to make grinding interesting, and constantly lampshading like, ""No, this is a dull, generic RPGMaker game [i]on purpose[/i], see?"" doesn't make it less dull to play, only irritatingly self-conscious about it. I only played through the first two towns, so maybe it gets better later on, but I think I gave it a fair shake.",1444388228,1444423882,False,16,2,0.658889532089233398,0,False,False,False,False,,,
+18389007,"{'steamid': '76561197979648307', 'num_games_owned': 1004, 'num_reviews': 28, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 79, 'last_played': 1444001793}",english,"Wow, people are being really harsh on this game  =(
+I suppose I should state I have no affiliation with the devs or anything. I just actually like this game.
+Can you find other RPG maker games that are different, have more content, or that you might consider ""better""? Yeah ... but that doesn't keep *this* game from being fun. 
+I like battles, this game is almost nothing but battles. It has a battle system that is similar to some other games, yet is somewhat unique. It has a plot that absolutely doesn't take itself seriously. Imo it seems like the ""plot"" is actually just a big satire about how there are so many RPGs, ""RPG Maker"" or not, out there and many of them seem like they were lacking in plot or came from the same place. While it didn't ""draw me in to the world"" with the story, it did make me laugh and have me amused. I have only played the game for like 1.5 hours so far, but I still have really enjoyed what I've played. I just saw that ALL the reviews (at the time I wrote this at least) were negative and couldn't believe it. This game deserves at least a little bit of love. I payed $2 for this game, and have almost put in 2 hours. A movie is like $11 for 2 hours, like the movie or not. I'd say I more than got my moneys worth since I have enjoyed the classes and battle system.",1444348233,1444348233,True,7,2,0.497597336769104004,4,True,False,False,False,,,
+17836017,"{'steamid': '76561198046170146', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1441137206}",hungarian,"This game is really bad.
+Maybe this game maded by 12-13 years old child or younger.
+
+Pros:
+- RMVX Tilesets and music. (Original flat but I really like it.)
+- Party build.
+
+Cons?
+- Nearly the whole game.
+- Booring empty story.
+- Not really optimized classes/prices/skills/drops.
+- Crap location/item names with zero fantasy.
+- Really poor map design (I really hate poor designed maps!)",1441137782,1441137782,False,0,0,0,0,False,False,False,False,,,
+17588369,"{'steamid': '76561198107147949', 'num_games_owned': 0, 'num_reviews': 79, 'playtime_forever': 584, 'playtime_last_two_weeks': 0, 'playtime_at_review': 584, 'last_played': 1439841702}",english,"From start to finish this game had no plot. It pretended to have a plot but instead it had disappointment. And a sequel hook.
+
+The combat system was at least interesting; you have turns equal to your alive and aware party members, and can dole them out as you please. Stamina prevents you (in theory) from just having Berserkergang von Killstick from just going four times every time and chopping everything.
+
+Unfortunately there was a lot of grinding. A lot of grinding!! I admit to cheating to get past the grinding at the very end of the game. The interesting and strategy-changing accessories and equips didn't unlock soon enough either.
+
+Overall, not the worst game on Steam but probably not worth more than a bundle price.",1439841887,1439841887,False,38,2,0.780936002731323242,0,False,False,False,False,,,
+17543755,"{'steamid': '76561198007226198', 'num_games_owned': 0, 'num_reviews': 182, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1439600904}",english,"This is the WORST RPG maker game on steam, the dev should be ashamed of themselves! There is nothing in this game that ANYBODY in the entire world could not do with a copy of RPG maker ACE. You can go on any RPG maker site and get a better looking, full screen game made with some actual love then this trash.
+
+Cons
+1. All default RPG maker RTP graphics
+2. Small screen, doesn't even use the FREE full screen script for the game...
+3. Takes up space on my HD
+4. Is on steam and makes all RPG maker games/devs look bad.
+5. Got in bundle so costs me about 30 cents, they should have paid me!
+
+Pros
+1. Makes me thankful for the GOOD RPG maker games.
+
+Do not buy this game, the dev has no idea what he is doing, a 16 year old boy on any RPG maker site makes better games for FREE!
+
+You owe me 30 min of my life back!
+
+Update! This sack of shit dev is now flooding Greenlight with 100% Default RPG maker RTP ""games""! Fuck your mother!",1439601554,1444659503,False,31,5,0.449755549430847168,0,False,False,False,False,,,
+16003891,"{'steamid': '76561198089751676', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1432590908}",english,"Do you like 20+ hours of grinding with little story? That is what you will get buying this game. The inital start is kinda cool but, some things don't make sense like you pick your 4 main characters with a character that isn't really you.
+
+Pros:
+- Music is okay
+- Humorous dialouge
+
+Cons:
+- Lacking Storyline
+- Grinding
+- Did not put effort into world design",1432591265,1432591265,False,44,1,0.598803818225860596,4,True,False,False,False,,,

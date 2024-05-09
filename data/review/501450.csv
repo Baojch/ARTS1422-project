@@ -1,0 +1,46 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+52779881,"{'steamid': '76561197984393147', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1561971974}",english,"""My favourite game ever is PiCross 3D and this is my favourite VR game ever.
+However it needs more levels and I can't find out how to play any of the workshop levels.
+And it needs more levels that are actually 3D blocks because the best feeling is when you get to be a stone mason sculpting out a design in 3D.
+I love this game, I really hope the person making it spends the time to make it better.""
+-Reviewed by my Girlfriend",1561971901,1561971901,True,0,0,0,0,True,False,True,False,,,
+45782531,"{'steamid': '76561198019467954', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1542040654}",english,"I finished the standard Puzzles in under 30 mins. Workshop has no really challenging puzzles either.
+I play Nonograms with pen and paper and with the android Nono3D app... both are way more fun and more challenging... I had such high hopes for this game... too bad.
+Three things I don't like about the gameplay:
+1) the puzzle sometimes vibrates when you demolish a few bricks at a time, causing you to accidentally hit cubes you wheren't aiming for.
+2) automatically updating the numbers on the side of the cube makes it way to easy and takes away the challenge
+3) on one of the random puzzles (maybe 37...not sure) there was no proper solution: you had to guess at one point.",1542041729,1542041729,False,1,0,0.525862038135528564,0,True,False,True,False,,,
+32247574,"{'steamid': '76561198121307766', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 243, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1530742230}",english,lel,1496875549,1496875549,True,0,0,0.436885267496109009,0,True,False,True,False,,,
+26013722,"{'steamid': '76561198009211989', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1476371423}",japanese,"トリガーを押しながらハンマーでブロックに触ると色が塗れます。
+VRとの親和性がとても高いと思いました。
+ワークショップに色々なお題が公開されているので、立体ピクロスを遊んだことのある人は是非！",1476371477,1476371477,True,3,0,0.565217375755310059,1,False,True,True,False,,,
+24592148,"{'steamid': '76561198025082190', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 85, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1486114512}",english,"TL;DR: This is early access, and in a lot of places it shows; still it's an interesting concept to take the nonogram into VR.  I know how much work it takes to create software, even simple things, so don't want to say 'it's not worth that' - but IMO the price is a little high for where this is compared to other VR entries - at this stage. Which isn't to say I didn't find it fun, but I think it needs more fleshing out still. If the price makes you cringe, come back later and see what's changed. If you like Nonograms, and can afford the price then go ahead and check it out, remembering this is early access still.
+
+One important note is that at this stage, this is more of a community nonogram tool, and less of a premade game. It doesn't currently come with a lot of puzzles - indeed, you get the alphabet. Everything else is from the workshop, of various qualiy. When you finish a set of puzzles, it appears to just start generating random ones. I got one puzzle that I couldn't mark or break the blocks on (but could pick it up); switching which set of puzzles I was doing and coming back didn't fix it.
+
+Some things I think should be fixed in future updates:
+[list]
+    [*] When holding the puzzle, it drifted a little relative to where my (rendered) hand was.
+    [*] Very easy to accidentally hit the puzzle. In a few cases it popped in, and tumbled straight into my hammer.
+    [*] The hammer is too big relative to the blocks - I was finding it too easy to hit ones nearby.
+    [*] There should be a good collection of stock puzzles.
+    [*] I found moving the puzzle around to get to different sides to be awkward, frequently involving me either putting it on the ground to grab it again, or tossing it and grabbing it while it was in the air. I'd much prefer a no-gravity option for unsolved puzzles so I can just let go and it stays where I let go of it.
+    [*] The summon puzzle ability was a little quirky to use, and would get the puzzle stuck to my rendered hand until I grabbed and released it.
+[/list]
+
+Anyways, these are all things that will likely be resolved as the game matures - perhaps not how I envision it, but in some manner.",1469783145,1469783425,True,2,0,0.520134210586547852,0,True,False,True,False,,,
+24548626,"{'steamid': '76561197984087175', 'num_games_owned': 2175, 'num_reviews': 45, 'playtime_forever': 548, 'playtime_last_two_weeks': 0, 'playtime_at_review': 482, 'last_played': 1484111884}",english,"I loved Picross 3D and this is even better in VR!!
+
+The Dev is very quick to respond, friendly and quick to push out changes and updates!
+
+The level creator is easy to use and fun!
+
+A couple things:
+ - [strike]Please at least give me an option to turn off the constant vibrate on the empty hand.[/strike] *Dev removed rumble while working on a fix*
+ - [strike]Add a level progression.[/strike] *Coming soon on the Dev's roadmap*
+ - Let me create levels in VR",1469587677,1470006663,True,3,0,0.541666686534881592,1,True,False,True,False,,,
+24548413,"{'steamid': '76561198004535976', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1469839683}",english,"This is great! I love Picross/Nonograms. Workshop support out of the box is incredible, though it will be nice if/when you add more included puzzles.
+
+Couple other bits of feedback: I keep accidentally hitting pieces, usually when they first spawn. Maybe they should be ""invincible"" for a couple seconds? Or maybe only count a hit when hammer velocity is over some threshold? Also I personally would prefer if the switch between hammer and highlight were a toggle instead of holding the trigger, and on that note would be cool if the when highlighting the hammer changed to a marker or something. I reailze this just came out on Early Access so you might have some of these things planned!
+
+Anyway, keep up the great work!",1469586336,1469586336,True,2,0,0.545454561710357666,0,True,False,True,False,,,

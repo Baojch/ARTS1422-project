@@ -1,0 +1,879 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+162366411,"{'steamid': '76561198086945751', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 3394, 'playtime_last_two_weeks': 399, 'playtime_at_review': 3394, 'last_played': 1712438486}",english,"Every time I sit down to play this, at least 6 hours go by!",1712438739,1712438739,True,0,0,0,0,True,False,True,True,,,
+162343040,"{'steamid': '76561199367805383', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 1160, 'playtime_last_two_weeks': 1160, 'playtime_at_review': 1001, 'last_played': 1712474009}",english,its really good,1712417144,1712417144,True,0,0,0,0,True,False,True,True,,,
+162318281,"{'steamid': '76561197992276385', 'num_games_owned': 235, 'num_reviews': 26, 'playtime_forever': 5290, 'playtime_last_two_weeks': 1044, 'playtime_at_review': 4773, 'last_played': 1712480391}",english,"I really like this game a lot. Even though it's not really a Tycoon.
+
+It's basically design your own little MMO. It is lacking in a lot of desirable features at this point.
+The game progresses by adding things to the world. whether it's a bush or a chapel, you get the same progress points. regardless of size or cost. These points unlock some (not all made yet) features of the game and mostly just add bonuses to the player types who may buy the game.
+
+You can build neat area's and kind of set up cool quest lines. But it's either kill this or go here. More of a way to lead your players to certain area's.
+
+Multi-select being added is huge. being able to group object into one object is huge. copy and pasting that cluster and not getting update progress is not cool.
+
+Multi select needs to offer a way for you to also edit NPC's - example I made a dungeon where I threw in about 400 NPC. it's supposed to be a grind on weak 1hp monsters. Problem is they award the same amount of EXP. I noticed this after I placed 400. I'm not individually changing 400 units. I ended up reworking how much exp it takes to level from killing. People are still jumping from level 5-7/8 halfway through the dungeons. The same Idea goes for shops. Especially if I want to increase prices per region. Maybe the sync can be Global vs Region.
+
+I'm looking forward to eventual guilds, factions, and all that entails, but PLEASE CONSIDER THIS AS A PRIORITY.
+
+Equipment. This doesn't have to be animated at the start, but my god is the game missing huge potential here that would make it more than a ""oh I made a pretty place"" sim.
+
+You should be able to make equipment that has stats + a level + a cost. These can be icons like abilities right now. These would give players nice buffs which would really help with bosses as well.
+
+You should select shops and allow it to sell through X level range. Then select the items you want it to sell that you've made. Say it's a level 10 area and I want to provide basic level 10 equipment in town. But I want a masterwork smith to be in the mountains, so they have to travel to a shop out there to get that specific equipment.
+
+I think this would be huge and add a lot to gold spend. especially if you can adjust prices. Adding dungeons and not understanding the economic impact of loot before launching has thrown my games economies into a whack.
+
+I have a ton of players who have 2-4k in gold.
+Then I have a bunch around 500. My only way to equalize it is to punish new players by making everything cost 50-500 gold. and a bit for transport too.
+
+
+overall I do love this charming game. can't wait for future updates,",1712390355,1712390355,True,0,0,0,0,True,False,True,True,,,
+162207398,"{'steamid': '76561198119691466', 'num_games_owned': 82, 'num_reviews': 3, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 61, 'last_played': 1580783646}",spanish,ya tiene mas de 4 años en acceso anticipado sin actualizaciones ni contenido ni nada,1712257377,1712257377,False,0,0,0,0,True,False,True,True,,,
+162181406,"{'steamid': '76561198066625638', 'num_games_owned': 1344, 'num_reviews': 158, 'playtime_forever': 698, 'playtime_last_two_weeks': 698, 'playtime_at_review': 698, 'last_played': 1711723731}",brazilian,"eu joguei uma madrugada inteira, esse jogo é bom demais, tem tanta função e coisa para configurar que tudo dá certo no final, agora tem como selecionar e duplicar objetos, o jogo tá perfeito, mas adoraria um modo de construir objetos ou um jeito de compartilhar construções (oficina steam seria incrível)",1712233054,1712233364,True,0,0,0,0,True,False,True,True,,,
+162007221,"{'steamid': '76561198152872670', 'num_games_owned': 244, 'num_reviews': 64, 'playtime_forever': 1596, 'playtime_last_two_weeks': 1596, 'playtime_at_review': 305, 'last_played': 1712463640}",english,you can put a human head on a bear and have it eat people,1712040356,1712040356,True,0,0,0,0,True,False,True,True,,,
+162003543,"{'steamid': '76561199018628966', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 536, 'playtime_last_two_weeks': 408, 'playtime_at_review': 452, 'last_played': 1712102903}",english,Zoo wee mama,1712034761,1712034761,True,0,0,0,0,True,False,True,True,,,
+161686958,"{'steamid': '76561198032695711', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 1065, 'playtime_last_two_weeks': 15, 'playtime_at_review': 1050, 'last_played': 1711670607}",french,Funny and interesting !,1711669671,1711669671,True,0,0,0,0,True,False,True,True,,,
+161202798,"{'steamid': '76561198262602070', 'num_games_owned': 29, 'num_reviews': 42, 'playtime_forever': 816, 'playtime_last_two_weeks': 0, 'playtime_at_review': 605, 'last_played': 1711194618}",english,"A TOTALLY balanced game with no Exploits at All
+
+-The Spiffing Britt who broke the game and scammed 100K+ user AI's",1711150215,1711150215,True,4,0,0.541294336318969727,0,True,False,True,True,,,
+161067494,"{'steamid': '76561198806772125', 'num_games_owned': 838, 'num_reviews': 49, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1711029106}",schinese,"当前阶段不推荐，内容太少
+建议你们学学中国大陆的网页游戏，照着抄就行。",1711029150,1711029150,False,1,0,0.523809552192687988,0,True,False,True,True,,,
+160964053,"{'steamid': '76561198045107572', 'num_games_owned': 235, 'num_reviews': 22, 'playtime_forever': 1137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 426, 'last_played': 1711171372}",brazilian,Muito divertido,1710905529,1710905529,True,0,0,0,0,True,False,True,True,,,
+160806232,"{'steamid': '76561198080040869', 'num_games_owned': 431, 'num_reviews': 119, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1710720271}",english,"Calling this game a Tycoon game is probably a stretch. Its not particularly interesting, especially if you're used to hugely complex sims. What this game is is, essentially, a fish bowl. You get to make a little MMO and tweak it on an abstract layer. And see people play it. Think of it as something like the Sims. You can go really deep into the lore of the game and conceived of your fantasy epic or you can dick around and make a bizzare pay to win MMO that is complete crap. Either way, its very fun for someone who wants to create a fantasy MMO world in a relaxed environment.",1710717246,1710717246,True,2,0,0.527389943599700928,0,True,False,True,True,,,
+160780229,"{'steamid': '76561199103589229', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1545, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1453, 'last_played': 1710700817}",english,game inside a game truly a game of all game games,1710695263,1710695263,True,1,1,0.519999980926513672,0,True,False,True,True,,,
+160775308,"{'steamid': '76561199196593208', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 2046, 'playtime_last_two_weeks': 141, 'playtime_at_review': 969, 'last_played': 1712133579}",english,"This game took my soul & 2 whole days and I'm still building my first region, absolutely worth it very fun indeed",1710691520,1710691609,True,1,1,0.52173912525177002,0,True,False,True,True,,,
+160712309,"{'steamid': '76561198174399861', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 4137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1769, 'last_played': 1711143900}",french,"Un jeu qui a beaucoup de potentiel ! Le fait de pouvoir créer nos propres classes et nos propres mobs donne vraiment un sentiment de création et il y beaucoup d'options différentes (juste un système de combat un peu plus poussé serait pas de refus vu qu'il manque quelques buffs et débuffs). Je vous recommande vraiment ce jeu si vous aimez prendre votre temps sur des jeux chills, hâte de voir ce qu'il deviendra par la suite !",1710632251,1710632251,True,0,0,0,0,True,False,True,True,,,
+160704448,"{'steamid': '76561198826843021', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 9574, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9574, 'last_played': 1710624688}",czech,rEALY GOOD GAME,1710624862,1710624862,True,0,0,0,0,True,False,True,True,,,
+160679653,"{'steamid': '76561199498493204', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2799, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2741, 'last_played': 1710877793}",russian,просто крутая игра,1710604734,1710604734,True,0,0,0,0,True,False,True,True,,,
+160628013,"{'steamid': '76561198040984279', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 2571, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2571, 'last_played': 1710465234}",english,This is such a fun game for anyone that spent 1000's of hours of their lives playing MMO's! You know how it felt to play those games and what you liked and didn't. All of that translates over very well into this game dev simulator. Knowing how to design a dungeon and what to look for for balance issues gives you such a leg up! Give it a shot and don't be timid!,1710551993,1710551993,True,1,0,0.519999980926513672,0,True,False,True,True,,,
+160585802,"{'steamid': '76561198010061262', 'num_games_owned': 639, 'num_reviews': 12, 'playtime_forever': 3420, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3134, 'last_played': 1710544219}",english,"While still in-progress, I find this as a great creative outlet to expand upon the 'Tycoon' series of games and keep coming back to it every several months in-between games I'm playing.
+
+I'm able to make the MMO I always wish I could make and the devs have recently released a loose road-map as to what they plan on moving towards the 1.0 release.
+
+The community on their discord is also very active and friendly and, while Steam Workshop support is planned, being able to share monsters with the community is a happy medium in the meanwhile. 
+
+While there's currently no real goal or story, it's in Early Access and it's a Tycoon game; I loved Roller Coaster Tycoon as a kid and it had no story what-so-ever.",1710510967,1710510967,True,1,0,0.519999980926513672,0,True,False,True,True,,,
+160373336,"{'steamid': '76561199119769788', 'num_games_owned': 78, 'num_reviews': 1, 'playtime_forever': 2310, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1469, 'last_played': 1711109667}",schinese,"I am a Chinese player, I type in all the input fields in the game will not appear typing selection box, it is too difficult to play, I can not give skills a good name, more can not write skills introduction, hope the author can fix it, thank you",1710226594,1710226594,True,0,0,0,0,True,False,True,True,,,
+160344947,"{'steamid': '76561198129140709', 'num_games_owned': 64, 'num_reviews': 4, 'playtime_forever': 2176, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1693, 'last_played': 1710335585}",french,"Ce jeu est juste génial. Toutes les possibilités qu'il y a, c'est juste fou.
+J'étais pas forcément attiré par ce type de jeu mais au final, bonne découverte.
+
+Merci à vous d'avoir créer ce jeu !",1710183970,1710183970,True,0,0,0,0,True,False,True,True,,,
+160280214,"{'steamid': '76561198367557241', 'num_games_owned': 62, 'num_reviews': 14, 'playtime_forever': 2210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2210, 'last_played': 1710089214}",schinese,"希望能上创意工坊呀 这样官方要做的就只需要慢慢更新就好了，2024年了游戏还有很多没有更新的 上一个创意工坊 这样游戏的更新速度会不会更快呢？
+I hope to join the Creative Workshop so that what the official needs to do only needs to be updated slowly. In 2024, there are still many games that have not been updated. Will the update speed of the previous Creative Workshop be faster?
+Jeg håber at være med i Creative Workshop, så det, embedsmanden behøver at gøre, kun skal opdateres langsomt. I 2024 er der stadig mange spil, der ikke er blevet opdateret. Vil opdateringshastigheden for den tidligere Creative Workshop være hurtigere?
+Ich hoffe, dass ich dem Creative Workshop beitreten kann, damit das, was der Offizielle tun muss, nur langsam aktualisiert werden muss. In 2024 gibt es immer noch viele Spiele, die nicht aktualisiert wurden. Wird die Aktualisierungsgeschwindigkeit des vorherigen Creative Workshops schneller sein?
+J'espère que vous pouvez aller à l'atelier créatif, ce que vous devez faire officiellement, il suffit de mettre à jour lentement, 2024, il y a beaucoup de jeux qui n'ont pas été mis à jour, le dernier atelier créatif comme le jeu sera - t - il mis à jour plus rapidement?
+Надеюсь, что вы попадете в творческую мастерскую, так что официальная работа должна быть только медленно обновлена, в 2024 году есть много игр, которые не были обновлены в предыдущей творческой мастерской, так что игра будет обновляться быстрее?
+クリエイティブワークショップに行ってほしいですね。このように公式にやるのはゆっくり更新すればいいだけで、2024年にはゲームが更新されていない前のクリエイティブワークショップがたくさんあります。このようなゲームの更新速度はもっと速くなるのではないでしょうか。
+¿Espero poder ir a un taller creativo, así que lo que hay que hacer oficialmente es actualizarlo lentamente, ¿ será más rápido actualizar el juego después de 2024 y hay muchos talleres creativos anteriores que no se han actualizado?",1710094142,1710094465,True,1,0,0.518072307109832764,0,True,False,True,True,,,
+160253266,"{'steamid': '76561198995016958', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 5663, 'playtime_last_two_weeks': 171, 'playtime_at_review': 4574, 'last_played': 1712478688}",english,"Really good game for people who want to create their own fantasy worlds (or scam ai players).
+Even though it's early access, the game doesn't feel unfinished at all.
+The game provides a great experience with a kind and active community alongside it.",1710068673,1710068673,True,0,0,0,0,True,False,True,True,,,
+160147639,"{'steamid': '76561198137381999', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 3221, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2351, 'last_played': 1710741979}",schinese,实现自己的游戏梦,1709948249,1709948249,True,0,0,0,0,True,False,True,True,,,
+160135837,"{'steamid': '76561198113955355', 'num_games_owned': 155, 'num_reviews': 15, 'playtime_forever': 1855, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1855, 'last_played': 1708447843}",french,"Pour soutenir, le contenue augmente petit à petit, bon simulateur unique en son genre.",1709935240,1709935240,True,0,0,0,0,True,False,True,True,,,
+160058971,"{'steamid': '76561198796556917', 'num_games_owned': 63, 'num_reviews': 2, 'playtime_forever': 6201, 'playtime_last_two_weeks': 1458, 'playtime_at_review': 2914, 'last_played': 1712498213}",english,"Really enjoyable fun to create your own story, and can put a lot of detail into the environment! Now when can I get factions and make certain sides spawn in certain zones. Something I would like to replicate anyways.",1709842277,1709842277,True,1,0,0.512353718280792236,0,True,False,True,True,,,
+159943175,"{'steamid': '76561198000344896', 'num_games_owned': 607, 'num_reviews': 36, 'playtime_forever': 1106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1106, 'last_played': 1684355034}",english,"As of today, 3/5/2024, they finally released a roadmap for the game, their plans before full release. It took four years for them to do this. Their first promised feature and first complete node on said roadmap, the dungeons update, also took four years to finish, and came less than a month ago in a yet-to-be-polished state.
+
+To be fair to the developers, four years ago was 2020, the dreaded year that never was, and very few things remained on schedule, period. But, if you're buying this game expecting it to be finished some time before 2040, I'd maybe hold off. The next node on their roadmap, which the devs haven't even started on, is a proper progression system for the game, with tech/feature unlocks and goals. So, if you want there to be something to _do_ in your video game, something to work towards, check back in 2028.
+
+Currently how the game works is you have a version number in the upper corner of your screen, which increases by .001 every time you buy something, anything. Every asset you add to your virtual world costs money for some reason, even if it's the same asset copy/pasted. every hundred bits you buy and add to your game lets you stop and unlock something, though, most of these unlocks add some invisible % to your income or have a big WORK IN PROGRESS plastered over them, and others represent things that probably shouldn't be unlockables, like the ability for players to have friends lists? Each map zone is way, way too large for the amount of content you have to fill it with, so much of the game right now revolves around spamming tiny scenery bobs to clear out that tech tree of the upgrades that do anything, and then sitting back and letting the game run. Every time one of your players reaches a new level, it's time to pause the game, buy a new map zone for that level, and fill it with bits and bobs again, until eventually players hit a level cap and there's nothing left to do but watch your little sea monkey aquarium.
+
+If you noticed I've said nothing substantial about the mmo itself, that's because there's nothing substantial _about_ the mmos themselves. Importantly, there's very little of an economy in your business tycoon game, especially if you want to go the f2p route. None of the standard ways mmo devs nickel and dime customers are present in this business simulation game. No character slots, no premium subs or trial periods, no gold sink gear upgrades with a failure chance, no xp boosts, no mounts, no cosmetics, no gacha. Not that any of us are fans of such systems, but, in a game about being the people in charge squeezing money out of players, you'd think there would be ways to squeeze money out of players. Your virtual players don't have much of an economy either, which is a whole different rant on missed opportunities.
+
+Basically, if the idea of this game excites you because mmos revolve around their virtual economies and this is a perfect backdrop for a tycoon game, you'll be disappointed with the current state of the game. You'll probably be disappointed with the finished game, too, if it ever does finish, because there isn't a single mention of the economics or business side anywhere in the roadmap. It is, in order, the progression system, pvp factions, raids, a help menu?, weather events, twitch and workshop integration. That's it for feature updates. It's pretty clear the development focus is on making specific styles of mmo world, with all the business and management stuff as an afterthought.",1709692047,1709692047,False,5,0,0.402194499969482422,7,True,False,True,True,,,
+159940506,"{'steamid': '76561198026507447', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 1494, 'playtime_last_two_weeks': 0, 'playtime_at_review': 914, 'last_played': 1710463154}",english,"Such an enjoyable game! creating  your very own world and watching the ""players"" interact with it is so fun to watch",1709687811,1709687811,True,3,0,0.548475384712219238,0,False,False,True,True,,,
+159873288,"{'steamid': '76561198023389602', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 6458, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6458, 'last_played': 1709596167}",english,"Amazing game, latest dungeon feature really makes the zones feel complete and gives the feeling of being a passion project and being constantly in the works. Strongly recommend taking the time getting used to how the game feels and then start building the world you want to create",1709596373,1709596373,True,1,0,0.513888895511627197,0,True,False,True,True,,,
+159814200,"{'steamid': '76561199522911552', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1709515117}",english,Not very good nor fun,1709515176,1709515176,False,1,1,0.3859596848487854,0,True,False,True,True,,,
+159665022,"{'steamid': '76561199335112121', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 765, 'playtime_last_two_weeks': 0, 'playtime_at_review': 754, 'last_played': 1709382348}",schinese,很好玩的游戏，但缺个点睛之笔 {创意工坊},1709362052,1709362052,True,0,0,0,0,True,False,True,True,,,
+159538478,"{'steamid': '76561198363548027', 'num_games_owned': 107, 'num_reviews': 10, 'playtime_forever': 610, 'playtime_last_two_weeks': 0, 'playtime_at_review': 610, 'last_played': 1708756560}",english,"The game is really enjoyable so far, at least for an early access game. 
+It gives a few hours of fun content, the balancing is a bit off sometimes and I wished there was some kind of help tool that helps you balance monsters and classes a bit until you get a feel for the game.
+
+After a few hours it turns a bit empty though, the gameplay loops becomes a bit repetetive as of now, new biome, new enemies you need to create, balance and place, and then decorating everyting. The dungeons seem like they have a lot of potential but there's not enough yet to make an entire playthrough fun enough. My players only got to level 4 with a select few reaching 5 / 6 so there's a lot of time to fill with content yet.
+
+I also wished there was some kind of ingame economy, crafting or job system to design for players. Mircomanage equipment, and its values and balancing and let players trade it. Preferably only as an optional thing though.",1709214442,1709214442,True,1,0,0,0,True,False,True,True,,,
+159374729,"{'steamid': '76561198053847768', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 416271, 'playtime_last_two_weeks': 12, 'playtime_at_review': 415616, 'last_played': 1711473034}",english,"Amazing game, you don't just make a pretend game you make a whole world! Amazing game-play always being worked on, always being improved, and full of love. developers are almost always on the discord and always discussing and showcasing more and more amazing things being added regularly.",1709016254,1709016254,True,8,0,0.600076138973236084,2,True,False,True,True,,,
+159316587,"{'steamid': '76561198166943755', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 1678, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1678, 'last_played': 1626703786}",english,haven't played in a while but i hope this game gets more recognition.,1708945148,1708945148,True,1,0,0.466237932443618774,0,True,False,True,True,,,
+159289753,"{'steamid': '76561198083526426', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 2546, 'playtime_last_two_weeks': 7, 'playtime_at_review': 2183, 'last_played': 1712280234}",english,Very Fun and Addicting. So much potential for more but for what it has you can definitely spend a good few hundred hours in making one game. Custom ability is very simple yet so fun. If you're into the nity gritty detail for Tycoon games then this is for you. It's not perfect but worth it,1708906433,1708906433,True,0,0,0,0,True,False,True,True,,,
+159203512,"{'steamid': '76561198032010421', 'num_games_owned': 369, 'num_reviews': 49, 'playtime_forever': 7640, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4574, 'last_played': 1709687317}",english,A ton of fun if you have a creative mind and patience.,1708827138,1708827138,True,0,0,0,0,True,False,True,True,,,
+159167677,"{'steamid': '76561199611826314', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 677, 'playtime_last_two_weeks': 0, 'playtime_at_review': 355, 'last_played': 1710892929}",schinese,我觉得挺好玩的,1708795183,1708795183,True,0,0,0,1,True,False,True,True,,,
+159043968,"{'steamid': '76561199147680281', 'num_games_owned': 26, 'num_reviews': 10, 'playtime_forever': 1171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1171, 'last_played': 1708682436}",russian,"Перестала включаться, но в остальном нормальная игра.",1708682470,1708682470,True,2,0,0.545454561710357666,0,True,False,True,True,,,
+159028141,"{'steamid': '76561199443514111', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1398, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1398, 'last_played': 1708662873}",english,good game 9/10,1708662932,1708662932,True,1,0,0.523809552192687988,0,True,False,True,True,,,
+158953363,"{'steamid': '76561198003261965', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 1525, 'playtime_last_two_weeks': 0, 'playtime_at_review': 507, 'last_played': 1709012913}",russian,Очень интересная игра - симулятор. Надеюсь разработчики будут и дальше её улучшать,1708587521,1708587521,True,0,0,0,0,True,False,True,True,,,
+158822476,"{'steamid': '76561198253436009', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 1038, 'playtime_last_two_weeks': 0, 'playtime_at_review': 832, 'last_played': 1708603337}",english,"Ridiculement complet, précis et addictif !",1708452710,1708452710,True,0,0,0,0,True,False,True,True,,,
+158753296,"{'steamid': '76561198250734044', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 13103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11117, 'last_played': 1710002748}",english,"Great game, i recommend even if the game is still early acces. (So expect missing features). Very few bugs, mostly graphics but nothing to ruin the experience. A lot of potential and new content is often released. The Management part for now is not very deep so don't expect much but if you're feeling creative and if you like the concept of designing your own environments, monsters, classes and that sort of thing you should buy it.",1708381377,1708381377,True,0,0,0,0,True,False,True,True,,,
+158737738,"{'steamid': '76561197995164965', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 4818, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4748, 'last_played': 1709852052}",english,"I really enjoy this game. Whenever I get the inspiration to make something, but know trying to make something so big will end with me overwhelmed, I pick up this game again. It has some boxes to add lore to towns and zones, so I can feel like I'm building my own world.
+
+As of right now in early access, the game is missing some much needed depth. Most MMOs end up looking the same both mechanically and visually over time. The lore also doesn't really get reflected in the world outside of configuration text boxes. If there was more depth in the lore system it would be incredible.
+
+I also wish there was more depth on the class and monster creating mechanics. You can make your traditional warriors and mages well enough, but if you try to make something more clever or different you are kind of stuck.
+
+However, as far as the bones of a game goes, they are very solid foundation. If you go in expecting the game isn't finished, it's a relaxing and cozy time. That being said, I've owned this game for a while. and development has been very slow. It's a small team, so that's not surprising, but really rewarding updates are just so few and far between.",1708368559,1708368559,True,2,0,0.548022627830505371,0,True,False,True,True,,,
+158729585,"{'steamid': '76561198121609055', 'num_games_owned': 128, 'num_reviews': 35, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1590393794}",schinese,目前还是一般般,1708361238,1708361238,True,0,0,0,0,True,False,True,True,,,
+158639966,"{'steamid': '76561198007048995', 'num_games_owned': 398, 'num_reviews': 12, 'playtime_forever': 1224, 'playtime_last_two_weeks': 1, 'playtime_at_review': 773, 'last_played': 1712181747}",english,"New dungeon update is pretty awesome.    thank you for the very hard work devs.  Keep up the work.  Keep making this game better.
+
+- Also i would 100% pay for a dlc of some sorts, cosmetics etc    You deserve the help.",1708273473,1708273473,True,0,0,0.474683523178100586,0,True,False,True,True,,,
+158631416,"{'steamid': '76561199165429155', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 3557, 'playtime_last_two_weeks': 2, 'playtime_at_review': 3545, 'last_played': 1712338096}",french,Très bon jeu pour passer le temps et développe la créativité. Je le recommande.,1708266853,1708266853,True,0,0,0,0,True,False,True,True,,,
+158582056,"{'steamid': '76561198147781201', 'num_games_owned': 519, 'num_reviews': 133, 'playtime_forever': 365, 'playtime_last_two_weeks': 0, 'playtime_at_review': 365, 'last_played': 1708218387}",english,A really fun and chill game to play.,1708218401,1708218401,True,0,0,0,0,True,False,True,True,,,
+158567074,"{'steamid': '76561198007139495', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 1863, 'playtime_last_two_weeks': 82, 'playtime_at_review': 817, 'last_played': 1712431410}",english,Its a Good Game,1708206697,1708206697,True,0,0,0,0,True,False,True,True,,,
+158554939,"{'steamid': '76561199588903869', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 828, 'playtime_last_two_weeks': 0, 'playtime_at_review': 589, 'last_played': 1710786961}",french,"ce jeu est incroyable!
+j'ai toujours voulu créer un jeu vidéo à mon image et maintenant c'est possible.
+je recommande fortement",1708197687,1708197687,True,0,0,0,0,True,False,True,True,,,
+158496533,"{'steamid': '76561198389346473', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 4766, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4700, 'last_played': 1710108109}",brazilian,Bom,1708140960,1708140960,True,1,0,0,0,True,False,True,True,,,
+158483569,"{'steamid': '76561198209971323', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 1029, 'playtime_last_two_weeks': 0, 'playtime_at_review': 952, 'last_played': 1708978937}",german,"Super! Eine wunderbare Sandbox zum frei Entfalten! Leider gibt es keine Brushes oder so. aber vielleicht kommt das noch (stand Feb. 2024). Ich hoffe, das Game wird weiterentwickelt und wünche allen Teu Teu Teu, beim Bau eures eigenen MMO's!",1708126850,1708126850,True,0,0,0,0,True,False,True,True,,,
+158480676,"{'steamid': '76561198112530858', 'num_games_owned': 90, 'num_reviews': 15, 'playtime_forever': 758, 'playtime_last_two_weeks': 0, 'playtime_at_review': 488, 'last_played': 1708462902}",english,.,1708123558,1708123558,True,0,0,0.494223356246948242,0,True,False,True,True,,,
+158450592,"{'steamid': '76561198442940736', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 2411, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2239, 'last_played': 1709127945}",english,Addictive stuff and so many potential,1708094363,1708094363,True,0,0,0.494223356246948242,0,True,False,True,True,,,
+158388912,"{'steamid': '76561199018026598', 'num_games_owned': 0, 'num_reviews': 43, 'playtime_forever': 958, 'playtime_last_two_weeks': 0, 'playtime_at_review': 958, 'last_played': 1707599386}",english,"Yeah, it is what it says it is so good game. Hope more content keeps coming!",1708018392,1708018392,True,0,0,0.494223356246948242,0,True,False,True,True,,,
+158375696,"{'steamid': '76561198122210149', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 471, 'playtime_last_two_weeks': 0, 'playtime_at_review': 471, 'last_played': 1708005459}",schinese,好不容易等到了以前说好的自建副本地下城玩法，进入之后才发现根本没有汉化，制作组体量小我知道，但这也没什么翻译内容吧，做一下有那么难吗？,1708005534,1708005534,False,0,0,0,0,True,False,True,True,,,
+158336874,"{'steamid': '76561198067117881', 'num_games_owned': 606, 'num_reviews': 115, 'playtime_forever': 1239, 'playtime_last_two_weeks': 0, 'playtime_at_review': 670, 'last_played': 1708115413}",brazilian,Bom,1707952665,1707952665,True,1,1,0,0,True,False,True,True,,,
+158317100,"{'steamid': '76561199069727942', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 2940, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2546, 'last_played': 1710003407}",english,"A fun little trinket of a tycoon. A solid and interesting game that has a lot of room to grow. I was able to get lost for hours creating just in one small aspect of the entire game. There can be a lot to do or bare minimum and you can still have fun :) Can't wait for more updates!
+
+Some ideas to implement to make this game really pop out would be Importing Mods, New quest types, monster skins for different level of mobs, on/off scenarios like in other tycoon contingency. A compendium of player types and their temperaments and what they mean.",1707930956,1707930956,True,0,0,0,0,True,False,True,True,,,
+158310947,"{'steamid': '76561198047644672', 'num_games_owned': 694, 'num_reviews': 15, 'playtime_forever': 2475, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2235, 'last_played': 1708132218}",english,Great game. Devs are easily in top 10 for community engagement. Game itself just makes you want to play more.,1707925236,1707925236,True,0,0,0,0,True,False,True,True,,,
+158272735,"{'steamid': '76561199039410751', 'num_games_owned': 75, 'num_reviews': 3, 'playtime_forever': 291, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1707878579}",english,W,1707877370,1707877370,True,0,0,0,0,False,False,True,True,,,
+158237888,"{'steamid': '76561198821571756', 'num_games_owned': 0, 'num_reviews': 138, 'playtime_forever': 2097, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2085, 'last_played': 1707923844}",english,updates take way too long,1707839694,1707839694,False,2,0,0.375087976455688477,0,True,False,True,True,,,
+158235994,"{'steamid': '76561198318865638', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 6909, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4180, 'last_played': 1709990833}",english,A very nice game. I like the idea and the execution of it.,1707837950,1707837950,True,0,0,0,0,True,False,True,True,,,
+158215808,"{'steamid': '76561198048737687', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 454, 'playtime_last_two_weeks': 0, 'playtime_at_review': 281, 'last_played': 1707891626}",english,cool,1707813851,1707813851,True,0,0,0,0,True,False,True,True,,,
+158184225,"{'steamid': '76561198150602522', 'num_games_owned': 268, 'num_reviews': 38, 'playtime_forever': 1544, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1427, 'last_played': 1707866855}",english,:),1707771342,1707771342,True,0,0,0,0,True,False,True,True,,,
+158147366,"{'steamid': '76561198014889396', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 1396, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1173, 'last_played': 1708921963}",english,As a man of many words I recommend.,1707733901,1707733901,True,0,0,0,0,True,False,True,True,,,
+158115927,"{'steamid': '76561199082740640', 'num_games_owned': 52, 'num_reviews': 6, 'playtime_forever': 1821, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1234, 'last_played': 1708213371}",english,it is fun,1707689165,1707689165,True,0,0,0,0,True,False,True,True,,,
+158072702,"{'steamid': '76561198103443826', 'num_games_owned': 0, 'num_reviews': 48, 'playtime_forever': 3394, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1863, 'last_played': 1711141917}",turkish,Kendi MMO nuzu kurduğunuz çok güzel ve geleceği olan bir oyun. Alabilirsiniz tavsiye ediyorum.,1707653006,1707653006,True,0,0,0,0,True,False,True,True,,,
+158064678,"{'steamid': '76561198377194480', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 548, 'playtime_last_two_weeks': 0, 'playtime_at_review': 266, 'last_played': 1708874837}",french,"Tres sympa à jouer, manque juste un peu de contenue mais sinon il est parfait",1707644082,1707644082,True,0,0,0,0,True,False,True,True,,,
+158017218,"{'steamid': '76561198843683647', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 3478, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2967, 'last_played': 1707839836}",english,Want to make an rpg game but can't code? buy this game! You literally play your own creation too! ! 10/10 game.,1707588747,1707588747,True,0,0,0,0,False,False,True,True,,,
+158002783,"{'steamid': '76561198098470501', 'num_games_owned': 122, 'num_reviews': 4, 'playtime_forever': 722, 'playtime_last_two_weeks': 0, 'playtime_at_review': 722, 'last_played': 1707521569}",french,I love scamming players,1707575986,1707575986,True,2,0,0.537313401699066162,0,True,False,True,True,,,
+157913321,"{'steamid': '76561199223881235', 'num_games_owned': 66, 'num_reviews': 5, 'playtime_forever': 2383, 'playtime_last_two_weeks': 1, 'playtime_at_review': 2135, 'last_played': 1712296030}",schinese,"3年,我等了你3年,地下城终于来了!!!!!!汉化还没来,这我能等,但快点更新多些模型吧,希望还能有个创意工坊下载模型和蓝图,别让我再等三年了!!!（悲）",1707471679,1707471679,True,4,0,0.569190561771392822,0,True,False,True,True,,,
+157894871,"{'steamid': '76561198051758610', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 2578, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2323, 'last_played': 1709527882}",english,"Early Access Game, be wary of the fun police. The dungeon test branch is now public! I can only place 1 boss! what is this madness let us have some fun and break your early access game! 1 boss limit lol...
+
+A man walks into a developer studio and uses 1 boss slot, he ask the developer if he can use a 2nd boss slot and the developer points at the sign stating ""1 Boss Slot Limit"" then points at the other sign ""2nd slot to be added as a future update""
+
+Here is your road map gents!
+*2020-2022 work on Dungeon Update and release scenery cosmetics ignore everything else people want
+*2022-2023 work on Dungeon test branch and release scenery cosmetics (more boss slots to be added on public release)
+*2023-2024 Release Dungeon test branch I mean ""Long-Awaited Dungeon Update"" (Limit Boss slot to 1)
+*2024-2026 Implement workshop release new cosmetics (forget to implement boss slot 2)
+*2026-2027 Implement scenery cosmetic modding
+*2027-TBD Hopefully unlock the 2nd boss slot and re code the whole game ground up to make it happen, then update sign ""2 boss slot limit""",1707445360,1707445360,False,6,1,0.463923603296279907,0,True,False,True,True,,,
+157871388,"{'steamid': '76561198352285799', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 1191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 889, 'last_played': 1710447606}",english,"This game feels like a love letter to the early days of MMOs , when WoW was everything and i was still very young.
+the dedication of the developer to continuously deliver updates keeps me coming back to this game every few months to see what's new. there is much work that is still needed to get this game to it's full potential but i have no doubt that this developer can get it done. I can't wait to see that day and i will play the daylights out of this when it's time",1707418072,1707418072,True,1,0,0.523809552192687988,0,True,False,True,True,,,
+157860337,"{'steamid': '76561197963295018', 'num_games_owned': 532, 'num_reviews': 12, 'playtime_forever': 692, 'playtime_last_two_weeks': 0, 'playtime_at_review': 635, 'last_played': 1707510551}",english,"So good. The Dungeons update adds a good extra layer of what you would expect from a game like this.
+
+There are still things to work on - the EA tag is deserved (for instance, customisable loot, weapons etc. would be good) - but you can create a fun little world pretty effortlessly now.",1707407556,1707407556,True,0,0,0,0,True,False,True,True,,,
+157841201,"{'steamid': '76561198835869854', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 5710, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4803, 'last_played': 1708084532}",french,bon jeu,1707390478,1707390478,True,0,0,0.476190477609634399,0,True,False,True,True,,,
+157830030,"{'steamid': '76561198120222580', 'num_games_owned': 0, 'num_reviews': 119, 'playtime_forever': 884, 'playtime_last_two_weeks': 0, 'playtime_at_review': 884, 'last_played': 1631585596}",english,"It's not that amazing right now, but when i saw the whiny ass reviews that are entitled as hell and cannot for the live of them begin to understand how creating a game works, i had to offset the negative reviews that are killing off the game for no reason other than pure idiocy.
+
+Friendly reminder, DON'T BUY EARLY ACCESS IF YOU WANT A FULL, COMPLETE GAME AND YOU DON'T WANT TO SUPPORT THE DEVS. For the NTH TIME, NO, EARLY ACCESS IS NOT ""SUPPOSED TO BE"" WHAT YOU THINK IT IS SUPPOSED TO BE. READ STEAM'S OWN RULES ABOUT IT AND YOU'LL QUICKLY REALIZE YOU ARE AS WRONG AS YOU COULD POSSIBLY BE.
+
+YOU are the one who messed up if you thought getting an inexperienced solo dev to complete a massive project by themselves in the span of a couple years is a reasonable expectation at all, this only happens with OUTLIERS. If what you see at a glance doesn't seem good enough for you, don't expect it to be good enough for you until release.",1707374401,1707374847,True,82,1,0.780200302600860596,0,True,False,True,True,,,
+157820825,"{'steamid': '76561198042106555', 'num_games_owned': 228, 'num_reviews': 12, 'playtime_forever': 497, 'playtime_last_two_weeks': 0, 'playtime_at_review': 452, 'last_played': 1709777992}",english,"Pretty good game now. Dev said they had to rewrite a good amount of their engine for this and won't have to (hopefully) for the future. Dungeons are essential to the MMORPG experience. All that's missing would just be various features that wouldn't fundamentally change much, (besides the dungeons). 
+
+What I think is missing:
+Being able to create your own unique items could be cool.
+Faction PvP. 
+More options for spell customization.",1707359787,1707359787,True,6,0,0.578684747219085693,0,True,False,True,True,,,
+157820584,"{'steamid': '76561198027509078', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 3506, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3506, 'last_played': 1705440990}",english,"Dungeons Update is finally here! Devs are great and listen to feedback, any bugs or problems that I have had, have been patched within the hour after reporting on the discord
+
+Looking forward to whats next after Dungeons!",1707359435,1707359435,True,18,1,0.689959585666656494,0,True,False,True,True,,,
+157716828,"{'steamid': '76561198307042280', 'num_games_owned': 534, 'num_reviews': 122, 'playtime_forever': 358, 'playtime_last_two_weeks': 0, 'playtime_at_review': 358, 'last_played': 1707229170}",english,"it was a nice 6 hours of micro-building a game world and such but it was enough for me. other than placing your units at a reasonable distance and doing it over and over, i couldn't see a future in-game.",1707229791,1707229791,True,2,0,0.515537679195404053,0,True,False,True,True,,,
+157573586,"{'steamid': '76561198096435470', 'num_games_owned': 71, 'num_reviews': 11, 'playtime_forever': 1357, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1068, 'last_played': 1711174638}",schinese,估计又烂尾了,1707051557,1707051557,False,0,0,0,0,True,False,True,True,,,
+157445726,"{'steamid': '76561198138202455', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 5864, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5344, 'last_played': 1709160371}",french,j'attend encore les donjons quand même ! ça fais long...,1706914384,1706914384,True,0,0,0,0,True,False,True,True,,,
+157178072,"{'steamid': '76561198119133823', 'num_games_owned': 405, 'num_reviews': 39, 'playtime_forever': 170, 'playtime_last_two_weeks': 0, 'playtime_at_review': 170, 'last_played': 1583683644}",french,"dead game, don't buy it",1706610133,1706610133,False,3,0,0.362927407026290894,0,False,False,True,True,,,
+157018723,"{'steamid': '76561198042194538', 'num_games_owned': 555, 'num_reviews': 21, 'playtime_forever': 465, 'playtime_last_two_weeks': 0, 'playtime_at_review': 465, 'last_played': 1679923646}",english,"The game has gone through a long life. Years ago, MMORPG Tycoon came forth with a simple value proposition. Who would have thought the upgrade to 3D would require so much more on such a fundamental level. The game definitely puts scope first, trying to expand what you can do with each update, and it really is beginning to feel like it's getting to it's launch state. This had only been enjoyable to follow with a strong advisory early on at the pace of development, but the patience is paying off.",1706424869,1706424869,True,9,0,0.633015275001525879,0,False,True,True,True,,,
+156940099,"{'steamid': '76561199202865457', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 400, 'playtime_last_two_weeks': 0, 'playtime_at_review': 319, 'last_played': 1711029428}",russian,Жду следующий обновлений,1706353408,1706353408,True,0,0,0,0,False,False,True,True,,,
+156938128,"{'steamid': '76561198287088807', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 593, 'playtime_last_two_weeks': 17, 'playtime_at_review': 576, 'last_played': 1712044414}",english,it is fun okay! do i really need to write a comment Steam?,1706351236,1706351236,True,0,0,0.471512764692306519,0,True,False,True,True,,,
+156937742,"{'steamid': '76561199138172144', 'num_games_owned': 67, 'num_reviews': 12, 'playtime_forever': 714, 'playtime_last_two_weeks': 0, 'playtime_at_review': 661, 'last_played': 1710948727}",russian,"Очень жду обновления, игра сама по себе шикарна, но не хватает чего то нового. Те же самые пвп арены, кровище, гильдии и подземелий с боссами",1706350783,1706350783,True,0,0,0,0,True,False,True,True,,,
+156465027,"{'steamid': '76561197974874209', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 11497, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9833, 'last_played': 1710265909}",english,"I love making my players suffer by making quests IN ANOTHER ISLAND ONLY AVAILABLE BY biird. I LOVE THIS!!! MASTERPIECE~ HARDER~ UH~ I LOVE IT~ WHY CANT I TYPE IT NORMALLY~ oh i finally got it! Anyways, this is 100% cool*
+
+
+
+
+*im not britishing at the current moment",1705843067,1705843067,True,0,1,0.445269018411636353,0,True,False,True,True,,,
+156180020,"{'steamid': '76561198381234888', 'num_games_owned': 30, 'num_reviews': 3, 'playtime_forever': 1208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1172, 'last_played': 1710608309}",english,"This game is really cool, but it can get so complex and detailed you might as well develop your own MMO and publish it on Steam.
+Good game though keep it up.",1705511830,1705511830,True,2,0,0.536243259906768799,0,True,False,True,True,,,
+156167770,"{'steamid': '76561197978437344', 'num_games_owned': 0, 'num_reviews': 89, 'playtime_forever': 2571, 'playtime_last_two_weeks': 0, 'playtime_at_review': 765, 'last_played': 1705724174}",english,"if you don't enjoy this game, you just have no creativity, and you probably don't enjoy anything in life.
+
+This game does more than any tycoon on the market, it lets you customize your experience . 
+
+Good things come to people who wait, this early access game is well worth the price right now.
+
+This game is not for people who can't make decisions on their own, this game is not for people who prefer games on rails.",1705498164,1705498164,True,4,0,0.527461886405944824,0,True,False,True,True,,,
+156138805,"{'steamid': '76561197995195013', 'num_games_owned': 369, 'num_reviews': 7, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1677000228}",english,"For a game that has been in development for four years, I really expected a lot more to be in this game by this point in it's development. Well, developer of this game, you've officially gotten my money for delivering almost nothing. Good job. This'll teach me to buy early access games from now on.",1705450940,1705450940,False,11,0,0.490334540605545044,0,True,False,True,True,,,
+156100500,"{'steamid': '76561198076193444', 'num_games_owned': 0, 'num_reviews': 184, 'playtime_forever': 849, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1709505706}",english,.,1705416666,1705416666,True,0,0,0.451120704412460327,0,False,False,True,True,,,
+156038161,"{'steamid': '76561197994939998', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 958, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1708047654}",english,Amazing game. Plays very well and is fun,1705331211,1705331211,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+156024601,"{'steamid': '76561199436750547', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 362, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1706530060}",english,I don't know if it's just me doing things I'm not supposed to but the game crashes more often than I close it. Otherwise a fun game,1705310985,1705310985,True,2,0,0.536743104457855225,1,True,False,True,True,,,
+155980313,"{'steamid': '76561198123805735', 'num_games_owned': 331, 'num_reviews': 98, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1694433675}",turkish,Belli bir süre başında tutar ama sonra sıkılırsınız uzun bi oynayış süresi sunmaz hızlı tekrara bağlayan bir yapısı var.,1705253640,1705253640,True,0,0,0,0,False,False,True,True,,,
+155896589,"{'steamid': '76561199557792257', 'num_games_owned': 8, 'num_reviews': 3, 'playtime_forever': 1346, 'playtime_last_two_weeks': 50, 'playtime_at_review': 1292, 'last_played': 1711894077}",russian,В игре хорошо можно убить вечер,1705161505,1705161505,True,0,0,0,0,True,False,True,True,,,
+155794992,"{'steamid': '76561198075780165', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 1061, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1061, 'last_played': 1705035901}",french,Dans l'état actuel ce jeu est vite decevant,1705035967,1705035967,False,1,0,0.47826087474822998,0,True,False,True,True,,,
+155622539,"{'steamid': '76561198324641453', 'num_games_owned': 189, 'num_reviews': 47, 'playtime_forever': 1542, 'playtime_last_two_weeks': 0, 'playtime_at_review': 607, 'last_played': 1710859570}",english,Updates are slower than my grandma climbing the mount everest,1704808061,1704808061,False,11,9,0.497029602527618408,0,True,False,True,True,,,
+155279362,"{'steamid': '76561199222528946', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 607, 'playtime_last_two_weeks': 0, 'playtime_at_review': 551, 'last_played': 1707446793}",english,yes,1704425383,1704425383,True,0,0,0.46875,0,True,False,True,True,,,
+155253641,"{'steamid': '76561198042437784', 'num_games_owned': 1861, 'num_reviews': 88, 'playtime_forever': 540, 'playtime_last_two_weeks': 0, 'playtime_at_review': 540, 'last_played': 1704398480}",english,"Too bad they didn't make MMORPG Tycoon Tycoon, where you just manage the player playing the game... could have worked out better. 4/10 at current state and price. Come back in a year. Buy it for 5 euro, 10 is a stretch and what it is at... that's called robbery. Wish I could get a refund but spent too much time with hope that it will get better.
+
+You wonder why?
+Pros: 
+
+- Cool idea
+
+- Plenty of text based customization (Skills, XP gains, gold, quests, etc)
+
+- Decent amount of characters + Npcs + monsters and they got customization so that is good
+
+- Quite easy to understand and very easy to master (In less than 7 hours I paid off the loan and made more money than I can use.) 
+
+- Fun to look at the little characters to do their thing
+
+- Fun to ban cheaters
+
+- You can take control of an npc and play as them, killing players so that is great
+
+Cons:
+
+- Cool idea but badly executed. Most things just don't stick together or are made poorly
+
+- Not much control over bringing attention of players to specific locations (They will focus on whatever is closet to spawn and farm it forever even if the rest of the map is 1000% cooler and can gain more xp)
+
+- The biom laying system is absolute sh** (You want to place Forrest? Oh well, now you can't see shi**)
+
+- Game gives not much explanation about anything but it is easy enough to figure it out if you are a person that likes to tinker.. Poor tutorial is my summary on this
+
+- Every character slot you filled out is sooo poorly auto generated... You got new monster? Oh well it is a wizard but looks like regular wolf... Just for ease of those that do not want to tinker, please just make them accurate to name but give option to customize.
+
+- Price is a joke for the game
+
+- Optimization should be a key in game like that but it is taking a back seat.
+
+- Tech tree or whatever you wanna call it... 3 perks in 7 hours while sitting on a lot of money... You'll need like 100 hours to get them all
+
+- From what I see, latest updates haven't brought anything to the table.
+
+
+⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿
+⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿
+⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠜⣿
+⣿⣿⣿⣿⠿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿
+⣿⣿⡏⠁⠀⠀⠀⠀⠀⣀⣠⣤⣤⣶⣶⣶⣶⣶⣦⣤⡄⠀⠀⠀⠀⢀⣴⣿
+⣿⣿⣷⣄⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡧⠇⢀⣤⣶
+⣿⣿⣿⣿⣿⣿⣾⣮⣭⣿⡻⣽⣒⠀⣤⣜⣭⠐⢐⣒⠢⢰
+⣿⣿⣿⣿⣿⣿⣿⣏⣿⣿⣿⣿⣿⣿⡟⣾⣿⠂⢈⢿⣷⣞
+⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣷⣶⣾⡿⠿⣿⠗⠈⢻⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠻⠋⠉⠑⠀⠀⢘⢻
+⣿⣿⣿⣿⣿⣿⣿⡿⠟⢹⣿⣿⡇⢀⣶⣶⠴⠶⠀⠀⢽
+⣿⣿⣿⣿⣿⣿⡿⠀⠀⢸⣿⣿⠀⠀⠣⠀⠀⠀⠀⠀⡟⢿⣿
+⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠹⣿⣧⣀⠀⠀⠀⠀⡀⣴⠁⢘⡙
+⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⠗⠂⠄⠀⣴⡟⠀⠀⡃
+Don't do it Jesse.",1704399369,1704399560,False,3,0,0.481649518013000488,0,True,False,True,True,,,
+155253209,"{'steamid': '76561198378134039', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 2217, 'playtime_last_two_weeks': 158, 'playtime_at_review': 197, 'last_played': 1711458400}",english,its an amzing little game would love to see it open to steam workshop for mods but other than that its amazing,1704398954,1704398954,True,0,0,0,0,True,False,True,True,,,
+155048796,"{'steamid': '76561198303001530', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 5048, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3226, 'last_played': 1704818956}",english,"If you don't count the UI getting more organised, it's pretty much exactly as it was a year ago when I saw a play-through on YT added it to my wishlist. Would benefit from Workshop integration and the tools to mod more ""hardcoded"" elements, so we can see some QoL changes and additions from the community between the larger updates soaking up dev time.
+
+Recommended if you're into Tycoon games, fleshed out enough to enjoy, but if you care about consooming content you're in for many rough update cycles.",1704191818,1704191818,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+154933231,"{'steamid': '76561197996739903', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 2108, 'playtime_last_two_weeks': 159, 'playtime_at_review': 1804, 'last_played': 1711733378}",french,"Un jeu qui possède un énorme potentiel ! Chill, addictif et demandant peu de ressource (pour les début de parties, pour une parties avancé il vaut mieux avoir du bon matériel pour pouvoir profiter pleinement du jeu et de ses graphismes). Sachant qu'il est encore en plein développement et que de grosse mise à jour, notamment celle sur les donjons, sont en cours, ce jeu est fait pour toutes les personnes qui ont toujours rêvé de créer leur propre MMORPG. Si vous aimez les MMORPG et les jeu de construction, celui si peut probablement vous intéressez. Dans tout les cas, je le recommande chaleureusement !",1704064712,1704064712,True,0,0,0,0,True,False,True,True,,,
+154834617,"{'steamid': '76561199386678951', 'num_games_owned': 48, 'num_reviews': 8, 'playtime_forever': 590, 'playtime_last_two_weeks': 0, 'playtime_at_review': 518, 'last_played': 1704040311}",schinese,挺好的游戏,1703966880,1703966880,True,0,0,0,0,True,False,True,True,,,
+154709919,"{'steamid': '76561197995965084', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 4162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3922, 'last_played': 1704837938}",french,,1703853941,1703853941,True,0,0,0,0,True,False,True,True,,,
+154668597,"{'steamid': '76561198960475729', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 834, 'playtime_last_two_weeks': 0, 'playtime_at_review': 379, 'last_played': 1710676065}",english,"Fun little game about making an mmorpg, after they add the features like dungeons it will be a wonderful game.",1703806101,1703806101,True,0,0,0,0,True,False,True,True,,,
+154555782,"{'steamid': '76561198894751404', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 7317, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6879, 'last_played': 1707782908}",english,A very nice sim game. There still needs some flushing out but the devs are SUPER active and adding content at an incredible pace for the size. They are working on some good updates and the game is already great as is! Highly recommend if you enjoy tycoon games!,1703698094,1703698094,True,0,0,0.47826087474822998,0,True,False,True,True,,,
+154383414,"{'steamid': '76561199586191252', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 479, 'playtime_last_two_weeks': 14, 'playtime_at_review': 412, 'last_played': 1711471131}",english,I think this is perfect game for fans of this genre,1703524034,1703524034,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+154167738,"{'steamid': '76561198060793936', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 653, 'playtime_last_two_weeks': 0, 'playtime_at_review': 566, 'last_played': 1703371781}",german,bockt,1703286792,1703286792,True,0,0,0,0,True,False,True,True,,,
+154128832,"{'steamid': '76561199548772822', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 597, 'playtime_last_two_weeks': 0, 'playtime_at_review': 551, 'last_played': 1708248541}",schinese,"非常好的创意！
+",1703250543,1703250543,True,0,0,0,0,True,False,True,True,,,
+154006558,"{'steamid': '76561198045307258', 'num_games_owned': 162, 'num_reviews': 51, 'playtime_forever': 777, 'playtime_last_two_weeks': 1, 'playtime_at_review': 777, 'last_played': 1712155740}",english,Nice game.,1703090685,1703090714,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+153989466,"{'steamid': '76561198268349325', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 1521, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1511, 'last_played': 1706451884}",dutch,cool,1703072471,1703072471,True,0,0,0,0,True,False,True,True,,,
+153976462,"{'steamid': '76561198138786353', 'num_games_owned': 167, 'num_reviews': 3, 'playtime_forever': 2560, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1667, 'last_played': 1703407089}",german,"I love this game so much, it's different from anything else I have ever played and for me - even in these early stages -, it's way more fun (at least until it gets repetitive, sadly..) than other games in this genre! I really hope that this one goes a LOOONG way.. Please, don't ever drop this, it has WAY too much potential!! I can't wait for it to be out of Early Access. Love this idea so much!!",1703051698,1703051698,True,0,0,0,0,True,False,True,True,,,
+153963027,"{'steamid': '76561198031452389', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 5105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4648, 'last_played': 1709260631}",english,"Now with dungeons it is really epic (select the preview version in installation, it is playable), it is slowly becoming an incredible game ! The only problem i have, it is I do not have enough time to play this game.",1703032221,1703032221,True,0,0,0,0,True,False,True,True,,,
+153780170,"{'steamid': '76561199001635599', 'num_games_owned': 8, 'num_reviews': 4, 'playtime_forever': 941, 'playtime_last_two_weeks': 0, 'playtime_at_review': 941, 'last_played': 1695664483}",french,Bien mais lent,1702809444,1702809444,True,0,0,0,0,True,False,True,True,,,
+153671827,"{'steamid': '76561199099137764', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 3174, 'playtime_last_two_weeks': 74, 'playtime_at_review': 2060, 'last_played': 1712470046}",english,"Wonderful beautiful game, with such a great art style. Well worth the money",1702678985,1702678985,True,0,0,0.476190477609634399,0,True,False,True,True,,,
+153574681,"{'steamid': '76561198219198672', 'num_games_owned': 168, 'num_reviews': 17, 'playtime_forever': 3205, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3205, 'last_played': 1702465875}",german,Ideal,1702562326,1702562326,True,0,0,0,0,True,False,True,True,,,
+153550495,"{'steamid': '76561198853504239', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 98, 'playtime_last_two_weeks': 0, 'playtime_at_review': 98, 'last_played': 1673575832}",english,goshgohs good gaem,1702525498,1702525498,True,0,0,0.35997384786605835,0,False,True,True,True,,,
+153399421,"{'steamid': '76561198006009357', 'num_games_owned': 442, 'num_reviews': 4, 'playtime_forever': 1475, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1475, 'last_played': 1702315575}",english,"When I initially bought this game a few months after release I thought it was a great start to a game that could be a whole lot of fun once more content is added.....This is one of those games that never get out of early access.
+
+I BOUGHT THIS GAME IN 2021, and I am astonished in the lack of ANY CONTENT ADDED (How is there still only ONE road you can make and no variations??). Don't buy this game, it was pretty much completed as soon as it was launched in ""early access"". They've added a handful of new assets for the mechanical and magical city updates, and that seems to be about it. I don't know the size of the team, but the progress is so slow maybe comeback in 2 years when they've added 20 more costumes, a few new buildings, and still no new major updates.
+
+It's really too bad too, I love the concept and if there were more content I could easily see myself having a couple hundred hours with a glowing review, and at that point i'd have no problem supporting the devs further by gifting the game to friends but as of right now, maybe buy it heavily discounted but not at $25.
+
+",1702327782,1702327782,False,30,6,0.533961236476898193,8,True,False,True,True,,,
+153398173,"{'steamid': '76561198068640081', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 927, 'playtime_last_two_weeks': 0, 'playtime_at_review': 927, 'last_played': 1682865612}",english,"it doesn't receive any important updates, only some useless design crap. no new game mechanics or anything introduced. so if you think you will somehow have a good MMORPG dev/GM immersion, NO. it won't happen.
+
+if you are a type of guy who expects some new type of buildings with no functionality but only with new design, you can get it.",1702326491,1702326491,False,6,1,0.488531887531280518,2,True,False,True,True,,,
+153388443,"{'steamid': '76561198306537876', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 4523, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4397, 'last_played': 1709921148}",english,Fun And Creative Game,1702316857,1702316857,True,1,0,0,1,True,False,True,True,,,
+153081818,"{'steamid': '76561197999833644', 'num_games_owned': 329, 'num_reviews': 23, 'playtime_forever': 337, 'playtime_last_two_weeks': 0, 'playtime_at_review': 250, 'last_played': 1702502970}",french,"Très bon jeu, chill & très intéressant",1701992839,1701992839,True,1,0,0.522293031215667725,0,True,False,True,True,,,
+152772863,"{'steamid': '76561198037496891', 'num_games_owned': 304, 'num_reviews': 25, 'playtime_forever': 1964, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1866, 'last_played': 1707089116}",english,Fun game. It takes a little getting used to how the game works but it is an enjoyable sandbox to play around in. It has a small download size and fairly good optimization. It feels like a distant cousin to Roller Coaster Tycoon games. There are lots of customization options.,1701575984,1701575984,True,4,0,0.499968498945236206,0,True,False,True,True,,,
+152637748,"{'steamid': '76561198811661480', 'num_games_owned': 53, 'num_reviews': 22, 'playtime_forever': 118, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1643166441}",tchinese,除了更新挺慢 其他都還行,1701424228,1701424228,True,0,0,0,0,False,False,True,True,,,
+152611142,"{'steamid': '76561198805883033', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 482, 'playtime_last_two_weeks': 0, 'playtime_at_review': 482, 'last_played': 1666836215}",english,Let him cook,1701383368,1701383368,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+152582073,"{'steamid': '76561199184726528', 'num_games_owned': 51, 'num_reviews': 1, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 88, 'last_played': 1701414916}",schinese,好就好在不好玩,1701353950,1701353950,False,2,0,0.52173912525177002,0,True,False,True,True,,,
+152581049,"{'steamid': '76561198018762328', 'num_games_owned': 126, 'num_reviews': 87, 'playtime_forever': 1905, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1905, 'last_played': 1701291954}",french,good tycoon,1701352842,1701352842,True,0,0,0,0,True,False,True,True,,,
+152065893,"{'steamid': '76561199242248943', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 1385, 'playtime_last_two_weeks': 0, 'playtime_at_review': 935, 'last_played': 1704064672}",russian,BUY THIS GAME 96/100 will like it!,1701013534,1701013534,True,0,0,0,0,True,False,True,True,,,
+151923755,"{'steamid': '76561199467272137', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 263, 'playtime_last_two_weeks': 0, 'playtime_at_review': 263, 'last_played': 1700952298}",english,Fun game but a little lag was seen.,1700952383,1700952383,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+151451530,"{'steamid': '76561197981105623', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 978, 'playtime_last_two_weeks': 0, 'playtime_at_review': 968, 'last_played': 1700791086}",english,"Fun, relaxing game to kill some time with. Looking forward to some updates.",1700787043,1700787043,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+150815223,"{'steamid': '76561199140602571', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 1447, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1431, 'last_played': 1703107095}",english,i like the power,1700622516,1700622516,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+150629361,"{'steamid': '76561198005099594', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 3230, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1123, 'last_played': 1701016344}",french,"Très bon jeu, il serait encore meilleur si il était possible de jouer en coop a 2, et de mettre en place un système comme dans world of warcraft a ses début, un système horde vs alliance... Une possibilité pour voir deux factions de joueurs s'affronter .
+Cordialement",1700595546,1700595546,True,3,0,0.565217375755310059,0,True,False,True,True,,,
+150437683,"{'steamid': '76561198067552869', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 929, 'playtime_last_two_weeks': 0, 'playtime_at_review': 378, 'last_played': 1700974855}",english,Can make crocodiles walk on 2 feet as they should! Certainly / 10,1700410831,1700410831,True,1,0,0.479991912841796875,0,True,False,True,True,,,
+150307577,"{'steamid': '76561198019392589', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 335, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1700261402}",english,"Fun, simple game",1700260224,1700260224,True,1,0,0.479991912841796875,0,True,False,True,True,,,
+150192569,"{'steamid': '76561198019465777', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 932, 'playtime_last_two_weeks': 0, 'playtime_at_review': 245, 'last_played': 1700440744}",brazilian,Recomendado,1700086612,1700086612,True,0,0,0,0,True,False,True,True,,,
+150092106,"{'steamid': '76561198180135822', 'num_games_owned': 0, 'num_reviews': 188, 'playtime_forever': 1710, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1694, 'last_played': 1707712901}",english,A,1699925543,1699925543,True,1,0,0.479991912841796875,0,True,False,True,True,,,
+150042604,"{'steamid': '76561198216408277', 'num_games_owned': 143, 'num_reviews': 82, 'playtime_forever': 4408, 'playtime_last_two_weeks': 101, 'playtime_at_review': 3739, 'last_played': 1712467343}",english,I can make lore related to gruba being fat ! 10/10!,1699844974,1699844974,True,1,0,0.479991912841796875,0,True,False,True,True,,,
+150005818,"{'steamid': '76561198076070872', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 574, 'playtime_last_two_weeks': 0, 'playtime_at_review': 433, 'last_played': 1709383073}",english,Really enjoying making my own game,1699800301,1699800301,True,1,0,0.479991912841796875,0,True,False,True,True,,,
+149994869,"{'steamid': '76561198262528856', 'num_games_owned': 133, 'num_reviews': 38, 'playtime_forever': 1758, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1239, 'last_played': 1699866539}",english,"Wish there were more developers since I bet these poor devs feel overwhelmed with such a massive and great product, but It is very- very good. Pretty fun to sit back and pretend you are an amazing game dev with massive lore and awesome campaigns!",1699787819,1699787819,True,0,0,0,0,True,False,True,True,,,
+149991685,"{'steamid': '76561197963792671', 'num_games_owned': 0, 'num_reviews': 72, 'playtime_forever': 231, 'playtime_last_two_weeks': 0, 'playtime_at_review': 231, 'last_played': 1671360900}",english,"This game BADLY needs Steam Workshop support so people can add more decorations to it. The ones in the base game are no where near enough to build unique looking zones. Even in the some hours I put into it, I was already struggling to come up with unique looking settlements because I has so little variety to work with.
+
+Also I recall it being a pain in the ass not being able to turn off displaying of big trees so I could actually see what I was building. That seems like a super simple thing to do.. why isn't it done?
+
+Gameplay itself is.. fine. But variety and QoL is lacking. Provided the devs keep at it, maybe in some years it'll be worth the price. Right now.. not so much.",1699783365,1699783365,False,21,0,0.596606850624084473,0,True,False,True,True,,,
+149604741,"{'steamid': '76561198045033199', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 647, 'playtime_last_two_weeks': 0, 'playtime_at_review': 541, 'last_played': 1710184737}",french,A quand des vrai ajouts ? Le jeu est sorti depuis 2 ans et rien de change au niveau du gameplay,1699208086,1699208086,False,1,0,0.476190477609634399,0,True,False,True,True,,,
+149588607,"{'steamid': '76561198120454626', 'num_games_owned': 81, 'num_reviews': 43, 'playtime_forever': 1399, 'playtime_last_two_weeks': 0, 'playtime_at_review': 337, 'last_played': 1710291201}",english,make your own fun MMO,1699192603,1699192603,True,0,0,0,0,True,False,True,True,,,
+149498443,"{'steamid': '76561198007584361', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 6464, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5296, 'last_played': 1707605156}",english,"If the game developer would just add steam workshop so that people can make their own updates instead of waiting years for the solo dev, this game might blow up.
+
+I understand that being a solo developer must be horrible, but this game has so much wasted potential due to lack of progressive updates.
+
+Imagine multiplayer where people can load in and actually play your world as a person inside the game, imagine developing the game with real players instead of only NPC's. Even just having more content and options to use as you create your world would be huge. Just so few content updates in so many years.
+
+I'm still going to recommend it, but only for the concept.",1699085479,1699085479,True,99,0,0.888191640377044678,5,False,False,True,True,,,
+149496250,"{'steamid': '76561198018956557', 'num_games_owned': 65, 'num_reviews': 1, 'playtime_forever': 3853, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2366, 'last_played': 1708862715}",english,gg,1699082045,1699082045,True,0,0,0,0,True,False,True,True,,,
+149347835,"{'steamid': '76561198159493781', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 876, 'playtime_last_two_weeks': 0, 'playtime_at_review': 876, 'last_played': 1589063972}",english,I don't even remember playing this game. I'm sure for some that's enough said.,1698892318,1698892318,False,3,2,0.360984951257705688,0,True,False,True,True,,,
+149339855,"{'steamid': '76561198044075294', 'num_games_owned': 0, 'num_reviews': 69, 'playtime_forever': 591, 'playtime_last_two_weeks': 0, 'playtime_at_review': 591, 'last_played': 1635436634}",english,mid game with almost no content updates in 3 years plus their discord reeks of groomers,1698879898,1698879898,False,5,2,0.357720613479614258,0,True,False,True,True,,,
+149298580,"{'steamid': '76561198167532497', 'num_games_owned': 264, 'num_reviews': 4, 'playtime_forever': 618, 'playtime_last_two_weeks': 0, 'playtime_at_review': 467, 'last_played': 1710068001}",english,Look it's not finished that's why its early access,1698828796,1698828796,True,1,0,0.466321229934692383,0,True,False,True,True,,,
+149238167,"{'steamid': '76561198350757438', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 2177, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1465, 'last_played': 1699950694}",french,"Good
+",1698737917,1698737917,True,0,0,0,0,True,False,True,True,,,
+149193214,"{'steamid': '76561198271312078', 'num_games_owned': 68, 'num_reviews': 9, 'playtime_forever': 1806, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1797, 'last_played': 1699975635}",french,"un jeux génial avec beaucoup de potentiel mais qui avance comme un escargot aveugle 
+les ajouts sont grandement limité par les créations visuelle que ca implique mais toute la partie méchanique ne nécessitant pas beaucoup de travail vus que le jeux est deja sur une base solide sont totalement ignoré les méchaniques de gameplay a disposition n'évolue pas ou tres peux depuis tres longtemps alors qu en vue des possibilités elles devraient etre une priorité absolue je déconseil je me sent profondément arnaqué par le jeux qui n'a clairement pas changer depuis la beta",1698673293,1698673293,False,3,0,0.514018714427947998,0,True,False,True,True,,,
+149187858,"{'steamid': '76561198386317148', 'num_games_owned': 54, 'num_reviews': 4, 'playtime_forever': 11948, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7518, 'last_played': 1699005592}",schinese,很棒的游戏希望出3优化能好点 里面的工会什么的能可视化一点 更逼真一点,1698666263,1698666263,True,0,0,0,0,True,False,True,True,,,
+149164229,"{'steamid': '76561198256421778', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 1124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1094, 'last_played': 1698625774}",english,"I absolutely love this game and its concept. It's so fun to tap into your own memories and experiences of an MMORPG and create your own little world.. My hope for this series is that it will continue to grow and expand upon itself, games with a unique spin on things are hard to find.",1698623845,1698623845,True,0,0,0,0,True,False,True,True,,,
+149100363,"{'steamid': '76561198042067857', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 4057, 'playtime_last_two_weeks': 83, 'playtime_at_review': 632, 'last_played': 1712271243}",english,i like it :),1698555428,1698555428,True,2,0,0.492367774248123169,0,True,False,True,True,,,
+149098728,"{'steamid': '76561199370539204', 'num_games_owned': 118, 'num_reviews': 15, 'playtime_forever': 1581, 'playtime_last_two_weeks': 0, 'playtime_at_review': 428, 'last_played': 1699439098}",schinese,好玩 但机翻,1698553122,1698553122,True,0,0,0,0,True,False,True,True,,,
+149043168,"{'steamid': '76561197996348536', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 415, 'playtime_last_two_weeks': 0, 'playtime_at_review': 415, 'last_played': 1683070789}",english,"I really thought this game would be my cup of tea but it just feels empty... Making a whole new region to explore every time someone levels up honestly just feels like work to me... The game is still very bare-bones, even after almost four years of early access, not to mention vastly overpriced for what it currently offers.",1698493194,1698493194,False,4,0,0.481751799583435059,0,True,False,True,True,,,
+148920188,"{'steamid': '76561198203786736', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1263, 'playtime_last_two_weeks': 478, 'playtime_at_review': 784, 'last_played': 1712344809}",french,"Edit : la mise à jour des Donjons est enfin arrivée, après des années d'attente.
+Comme promis, je change ma note et je recommande ce jeu.
+Il n'est certes pas fini, il manque encore plein de choses, mais c'est vraiment sympa à essayer, vous passerez minimum une dizaine d'heures à vous amuser à agencer vos maps et à voir vos joueurs fictifs s'agiter en tous sens pour faire leurs quêtes.",1698336705,1712251033,True,0,0,0.467289716005325317,0,True,False,True,True,,,
+148852923,"{'steamid': '76561198076507005', 'num_games_owned': 307, 'num_reviews': 27, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1698243093}",russian,"Симулятор запуска скайрима с 200+ модами за 500 рублей. За столько времени можно было хотя бы оптимизацию сделать. У каждого купившего игру есть личный баг, прямо как у Тодда Говарда. Какое-то время разрабы вроде как отвечали и помогали с проблемами, но сейчас тема выглядит тухло. Через лет десять ее закончат - куплю и попробую еще разок. Выглядит интересно, но поиграть так и не получилось :v(",1698243357,1698243357,False,3,1,0.548969089984893799,0,True,False,True,True,,,
+148825705,"{'steamid': '76561198055665778', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 1206, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1201, 'last_played': 1707663511}",english,Indie game that needs time to update this game.  It's good and always has features on the way.  Definitely worth trying out.,1698200887,1698200887,True,0,0,0,0,True,False,True,True,,,
+148762966,"{'steamid': '76561197990917063', 'num_games_owned': 785, 'num_reviews': 45, 'playtime_forever': 397, 'playtime_last_two_weeks': 0, 'playtime_at_review': 397, 'last_played': 1698110026}",english,"I've been trying to like this game.... and it's just kind of boring. This is after attempt two to get into it, and it's just not vibing for me.",1698110069,1698110069,False,3,1,0.499838560819625854,0,True,False,True,True,,,
+148588704,"{'steamid': '76561199263262200', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1047, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1007, 'last_played': 1697896869}",schinese,6（我是大学sheng),1697876362,1697876362,True,0,0,0,0,True,False,True,True,,,
+148554072,"{'steamid': '76561197970657454', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 492, 'playtime_last_two_weeks': 0, 'playtime_at_review': 492, 'last_played': 1684504019}",english,SLOW updates almost end of the year with nothing new - Wish I could refund this -  Love the idea of the game though -,1697823789,1697823789,False,14,0,0.574399709701538086,0,True,False,True,True,,,
+148544874,"{'steamid': '76561198058547432', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1699206606}",english,"I am inevetable.
+I am the only way. 
+I am EA! 
+
+Buy to survive! Buy to resurrect! BUY EVERYTHING!!!!",1697813829,1697813829,True,1,0,0.481347769498825073,0,True,False,True,True,,,
+148459896,"{'steamid': '76561198069594414', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 2965, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2965, 'last_played': 1623259674}",english,Great game but the lag really starts to spike as you build our your world. Devs have done nothing to improve on this over the past couple years and it's clear they arent going to. Sadly the game is neglected.,1697668919,1697668919,False,4,0,0.472058027982711792,0,True,False,True,True,,,
+148448480,"{'steamid': '76561198821394294', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 1026, 'playtime_last_two_weeks': 0, 'playtime_at_review': 290, 'last_played': 1698389524}",german,"I love this game. I didn't play it that much but I love it. I love to edit every little detail, to make my own storys and my own quest paths, after 4 hours I didn't even finish my own region, but I love this game. The best thing is that it works so well on my pretty shitty pc. I expected it to be laggy etc. but nothing its so fluent, I love it.",1697652191,1697652191,True,0,0,0,0,True,False,True,True,,,
+148399129,"{'steamid': '76561198143580128', 'num_games_owned': 148, 'num_reviews': 33, 'playtime_forever': 272, 'playtime_last_two_weeks': 0, 'playtime_at_review': 272, 'last_played': 1674087406}",french,Laissé à l'abandon par le dev.,1697566534,1697566534,False,5,0,0.510057449340820313,0,True,False,True,True,,,
+148373518,"{'steamid': '76561198016297849', 'num_games_owned': 245, 'num_reviews': 45, 'playtime_forever': 300, 'playtime_last_two_weeks': 0, 'playtime_at_review': 300, 'last_played': 1614004287}",french,"Jeu à l'abandon, je changerais ma note quand les devs avancerons pour de vrai...",1697524680,1697524680,False,5,0,0.510057449340820313,0,True,False,True,True,,,
+148228647,"{'steamid': '76561197998210185', 'num_games_owned': 0, 'num_reviews': 64, 'playtime_forever': 866, 'playtime_last_two_weeks': 0, 'playtime_at_review': 866, 'last_played': 1686732303}",french,"C'est très sympa de pouvoir créer son petit mmo, on passe plus de temps qu'on ne pourrait le croire à peaufiner ses petites zones",1697310270,1697310270,True,0,0,0,0,True,False,True,True,,,
+148149308,"{'steamid': '76561198049293356', 'num_games_owned': 303, 'num_reviews': 11, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 226, 'last_played': 1696698981}",french,"Manque encore de contenu, et le développeur n'a pas l'air de faire beaucoup de mises à jour ces derniers temps.
+Je l'ai acheté au prix fort mais je pense qu'il faut l'acheter en promo et regarder s'il y a effectivement des mises à jours qui apparaissent.
+
+SInon c'est sympa de créer son propre World of warcraft, et de voir les petits bonhommes évoluer dans le jeu. Cependant le jeu commence déjà à rammer autour des 10000 personnages simultanés, ce qui me parait logique et je ne vois pas trop comment le développeur va faire pour régler ce problème technique qui est pour moi insolvable. À la différence de wow qui n'a qu'à afficher un personnage dans un état et une position donnée avec chaque utilisateur qui s'occupe des calculs, ici c'est votre machine qui fait tourner l'ensemble et donc pour moi le jeu se confronte à une limite infranchissable, hors la façon dont le jeu a été pensé c'est une augmentation permanente et exponentielle du nombre de joueurs et donc de capacité de calculs.
+À surveiller.
+
+Je ne le recommande pas pour le moment même si le concept est intéressant car trop de monde ont fait le choix de recommander et donne l'impression que le jeu est exceptionnel à l'heure actuelle.",1697220232,1697220515,False,5,0,0.570982813835144043,0,True,False,True,True,,,
+148055195,"{'steamid': '76561198413954384', 'num_games_owned': 0, 'num_reviews': 102, 'playtime_forever': 835, 'playtime_last_two_weeks': 0, 'playtime_at_review': 615, 'last_played': 1707352435}",spanish,yes,1697075096,1697075096,True,0,0,0,0,True,False,True,True,,,
+148010083,"{'steamid': '76561198017786845', 'num_games_owned': 0, 'num_reviews': 53, 'playtime_forever': 13787, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13774, 'last_played': 1709539135}",english,"Without doubt one of the best games I ever played. 
+The only thing that keeps me from playing it over and over is not only having all achievements what was fun; No, it is that it is incredible easy. Iti s a sandbox game in which you build the MMORPG of your dreams but there is almost no management or simulation part which I absolutely miss and what makes the game unloosable. 
+",1696998509,1696998509,True,0,0,0,0,True,False,True,True,,,
+147949045,"{'steamid': '76561198173352489', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 606, 'playtime_last_two_weeks': 0, 'playtime_at_review': 606, 'last_played': 1675555232}",english,"It's not a bad game on paper, the core idea is there and it could be a great tycoon game but updates are horribly slow. The last update was 6 months ago and it was a hotfix. Either put in the work, hire someone additional or just take it out back and shoot it already. 
+Sadly a prime example of developer neglect.",1696892247,1696892247,False,19,0,0.494627028703689575,0,True,False,True,True,,,
+147706566,"{'steamid': '76561199261403986', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 199, 'last_played': 1696604339}",english,great  a bit laggy tho but that's probably me so other than minor lag great game,1696542297,1696542297,True,2,0,0.523549854755401611,0,True,False,True,True,,,
+147618103,"{'steamid': '76561198169073698', 'num_games_owned': 334, 'num_reviews': 38, 'playtime_forever': 1198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 783, 'last_played': 1701597422}",english,"Pretty fun as it sits so far. Can make your own towns, quest lines, can edit class's abilitys to balance combat, can edit npcs, monster, players. Alot of creative freedom when it comes to making your own mmo. 
+The AI's all have generated names and some are streamers who could help your game grow. You can also run ad's to gather new players, add props to spice up your towns, add guards to help out those struggling players.
+
+All around, I recommend for those who love just creating things while doing a bit of management on the side
+
+Theres also a creative mode for those who just wanna create with no restrictions.",1696419539,1696419539,True,0,0,0.486725687980651855,0,True,False,True,True,,,
+147492572,"{'steamid': '76561198444322999', 'num_games_owned': 106, 'num_reviews': 34, 'playtime_forever': 642, 'playtime_last_two_weeks': 0, 'playtime_at_review': 188, 'last_played': 1707378763}",english,"good game, easy to learn hard to master, 8/10 for now, this game also need updating",1696237903,1696237903,True,4,0,0.533866167068481445,0,True,False,True,True,,,
+147407545,"{'steamid': '76561197974941310', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 5627, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5062, 'last_played': 1710097216}",english,"I purchased this game after watching a Youtube video of it three years ago. In that time very few things were added to the game, there is a dungeon engine in beta right now, it's bare-bones, but part of the game's road map. Performance is abysmal even with my 5800X3D/4090/64GB in network mode, a largely useless time-sink added to the game. I want to love this game but it's nearly unplayable when you start to have a real player base in the game. I would recommend a 13900k if planning a playthrough.",1696135112,1696135112,False,15,1,0.5922127366065979,0,True,False,True,True,,,
+147334976,"{'steamid': '76561199230268677', 'num_games_owned': 73, 'num_reviews': 24, 'playtime_forever': 1810, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1723, 'last_played': 1709498224}",english,thanks for my dungeons viktor,1696056887,1709267088,True,8,5,0.585161328315734863,0,True,False,True,True,,,
+147221980,"{'steamid': '76561199528583501', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 656, 'playtime_last_two_weeks': 42, 'playtime_at_review': 215, 'last_played': 1711813474}",english,"Absolutely fantastic game, detailed and entertaining. The only downsides are slow updates and crashing every hour or so, but its still amazing, the crashes may also be my potato of a laptop not running well, amazing game!",1695920457,1695920457,True,1,0,0.491529196500778198,0,False,False,True,True,,,
+147193974,"{'steamid': '76561199124129211', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 4885, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4594, 'last_played': 1706381454}",english,Yes,1695893381,1695893381,True,0,0,0.467745691537857056,0,True,False,True,True,,,
+147181111,"{'steamid': '76561198850871182', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 1803, 'playtime_last_two_weeks': 0, 'playtime_at_review': 914, 'last_played': 1707790203}",english,So fun i have not played any other game in 3 day,1695875323,1695875323,True,0,1,0.467745691537857056,0,True,False,True,True,,,
+147114652,"{'steamid': '76561198897875185', 'num_games_owned': 46, 'num_reviews': 2, 'playtime_forever': 1101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 221, 'last_played': 1707918011}",russian,игра на любителя. но провести тут время можно очень интересно декорировать и настраивать свой мир как любитель декорирования и создания своего мира советую,1695803339,1695803339,True,0,0,0,0,True,False,True,True,,,
+147081540,"{'steamid': '76561199032741256', 'num_games_owned': 347, 'num_reviews': 208, 'playtime_forever': 476, 'playtime_last_two_weeks': 0, 'playtime_at_review': 280, 'last_played': 1695933598}",turkish,"Değeri bilinmeyen oyunlardan bence gayet eğlenceli fakat çeşitlilik artmalı,modlar gelmeli.",1695761530,1695761530,True,0,0,0,0,True,False,True,True,,,
+147025221,"{'steamid': '76561198172016203', 'num_games_owned': 203, 'num_reviews': 31, 'playtime_forever': 3134, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2294, 'last_played': 1702692917}",english,good game but still needs a bit of work,1695676429,1695676429,True,1,0,0.493259072303771973,0,True,False,True,True,,,
+146916321,"{'steamid': '76561198395386055', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 406, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1696352784}",polish,Very fun game.,1695542727,1695542727,True,0,0,0,0,True,False,True,True,,,
+146897868,"{'steamid': '76561199550630599', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 767, 'playtime_last_two_weeks': 0, 'playtime_at_review': 341, 'last_played': 1704748717}",english,The best management game for those who like them,1695515979,1695515979,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+146816470,"{'steamid': '76561198280340108', 'num_games_owned': 557, 'num_reviews': 166, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1617630633}",tchinese,同類型遠不如我的幻想鄉，建議大家去玩那個,1695424058,1695424058,False,0,1,0.459724962711334229,0,True,False,True,True,,,
+146776889,"{'steamid': '76561198023836924', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 241, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1708209532}",french,"C'est vraiment très satisfaisant de pouvoir faire son propre MMO!
+
+Il vaut vraiment son prix. On peut créer des zones avec des biomes, bâtiments, etc.. On peut créer ses propres classes avec personnalisation de l'apparence, des sorts, des skills, pv, etc. On peut créer des mobs, PNJs, etc. 
+Il y a également des aspects de gestion ""hors du jeu"", comme de l'argent, le recrutement de devs, MJs, la publicité pour le jeu, les commentaires des joueurs, les cheateurs, la note de notre jeu, etc.
+
+Dommage que ce soit une toute petite équipe, du coup les mises à jour sont assez distantes dans le temps, alors qu'on aimerait qu'il y en ait beaucoup plus, quitte à avoir une augmentation du prix du jeu ou même des DLCs pour soutenir les dévs!!!
+
+ps: j'ai 20 heures de jeu environ.
+",1695387588,1695387588,True,0,0,0,0,True,False,True,True,,,
+146706554,"{'steamid': '76561199141431270', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 2111, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2026, 'last_played': 1706545581}",schinese,游戏创意很好，题材也挺好，唯独就是不好玩。,1695302259,1695302259,False,3,0,0.534359514713287354,0,True,False,True,True,,,
+146494147,"{'steamid': '76561198016594825', 'num_games_owned': 81, 'num_reviews': 9, 'playtime_forever': 1555, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1085, 'last_played': 1704136634}",english,"Well, its been half a year since last minor update. Dungeons sometime this year hopefully. 
+
+Fun game so far, but gets old quick I find.",1694979045,1694979045,True,0,0,0.472440958023071289,0,True,False,True,True,,,
+146376687,"{'steamid': '76561199229731429', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 355, 'playtime_last_two_weeks': 0, 'playtime_at_review': 239, 'last_played': 1694905881}",english,good,1694839057,1694839057,True,0,0,0.444908291101455688,0,True,False,True,True,,,
+146320163,"{'steamid': '76561198029978792', 'num_games_owned': 244, 'num_reviews': 11, 'playtime_forever': 18610, 'playtime_last_two_weeks': 2569, 'playtime_at_review': 2065, 'last_played': 1712354317}",english,"No major updates in over 2 years or so. Damn. 
+
+I love this game don't get me wrong, but the forever early access stuff is annoying. Don't buy this if you expect it to be further than it was when it was put on steam.
+
+I want to thumbs it down but its still good. But I'd cautiously switch it down in a year if they don't fix it.",1694761142,1694761264,True,45,0,0.764251232147216797,0,True,False,True,True,,,
+146297583,"{'steamid': '76561199183681581', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 637, 'playtime_last_two_weeks': 0, 'playtime_at_review': 475, 'last_played': 1704249499}",english,"So far a very good game will be investing a lot more time. The price is worth it even more so if on sale. 
+
+The road map looks ok i have not unlocked guilds yet but im hoping it comes with or adds in the future all the guild/allience content like raids(which would be a cool implementation with the world boss thing). Maybe create a a big island or dimension so there are guild halls and treasury so they can build the guild halls, have guild pvp, and climb guild rankings which could be distributed into kills/wealth/pvp? This is all things Im wishing for on top of the road map but it would definitely fit considering this is an mmo. 
+
+Now for what is already in the game I found that the warning button either does not work or i have not unlocked it? I try clicking and holding on a player to no avail. Also i hope we can customize the (boss) mob a bit more so they dont just look like a bigger version of everything else which is a cool base but personally I would like to customize them so they stand out a bit more. I have not looked at dungeons yet the screen shots look good but id like to unlock parties first. I'm also not a fan of the network system but I can see why it was implemented it just took a while to figure out that mob areas also need it and going to a new zone was a bit rough, would've made a better initial placement of the network thing.
+
+Overall a very good game if you give it a chance without trying to limit time played for the refund because it took me about 2 hours to customize my starter area after finishing the tutorial and creating a new game, although a lot of it was figuring things out and flipping through tabs. Looking forward to more content coming to the game.",1694720183,1694720183,True,0,0,0,1,True,False,True,True,,,
+146278899,"{'steamid': '76561199068902656', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 1002, 'playtime_last_two_weeks': 0, 'playtime_at_review': 430, 'last_played': 1702557298}",hungarian,kurva jo,1694697234,1694697234,True,0,0,0,0,True,False,True,True,,,
+146237891,"{'steamid': '76561198883034630', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 1220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 985, 'last_played': 1709503429}",dutch,.,1694629512,1694629512,True,0,0,0,0,True,False,True,True,,,
+146231763,"{'steamid': '76561198080400791', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 3957, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3560, 'last_played': 1695132873}",thai,Have potential,1694622063,1694622063,True,0,0,0,0,True,False,True,True,,,
+146174810,"{'steamid': '76561198402646375', 'num_games_owned': 75, 'num_reviews': 3, 'playtime_forever': 1367, 'playtime_last_two_weeks': 0, 'playtime_at_review': 451, 'last_played': 1709637278}",schinese,"英雄技能可以加个召唤吗？我德鲁伊想召唤熊之类的。还有更新快一点吧
+I need to sinicize everything!!!!!
+I need to sinicize everything!!!!!
+I need to sinicize everything!!!!!",1694533093,1708339887,True,4,0,0.580838322639465332,0,True,False,True,True,,,
+146164245,"{'steamid': '76561199511151198', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 2960, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1043, 'last_played': 1710837221}",schinese,1,1694519240,1694519240,True,0,0,0,0,True,False,True,True,,,
+146040485,"{'steamid': '76561198155443892', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 299, 'playtime_last_two_weeks': 0, 'playtime_at_review': 186, 'last_played': 1706578144}",english,yes,1694336034,1694336034,True,0,1,0.479991912841796875,0,True,False,True,True,,,
+146004660,"{'steamid': '76561198132959229', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 18162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12640, 'last_played': 1694922927}",english,"Hard to thumbs up or down this game.
+It's an amazing game idea with tons of potential. Could easily be fixed by mods/community coming together and making stuff.
+But there isn't really mod support yet, it lacks a lot of basic mechanics, and every new thing they've released has been a bit bare bones, and only added the amount that needs to be fixed or increased the need for more in depth mechanics. There are a lot of yet to be's that are frequently advertised by the devs and disc for the last two+ years out of the three it's been out for, and they may eventually come out, but haven't seen it yet, and it is said that for example, dungeons was supposed to ""coming out soon"" more than two years ago, and they've not gotten very far into developing this mechanic considering the time scale - apparently going to be released in multiple releases, so even when it does drop, still not going to be finished like everything else. And the game has become a bit stagnant, as nothing is going to get touched till they release dungeons, so it's become a circle jerk. 
+Dev's may be listening to feedback and such, idk cause nothing will ever get done... It's definitely dying/going to die soon if they don't figure out what they are doing as the communities are dwindling more and more as people give up waiting for something that keeps getting promised to be out, ""soon"", ""end of this year"", ""beginning half of this year"", just for nothing to happen over and over. It's quite disheartening. 
+
+Game could be good in a few years if things start getting finished and polished up a tiny bit rather than not. Though I thought this a few years ago, and nothing has changed, so. IDK.
+
+Dev team is too small and not good enough it seems. I've seen single-man run games come out with stuff faster, with more complicated mechanics, and wonderful graphics, while also being far more optimized.
+
+TLDR: Great game, highly unfinished, new mechanics come out highly unfinished and unpollished; and dev's overpromise when things will come out by a few years+, stagnating the content updates as they won't work on anything else.",1694287957,1694288182,False,12,0,0.615276753902435303,0,True,False,True,True,,,
+145923017,"{'steamid': '76561198113817425', 'num_games_owned': 170, 'num_reviews': 39, 'playtime_forever': 288, 'playtime_last_two_weeks': 0, 'playtime_at_review': 281, 'last_played': 1699810284}",russian,"No any big updates for a really long time. 
+it seems that devs decided to leave the development.
+Do not buy. 
+One more EA scum and another brick in the wall",1694190649,1694190649,False,1,0,0.399774789810180664,0,True,False,True,True,,,
+145875173,"{'steamid': '76561198319338299', 'num_games_owned': 150, 'num_reviews': 21, 'playtime_forever': 2404, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2344, 'last_played': 1710603952}",english,"good game will recommend, but there can be alot of presure on your pc once you go big with your ""game"" but still pretty fun to relax or just kill some time with",1694120000,1694120000,True,0,0,0,0,True,False,True,True,,,
+145704558,"{'steamid': '76561199025508445', 'num_games_owned': 39, 'num_reviews': 1, 'playtime_forever': 569, 'playtime_last_two_weeks': 0, 'playtime_at_review': 350, 'last_played': 1694687625}",turkish,mükemmel bir mantığı var. kavraması biraz zor olsada oynanıyor. türkçe dil desteği ne zaman gelir?,1693915544,1693915544,True,0,0,0,0,False,False,True,True,,,
+145661699,"{'steamid': '76561198121213906', 'num_games_owned': 41, 'num_reviews': 3, 'playtime_forever': 1264, 'playtime_last_two_weeks': 0, 'playtime_at_review': 794, 'last_played': 1694113853}",turkish,Oyunda 3. haritayi actıgımızda  npc koydugumuz adama tıklama yaparsak oyundan atıyor 3 ayrı yenı oyunda denedım gene aynı sonucu aldım sorun oyunda mı bende mı neyı eksık yapıyor olabılırım,1693844100,1693844100,False,1,0,0.52173912525177002,0,True,False,True,True,,,
+145646044,"{'steamid': '76561197994988700', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 33281, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31064, 'last_played': 1705592056}",english,"After 500+ hrs of trying to love this game, unfortunately it is simply too permanently incomplete to recommend with good conscience -- especially for the price. What exists of the game is very interesting, and the community is actually quite solid (they have a nice discord server) but other than that It's been in development for around a decade and is still less than 1/3 of the way complete. 
+
+I've owned it for over a year and it has received zero major updates: just a couple of small bug fixes, and a single small cosmetic pack of functionless buildings and decorations. 
+
+TLDR: good game, but not worth it value-wise",1693823590,1693823590,False,19,1,0.57080543041229248,2,True,False,True,True,,,
+145548249,"{'steamid': '76561199056102643', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1693682290}",turkish,sıkıcı geldı bana,1693686804,1693686804,False,0,0,0,0,True,False,True,True,,,
+145401136,"{'steamid': '76561198018258356', 'num_games_owned': 319, 'num_reviews': 2, 'playtime_forever': 1317, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1156, 'last_played': 1702309664}",english,"This *was* entertaining and showed some promise but the functionality and content is very limited and the huge gaps between any meaningful updates (no devs, ""quick fix for X"" doesn't count!) demonstrates that the dev team are either too small, lacking in ability, or simply don't care.",1693511335,1693511335,False,11,0,0.501904964447021484,0,False,False,True,True,,,
+145223254,"{'steamid': '76561198033530709', 'num_games_owned': 258, 'num_reviews': 31, 'playtime_forever': 3198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3198, 'last_played': 1693210875}",english,"[i]Just a tiny hot-take before anything: the devs has the worst sense of proportions I ever seem LOL
+Now to the actual review...[/i]
+
+My opinion about this game is that it has an inovating and awesome idea, and it's still very rough, bare and bland. It's to be expected from a Early Access, and they got a considerable evolution since 2021, when I bought the game. On that time, we couldn't resize props, scenery were lacking, there was no modular buildings, and combat system was somewhat too simple (it still is, but they got a considerable improvement). They implemented everything I mentioned before that doesn't had, and is about to hit us with [b]dungeons update[/b], with free beta testing available here on Steam.
+
+Overall, if you buy this game, you will find inovating systems and things to explore and have fun with, but you will feel limited on most of things you do. That's not necessarily a bad thing, as long you be vocal about it and share your feedbacks, in my opinion. But being clear about it, [b]NOTHING[/b] that is already implemented is sufficient as a full feature, and I think they will need some time to enhance everything they got. If things get more customizable, they might literally hit gold with this game.",1693259068,1693259068,True,0,1,0,0,True,False,True,True,,,
+145197127,"{'steamid': '76561199091754661', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 761, 'playtime_last_two_weeks': 0, 'playtime_at_review': 761, 'last_played': 1688260865}",english,Too grindy and generally not fun. I wish i'd realized that before the refund deadline,1693228757,1693228757,False,0,1,0.476190477609634399,0,True,False,True,True,,,
+144952659,"{'steamid': '76561198121437259', 'num_games_owned': 287, 'num_reviews': 12, 'playtime_forever': 414, 'playtime_last_two_weeks': 0, 'playtime_at_review': 414, 'last_played': 1645720854}",english,rug pull,1692924176,1692924176,False,8,0,0.517710506916046143,0,True,False,True,True,,,
+144916629,"{'steamid': '76561198001552715', 'num_games_owned': 194, 'num_reviews': 25, 'playtime_forever': 5236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5236, 'last_played': 1689345643}",english,"If you love both Tycoon and MMORPG genres, this game is an absolute delight that seamlessly blends the best of both worlds. The recent wave of criticism seems rather confusing, as my experience has been overwhelmingly positive. Admittedly, after a solid 5-6 hours of play, there is a slight hint of repetitiveness setting in. However, let's not forget that maintaining engagement over such a substantial time span is no mean feat, especially in the context of an early access title.
+
+The dev team is readily available and engages on Discord, consistently providing insights into their ongoing efforts. The notion that updates can be conjured with the wave of a wand is far from reality, The beta testing phase for Dungeons update is currently live in the beta branch on steam. The game is in a state of active evolution, which is remarkably evident in the sheer enjoyment it offers.
+
+I have not had any bugs in my gameplay, so I don't know what bugs people are talking about.",1692881244,1692881244,True,0,0,0,0,True,False,True,True,,,
+144857764,"{'steamid': '76561198283015964', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 7076, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6864, 'last_played': 1707582003}",english,Awesome game.,1692798706,1692798706,True,0,0,0,0,False,False,True,True,,,
+144771020,"{'steamid': '76561198308933460', 'num_games_owned': 65, 'num_reviews': 15, 'playtime_forever': 708, 'playtime_last_two_weeks': 0, 'playtime_at_review': 708, 'last_played': 1646369403}",schinese,no,1692682982,1692682982,False,0,1,0,0,True,False,True,True,,,
+144660849,"{'steamid': '76561198007032023', 'num_games_owned': 473, 'num_reviews': 16, 'playtime_forever': 2103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 825, 'last_played': 1710986985}",english,"Currently i cant recommend. The game is so barren and bare, updates come in extremely slowly. Where i've done everything there is to be done in the first 5 hours. Its missing everything that makes an MMO an MMO. Dungeons, Raids, PVP. even though its on the roadmap. Its still taking way too long to roll these out",1692554952,1692554952,False,8,0,0.53580927848815918,0,True,False,True,True,,,
+144536976,"{'steamid': '76561198031026580', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 28589, 'playtime_last_two_weeks': 122, 'playtime_at_review': 26564, 'last_played': 1712423894}",english,"This game is extremely fun. I have been enjoying it for a long while before deciding to finally give my impressions of it;
+
+It is a great game, with a few limitations, that has incredible potential. The games you can make with it can feel extraordinarily fulfilling, and often do once you commit yourself to creating unique classes, monsters, and npcs, with the nifty model editor. The community behind the game is also impressively welcoming for something of its scale, and have all been more than happy to test out the newest preview build for the upcoming update for a while, which has been seeing consistent improvement and fixes from an active, albeit small, development team.
+
+To say I recommend this game is an understatement. See what you can make in the game. The AI subscribers have some interesting tricks up their sleeves for what appeals to them and it's very intriguing to try and decipher what they really need to stay invested in your quaint little dream game.",1692418774,1692418774,True,2,0,0.537956118583679199,0,True,False,True,True,,,
+144120688,"{'steamid': '76561198937415394', 'num_games_owned': 111, 'num_reviews': 16, 'playtime_forever': 744, 'playtime_last_two_weeks': 0, 'playtime_at_review': 554, 'last_played': 1707802266}",polish,"Gra nawet fajna, jesli jesteś trochę kreatywną osobą i masz fantazje kreatora to gra jest dla ciebie w skrócie Tworzysz swoją grę od A do Z możesz budować miasta tworzyć lasy a w nich mobki stworki, wykrywasz NPC (graczy tak jakby) wysyłasz warny żeby przestali np cheatować lub banujesz po prostu sandbox lecz nie zalecam gry dla graczy szukającej szybkiej rozgrywki strzelania itp bo tu nic nie ma to jest bardziej strategia w czasie rzeczywistym bez podbojów bez niczego tylko po prostu tworzysz własną grę!",1691956304,1691956304,True,0,0,0,0,True,False,True,True,,,
+144099004,"{'steamid': '76561197998770859', 'num_games_owned': 238, 'num_reviews': 6, 'playtime_forever': 6952, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5349, 'last_played': 1706366967}",english,"Pretty good game! However, i wish there where more decorations to use for world building.  Can't wait to see what they implement in the Dungeon Update!",1691938458,1691938458,True,0,1,0,0,True,False,True,True,,,
+143767368,"{'steamid': '76561198846052834', 'num_games_owned': 78, 'num_reviews': 22, 'playtime_forever': 396, 'playtime_last_two_weeks': 0, 'playtime_at_review': 383, 'last_played': 1708705352}",turkish,Çer çöp çok yüzeysel kalmış adamın 1500 goldu var gidip ilvl ini artırmak için item almıyo sosyallik diye bir yarrak var hayatımda böyle bişey görmedim adam 5 saat oyuna giriyosa 4 saat sosyaleşiyo sosyalleşmek için oyuna mı girilir amk bok gibi item yok gold mantığı yok level mantığı çöp yakında MMO RPG DEV Tycoon çıkacak onu alın,1691654620,1691654620,False,0,0,0.476973682641983032,0,True,False,True,True,,,
+143642750,"{'steamid': '76561198222807200', 'num_games_owned': 0, 'num_reviews': 69, 'playtime_forever': 690, 'playtime_last_two_weeks': 0, 'playtime_at_review': 652, 'last_played': 1710369524}",turkish,Belli bir yerden sonra sarmıyor ama 40tl için yeterli bir zevk verdi.,1691487103,1691487103,True,0,0,0,0,False,False,True,True,,,
+143558504,"{'steamid': '76561199013251509', 'num_games_owned': 109, 'num_reviews': 46, 'playtime_forever': 758, 'playtime_last_two_weeks': 0, 'playtime_at_review': 758, 'last_played': 1686339216}",english,I like this game. I really like how you can make your own character models. King Pingu Rules,1691367986,1691367986,True,0,0,0,0,True,False,True,True,,,
+143219376,"{'steamid': '76561199273555283', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 327, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1699224862}",english,i lovee it,1690916344,1690916344,True,1,0,0.498101264238357544,0,True,False,True,True,,,
+143140786,"{'steamid': '76561199199926427', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2276, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1368, 'last_played': 1706978834}",french,"jeux avec possibilité trés vaste et un deveullopement infini
+",1690805290,1690805290,True,0,0,0,0,True,False,True,True,,,
+143140530,"{'steamid': '76561198399312859', 'num_games_owned': 131, 'num_reviews': 74, 'playtime_forever': 888, 'playtime_last_two_weeks': 0, 'playtime_at_review': 714, 'last_played': 1691100150}",russian,Построю свой WoW с блэкджеком и женщинами,1690804914,1690804914,True,1,1,0.519999980926513672,0,True,False,True,True,,,
+143098600,"{'steamid': '76561198071536888', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 157, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1680792364}",english,"I keep looking back wanting to give this game another try, because its cool and interesting, so I tell myself wait for dungeons it needs just a little more work. I know I don't have many hours on record and its because the games just a little bare. I hate to say it but this game is another abandoned one from the devs. We have had exactly 4 SINGLE BUG Hotfixes since april, and one hot fix that fixed 5 bugs. So they have fixed exactly 7 bugs in almost 4 months. They are just pretending to work on it to squeeze more money out of people. Real shame this is a super cool idea.",1690740215,1690740215,False,12,2,0.527097940444946289,0,True,False,True,True,,,
+143032882,"{'steamid': '76561198842462456', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 803, 'playtime_last_two_weeks': 0, 'playtime_at_review': 803, 'last_played': 1598113082}",schinese,要不你直接跑了算了别更了，省着我隔三差五就来看一眼,1690651465,1690651465,False,11,3,0.589171528816223145,0,True,False,True,True,,,
+142901317,"{'steamid': '76561199239973168', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 491, 'playtime_last_two_weeks': 0, 'playtime_at_review': 439, 'last_played': 1701101629}",english,In the time this gets updated you can learn how to code yourself and make a copy of this game with 100x more features. Devs know that they are not making money with the game anymore and are now doing the absolute bare minimum to leave the impression that the game still gets updated.,1690472694,1690472800,False,13,2,0.552125811576843262,0,True,False,True,True,,,
+142889213,"{'steamid': '76561198425899058', 'num_games_owned': 33, 'num_reviews': 5, 'playtime_forever': 1550, 'playtime_last_two_weeks': 0, 'playtime_at_review': 772, 'last_played': 1690820119}",english,"It has sooo much potential, it's just WOW
+I hope the developer will keep the game going, hope this review can help others players know that this game is awesome!
+Can't wait for the next update!",1690456801,1690456801,True,1,0,0.495867788791656494,0,True,False,True,True,,,
+142870329,"{'steamid': '76561198022861080', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 431, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1690666944}",english,"Kinda boring after 3 hours. Not much to really do but place some things around the map, make some NPCs, and then let the game run until you need to make a new area. I'd refund it but I hope to come across some more content later.",1690425909,1690425909,False,4,0,0.541324794292449951,0,True,False,True,True,,,
+142828201,"{'steamid': '76561198142842064', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 471, 'playtime_last_two_weeks': 0, 'playtime_at_review': 471, 'last_played': 1689798818}",russian,Прикольная),1690371607,1690371607,True,0,0,0,0,True,False,True,True,,,
+142826396,"{'steamid': '76561198079395658', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 293, 'playtime_last_two_weeks': 0, 'playtime_at_review': 293, 'last_played': 1626321915}",english,You could probably make your own REAL MMORPG between updates,1690368940,1690368940,False,8,2,0.51170504093170166,0,True,False,True,True,,,
+142516893,"{'steamid': '76561198093083833', 'num_games_owned': 89, 'num_reviews': 13, 'playtime_forever': 1001, 'playtime_last_two_weeks': 0, 'playtime_at_review': 980, 'last_played': 1710675165}",russian,"Игра только для мощных ПК . разраб забил болт на оптимизацию . с каждым патчем все хуже и хуже.
+Надеюсь это решиться . А для счастливых обладателей нормального компа игра норм .",1689934130,1709407508,True,0,0,0,0,True,False,True,True,,,
+142371571,"{'steamid': '76561197988241018', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 965, 'playtime_last_two_weeks': 93, 'playtime_at_review': 808, 'last_played': 1712266054}",french,"TLDR:
+Le concept est vraiment sympa, les graphismes sont cool mais c'est tout. Le principal problème du jeu est qu'on avance sans but, il n'y a rien à débloquer on a presque tous les éléments dès le début et pas vraiment de challenge. Il y a plein de concepts mais aucun n'est travaillé suffisamment pour apporter un épanouissement... Il y a trop de chose incomplètes et trop de choses inutiles. Il aurait fallu moins de feature mais mieux approfondies. Au final on se retrouve grosso modo avec un éditeur 3D pour modéliser des zones, ce qui pour 20€ est un peu cher. Donc on s'amuse bien les premières heures puis on s'ennuie.
+
+Détails:
+
+Globalement il est assez facile de se faire de l'argent ce qui fait que le côté gestion passe un peu en arrière plan. L'argent ne sert à rien à part agrandir notre MMO plus vite => côté gestion pas terrible
+
+Fonctionnalité ""Bande passante"": Je ne comprends pas vraiment l'utilité de cette mécanique où il faut relier des zones par des câbles pour fournir du débit. Ce n'est pas franchement intéressant ni compliqué en l'état tant que vous avez des sous => fonctionnalité pas approfondie
+
+Triche des joueurs: les joueurs peuvent tricher et vous pouvez passer un outil sur eux pour détecter les tricheurs et les bans ou leur donner un avertissement. Encore une fois c'est un peu léger comme feature, il faut le faire de temps en temps.
+
+Terrain: Les possibilités de modélisation du terrain sont assez faibles, on peut surtout placer des éléments décoratifs et des bâtiments sur le terrain. => C'est esthétique en early accès donc pourquoi pas.
+
+Les quêtes: Les quêtes sont donnés par des PNJ donneur de quête. Elles se résument en deux actions possibles: aller dans un bâtiment ou aller tuer des monstres et c'est tout. Il n'est pas pas possible de mettre des prérequis même les plus basiques (ex: être niveau X, avoir terminé une autre quête). Pas de gestion de loot non plus. On peut faire des suites de quête mais ca doit rester sur le même pnj ce qui est assez contraignant. => La encore c'est très limité, on aimerait pouvoir faire des quêtes plus fun et plus travaillées
+
+Les chefs de classes: ils sont là pour enseigner les sorts. Ils ne servent à rien d'autre (ils ne peuvent pas donner des quêtes de classe par exemple) => Feature trop légère
+
+Les bâtiments: il y a un nombre très restreint de bâtiment qui fournissent des services pour les joueurs. Ces bâtiments influencent sur l'équilibrage puisque les joueurs vont pouvoir acheter des potions ou des armes. Leur fonctionnement n'est pas explicité, les joueurs achètent des services pour leur aventure avec l'or qu'ils gagnent. C'est difficile d'équilibrer les sorts et les stats des joueurs quand ceux-ci sont sous perfusion de potions.. Autre remarque (esthétique), on ne peut pas préciser le type d'arme que peut équiper une classe donc on peut se retrouver avoir des archers avec des masses qui lancent des projectiles. En plus il faut faire plusieurs auberges car la place est limité. => Là encore il y a des idées mais c'est insuffisant
+
+AI des joueurs est désastreuse. On a un comportement de poisson rouge incohérent. Le joueur débute une quête puis décide d'aller voir un endroit à l'autre bout de la carte sans raison puis décide de se déconnecter. Les joueurs se retrouvent parfois avec beaucoup de quête simultanément et choisissent une action random dans leur liste de truc à faire. Ils aiment bien socialiser dans les zones des monstres car c'est évidemment le meilleur endroit pour papoter. => On pourrait s'attendre à ce que le ""coeur"" du jeu fonctionne quand même correctement, et bien non ! C'est assez frustrant.
+
+Côté satisfaction des joueurs, la liste des remarques des joueurs ne fait que s'empiler sans jamais diminuer ce qui fait qu'on doit se trimbaler des remarques qui ne sont plus d'actualités toute la partie. => Là encore c'est un jeu de gestion, c'est censé être le coeur du truc (donc fonctionner normalement), et bien non plus !
+
+Le design des classes et des monstres (sorts/stats) est assez simple mais efficace. On peut faire quelques sorts basiques avec des quelques effets. C'est la partie que j'ai bien aimé. Mais c'est quand même assez chaotique à tester car il faut suivre un joueur pour moi les sorts qu'il lance et estimer si c'est assez correct ou non. Si on combine ca avec l'effet poisson rouge on n'a pas l'occasion de beaucoup tester. On a un DPS théorique mais ce n'est pas très représentatif des classes car il y a bien d'autres paramètres à prendre en compte (tankiness, heal, protection, melee/distant) etc. Le jeu donne un rang à nos classes (S, A, B, C, etc..) mais la notation n'est pas transparente et on se demande si c'est vraiment pertinent. Pour exemple j'avais un druide distance qui pouvait kite mais du coup avec un dps réduit et les joueurs demandent un buff (alors que c'était op)
+=> C'est la partie la plus fun mais il difficile de tester nos sorts et mécanique. De plus en combat on ne voit pas les buffs des joueurs, leur cd, etc.. Au moins sur le joueur en combat qu'on cible (ou controle) on pourrait avoir ses infos pour voir comment l'IA jouent nos classes. Là encore c'est insuffisant, frustrant et bugué.
+
+On peut espérer que les développeurs travaillent sur ces points mais vu les autres commentaires je pense qu'il ne faut pas trop espérer. Il y avait juste assez pour nous faire jouer plus de 2h et empocher les 20€. J'ai un peu l'impression de m'être fait voler. C'est dommage car le concept était quand même intéressant.",1689722085,1689723563,False,12,2,0.636224925518035889,0,True,False,True,True,,,
+142272349,"{'steamid': '76561198074585760', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 598, 'playtime_last_two_weeks': 0, 'playtime_at_review': 598, 'last_played': 1689590744}",english,"This is a fun tycoon game that captures building your own MMORPG well. It has a decent amount to do content wise currently. However, a lot of it does get repetitive after a little while. This is because there isn't a huge amount of variety of scenery items that really help set the scene as well as the quests system seems to be some what limited on what you can setup quest wise. Being either a fetch quest or kill X amount of enemies quest. The depth of the game could be so much more. I know this is in early access but it seems to have been in early access for a very long time with updates being few and far between. I know developing games isn't easy or quick for any game that is of good quality. However, I've played early access games by solo developers that churn out decent sized updates on a regular basis to keep the content of the game expanding and alive and it is received much better that way. For it's current asking price I can't recommend this game for what you get content wise and with how long this game takes to get any meaningful updates. If they do come along though and this game starts to get some more in depth content to really build on what is solid foundations currently then I would recommend this game because it has a lot of potential. Also, if the developer introduced a steam workshop for this game that alone would be huge as then we'd see a whole library full of fan made content to add to the game that would make the experience so much better. I can also confirm this game does also run out the box fine on the steam deck. Once you get a few thousand players in your game though its worth turning some settings down as you'll soon go down to 40fps which is still alright.",1689607131,1689608297,False,8,0,0.587330818176269531,0,True,False,True,True,,,
+142267355,"{'steamid': '76561197975643308', 'num_games_owned': 475, 'num_reviews': 18, 'playtime_forever': 2775, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1819, 'last_played': 1690476842}",english,"All things considered , this is a fun little (maybe a bit trashy) simulation. 
+Lacking alot of content tho.. 
+I know developing takes time especially when you dont have huge budgets or teams...
+I think the best this game could do is open to the workshop so players could add their own content.. own structures and or scenery objects... 
+right now i am able to design about 4 to 5 unique areas.. the rest is pretty much more of the same... i know real mmos arent much different i get the joke here...  XD but gameplaywise this is sadly pretty boring.
+Still gets updates so im looking forward to this becoming a real big tycoon game :3
+maybe consider lowering the price tag  a bit... i mean .. its 20 bucks.. the games ""out"" for 2 years now and honestly didnt got a lot of content in that time.. , anyways i like how you can actually create and balance out own unique classes and npcs/enemies. 
+
+Players paying ""real money"" to respawn at a graveyard just to save up a few meters of walking will never get old XD",1689601560,1689601560,True,5,0,0.598765432834625244,0,True,False,True,True,,,
+142259923,"{'steamid': '76561199522714394', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 9954, 'playtime_last_two_weeks': 44, 'playtime_at_review': 3020, 'last_played': 1711441682}",english,"the game is OK in fact its great for the most part minus features that will be added in time, the problem is its early access which means your not even on the Beta which talking of Beta they got an update on the 7th July 2023 allowing them to create dungeons, that aren't available for early access so i wouldn't recommend the game in its current state of 0.19.123 that said i think after a few more updates and features i will recommend so please check my review often incase this changes.
+
+[spoiler] Since my previous review i have changed my opinion since i found that beta is manually apply, and i have got onto Dungeon Preview via the beta. [/spoiler] so whats changed? well the addition of dungeon preview itself which wasn't entirely up to snuff but the latest update has seen bosses for dungeons added so i can finally build 3-4 islands and theme bosses for dungeons for individual islands. want to build a skyrim like world and add a draugr deathlord or a dragon priest now you can, want a dragon lair type area? with dragons now available to build on the latest now you can. want a Dragon Age Origins style cave full of enemies and a boss battle at the end now you can. when the other updates with other features are complete this game will be perfect",1689591676,1696612295,True,0,0,0.480974137783050537,0,True,False,True,True,,,
+142213781,"{'steamid': '76561198138276746', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 743, 'playtime_last_two_weeks': 0, 'playtime_at_review': 740, 'last_played': 1689527668}",french,Personnellement j'adore,1689527469,1689527469,True,0,0,0,0,True,False,True,True,,,
+142171374,"{'steamid': '76561198115232729', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 575, 'playtime_last_two_weeks': 0, 'playtime_at_review': 575, 'last_played': 1689474086}",english,"The game is enjoyable and offers unlimited autonomy in creating and managing your own MMORPG. Personally, I found it most intriguing to create and balance classes with my past MMORPG experiences.
+However, given the current development status, I don't believe the game's price of $25 is fair. Developing higher-level regions feels repetitive because of the lack of unlockable features. Additionally, the scenery items are quite limited, and the game logic forces you to place hundreds of them to advance the tech tree. There are also many unfinished or unpolished features in the current game, more than in most indie early access games.",1689474774,1689474774,False,7,0,0.570121467113494873,0,True,False,True,True,,,
+142101618,"{'steamid': '76561198848069623', 'num_games_owned': 102, 'num_reviews': 35, 'playtime_forever': 822, 'playtime_last_two_weeks': 0, 'playtime_at_review': 702, 'last_played': 1707502621}",english,"theres been 6 updates in 3 years....
+
+pls update",1689388285,1689388285,True,0,0,0,0,True,False,True,True,,,
+142001811,"{'steamid': '76561198300772661', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 161, 'last_played': 1689269167}",english,"Not enough game. Needs boats, ports, and bridges.",1689269676,1693400081,False,0,0,0.523663163185119629,0,True,False,True,True,,,
+141872804,"{'steamid': '76561199423433612', 'num_games_owned': 153, 'num_reviews': 27, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 156, 'last_played': 1704385332}",german,"machen wa es einfach, is funny aba i steig net ganz hinter. für blödelein its funny. 8/10",1689124858,1689124858,True,1,0,0.482213437557220459,0,True,False,True,True,,,
+141856744,"{'steamid': '76561197993295250', 'num_games_owned': 406, 'num_reviews': 12, 'playtime_forever': 1799, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1440, 'last_played': 1708838857}",english,"Very fun and unique tycoon game. Like a weird mix of Majesty, Sim City and RCT. You really do create an MMO. Classes, monsters, spells and quests are fully customisable all the way down to the animations. There are hundreds of highly detailed props and buildings for you to decorate your world and even more features all the way down to zone partical effects and colors. It's very ambituse and well somethings are better than others. It's a very rough game and has a bit of a history of update gaps. Even despite this the dev has been pretty transparent at lest with giving people info on what is going on and what is currently being worked on.",1689106013,1689106013,True,0,1,0,0,True,False,True,True,,,
+141711017,"{'steamid': '76561198206687852', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 8115, 'playtime_last_two_weeks': 29, 'playtime_at_review': 2354, 'last_played': 1712211662}",english,"Although it isn't finished yet, this game is still a fun time and has lots of potential.",1688935412,1688935412,True,0,0,0,0,True,False,True,True,,,
+141666199,"{'steamid': '76561199043170534', 'num_games_owned': 92, 'num_reviews': 4, 'playtime_forever': 6807, 'playtime_last_two_weeks': 135, 'playtime_at_review': 6039, 'last_played': 1712379337}",schinese,地下城来了你是我叠！,1688894394,1692584895,True,0,0,0.568965494632720947,1,True,False,True,True,,,
+141587726,"{'steamid': '76561198370541725', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 4695, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3850, 'last_played': 1703799840}",english,"This game is super cool, expansive, and very customizable. I'm so excited for the custom dungeons update too, as I tested out the beta and i can already see myself adding so many dungeons and making a whole plot around them - would fit right in with the main game I'm doing right now! If anyone is debating on getting this gem and loves writing their own stories or designing locations, this game is a must-have!",1688809271,1688809271,True,0,0,0,1,True,False,True,True,,,
+141561149,"{'steamid': '76561198064661193', 'num_games_owned': 123, 'num_reviews': 67, 'playtime_forever': 2817, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2817, 'last_played': 1629139475}",english,Game is really cool.,1688774733,1688774733,True,0,0,0,0,True,False,True,True,,,
+141530664,"{'steamid': '76561199120286568', 'num_games_owned': 65, 'num_reviews': 16, 'playtime_forever': 591, 'playtime_last_two_weeks': 0, 'playtime_at_review': 591, 'last_played': 1664636500}",english,"Needs more content to be worth the $25 price tag. The devs are very slow, even for an indie project.",1688743799,1688743799,False,8,0,0.548978805541992188,0,True,False,True,True,,,
+141517090,"{'steamid': '76561198086336170', 'num_games_owned': 72, 'num_reviews': 6, 'playtime_forever': 4824, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4748, 'last_played': 1709655937}",schinese,更新太慢了,1688730405,1688730405,False,4,0,0.518923461437225342,0,True,False,True,True,,,
+141507334,"{'steamid': '76561198278972445', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 5597, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3400, 'last_played': 1708700179}",schinese,技能系统能不能多一点BUFF和DEBUFF效果啊？地下城要什么时候啊？AI在PVP的时候能不能学会走位啊？虽然吐槽，但是真好玩,1688717553,1688717553,True,0,0,0,0,True,False,True,True,,,
+141412147,"{'steamid': '76561198109009043', 'num_games_owned': 374, 'num_reviews': 76, 'playtime_forever': 290, 'playtime_last_two_weeks': 0, 'playtime_at_review': 290, 'last_played': 1683516410}",russian,"Игра развивается улиточными темпами, если вас изначально не будоражит мысль с облагораживанием своего ММОРПГ мирка, то игре вам больше нечего будет предложить, что уж говорить, даже для облагораживания тут не так много опций как хотелось бы.",1688604898,1688604912,False,2,0,0.498098880052566528,0,True,False,True,True,,,
+141403792,"{'steamid': '76561198086137900', 'num_games_owned': 300, 'num_reviews': 32, 'playtime_forever': 6500, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4987, 'last_played': 1708812024}",english,"theres still alot to come but its fun af, i do like it",1688594645,1688594645,True,0,0,0,0,True,False,True,True,,,
+141356147,"{'steamid': '76561198133590702', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 5413, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4075, 'last_played': 1689675296}",english,The game need more updates.,1688547856,1688636092,True,5,0,0.585526347160339355,0,True,False,True,True,,,
+141348496,"{'steamid': '76561198755242521', 'num_games_owned': 25, 'num_reviews': 1, 'playtime_forever': 711, 'playtime_last_two_weeks': 0, 'playtime_at_review': 685, 'last_played': 1688538276}",russian,КАЙФ,1688536587,1688536587,True,1,0,0.523809552192687988,0,True,True,True,True,,,
+141251450,"{'steamid': '76561198006013734', 'num_games_owned': 0, 'num_reviews': 89, 'playtime_forever': 1349, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1156, 'last_played': 1696350736}",english,"It's a good game, but the updates come too slowly, and they half-ass a lot of the updates. They released a combat update ""2.0"" which lacks a lot of features players want with the ability designer. As well as a creativity update, except you still can't copy paste, or drag select multiple items, making a lot of the creative functionality in the game tedious.
+
+The game has been in development for more than 7 years and it still feels very feature empty and lacks QoL. I hope to god the dungeon update doesn't skimp out on content that leaves me wanting another update to an update.",1688426387,1688426387,False,14,0,0.614665448665618896,0,True,False,True,True,,,
+140839846,"{'steamid': '76561198447713610', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 1311, 'playtime_last_two_weeks': 0, 'playtime_at_review': 520, 'last_played': 1694084283}",schinese,一开始还挺有趣的,1687947185,1687947185,True,0,1,0,0,True,False,True,True,,,
+140816731,"{'steamid': '76561199256148649', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1626, 'playtime_last_two_weeks': 0, 'playtime_at_review': 716, 'last_played': 1702938129}",english,This is a very good game to try out a world builder for a first timer,1687904960,1687904960,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+140790069,"{'steamid': '76561199398132029', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 611, 'playtime_last_two_weeks': 0, 'playtime_at_review': 391, 'last_played': 1701312291}",english,This is a very good game. Its different from all these other games coming out. Definitely a change of pace and very unique game.,1687872481,1687872481,True,0,0,0.479991912841796875,0,True,False,True,True,,,
+140519262,"{'steamid': '76561198103590368', 'num_games_owned': 743, 'num_reviews': 69, 'playtime_forever': 638, 'playtime_last_two_weeks': 0, 'playtime_at_review': 414, 'last_played': 1699144015}",english,"Really fun to design your own MMO, looking forward to the addition of more features",1687468751,1687468751,True,5,0,0.58684009313583374,0,True,False,True,True,,,
+140418969,"{'steamid': '76561198159460089', 'num_games_owned': 226, 'num_reviews': 26, 'playtime_forever': 504, 'playtime_last_two_weeks': 0, 'playtime_at_review': 504, 'last_played': 1687312510}",english,"cool but shallow game, couple of hours played and i paid all my loans in full and never have to care for money.
+6-8 hours ingame = save files becomes worse and worse.  when selecting a monster level it will blink at 1 after i press what i want. then it will put Monster level 0 out.
+
+and then when you do all the networking. if you place the wi-fi before the other stuff or vice-versa idk. that shit is blinking all the time now and too big spawns can never be kept at full power?
+
+Worst part is my save is 8 hours old and i have to Restart everytime i want to put in and ""activate"" a new Wifi cable or whatever.
+bit dissapoint. but game is cool otherwise,, just too early or whatever lovely concept etc",1687312740,1687312740,False,2,0,0.514380395412445068,0,True,False,True,True,,,
+140361903,"{'steamid': '76561198349090277', 'num_games_owned': 134, 'num_reviews': 13, 'playtime_forever': 1903, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1903, 'last_played': 1686897959}",english,"(づ ◕‿◕ )づ >>> Graphics
+☐You forget what reality is
+☐ Beautiful
+☑ Cute
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+
+(^◕ᴥ◕^)	 >>> Gameplay
+☐ Very good
+☑ Good
+☐ It‘s just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+♬♫♪◖(● o ●)◗♪♫♬ >>> Audio
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ It's Okay
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+☐ No Musik
+
+V●ᴥ●V >>> Audience
+☐ Kids
+☐ Teens
+☐ Adults
+☑ All
+
+(ﾒ￣▽￣)︻┳═一 >>> PC Requirements
+☐ Check if you can run paint
+☐ Potato
+☐ Decent
+☑ When farther in game you need more
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿ >>> Difficulity
+☐ Just press 'W'
+☑ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☐ Difficult
+☐ Dark Souls
+
+ʕ •ᴥ• ʔ >>> Grind
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☑ A bit more grindy
+☐ Too much grind
+☐ You‘ll need a second live for grinding
+
+(x . x) ~~zzZ >>> Story
+---{Story}---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It‘ll replace your life
+
+|ʘ‿ʘ)╯>>> Game Time
+☐ Long enough for a cup of coffee
+☐ Short
+☑ Average
+☐ Long
+☐ To infinity and beyond
+
+<(_ _)> >>> Price
+☐ It’s free!
+☐ Worth the price
+☑ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+{{ (>_<) }} >>> Bugs
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ Cyberpunk 2077
+
+
+
+",1687220505,1687220505,True,0,0,0.440372586250305176,0,True,False,True,True,,,
+140249511,"{'steamid': '76561198166131947', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 700, 'playtime_last_two_weeks': 0, 'playtime_at_review': 577, 'last_played': 1687190298}",english,"I find it very fun to play games that have organization, and management involved.",1687049866,1687049866,True,0,0,0,0,True,False,True,True,,,
+140244315,"{'steamid': '76561198074029669', 'num_games_owned': 230, 'num_reviews': 69, 'playtime_forever': 289, 'playtime_last_two_weeks': 0, 'playtime_at_review': 264, 'last_played': 1687095749}",german,gut,1687042331,1687042331,True,0,0,0,0,True,False,True,True,,,
+140243510,"{'steamid': '76561198323981503', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 2329, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1634, 'last_played': 1705626800}",english,ITS FUN :),1687041207,1687041207,True,0,0,0,0,True,False,True,True,,,
+140112259,"{'steamid': '76561198175441058', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 467, 'playtime_last_two_weeks': 0, 'playtime_at_review': 467, 'last_played': 1661519534}",french,"Le jeux est sympa très bonne idée de game play, mais manque de contenue pour le moment",1686851799,1686851799,True,0,0,0,0,True,False,True,True,,,
+139995273,"{'steamid': '76561198042110843', 'num_games_owned': 1254, 'num_reviews': 59, 'playtime_forever': 5655, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1355, 'last_played': 1708477081}",english,"This is a game that really lets me create something really nice that I feel a lot of ownership over. There is so much I barely even touched. Like the things you can customize is almost too much. Stuff that doesn't really affect the gameplay, like quest names, skill color effects, NPC and building names... Great game honestly unique and rewarding if you are a patient world builder.",1686664470,1686664470,True,9,0,0.64300239086151123,0,True,False,True,True,,,
+139627485,"{'steamid': '76561198390755065', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 708, 'playtime_last_two_weeks': 0, 'playtime_at_review': 623, 'last_played': 1686228506}",schinese,我真的服了，盯着开挂的盯着我脖子都酸了，我那GM，开发者都干嘛的，非得手动封开挂的么。不能智能点么？,1686037286,1686037286,False,6,2,0.597250759601593018,0,True,False,True,True,,,
+139485928,"{'steamid': '76561197992589597', 'num_games_owned': 0, 'num_reviews': 227, 'playtime_forever': 4754, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2183, 'last_played': 1686605378}",german,,1685806335,1685806335,True,0,0,0,0,True,False,True,True,,,
+139443671,"{'steamid': '76561198165985003', 'num_games_owned': 0, 'num_reviews': 100, 'playtime_forever': 3922, 'playtime_last_two_weeks': 6, 'playtime_at_review': 3771, 'last_played': 1712088802}",english,It’s a game,1685739844,1685739844,True,1,0,0.479030311107635498,0,True,False,True,True,,,
+139381546,"{'steamid': '76561199470182004', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 3672, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1831, 'last_played': 1703530836}",french,"un jeux très cool, fun mais un peu long (normal c'est un tycoon), je le recommande fortement pour passer le temps",1685640365,1685640365,True,0,0,0,0,True,False,True,True,,,
+139301046,"{'steamid': '76561198024311234', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 250, 'playtime_last_two_weeks': 0, 'playtime_at_review': 250, 'last_played': 1685509372}",english,"Amazing game, had on the wish list and decided to give it a try, Needs more content but the bones are some of the most solid from an early access i have ever seen. I can not wait to see what the devs bring to this next!",1685509672,1685509672,True,1,0,0.519408524036407471,0,True,False,True,True,,,
+139216759,"{'steamid': '76561199063884255', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 744, 'playtime_last_two_weeks': 107, 'playtime_at_review': 623, 'last_played': 1712251519}",schinese,喊了两年的地下城  到现在都没有,1685372527,1685372527,False,9,3,0.60575026273727417,0,False,False,True,True,,,
+139174644,"{'steamid': '76561198888626601', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 7776, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5068, 'last_played': 1708044086}",english,"Every day.. i look for a new update..
+
+
+
+
+
+
+
+
+
+
+
+every day.. i am disappointed.
+10/10 i am begging you, update the game.",1685303545,1685303545,True,97,19,0.842034041881561279,0,True,False,True,True,,,
+139159120,"{'steamid': '76561198114678826', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 3832, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2751, 'last_played': 1711012979}",russian,"Идея - супер!
+Видно, что в начале проекта разработчики с головой и энтузиазмом погрузились в работу. На многое смотришь с ностальгией и фразой ""ага, помню, так же бегал в такой-то игре"". За ностальгию - жирный плюс!
+При этом... многое не реализовано, многое не допилено...
+
+В рамках совета - откройте мастерскую, игроки сами вам все допилят и платить не надо) На такую игру стоит потратить и 500р и время))",1685285971,1685285971,True,3,0,0.556227982044219971,0,True,False,True,True,,,
+139152135,"{'steamid': '76561198966965079', 'num_games_owned': 362, 'num_reviews': 15, 'playtime_forever': 599, 'playtime_last_two_weeks': 0, 'playtime_at_review': 569, 'last_played': 1691499768}",german,Multiplayer when,1685277648,1685277648,True,0,0,0,0,True,False,True,True,,,
+139146708,"{'steamid': '76561199475411689', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 359, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1709482732}",english,Very relaxing,1685270642,1685270642,True,2,0,0.523809552192687988,0,True,False,True,True,,,
+139027205,"{'steamid': '76561199183694798', 'num_games_owned': 72, 'num_reviews': 20, 'playtime_forever': 522, 'playtime_last_two_weeks': 0, 'playtime_at_review': 522, 'last_played': 1682148650}",english,yummy game but got bored pretty soon in. probably be nice with a little more content.,1685115978,1685115978,True,1,0,0,0,True,False,True,True,,,
+139001386,"{'steamid': '76561198236979360', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 1343, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1343, 'last_played': 1600145019}",english,I can appreciate game devs that continue to develop updates and bug fixes long past what is expected these days,1685076237,1685076237,True,0,0,0.446348041296005249,0,True,False,True,True,,,
+138976105,"{'steamid': '76561198882482501', 'num_games_owned': 145, 'num_reviews': 80, 'playtime_forever': 2280, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1831, 'last_played': 1710792899}",english,"truly an amazing game with huge potential. Watch That One Playthrough's playthrough and if you don't immediately want the game I'd wait.
+
+Edit: Dungeons update is in preview rn
+
+Other than that huge potential and active devs (Slow updates fyi)
+
+
+EDIT: It is also kind of resource heavy so pc might die :D. With only 1000 active players in 5ish regions my game was struggling. Now my pc is like i'd say mid",1685037273,1693844496,True,1,0,0,0,True,False,True,True,,,
+138943284,"{'steamid': '76561198096900675', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 15649, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11897, 'last_played': 1709626250}",english,"As I approached the end of my first playthrough, I began to wonder if the AI was a bit bad at navigating the world. I began to think ""Are they even TRYING to do some of this content that I made for them?"" And then came to notice a player named ""Vastbug"" who got levels 18 and 19 first. When I tell you that I was OVERJOYED to see his cute ass grind out level 20 by killing mobs instead of questing (true mmo chad), he PURCHASED A TRINKET to celebrate being the first to max level. He then migrated to the endgame boss that I set up just for this occasion! It may seem like a small thing, but this was the cherry on top of fantastic experience of building this world, solving problems, and watching the AI run around playing your game that you set up! I couldn't recommend this game enough to anyone who had a childhood dream of running an MMO. I really like the world that I built, and I'm thinking about uploading it somewhere for people to experience. Yes, it's a sim game where you make a game. The players in your game are not real. There are none of the real complexities that come with actually developing a game. But do you FEEL like you are actually developing a game at times? Absolutely. Fun game.
+
+Also, I know it's early access, but...... Dungeons please ;)
+
+Easy 9/10 if it is your thing, and this is only early access stage",1684984172,1684984172,True,0,0,0,0,True,False,True,True,,,
+138931913,"{'steamid': '76561198153210112', 'num_games_owned': 0, 'num_reviews': 88, 'playtime_forever': 395, 'playtime_last_two_weeks': 0, 'playtime_at_review': 163, 'last_played': 1685287577}",russian,"Начнем с того, что в игре есть куча минусов. Я приведу их кратким списком, поскольку на мой взгляд, они не существенны:
+
+- Деревья не просвечивают и не имеют коллизии, из-за чего человечков в них не видно.
+- Слишком ""усредненный"" набор статов для создания своих скилов а.к.а набор лего ""ММО мечты"".
+- Из моделек в редакторе трудно сделать что-то аутентичное, только ""челопиздриков"".
+- Слишком мало функциональных зданий.
+- Слишком мало функционала в функционирующих зданиях. 
+- Долгострой.
+- Куча фишек которые прое...забыли ввести, либо пока не ввели.
+
+Окей? С минусами разобрались? Отлично! А теперь о том, почему этот кусок анимированных полигонов похожий на дешевую юнити поделку стоит брат:
+
+Когда я наткнулся на эту игру, то первое о чем я подумал, это ""Они опять собираются сделать простенький симулятор чего-то. Типа как БатлРоял Тайкун какой-нибудь"". Я думал, что в ней ничего не будет, только какая-то система ""клиентов"" которую нужно постоянно привлекать. А потом я начал натыкаться на всякие приколы в интернете, типа того, что ты реально можешь закастомить способность ЛЮБОМУ персонажу, поставить цену на услугу в каком-нибудь здании, распределить регионы по уровню игроков и регулировать количество получаемого опыта и саму экономику в игре. 
+
+У игры есть огромный потанцевал и я надеюсь, что разработчик введет хотя бы возможность строить данжи. В идеале в игре буквально напрашивается система, по которой человечки-бы сами себе дома строили. Может я еще до этой системы не доиграл, но они у меня селятся только в тавернах. 
+
+В общем, о чем это я? Ах да! Иди покупай. Я порекомендовал.",1684965017,1684965017,True,2,0,0.48560023307800293,0,True,False,True,True,,,
+138921039,"{'steamid': '76561197977187038', 'num_games_owned': 284, 'num_reviews': 10, 'playtime_forever': 1005, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1005, 'last_played': 1641003615}",english,"TL;DR: I don't recommend right now, but this could be a great game eventually.
+
+Fun little sim/tycoon game. unfortunately I don't think there are enough features yet to warrant a purchase. You reach an upper limit very fast and there isn't enough variation available yet to make multiple playthroughs feel distinct. I think this game is headed in the right directions but updates feel very slow. I check in every now and then to see if more features have been added to make it worth hopping in again, but unfortunately I think they are still a ways off before this becomes a game I could recommend.
+
+To devs: Love the concept and execution thus far, just really feels too far from complete to justify me recommending it at this point. I think this will easily change to a recommend when more features are added.",1684951699,1684951699,False,13,0,0.677264153957366943,0,True,False,True,True,,,
+138867493,"{'steamid': '76561198030713597', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 1383, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1284, 'last_played': 1685126191}",english,"Love this.  Sandbox mode is great, but campaign mode is where it shines.  Bring on dungeons!",1684876626,1684876626,True,0,0,0.494505524635314941,0,True,False,True,True,,,
+138772831,"{'steamid': '76561199484401514', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 432, 'playtime_last_two_weeks': 0, 'playtime_at_review': 432, 'last_played': 1680689615}",english,"'''''
+",1684772035,1684772035,True,0,0,0.458007901906967163,0,True,False,True,True,,,
+138527450,"{'steamid': '76561198087375512', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 2739, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2459, 'last_played': 1701030587}",english,Pretty meh,1684472589,1684472589,False,1,1,0.419582784175872803,0,True,False,True,True,,,
+138386077,"{'steamid': '76561198845613354', 'num_games_owned': 158, 'num_reviews': 33, 'playtime_forever': 2261, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2261, 'last_played': 1684253467}",schinese,贵了 别买,1684253488,1684253488,False,1,0,0,0,False,False,True,True,,,
+138359341,"{'steamid': '76561197980529247', 'num_games_owned': 0, 'num_reviews': 49, 'playtime_forever': 585, 'playtime_last_two_weeks': 0, 'playtime_at_review': 438, 'last_played': 1689985970}",english,Its a lot of fun. I'm very much looking forward to more content options being added to the game.,1684192823,1684192823,True,0,0,0,0,True,False,True,True,,,
+138352648,"{'steamid': '76561199247725831', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2089, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1196, 'last_played': 1707848632}",french,"Dans un premier temps, merci à jdg de m'avoir fait découvrir ce petit bijou qu'est MMORPG Tycoon 2. J'ai pas encore énormément joué (presque 20h au moment du post) mais j'ai adoré, ça faisait très longtemps qu'un jeu ne m'avait pas procuré autant de plaisir. C'est super chill, on peut y jouer en faisant d'autres choses à côté mais c'est tellement bon de créer son petit jeu avec les décors, la méta, les sorts des classes.
+
+J'ai commencé à y jouer en vocal avec un pote, on a créé notre premier mmo en même temps et on s'est bien marré à découvrir la classe des tréants, à regarder nos villes et à se les présenter et vraiment une des meilleures soirées que j'ai vécu en jouant à un jeu. 
+
+Alors je vais pas faire de critique constructive en expliquant les points positifs et les points négatifs. Je voulais juste donner mon ressenti après une vingtaine d'heures passé dessus et j'espère vous avoir donner envie d'y jouer. Mais voilà, si vous voulez un jeu chill, pas prise de tête où vous voulez créer votre petit univers alors foncez et essayez ce jeu.",1684180273,1684180273,True,4,0,0.545454561710357666,0,True,False,True,True,,,
+138191133,"{'steamid': '76561198957342225', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 513, 'playtime_last_two_weeks': 0, 'playtime_at_review': 513, 'last_played': 1683909034}",english,"---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☑ Good
+☐ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☑ Good
+☐ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☑ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☐ Check if you can run paint
+☐ Potato
+☑ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☐ Just press 'W'
+☐ Easy
+☑ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☑ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☑ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☐ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☐ Short
+☐ Average
+☐ Long
+☑ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☑ Worth the price
+☐ If it's on sale
+☐ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☐ Never heard of
+☑ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☑ 7
+☐ 8
+☐ 9
+☐ 10
+",1683909707,1683909707,True,87,8,0.79262077808380127,2,True,False,True,True,,,
+138167328,"{'steamid': '76561198017768544', 'num_games_owned': 134, 'num_reviews': 8, 'playtime_forever': 1531, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1345, 'last_played': 1706748153}",english,"The concept for this game is the only good thing I can really say about it, execution tho, for the almost past 3 years, is an other story...
+
+To make it super short: ""Game looks pretty much the same"" as it was and as it is right now, excluding some very small improvements, bug fixes, new buildings and decorations that doesn't really add any extra depth to the overall game loop/replayability of it.
+
+And well, I could've make a largely extended review that would explain pretty much everything what's wrong here and there, but besides that I rather won't add anything new what very most of recent negative reviews are already saying about it, I don't think that any of that is even going to change in the near and even further future.
+
+I will keep tracking the updates tho, and if the developers won't die from an old age while working on it, I'm pretty sure that one day, it will be a truly amazing experience to have fun with.
+
+But for now, I just can't feel anything else than just being greatly disappointed.
+(as the game changes for the better while full release, I'll surely change my review as well)
+
+As it stands for now, I do not recommend it to anyone.",1683862120,1683862120,False,3,0,0.515482187271118164,0,False,False,True,True,,,
+138161001,"{'steamid': '76561198344693958', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 6726, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5650, 'last_played': 1707520201}",english,"Good game so far, in the future it could become really good with more control over terrain. If you like the creative side of mmorpgs you should check this out!",1683848578,1683848578,True,0,0,0,0,True,False,True,True,,,
+138104999,"{'steamid': '76561198259408951', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 867, 'playtime_last_two_weeks': 0, 'playtime_at_review': 511, 'last_played': 1683776963}",russian,"Оооочень хочется поддержать разработчиков, игра действительно имеет лютейший потенциал. Реализация, конечно, пока что грустная( На данный момент (ранний доступ) мы имеем просто песочницу, эдакое широченное поле для полета фантазии, куча локаций, которые тебе необходимо заполнить контентом, квестами, нипами, мобами, декорациями, продумать скиллы, экономику, кастомизацию, все вроде здорово. Да, есть мелкие баги, да, иногда ИИ подтупливает, да, пока что маловато предметов и элементов для реализации всех задумок и проработки локаций именно так, как хочется. Но все это можно оправдать ранним доступом. Обновления выходят, баги фиксятся, дорожная карта пополняется. Есть причины верить, что проект не забросят.
+И да, РУССКИЙ ЯЗЫК В ИГРЕ ЕСТЬ",1683744055,1683744055,True,1,0,0.52173912525177002,0,True,False,True,True,,,
+138060607,"{'steamid': '76561198192654807', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2083, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2083, 'last_played': 1681584199}",english,"I tried to enjoy it, but it really just isn't worth your time or money. I get that its EA but some companies should not release EA games. There just isn't enough to keep the game entertaining after the first hour. If development weren't so excruciatingly slow there might be some decent content in the game but, there one programmer begs for your understanding because he is working alone on a project that seems like it is way over his head. It's not a bad game yet, but it won't get properly finished in my life time and if they do slap a sticker on it and call it ""Finished"" anytime soon they will be releasing an unfinished game that is indeed a bad game. 
+
+Where is the care for your consumer base? There is none because most of ""us"" the consumer base will throw money at companies in exchange for their piles of crap. So why care if your consumer base is happy if there going to pay you anyway?",1683659568,1683659568,False,4,0,0.454065263271331787,0,True,False,True,True,,,
+137656089,"{'steamid': '76561199091100209', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 709, 'playtime_last_two_weeks': 0, 'playtime_at_review': 709, 'last_played': 1682996427}",english,"This game lacks depth in its mechanics, and after playing for only 4 hours, it feels like there is nothing more to discover.",1682996528,1682996528,False,6,1,0.555611610412597656,0,True,False,True,True,,,
+137606020,"{'steamid': '76561199226723301', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 586, 'playtime_last_two_weeks': 0, 'playtime_at_review': 258, 'last_played': 1707908267}",english,Its a pretty good game! But customization and design options are a bit limited,1682933160,1682933160,True,2,0,0.523809552192687988,0,True,False,True,True,,,
+137506217,"{'steamid': '76561199224438683', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1681155736}",english,"can be really fun and inspires creativity, but you can lose interest easily if you are not careful. Worth for the price",1682797577,1682797577,True,1,0,0.523809552192687988,0,True,False,True,True,,,
+137428568,"{'steamid': '76561198278262394', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 670, 'playtime_last_two_weeks': 0, 'playtime_at_review': 436, 'last_played': 1707393685}",english,pretty fun  to make  subscribers mad but hey they still pay,1682697959,1682697959,True,0,0,0,0,True,False,True,True,,,
+137424511,"{'steamid': '76561198125554980', 'num_games_owned': 0, 'num_reviews': 88, 'playtime_forever': 4261, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2985, 'last_played': 1709747959}",german,"MMORPG Tycoon 2 ist ein unterhaltsames und entspanntes Spiel für alle, die ein relativ einfaches Management und Aufbauspiel mögen. In MMORPG Tycoon 2 baut ihr anhand einer Vielzahl von Objekten euer eigens MMO auf. Ihr könnt eigene Klassen und Gegner im Designer entwerfen und sogar deren Fähigkeiten nach belieben gestallten. Wenn ihr kreativ seid dann sind euch kaum Grenzen gesetzt, was eure Spielwelt, Klassen und Gegner betrifft. Das Management ist recht unkompliziert gehalten. Ihr stellt Personal ein, wie Entwickler und Gamemaster, die sich dann um Bugs und andere Probleme kümmern. Ansonsten verwaltet ihr die Preise im Spiel, beispielsweise vom Waffenhändler, den Tavernen etc. Das Spiel ist somit auch für junges Publikum geeignet. Kreativität und Fantasie solltet ihr allerdings schon mitbringen, da euch ansonsten recht schnell die Lust am Spiel vergehen kann. Da man, außer einer Spielwelt aufzubauen, nicht wirklich viel anderes zu tun hat.  Das Spiel läuft sehr gut und mir sind in meinen fast 50 Stunden Spielzeit keine Bugs aufgefallen. Negativ wäre an dieser Stelle noch anzumerken, dass die eigentlichen Updates ""lange"" auf sich warten lassen. Daher ist davon auszugehen, dass dieses Spiel noch sehr lange im Early Access sein wird. Ihr solltet daher überlegen ob ihr soviel Geduld mitbringen könnt oder lieber mit dem Kauf warten wollt.",1682693301,1682693301,True,0,0,0,0,True,False,True,True,,,
+137403097,"{'steamid': '76561198219370585', 'num_games_owned': 205, 'num_reviews': 12, 'playtime_forever': 727, 'playtime_last_two_weeks': 0, 'playtime_at_review': 727, 'last_played': 1682657144}",schinese,厂家跑路了,1682657240,1682657240,False,0,1,0,0,True,False,True,True,,,
+137352600,"{'steamid': '76561198296225506', 'num_games_owned': 136, 'num_reviews': 3, 'playtime_forever': 744, 'playtime_last_two_weeks': 0, 'playtime_at_review': 635, 'last_played': 1703138018}",english,great idea for a game waiting for more to come out dungeons will be a great addition needs more development for customizablity in terms of land rising and lowering,1682565442,1682565442,True,0,0,0,0,True,False,True,True,,,
+137339376,"{'steamid': '76561198140930218', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 862, 'playtime_last_two_weeks': 0, 'playtime_at_review': 727, 'last_played': 1710982311}",german,"Sehr gute Entwicklung!
+Das Spiel hat schon einiges zu bieten, und Updates kommen regelmäßig. Das nächste grosse Update steht schon im dem startlöchern: dungeons! Ich freu mich sehr drauf. Die Performance hat sich seit 2020 sehr viel verbessert man bekommt jetzt schon locker und gut gebalanced ein mmorpg auf die Beine das läuft 😁 es fehlt nur content aber der kommt Wie gesagt bald. Gute Arbeit 👍",1682540473,1682540473,True,0,0,0,0,True,False,True,True,,,
+137222307,"{'steamid': '76561198086569083', 'num_games_owned': 0, 'num_reviews': 34, 'playtime_forever': 558, 'playtime_last_two_weeks': 0, 'playtime_at_review': 362, 'last_played': 1682677394}",english,its a very fun game would love to see more things like dungeons or turning of the need for network because that annoyed me i know its early access it has a lot of potential,1682337709,1682337709,True,0,0,0,0,True,False,True,True,,,
+137154284,"{'steamid': '76561199068246659', 'num_games_owned': 480, 'num_reviews': 140, 'playtime_forever': 231, 'playtime_last_two_weeks': 0, 'playtime_at_review': 231, 'last_played': 1681928221}",english,"it is too early in access atm. quests are bugged. quest chains for level 1 is bugged. The moment they hit level 2 ; they will delete the entire quest chain.
+
+xp is just weird overall. 2,000 ppl at level 1 , 1,000 ppl at level 2 and 70 ppl at level 3... whats the point of continuing ur MMO to above level 4-5-6 if none of ur peeps will ever go there.",1682228768,1682228768,False,1,0,0.453773856163024902,1,True,False,True,True,,,
+136951724,"{'steamid': '76561198373419156', 'num_games_owned': 88, 'num_reviews': 15, 'playtime_forever': 354, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1702039384}",german,"sehr interessante spielmechanik, macht wirklich spaß, jedoch gibt es noch einige schwierige kritik punkte
+
+- klassen erstellung sehr schwierig und skin design teils verbuggt zudem das scaling schwierig
+- mehr vorgefertigte klassen
+- spiel allgemein zu leicht/ keine schwierigkeitsgrade
+- mapdesign bzw gebäude sind zu wenig, mehr gebäudeauswahl wäre schön (zb Gildenhallen, 
+  Arenen etc...)  
+- Maperstellung für zb pvp maps bzw aufbau verschiedener fraktionen wäre interessant
+- lvl 20 max? :D wieso nicht bis 80 oder sogar individuell
+- eigene Maps erstellen statt vorgefertigten
+- Lootkisten? :D
+
+natürlich nur vorschläge, habe noch nicht so viele spielstunden dass sind nur features die mir auf den ersten gedanken sehr gefallen würden",1681902685,1681989272,True,0,1,0,0,True,False,True,True,,,
+136827350,"{'steamid': '76561199484986355', 'num_games_owned': 103, 'num_reviews': 28, 'playtime_forever': 2079, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1707587944}",russian,"очень кайфовая игра. надеюсь, она будет улучшаться и расширяться.",1681679595,1681679595,True,0,0,0,0,True,False,True,True,,,
+136682302,"{'steamid': '76561198093195588', 'num_games_owned': 270, 'num_reviews': 14, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1591291334}",schinese,3年了，你可以更新的更慢一点,1681481166,1681481166,False,0,0,0,0,True,False,True,True,,,
+136650105,"{'steamid': '76561199000755434', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 1634, 'playtime_last_two_weeks': 163, 'playtime_at_review': 405, 'last_played': 1712304726}",german,really fun game! Just buy it and see it for your self!!!!,1681423514,1681423514,True,0,0,0,0,True,False,True,True,,,

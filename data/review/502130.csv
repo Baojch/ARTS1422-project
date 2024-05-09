@@ -1,0 +1,796 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+159478132,"{'steamid': '76561199087673261', 'num_games_owned': 93, 'num_reviews': 5, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 49, 'last_played': 1619369195}",english,this game peaks,1709136170,1709136170,True,0,0,0,0,False,False,False,True,,,
+158702670,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1708330086}",english,"Ctrl CV is yet another of literally thousands of 2D retro platformers infesting Steam and lowering the average quality of all video games everywhere.  This one is a very basic precision platformer slapped together with the GameMaker Studio construction kit, although I will say this doesn't seem like an asset flip but a genuinely made game.  That doesn't mean it's good. 
+
+The gimmick here is the game is made more difficult by a slew of ""clones"" of your own character than run around the screen and make the game confusing to play.  Well, it's different, anyway, but just because it's different doesn't mean it was a good idea.  Apart from that artificial difficulty, it's just a plain boring platformer, although it does have a very large number of offputting shortcomings and technical defects. 
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+A choice was made to use obsolete, decades old retro pixel ""art"" as a substitute for contemporary PC graphics.  It's unclear if this is due to lack of budget or talent, regardless, the overall visual quality of the game is extremely low as a result.
+
+There's no option to change the resolution and no useful graphics tweaks.  There's no way to ensure this is running at the native resolution of your display.  There's no guarantee this game will look right on any PC as a result of this hamfisted design decision.
+
+The game only displays in 4:3 pillarboxed aspect ratio.  It's possible they developed this using an old CRT they found in a dumpster, or this game has been specifically designed for people gaming on PC's from 1995... either way, this isn't really acceptable in the modern era of PC gaming.
+
+Bewilderingly, the game doesn't include proper audio controls, so you can't turn off the annoying background music, you'll need to alt+tab out and stop the music using the Windows sound mixer.  This is obviously not okay and it's unclear why the developers chose not to include this basic feature.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers, left handed gamers or gamers using AZERTY or other international keyboard layouts.    To make matters worse, there's no mouse input, despite this being sold on PC as if it were a PC game.  This is unacceptable and somewhat insulting to PC gamers.  It's a good demonstration of the poor attitude the developer has towards PC gamers, and this attitude has resulted in yet another defect in this game.
+
+While this is on PC, it has all the hallmarks and deficiencies of a console game, from the clunkier than needed control scheme to the less than cutting edge graphics.  There's 10's of thousands of PC games on Steam, and PC gamers deserve only the best.  This might not appeal to many gamers due to the lack of PC-centric design.  It's unclear why this game was never accepted on the video game console appliances it seems to have been designed for.
+
+Some of the defects in the game can be attributed to the choice of using the GameMaker Studio construction kit/toolset.  This is a very poor quality toolset favoured by amateur developers as it's cheap and requires little in the way of development skill, but unfortunately has very limited capabilities.  Just as you can't make a silk purse out of a sows ear, you can't make a great video game if you use a terrible engine.  GameMaker Studio is most commonly used to make retro pixel shovelware and cash grabs.
+
+A strong argument can be made that construction kits like GameMaker Studio should never be used to make games for profit, as the ""developer"", ZPink has done here.  These construction kits are intended to teach people some of the basic principles of game development, and to make small demos to pass around with friends.  They're not intended to replace to actual work of real, professional game developers.  So it's inappropriate when amateurs try to use these for profit, without any actual, real game development effort taking place.  This doesn't result in products that have any real meaningful value for gamers.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+The game never really caught on with the millions of gamers on Steam, with a very low peak player count close to launch, and then just a handful of players launching this game every couple of days.  This is undoubtedly caused by factors such as those raised in this review.  It's always helpful with buying decisions to consider how popular and successful the product is, and unfortunately while this did accumulate a few participation trophy reviews, overall, people just aren't using it.
+
+Ctrl CV is relatively cheap at $1 USD, but it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.  This is also competing with over 9,000 free games available on Steam, many of them far better than this paid product.
+",1708330610,1708330610,False,2,0,0.186332955956459045,0,True,False,False,True,,,
+158356629,"{'steamid': '76561198394726644', 'num_games_owned': 0, 'num_reviews': 571, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1707979674}",koreana,그림자 분신술을 쓰면 안되는이유,1707979716,1707979716,True,0,0,0,0,True,False,False,True,,,
+148909764,"{'steamid': '76561198293932308', 'num_games_owned': 73, 'num_reviews': 2, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1698326034}",schinese,屎操作可以接受，闪屏和炮塔能不能别叠一块，闪屏闪的眼睛确实累,1698326330,1698326330,False,0,0,0,0,False,True,False,True,,,
+140448997,"{'steamid': '76561198840049978', 'num_games_owned': 68, 'num_reviews': 28, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1688382551}",koreana, 점프 눌렀잖아 ㅅ1발,1687364366,1687364366,True,0,0,0,0,True,False,False,True,,,
+136688173,"{'steamid': '76561198845977405', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1681487985}",english,"Honesty i found this game several years ago and just got back into it. I really enjoy both the concept and the game. It could use some small changes in some of the game play just to make it easier, but I do understand that the difficulty is part of the game. All in all it is a really good game 10/10.",1681487758,1681487758,True,0,0,0,0,False,True,False,True,,,
+132475972,"{'steamid': '76561198119841738', 'num_games_owned': 190, 'num_reviews': 159, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1545224696}",brazilian,É um bom jogo para passar o tempo.,1675957691,1675957691,True,0,0,0,0,False,False,False,True,,,
+129476144,"{'steamid': '76561198968266430', 'num_games_owned': 3, 'num_reviews': 4, 'playtime_forever': 198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 198, 'last_played': 1643680947}",schinese,"当你认不清自己的时候,不妨停下脚步看看你所处的境界再考虑下一步的行动,亦或游戏亦或人生.",1672190051,1672190051,True,0,0,0,0,False,True,False,True,,,
+121460464,"{'steamid': '76561198888543573', 'num_games_owned': 220, 'num_reviews': 17, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1661843700}",english,"It's an interesting concept, but I feel like it has not been executed very well.",1661843786,1661843786,False,1,0,0,0,False,True,False,True,,,
+120253423,"{'steamid': '76561198815719435', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 186, 'last_played': 1659923260}",schinese,：）辣鸡游戏,1659923385,1659923385,True,0,0,0,0,False,False,False,False,,,
+117821685,"{'steamid': '76561198089670014', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 1817, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1817, 'last_played': 1587961939}",spanish,"Lindo juego de plataforma 2d, entretenido sin mucho historia.",1656454213,1656454213,True,1,0,0.515151500701904297,0,False,False,False,False,,,
+113945677,"{'steamid': '76561198054611720', 'num_games_owned': 0, 'num_reviews': 367, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1650109454}",english,3/10,1650109524,1650109524,False,0,0,0,0,False,False,False,False,,,
+109710568,"{'steamid': '76561198074895179', 'num_games_owned': 154, 'num_reviews': 29, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1558611599}",koreana,어디갔노,1644230580,1644230580,True,2,0,0.489428490400314331,0,False,False,False,False,,,
+107453031,"{'steamid': '76561198428257888', 'num_games_owned': 284, 'num_reviews': 56, 'playtime_forever': 88, 'playtime_last_two_weeks': 0, 'playtime_at_review': 88, 'last_played': 1609300115}",english,"It's too much clone...
+I can't find it
+Where is the real character!!!",1641481893,1641481893,True,0,0,0,0,False,False,False,False,,,
+101119836,"{'steamid': '76561199208996494', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1641114507}",schinese,我是伞兵。,1634356817,1634356817,True,0,0,0,0,True,True,False,False,,,
+99882103,"{'steamid': '76561198101576056', 'num_games_owned': 0, 'num_reviews': 55, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1632227935}",koreana,불꺼졌다 불켜졌다 총맞았다,1632487761,1632487761,True,0,0,0,0,False,True,False,False,,,
+99744865,"{'steamid': '76561198368705907', 'num_games_owned': 109, 'num_reviews': 6, 'playtime_forever': 193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 193, 'last_played': 1624104430}",english,"Even if this game is not the most beautiful or the most action-packed, the concept of a platformer where you constantly have to focus on YOUR character is really good. The difficulty increase is well done and the music is chill.",1632243152,1632243152,True,0,0,0,0,False,False,False,False,,,
+99092234,"{'steamid': '76561198935282908', 'num_games_owned': 60, 'num_reviews': 12, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1640578046}",schinese,我是傻逼,1631267405,1631267405,True,0,1,0,0,False,True,False,False,,,
+96009539,"{'steamid': '76561198321662164', 'num_games_owned': 0, 'num_reviews': 27, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1620238832}",turkish,zor ve gıcık bir oyun. kanser olmak isteyen oynasın.,1626688549,1626688549,True,0,0,0,0,False,True,False,False,,,
+91887991,"{'steamid': '76561198281065794', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1620843400}",russian,Для любителей платформеров что-то свежее. Сложность представляет не строгость таймингов. Но отвлекающий фактор. Которых зачастую на экране больше чем волос на голове человека.,1620843561,1620843561,True,0,0,0,0,False,False,False,False,,,
+91602280,"{'steamid': '76561198025571064', 'num_games_owned': 2180, 'num_reviews': 1520, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1620407145}",russian,"[i] Ctrl CV[/i] – платформер. Главная фишка – это мешающие клоны. Самые обыкновенные локации становятся чуточку сложнее из-за того, что надо найти своего героя. Однако клоны не копируют ваши действия, а идут строго по скрипту, поэтому, если сконцентрироваться, можно найти своего героя в безликой толпе.
+
+Дизайн у игры очень слабый. Простой фон, простые текстуры, простые анимации. Звуков в игре нет, музыка надоедлива. Сохраняется игра только после прохождения определённой группы локаций.
+
+Проходите мимо.",1620413673,1620413673,False,22,0,0.726759195327758789,0,False,True,False,False,,,
+89567392,"{'steamid': '76561198056976073', 'num_games_owned': 6040, 'num_reviews': 1653, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1617374493}",koreana,"클론들을 헤쳐나가는 함정 회피형 퍼즐 플랫포머.
+나를 잃어버릴 것 같으면, 잠시 제자리에 멈춰서 뒤를 돌아봅시다.",1617374679,1617374679,True,9,1,0.628398001194000244,0,True,False,False,False,,,
+88787120,"{'steamid': '76561199094146993', 'num_games_owned': 4088, 'num_reviews': 1814, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1616270770}",english,"[0.4] Controls & Training & Help
+[0] Menu & Settings
+[0] Sound & Music
+[0] Graphics
+[0.4] Game Design
+[0.1] Game Story
+[0] Game Content
+[0.1] Completion time (level/game)?
+[0] is it Enjoyable & Fun?
+[0] Could it hold a spot in Favorites? (& if the Game can be repeatedly played again)
+[0] BONUS point: Multi-Player related
+[0] BONUS point: Review for VR
+[N] - if Registration is required with providing PII
+
+Stars received: 1.0/10 ___ Note: v.4 [0.0 to 1] = personal impressions
+
+Game description key-points: mini-game
+
+Overview: 
+something to be seen as a free flash game in the past, too much noise for the eyes - not comfortable for the eyesight",1616270822,1616270822,False,1,0,0.47470816969871521,0,False,False,False,False,,,
+88153553,"{'steamid': '76561198027540518', 'num_games_owned': 504, 'num_reviews': 200, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1615324062}",russian,"Эта игра обеспечит Вам дерганье глаза, одного и второго. А также нервный срыв и расстройство психики)
+Конечно же рекомендую.
+
+оценка: 3913481234 из 10 прыгающих человечка!",1615324178,1615324178,True,3,0,0.499399244785308838,0,False,False,False,False,,,
+87970167,"{'steamid': '76561198370535442', 'num_games_owned': 0, 'num_reviews': 808, 'playtime_forever': 139, 'playtime_last_two_weeks': 0, 'playtime_at_review': 139, 'last_played': 1578640502}",english,very fun,1615054901,1615054901,True,0,0,0,0,False,False,False,False,,,
+87771916,"{'steamid': '76561198824561865', 'num_games_owned': 32, 'num_reviews': 13, 'playtime_forever': 106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1615972303}",japanese,".
+",1614763453,1614763453,False,0,0,0,0,False,False,False,False,,,
+83769291,"{'steamid': '76561198146154131', 'num_games_owned': 147, 'num_reviews': 4, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1569935051}",italian,"Personalmente il gioco non piace. Confusionario, troppo semplice. Sconsigliato.",1609544738,1609544738,False,0,0,0,0,False,True,False,False,,,
+83511794,"{'steamid': '76561198044551706', 'num_games_owned': 1811, 'num_reviews': 199, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1609276893}",english,"Yes, a little funny game",1609276988,1609276988,True,2,1,0.521568655967712402,0,False,True,False,False,,,
+83502356,"{'steamid': '76561198315689140', 'num_games_owned': 1348, 'num_reviews': 780, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 106, 'last_played': 1631124592}",russian,Игра не устанавливается,1609269275,1609269275,False,3,0,0.551971316337585449,0,False,False,False,False,,,
+82614001,"{'steamid': '76561198243739058', 'num_games_owned': 57, 'num_reviews': 19, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1608285699}",english,ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v ctrl c ctrl v lol,1608285466,1608285466,True,4,3,0.434285581111907959,1,False,False,False,False,,,
+82463446,"{'steamid': '76561198121337377', 'num_games_owned': 322, 'num_reviews': 200, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1608078219}",spanish,La musiquita me provocó 15 tipos de cancer.,1608078269,1608078269,False,6,4,0.556006669998168945,0,False,True,False,False,,,
+81512130,"{'steamid': '76561198284382066', 'num_games_owned': 89, 'num_reviews': 8, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1689322140}",english,Gud,1606983981,1606983981,True,1,0,0.455177754163742065,0,False,False,False,False,,,
+77554746,"{'steamid': '76561198343425892', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 348, 'playtime_last_two_weeks': 0, 'playtime_at_review': 348, 'last_played': 1527421966}",spanish,"⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀ ⣀⣀⣤⣤⣤⣀⡀
+⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀
+⠀⠀⠀⠀⠑⢄⣠⠾⠁⣀⣄⡈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣆ ta bueno
+⠀⠀⠀⠀⢀⡀⠁⠀⠀⠈⠙⠛⠂⠈⣿⣿⣿⣿⣿⠿⡿⢿⣆
+⠀⠀⠀⢀⡾⣁⣀⠀⠴⠂⠙⣗⡀⠀⢻⣿⣿⠭⢤⣴⣦⣤⣹⠀⠀⠀⢀⢴⣶⣆
+⠀⠀⢀⣾⣿⣿⣿⣷⣮⣽⣾⣿⣥⣴⣿⣿⡿⢂⠔⢚⡿⢿⣿⣦⣴⣾⠸⣼⡿
+⠀⢀⡞⠁⠙⠻⠿⠟⠉⠀⠛⢹⣿⣿⣿⣿⣿⣌⢤⣼⣿⣾⣿⡟⠉
+⠀⣾⣷⣶⠇⠀⠀⣤⣄⣀⡀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠉⠈⠉⠀⠀⢦⡈⢻⣿⣿⣿⣶⣶⣶⣶⣤⣽⡹⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠉⠲⣽⡻⢿⣿⣿⣿⣿⣿⣿⣷⣜⣿⣿⣿⡇
+⠀⠀ ⠀⠀⠀⠀⠀⢸⣿⣿⣷⣶⣮⣭⣽⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⣀⣀⣈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿",1602693125,1602693125,True,1,1,0.481982797384262085,0,False,False,False,False,,,
+75278473,"{'steamid': '76561198163347306', 'num_games_owned': 131, 'num_reviews': 19, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1594008860}",koreana,"내 눈을 의심하는 게임
+
+눈이 아파서 지웠읍니다 ^^",1598974532,1598974532,True,0,0,0,0,True,False,False,False,,,
+75051637,"{'steamid': '76561198436175544', 'num_games_owned': 106, 'num_reviews': 2, 'playtime_forever': 172, 'playtime_last_two_weeks': 0, 'playtime_at_review': 144, 'last_played': 1599735625}",turkish,eğlenceli vakit geçirmek için tatlış küçük bir oyun tavsiye ederim,1598615978,1682592281,True,0,0,0,0,False,True,False,False,,,
+74349317,"{'steamid': '76561198096577043', 'num_games_owned': 358, 'num_reviews': 63, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1597498916}",schinese,"完全就是靠视觉屏蔽和坑爹跳跃设计让你过不了关。
+作者设计这游戏就是要让人背板玩游戏的？靠反应没办法过关。
+因为：1、有遮挡物让你看不到地上的刺儿和坑；2、经常白屏闪烁让你眼睛疲劳；3、恶心人的音乐让你把握不住节奏感。",1597498641,1597498641,False,3,0,0.559779882431030273,0,False,False,False,False,,,
+73929750,"{'steamid': '76561198799974103', 'num_games_owned': 5, 'num_reviews': 5, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1606585899}",english,"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Overall, good game.",1596824841,1596824841,True,3,0,0.404371023178100586,0,False,False,False,False,,,
+72942308,"{'steamid': '76561198034824666', 'num_games_owned': 0, 'num_reviews': 63, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1548777478}",koreana,"그냥 수많은 복제를 피해 나를 찾아서 플레이 하는 게임
+별거없음",1595154737,1595154737,True,0,0,0,0,False,False,False,False,,,
+72792169,"{'steamid': '76561198095950800', 'num_games_owned': 0, 'num_reviews': 147, 'playtime_forever': 127, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1604233170}",koreana,시력을 포기하고 재미를 얻었다.,1594913157,1623387849,True,0,0,0,0,True,False,False,False,,,
+71841346,"{'steamid': '76561198807093031', 'num_games_owned': 0, 'num_reviews': 115, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1617344591}",koreana,완벽한 브금에 완벽한 그림자 분신술 정말 제가 봤던 똥겜중에 최고입니다. 하는 동안 계속 웃을 수 밖에 없었어요,1593646926,1593646926,True,0,0,0,0,True,False,False,False,,,
+71381366,"{'steamid': '76561198334240300', 'num_games_owned': 332, 'num_reviews': 34, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1657490687}",english,i want my eyes back. Its hard to focus on my character.,1593160962,1593160962,True,2,1,0.526123940944671631,0,False,False,False,False,,,
+68602290,"{'steamid': '76561198256576548', 'num_games_owned': 615, 'num_reviews': 5, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1586405822}",schinese,"我的兄弟为啥那么多
+",1588669095,1588669095,False,0,0,0,0,False,False,False,False,,,
+67072528,"{'steamid': '76561198089225814', 'num_games_owned': 339, 'num_reviews': 22, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 131, 'last_played': 1635304995}",english,"This game is designed to be annoying:
+  * Level design is super punitive:
+    ** If you made a mistake on the puzzling, you are forced to suicide to continue. Learn from Portal.
+    ** Most levels you start going in certain direction from the previous one and the game takes advantage of that to put a pit (or spikes) as soon as you enter.
+  * You can't get rid of the music.
+  * There is no pause menu.
+  * Saves are made only at the start of a chapter, not at the start of a level.
+  * If you hit ESC you loose your progress without warning.
+  * Screen blackouts are the most annoying game mechanic I've ever seen in a game. You have to memorize the level and count the time of turrets shooting. This is important because in some spots bullets are impossible to dodge.
+  * Resolution is fixed, and to make things worse, to a 4:3 ratio.
+  * You can observe other technical details, such as cannons (turrets?) using global timers, which breaks the immersion.",1586584384,1586584505,False,10,0,0.607765376567840576,0,False,True,False,False,,,
+65983131,"{'steamid': '76561198807310918', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1565752491}",schinese,这游戏真心坏眼,1585367655,1585367655,True,0,0,0,0,False,True,False,False,,,
+65269988,"{'steamid': '76561198017967750', 'num_games_owned': 1537, 'num_reviews': 1327, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1584539396}",english,"It's okay game - a little bit hard, with minor issues (no pause, saves at certain point).
+Probably will run on potato PC and takes around 1 hour to complete - depending on your puzzle solving skills, which are in like 3 last levels.
+Being FREE and using a new idea, it's really worth playing.
+
+Graphics - as you see on screen and music is just some tracks, without much atmosphere, but generally tracks are okay+.",1584539794,1584539794,True,1,0,0.426229476928710938,0,False,False,False,False,,,
+63720694,"{'steamid': '76561198030581959', 'num_games_owned': 204, 'num_reviews': 25, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1582028706}",koreana,"눈이 아픕니다. 으아악
+공장 스테이지 가면 정신병 걸릴것 같은 퍼즐과 수 많은 클론들이 있습니다.
+근데 재미있습니다.
+시력이 떨어진것 같습니다.",1582028798,1582028798,True,4,2,0.539079368114471436,0,True,False,False,False,,,
+62440521,"{'steamid': '76561198289421185', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1561916905}",koreana,깨기 쉽지 않지만 나름 설정도 신박하고 시간때우기 좋아유,1580035712,1580035712,True,0,0,0,0,False,False,False,False,,,
+61905636,"{'steamid': '76561198160468371', 'num_games_owned': 1004, 'num_reviews': 361, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1579125351}",brazilian,"Um jogo de plataforma diferenciado, tendo como empecilho a si mesmo. Você controla um personagem comum diante de doppelgangers (seres iguais a você) que ficam andando e pulando de forma idêntica, fazendo com que você se confunda e acabe morrendo diversas vezes, é necessário muita concentração.
+
+| [b]Valor pago:[/b] R$0,00
+| [b]Package:[/b] [url=https://steamdb.info/sub/428187/][Ctrl CV - Steam Edition][/url]",1579125586,1630988980,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+61821114,"{'steamid': '76561198055119582', 'num_games_owned': 323, 'num_reviews': 2060, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1578909664}",english,"---{Graphics}---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☐ Bad
+☐ Don‘t look too long at it
+☑ Gnome.
+
+---{Gameplay}---
+☐ Very good
+☐ Good
+☐ It‘s just gameplay
+☑ Gnome.
+☐ Starring at walls is better
+☐ Just don‘t
+
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Gnome.
+☐ Bad
+☐ Earrape
+
+---{Audience}---
+☑ Gnome.
+☐ Teens
+☐ Adults
+☐ Human
+☐ Lizards
+
+---{PC Requirements}---
+☑ Gnome.
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boiiiiii
+☐ Ask NASA if they have a spare computer
+
+---{Difficulity}---
+☐ Just press ‚A‘
+☐ Easy
+☐ Significant brain usage
+☐ Easy to learn / Hard to master
+☑ Gnome.
+☐ Dark Souls
+
+---{Grind}---
+☐ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ Average grind level
+☐ Too much grind
+☑ Gnome.
+
+---{Story}---
+☐ Story?
+☐ Text or Audio floating around
+☐ Average
+☐ Good
+☑ Gnome.
+☐ It‘ll replace your life
+
+---{Game Time}---
+☐ Long enough for a cup of coffee
+☑ Gnome.
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{Price}---
+☐ It’s free!
+☐ Worth the price
+☐ If u have some spare money left
+☐ Not recommended
+☑ Gnome.
+
+---{Bugs}---
+☐ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☑ Gnome.
+☐ The game itself is a big terrarium for bugs
+",1578965432,1578965432,True,1,2,0.446335047483444214,0,False,False,False,False,,,
+61336144,"{'steamid': '76561198072279725', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1578760038}",japanese,"[h1]あれ？俺いまどこにいるんだっけ？[/h1]
+
+「自分の残像が大量に湧くことで[b]自機の位置がめちゃくちゃ分かりづらい[/b]」というユニークな特徴を持つ2Dプラットフォーマーだ！
+
+最初のうちは単純にトゲと落とし穴を避けながら先に進んでいくだけ。ステージだけ見たらすげー簡単そう！
+なのに、他の人の残像に紛れるといつの間にかトゲを踏んでいる。ジャンプ台に乗れたと思ったら乗れてない。
+おっかしーな、今ここにいると思ってたんだけど……。
+とはいえ残像は普通に横移動しながら段を登ったり降りたりするだけなので、冷静に垂直ジャンプしてれば完全に見失うこともない、というほどよいバランス。まぁそんなことしてる余裕があるかは別として。
+
+[h2]good[/h2]
+
+* 自機が分かりづらい特徴とステージギミックの相性がすごくいい
+* 終盤までは死亡判定が床のトゲか落とし穴しかなく、操作ミスでしか死なないので「これは俺のせい」と納得感が得られやすい。[b]終盤までは[/b]
+* ステージデザインも良い。うっかり引っかかりそうなところにトゲがあったり、スイッチを押す順番を考えさせられたり
+* 小粒なサイズ。自分はノーマル初見クリアまでに72分、150デスぐらいだった
+* 後半になるとだんだん慣れてきて、大量の残像の中でも自由に動き回れるようになるのが気持ちいい
+
+[h2]bad[/h2]
+
+* 「自機を見失う」というコンセプト以外のところで死ぬと「そういうゲームじゃねーだろ！」というストレスが溜まる
+* 無料クオリティと言われればそれまでだが、グラフィックのやる気は感じられない
+* 最後の2ステージは正直良くない。[spoiler]いきなり飛び出てくる矢が死因の9割なので理不尽さを感じる[/spoiler]
+
+無料であればやってみる価値はあると感じたのでGoodにしたが、はっきり言って人は選びそう。
+とりあえず触れてみて、合わないと感じたらさっさとアンインストール、ぐらいがちょうどいいかも。",1578205645,1578205645,True,2,1,0.558729350566864014,0,False,True,False,False,,,
+61308470,"{'steamid': '76561198107279055', 'num_games_owned': 137, 'num_reviews': 38, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1530276518}",turkish,NERDEYİM LAN BEN. NERDEİYM,1578169316,1578169316,True,0,0,0,1,False,False,False,False,,,
+58564643,"{'steamid': '76561198356978540', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 179784, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5261, 'last_played': 1704295960}",russian,Частенько поигрываю),1575033379,1575033379,True,9,0,0.654455840587615967,0,False,True,False,False,,,
+57368015,"{'steamid': '76561198281433537', 'num_games_owned': 433, 'num_reviews': 13, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1584470576}",english,Gud game,1574003308,1574003308,True,0,0,0.467344999313354492,0,False,False,False,False,,,
+57181581,"{'steamid': '76561198072132307', 'num_games_owned': 0, 'num_reviews': 52, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1573768183}",koreana,"재밌고 게임 잘 만들었다
+근데 눈보라 올 때 화면 깜빡이는 건 좀 선 넘은 거 아니냐?",1573768330,1573768330,True,0,0,0,0,False,False,False,False,,,
+56572700,"{'steamid': '76561198013146396', 'num_games_owned': 1655, 'num_reviews': 2129, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1572974067}",russian,"Грустно, но...
+
+
+Концепт реально интересный. В других играх вроде не встречал - по крайней мере, вспомнить не могу. Но он сам по себе [b]не может тащить на себе всю игру[/b]. Серьёзно, если бы такой прикол с ""засорением экрана"" встретился лишь на одном уровне в каком-то другом платформере - вопросов бы не возникло, это бы был самый настоящий вау-эффект.
+
+А всё остальное в игре убого. И МуЗыЧеЧкА, и графон, и нулевой левел-дизайн. Чесслово, этот же разработчик позже выпустил ""Bouncing Hero"", и даже не играв, вижу по скринам, что графон там посерьёзнее!
+
+В мусор. С грустным таким: ""Эх..."".",1572974325,1572974325,False,1,0,0.444444417953491211,0,False,False,False,False,,,
+56372807,"{'steamid': '76561198241039668', 'num_games_owned': 541, 'num_reviews': 15, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1572771010}",french,good game,1572771065,1572771065,True,0,0,0,0,False,False,False,False,,,
+56311259,"{'steamid': '76561198844387829', 'num_games_owned': 158, 'num_reviews': 6, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1579132635}",tchinese,bot,1572719356,1572719356,True,1,0,0.489053070545196533,0,False,True,False,False,,,
+55466724,"{'steamid': '76561198124801647', 'num_games_owned': 908, 'num_reviews': 16, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1570307190}",english,"Generic platformer with several issues. The ""pathfinding"" on the AI is basically just ""walk and jump when reach close to edge of block"". When changing rooms, there is no reaction time - often spikes or pits with inputs simply carried over from the last room.",1570307372,1570307372,False,4,0,0.546971797943115234,0,False,False,False,False,,,
+55223392,"{'steamid': '76561198243125282', 'num_games_owned': 0, 'num_reviews': 128, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1569111933}",english,Seems really easy until you actually play it. That's not really a bad thing though.,1569111996,1569111996,True,0,0,0,0,False,False,False,False,,,
+54967456,"{'steamid': '76561198816960172', 'num_games_owned': 10, 'num_reviews': 8, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1645885159}",brazilian,jogo bom recomendi,1567636538,1567636538,True,0,0,0,0,False,False,False,False,,,
+54773289,"{'steamid': '76561198129495089', 'num_games_owned': 113, 'num_reviews': 3, 'playtime_forever': 100, 'playtime_last_two_weeks': 0, 'playtime_at_review': 100, 'last_played': 1566606187}",french,Le jeu est FRUSTRANT et ENERVANT de plus aucun succèes steam pour se dire j'ai enfin fini mercé la zone ! MAIS le jeu reste cool et bien equilibré a trayhard UNE fois dans sa vie ! (j'ai encore la haine),1566606422,1566606422,True,0,0,0,0,False,False,False,False,,,
+54676376,"{'steamid': '76561198065943640', 'num_games_owned': 465, 'num_reviews': 289, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1566109337}",russian,"Нет карточек, нет настроек звука. Саундтрек не возможно слушать. Управление только клавиатурой, что говорит о некоторой ответственности разработчика. Игра очень понравилась. Жаль нет карточек, достижений, полных настроек игры, сохранений и прочего присущего нормальным полноценным играм аналогам. 
+Оценка: 6 из 10
+Категория игры: Семейная.",1566110505,1566110505,True,0,0,0,0,False,False,False,False,,,
+54402967,"{'steamid': '76561198278942489', 'num_games_owned': 278, 'num_reviews': 113, 'playtime_forever': 523, 'playtime_last_two_weeks': 0, 'playtime_at_review': 472, 'last_played': 1565557167}",english,good game,1564657196,1564657196,True,1,0,0.467236638069152832,0,False,False,False,False,,,
+54317849,"{'steamid': '76561198861883967', 'num_games_owned': 210, 'num_reviews': 718, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1563283948}",polish,"[h1] [b](ツ)_/¯[/b] Ctrl CV [/h1]
+[code]                                Recenzja stworzona przez [url=https://steamcommunity.com/id/maxiisteam/] Maxi [/url][/code]
+Nie jest to skomplikowana gra ale… Naszym zadaniem jest przejście grę gdzie będzie nam utrudniało zobaczenie naszej głównej postaci, gdyż dookoła nas będą biegały i skakały nasze klony. Bardzo dobra gra gdzie ćwiczymy naszą spostrzegawczość. Znajduje się całkowicie za darmo na platformie steam.
+[list]
+    [*] Jeśli uważasz, że moja recenzja jest przydatna zostaw pozytywną ocenę
+    [*] Więcej recenzji znajdziesz u mnie na profilu
+ [/list]
+",1564215210,1564215210,True,8,0,0.640718519687652588,0,False,False,False,False,,,
+54259755,"{'steamid': '76561198310800640', 'num_games_owned': 3510, 'num_reviews': 24, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1563917189}",english,"TL;DR: I'll always recommend fully free games, and surely platform junkies will enjoy it, even if just for a while.
+
+This is a simple platform game. Simple graphics, simple mechanics. Only one thing stands out: there are hundreds of copypasted yous around, ready to distract you. Miss a jump? You were not looking at you, but at another you.
+
+Sadly, it does seem that's the only novelty. I don't mind the graphics, which are a bit crude, or the silly chiptune music. It really has nothing else, besides dozens of copies of your avatar to distract you. It feels amateurish, which sometimes is not a bad thing, but in this case it's not good. I didn't advance much, but having to set fullscreen each time the game loads doesn't thrill me much to keep digging into it to see what the next screen has (for now, only more jumps).
+
+So, check it, it might be your cup of tea, but don't expect much.",1563916913,1563917355,True,0,0,0.476190477609634399,0,False,True,False,False,,,
+53926452,"{'steamid': '76561198098624111', 'num_games_owned': 1263, 'num_reviews': 66, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1562510738}",schinese,在？为什么偷看我写代码的样子？,1562510777,1562510777,True,4,1,0.551636278629302979,0,False,False,False,False,,,
+53746843,"{'steamid': '76561198875789162', 'num_games_owned': 102, 'num_reviews': 6, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1575640371}",schinese,沙雕游戏XDD,1562387593,1562387593,True,0,0,0,0,False,False,False,False,,,
+53492258,"{'steamid': '76561198326748725', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 266, 'playtime_last_two_weeks': 0, 'playtime_at_review': 254, 'last_played': 1586599029}",english,"Simple idea.  Great game!  This is such a fun game.  Hey, it's crazy cheep (or free) too!",1562234031,1562234031,True,0,0,0,0,False,False,False,False,,,
+53277865,"{'steamid': '76561198167469255', 'num_games_owned': 148, 'num_reviews': 14, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1575603140}",koreana,와!,1562120565,1562120565,True,0,0,0,0,False,False,False,False,,,
+52793539,"{'steamid': '76561198823966027', 'num_games_owned': 53, 'num_reviews': 34, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1578037598}",koreana,"와 용량은 17메가!
+이런 컴에서도 돌아간다니
+겜은 하나도 안돌아가는 컴에서 돌아가는 겜
+갓 만들어진 게임은 아닌것같고 옛날겜 느낌 나는데
+겜이 은근히 잼있당.",1561975119,1561975119,True,0,0,0,0,False,False,False,False,,,
+52369543,"{'steamid': '76561198093304998', 'num_games_owned': 205, 'num_reviews': 4, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1560087396}",tchinese,不錯~,1561887248,1561887248,True,0,0,0,0,False,False,False,False,,,
+51686619,"{'steamid': '76561198013114694', 'num_games_owned': 277, 'num_reviews': 12, 'playtime_forever': 55, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1645010554}",english,"Cute little game, nothing outstanding, but still good for a free game.",1561787875,1561787875,True,0,0,0,0,False,False,False,False,,,
+50214707,"{'steamid': '76561198025008189', 'num_games_owned': 280, 'num_reviews': 1, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1555675909}",japanese,"Great concept and terrible design.
+Most player thinks what I can do to control stage gimmick. Many classic style parkour game has controlled by timing factor, like when jumping, like avoid bullet, and so on. Greater point of this game is masked this well by mass of NPC. Think deeply about jumping obstacle is fun. Most players prefer to control their success a bit ahead...while it seems possible.
+Most problem of this game is hard to make timing and marking with progress. Why add execive blindness factor like flash and light failure? It just made it complexed. Even if you think this important factor, you should show caution. You can make it by some sound, background animation. It needs much and fair frequency to predict, and depends on no other factor...battery was just s--ks.",1555679037,1555679037,False,0,0,0,0,False,False,False,False,,,
+50100812,"{'steamid': '76561198070689335', 'num_games_owned': 299, 'num_reviews': 4, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1555111847}",english,"I usually don't review but this game was irritating enough for me to leave one. Free does not mean good. The clones aren't actually that distracting, but a lot of cheap mechanics make this game frustratingly difficult - it's annoying kaizo-style, not skill-based kaizo style. Also, instead of pausing the game, pressing Escape instantly aborts you to the start menu and you lose all your progress from the last save with no warning.",1555110163,1555110163,False,4,1,0.568506121635437012,0,False,False,False,False,,,
+49855759,"{'steamid': '76561198025149225', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1553966037}",english,"tl;dr A good proof of concept that circles the rage game drain
+
+The concept is solid with the copies and the inability to tell who you are. There's a good change up to the formula with obscuring the player and clones, then obscuring the whole screen for brief flashes, and even obscuring the whole screen for extended periods. But the game falls back on tried and true rage mechanics: spikes and pitfalls that randomly start each level for no other reason than to get your goat right off; spike shooters that  track you and just make it so you can't stop and examine the course (which first show up during the long blackout segments with no attempt at acclimating the player before that), a death counter, ice that functions more like a conveyor belt (this could have been one long factory and that would have been better in design), box physics that are pixel perfect, platforming that's pixel perfect. It's just a mess.",1553966643,1553966643,False,2,0,0.520924091339111328,0,False,False,False,False,,,
+49705128,"{'steamid': '76561198003880189', 'num_games_owned': 567, 'num_reviews': 23, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1553306175}",english,GAME AWFUL HATE IT,1553306200,1553306221,False,0,0,0.379895180463790894,0,False,False,False,False,,,
+49347669,"{'steamid': '76561198254199223', 'num_games_owned': 300, 'num_reviews': 59, 'playtime_forever': 55, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1551665575}",schinese,难度不够， 小把戏来凑。 所有的难度就靠闪屏，眼花來凑了，但这也不能掩盖游戏设计的垃圾之处。首先，屎一样的跳跃手感，有的时候极限大跳就是会撞墙掉坑。反物理的冰面，就算你在弹床上一样会享受莫名其妙的滑步加速，跳起来一样会有一个诡异的惯性。 奇怪的判定体积：距离各种按钮至少半个身位，按钮就被按下去了。想用别的方式加强难度我没意见，至少判定给的好一点吧。顶着屎判定还要被各种闪屏+花眼,1551665924,1551665924,False,5,0,0.530302226543426514,0,False,False,False,False,,,
+49219674,"{'steamid': '76561198315384731', 'num_games_owned': 1018, 'num_reviews': 55, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1551044670}",english,"The game is not perfect but it's a good idea, there are some problems i saw, the game auto saves, but it does the beggining of the world, not the current level you had,  key esc inmediatly sends you to main screen, there is no pause menu or something, and the last world has 2 things that doesn't let you solve the puzzle, the only problem i see is in the last world like i said, there are annoying things, not hard, annoying, anyway it's a good game",1551045045,1551045045,True,3,0,0.541240394115447998,0,False,False,False,False,,,
+48965156,"{'steamid': '76561198152312413', 'num_games_owned': 24, 'num_reviews': 12, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1550049580}",koreana,ESC누르면 일시정지 아니고 그냥 처음화면으로 돌아가니까 평가쓴 애 중에 ESC누르면 일시정지 라고 하는애 그냥 거르세요,1550049740,1550049740,False,11,0,0.667874395847320557,0,False,False,False,False,,,
+48907537,"{'steamid': '76561198416895481', 'num_games_owned': 128, 'num_reviews': 15, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1549820973}",schinese,我是谁  我在哪 咋回事阿,1549821001,1549821001,True,0,1,0,0,False,False,False,False,,,
+48764893,"{'steamid': '76561198364047496', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1551386213}",english,This is such a great game I made a YT vid about it at PokeMcPrest thanks for being so creative!!!!,1549332550,1549332550,True,0,0,0.476190477609634399,0,False,False,False,False,,,
+48645188,"{'steamid': '76561198811084768', 'num_games_owned': 138, 'num_reviews': 11, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1582024918}",koreana,a뮤료여서 걱정했는데 은근 난의도도 있고 좋네요 하드에서 오질나게 죽기는 했지만 재미있음 개추,1548852274,1548852274,True,0,0,0,0,False,False,False,False,,,
+48251540,"{'steamid': '76561198052935816', 'num_games_owned': 0, 'num_reviews': 271, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1547211087}",english,"Looks bad, is boring.",1547211123,1547211123,False,0,0,0.401532381772994995,0,False,False,False,False,,,
+48156752,"{'steamid': '76561198308941144', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 123, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1546811351}",english,"Loved it [spolier]expect for that last bit with the secret ending[/spoiler]
+
+pros:
+-can run on anything
+-looks pretty pretty
+-catchy soundtrack
+-enough story told with only sounds and pixles
+-special reward for hard mode
+-time attack mode for heart attacks
+-multiple save files for no reason
+
+cons:
+-a little short on the content
+-these mfkin canons
+
+9.8/10 -better than CS:GO",1546811638,1546811638,True,0,0,0,0,False,False,False,False,,,
+48124449,"{'steamid': '76561198155421456', 'num_games_owned': 220, 'num_reviews': 5, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1558837436}",english,"Was this supposed to be difficult?
+
+[spoiler] who created the last level deserves hell 	[/spoiler]",1546703533,1546703533,True,0,1,0.491642087697982788,1,False,False,False,False,,,
+48106536,"{'steamid': '76561198401082039', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1548462191}",english,20 minutes of game and I'm already about to punch my monitor. Truly challeniging!,1546639290,1546639290,True,0,0,0,0,False,False,False,False,,,
+48026617,"{'steamid': '76561198122379221', 'num_games_owned': 74, 'num_reviews': 8, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1545326469}",russian,Играя ты взорвешь свой пукан ни раз .,1546385690,1546385728,True,0,0,0,0,False,False,False,False,,,
+47704884,"{'steamid': '76561198120091280', 'num_games_owned': 4846, 'num_reviews': 297, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1545477412}",italian,"semplice idea in 18 MB di gioco.
+
+così tanto casual da sembrar filosofico.
+
+azzeccata pure l'idea del donationware!
+
+[url=https://store.steampowered.com/publisher/psychoflux]PsychoFlux[/url] merita attenzione",1545478475,1545478475,True,2,0,0.556298255920410156,0,False,False,False,False,,,
+47516029,"{'steamid': '76561198246206498', 'num_games_owned': 39, 'num_reviews': 9, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1662474917}",koreana,돈주고 할만한 겜은 아닌듯 그냥 삼각김밥 먹는게 더 이득,1544760774,1587315608,True,0,0,0.472440958023071289,0,False,True,False,False,,,
+47274928,"{'steamid': '76561198410613578', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 345, 'playtime_last_two_weeks': 0, 'playtime_at_review': 344, 'last_played': 1558595866}",schinese,"在游戏一开始的时候，我以为是个类似马里奥的游戏，除很多的分身有些辣眼睛外，我还是很享受游戏的过程。但到了游戏后期，我在熄灯加上炮台的组合中屡战屡败，毫无游戏乐趣，每一次死亡都在摧残着我的耐心。此时游戏带给我的不是欢乐和成就感，而是愤怒了。
+
+  以上是一次次失败后无能的狂吼。欸，真香~。
+结局主角找到了克隆自己的机械，然后露出一副诡异的微笑后杀死了自己最后一个克隆人后就结束了。老实说结局很出乎我的意料，我到通关前的一刻以为通关后就只有一个congratulations什么的，看到个黑暗风格的结局也算是满足。",1543841757,1544177619,True,6,1,0.612824082374572754,0,False,False,False,False,,,
+47242720,"{'steamid': '76561198125392509', 'num_games_owned': 715, 'num_reviews': 5239, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1543701801}",english,1920,1543701806,1543701806,True,0,1,0.0105502596125006676,0,False,False,False,False,,,
+47167056,"{'steamid': '76561198346312575', 'num_games_owned': 92, 'num_reviews': 43, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1543417777}",thai,"แนวคิดเกมดีมาก
+เวลาเล่นแล้วต้องถ่างตา กระพริบตาไม่ได้
+
+เกมฟรี เนื้อที่เล็ก
+เล่นไม่จบ เพราะแยกแยะประสาทไม่ไหว
+ใครหูตาไว อยากให้ลองจริง ๆ
+
+แนะนำให้ลองเล่นอย่างที่สุด",1543417407,1543417864,True,0,0,0,0,False,False,False,False,,,
+47107500,"{'steamid': '76561198199224154', 'num_games_owned': 309, 'num_reviews': 5, 'playtime_forever': 940, 'playtime_last_two_weeks': 0, 'playtime_at_review': 851, 'last_played': 1543720913}",english,"CTRL CV is a platformer based in the world of The Fairly Odd Parents Season 1 Episode 12: The Same Game. Once everybody has turned into a dull, grey blob due to his wish, Timmy must adventure through several landscapes in order to undo his wish. 
+
+This game was a good retelling of that story with good mechanics that seem cheesy in other games but work well for this one.  
+
+5/7 would recommend.",1543300972,1543300972,True,0,0,0,0,False,False,False,False,,,
+45900378,"{'steamid': '76561198295882528', 'num_games_owned': 75, 'num_reviews': 5, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1696858770}",schinese,玩完这个游戏以后，我的视力不存在了……,1542643769,1542643769,True,3,1,0.547325074672698975,0,False,False,False,False,,,
+45877851,"{'steamid': '76561198371538894', 'num_games_owned': 179, 'num_reviews': 8, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1529290228}",english,"Pros: control, concept
+Cons: gameplay 
+
+The whole point of this 2-D platformer is to confuse you into thinking your some other person by filling the current map with clknes of yourself, however its gameplay feels repetitive as it rarely introduces new mechanics or ways to play, also most players would figure out how to distinguish them from the clone, which drops the difficulty.",1542535087,1542535087,True,0,0,0,0,False,False,False,False,,,
+45839416,"{'steamid': '76561198041512403', 'num_games_owned': 1837, 'num_reviews': 2465, 'playtime_forever': 46, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1542359940}",koreana,"그것이 당신이라고 확신하십니까?
+
+주인공을 닮은 캐릭터들이 사방에서 날뛰며,
+플레이어는 주인공을 정확하게 인지하면서
+스테이지를 진행하면 됩니다.
+
+다양한 스테이지들이 등장하며,
+점프대, 가시, 버튼, 상자 등의 다양한 요소들이 등장합니다.
+이를 피하고 활용하면서 스테이지를 진행해야 하죠.
+
+주인공의 분신들과 겹쳐지면 캐릭터가 뒤로 위치하기에 꽤나 분별하기가 힘듭니다. 
+정신을 집중하면 어느정도 속도를 기억해서 대략적인 위치를 파악할 수 있지만,
+자신도 모르게 흠칫하면서 햇갈릴수도....?
+ 
+스테이지를 진행하면서 자신의 분신들을 생성하는 이상한 기계를 박살내고,
+최종적으로는....
+
+아쉬운 점
+-리스폰 바로 앞에 절벽 두다니 너무하네!!
+-후반으로 갈수록 캐릭터를 햇갈리게 하는 것보다 컨트롤 위주가 됨",1542368397,1542368397,True,7,2,0.633301436901092529,0,False,False,False,False,,,
+45556676,"{'steamid': '76561198440296810', 'num_games_owned': 60, 'num_reviews': 8, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1541061113}",schinese,短短二十多分钟居然死了一百多次！不过感觉死了还要清净点...,1541061202,1541061202,True,0,0,0,0,False,False,False,False,,,
+45419314,"{'steamid': '76561198424361492', 'num_games_owned': 45, 'num_reviews': 2, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1710989162}",schinese,此时，一个群员安上了复读机的电池。,1540390819,1540390819,True,6,5,0.605444669723510742,0,False,False,False,False,,,
+45408989,"{'steamid': '76561198154636160', 'num_games_owned': 246, 'num_reviews': 7, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1540324920}",english,The concept of this game is interesting and it's challeging too. i would reccomend to have a shot at it :D,1540323981,1540323981,True,2,0,0.513390958309173584,0,False,False,False,False,,,
+45380847,"{'steamid': '76561198220519669', 'num_games_owned': 3214, 'num_reviews': 97, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1540146973}",english,"Started out decently enough. Ended horribly. The game's challenge turned from trying not to mix up your movement's with a clone's, to trying to solve block puzzles with limited visibility while simueltaniously dodging shots in narrow corridors with floor spikes every two steps. And if you push that block just a pixel too far, it might not land correctly, and with no way of pushing it back from the other side. I honestly had at least 50 deaths between the game's last save point and the end, and zero of them were because of the game's advertised gimmick of there being too many of me.
+
+The game also has a Hard mode, which I did not play more than a minute of, but the main difference seems to just be less uses of the ""locate my character"" option. Which I never needed on Normal anyways, since there are some things the clones never do, like stand in place. There was also a Time Trial mode, for the truly masochistic. But I'd rather be happy than frustrated, and if you're the same, then I suggest avoiding this game.",1540147879,1540147879,False,7,0,0.567073225975036621,0,False,False,False,False,,,
+45327876,"{'steamid': '76561198136975595', 'num_games_owned': 0, 'num_reviews': 109, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1698096618}",english,"Nice free game to try. 
+A bit repetitive.",1539885973,1539885973,True,0,0,0.491642087697982788,0,False,False,False,False,,,
+45293762,"{'steamid': '76561198121559028', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 164, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1590473280}",english,"Enjoyable platformer with an interesting twist.
+Worth playing if you don't mind confusion and have a good idea of where your sprite is.
+4/5",1539689338,1539689338,True,0,0,0,0,False,False,False,False,,,
+45012809,"{'steamid': '76561198022353840', 'num_games_owned': 423, 'num_reviews': 26, 'playtime_forever': 198, 'playtime_last_two_weeks': 0, 'playtime_at_review': 198, 'last_played': 1538104502}",english,I was prepared for thsi experience from years of losing track of which one I was in Super Smash Brothers.,1538276337,1538276337,True,0,1,0,0,False,False,False,False,,,
+44970472,"{'steamid': '76561198424171387', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1538073651}",english,it was good until there was a part where you can't go further,1538073768,1538073768,True,0,0,0,0,False,False,False,False,,,
+44905643,"{'steamid': '76561198409670371', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1547065066}",english,"Love the game, although I wish there was a way to turn off the music and have an auto save after each level,",1537760701,1537760701,True,0,0,0.463025808334350586,0,False,False,False,False,,,
+44843487,"{'steamid': '76561198338854262', 'num_games_owned': 118, 'num_reviews': 8, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1595987403}",english,"The best, most trippiest game that I have ever played!",1537478279,1537478279,True,0,0,0.463025808334350586,0,False,False,False,False,,,
+44787476,"{'steamid': '76561197976144500', 'num_games_owned': 509, 'num_reviews': 28, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1537213836}",english,"This is a decent game for being free, but it ended up being frustrating due to a few design issues that seem as if they would be fairly simple to correct for.
+
+Pros:
+- Great music. It doesn't get old by the time you rage quit.
+- Art is okay. It's not distracting, and it seems kinda fluid. There are a few areas where it's not designed well, but the art itself isn't so bad.
+- The blizzard/""white out"" effect is pretty decent. The special effect is smooth, looks nice, and it has a decent sound to boot.
+
+Cons:
+- Player jump sound effect (which you'll be hearing quite frequently) sounds like it was pulled from a 1997 kids game for something you click on in the background. It's loud, annoying, sounds awful in a cartoonish way. Of all things, this game could sound great, but this seems like an easy thing to fix to keep this game from feeling absolutely awful.
+- Bad level design:
+- - Too often the player starts out in an area that is unsafe. Big nono. Always give the player a safe area to start in. In some instances if you don't stop moving RIGHT at the end of the previous level, you immediately die on the next level.
+- - More headroom needed for springboards - the character bounces his head unnaturally off of the ceiling of many areas with platforms. Platforming with springboards in general could feel a lot better, but at least give the player enough headroom.
+- - ""Stalemate"" situations - Player is often stuck in an area in which he cannot go anywhere to proceed and only has to die to continue. It's pretty obvious why this game included a hotkey (always displayed on the screen) to force the player to kill the main character.
+- Bad game design:
+- - Primary game mechanic that separates this game from the pack is the ""clones"" which appear right away in the game, and don't ever seem to let up other than in a few (far too short) instances. They could be varied a lot more, to some far greater degree of designed effect. Without pulling off this mechanic, the game might as well be a typical non-noteworthy platformer which it feels like anyway (as soon as you adjust to the clones, because they never vary the way or speed in which they move).
+- - Tree areas - old MS-DOS games were rife with the tree areas like this game has. This game seems to not have learned that players don't love these. ESPECIALLY when they're handled just like this game handled them. You can't tell if you collide with any angle of branches or the tree's trunk until you die to learn. Completely unintuitive.
+- - Ice - Game has nearly no concept of inertia or momentum until you hit the ice, which behaves oddly. It seems like as long as the last platform you were ""grounded"" on you are constantly moving forward in whichever direction the character is facing. This feels awkward and bad.
+- - Lightswitch mechanism is unintuitive and confusing at first. The blinking of lights also seems to cause headaches, it should kinda strobe out maybe (similar to whiteout in blizzard areas). Could also blink/flash when switch was activated.
+- - Dart launchers - This is what made me rage quit. The difficulty spikes up so fast, and they aren't introduced smoothly into gameplay. Everything feels thrown at you all at once. They don't give the player any level of anticipation or allow you to understand the regularity/pattern in which they are fired. They also don't seem to kill the clones which the spikes do, so this seems confusing and/or inconsistent.",1537214746,1537214746,False,0,0,0,0,False,False,False,False,,,
+44753186,"{'steamid': '76561197998985381', 'num_games_owned': 1678, 'num_reviews': 173, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1537041277}",english,"It was somewhat fun (although often infuriating) until the long level with rockets, blacking out light, and three colored switches. I know what to do, but I can't play it anymore with the screen blinking black all the time (my eyes hurt!), and with those rockets without any indication of when they are going to fire.
+
+I'm recommending this game, but just barely.",1537041550,1537041550,True,0,0,0,0,False,False,False,False,,,
+44721744,"{'steamid': '76561198058058120', 'num_games_owned': 138, 'num_reviews': 61, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1529336882}",koreana,킬링타임용으로 하기에는 괜찮은 거 같네요,1536898168,1536898168,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+44553909,"{'steamid': '76561198098389076', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1535997697}",english,"I haven't finished the game, and I can't bother either. It's a decent attempt for someone experimenting with game-making.  The main gimmick of the game is and only is the fact you can get lost in a sea of identical clones of you, the player. Other than that there is nothing new when it comes to platforming games. You have platforms to run along, buttons to push to make (road)blocks disappear, springs to jump on, - and maybe turrets to avoid, according to others. The level and visual design are lackluster. Story non-existant as far as I am concerned. 
+I imagine this would be a better game if it involved ""I wanna be the guy"" -types of troll gimmicks and unexpected traps. Gravity and spring mechanics could also be tweaked. Both feel kind of bland and soulless atm.",1535998450,1535998450,False,0,0,0.47826087474822998,0,False,False,False,False,,,
+44535047,"{'steamid': '76561198348612738', 'num_games_owned': 1849, 'num_reviews': 185, 'playtime_forever': 256, 'playtime_last_two_weeks': 0, 'playtime_at_review': 182, 'last_played': 1689775441}",english,E,1535910730,1535910730,False,1,0,0.499013811349868774,0,False,False,False,False,,,
+44455786,"{'steamid': '76561198353553492', 'num_games_owned': 29, 'num_reviews': 2, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1590822374}",brazilian,"O jogo traz uma proposta muito interessante
+Realmente recomendo",1535595143,1535595143,True,0,0,0,0,False,False,False,False,,,
+44454657,"{'steamid': '76561198211691231', 'num_games_owned': 336, 'num_reviews': 224, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1535589623}",brazilian,"Joguinho fraco, mas consegue divertir por alguns minutos.",1535589808,1535589808,True,1,0,0.508196711540222168,0,False,False,False,False,,,
+44376429,"{'steamid': '76561198083751985', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1535229895}",brazilian,"Muito legal! Realmente curti bastante esse jogo, bem curto, cerca de 2 a 3 horas de jogo, mas muito bem feito! Se eu passei raiva foi porque foi bom ksksks Parabens aos desenvolvedores! Pode Baixar e jogar!",1535229962,1535229962,True,0,0,0,0,False,False,False,False,,,
+44280316,"{'steamid': '76561198385918772', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1534792723}",english,"game is fine and all, an interesting concept etc. etc. my one complaint about it this the obnoxious music that you cannot turn down. i find myself unable to listen to anything in the background, something a often do while gaming",1534792984,1534792984,False,0,0,0,0,False,False,False,False,,,
+44243354,"{'steamid': '76561198345860329', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1534650713}",koreana,그냥 특이한 꽁짜게임,1534650810,1534650810,False,0,0,0,0,False,False,False,False,,,
+44203091,"{'steamid': '76561198284125972', 'num_games_owned': 202, 'num_reviews': 10, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1531557483}",english,"Frankly nothing in this game has redeaming qualities.
+The gameplay is infuriating and unfair. In the factory levels there are turrets and blackots. If you even touch a bullet you die instantly and the turrets always aim at you.
+The graphics are lazy and dull.
+The gimmick is really weak. The ""clones"" add nothing to the gameplay and it only takes half a second to find your charecter if you lose them.
+The music is annoying and repetitive.
+A lot of the level design is annoying. Sometimmes there are random blocks so that jumping is overly complicated. 
+
+EVERY THING IS BAD",1534491828,1534491828,False,1,0,0.505277037620544434,0,False,False,False,False,,,
+44127151,"{'steamid': '76561198052362550', 'num_games_owned': 151, 'num_reviews': 74, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1534158718}",english,"Despite it being free, it is a very pleasant experience. Now, I personally don't rage, but if you're the type that gets raged easily, this might not be for you",1534191483,1534191483,True,0,0,0,0,False,False,False,False,,,
+44104525,"{'steamid': '76561198055311780', 'num_games_owned': 0, 'num_reviews': 186, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1534105825}",english,"Join Kyo Kusanagi and relive the NESTS saga!
+[quote][url=https://store.steampowered.com/curator/8257320/]Be sure to leave a like, comment and join Grumpy Reviews[/url][/quote]
+A simple idea executed in a mostly simple way Ctrl CV wont scratch that platforming itch for the simple reason it gets a bit too hard in the wrong way. Platformers like Mario are king of the hill for the simple reason that they give you a few chances to mess up before whisking you back to the start whereas here we seemingly have Ninja Gaiden (NES) inspired levels the further in you get. 
+
+As many of my long time readers will know, I am a former US marine who survived World War 1, 2, 3, Vietnam, Sandyhook and even standing on Lego so with reflexes like mine I never once lost sight of my character. Here is a pro-tip to help you do the same, your character is the only one who is [i]not[/i] smiling. Instead for me the challenge came from not having controller support.
+
+Joy2key exists but I played the game as it was intended and let me tell you, if you have a standard non switch keyboard as most of us probably do then their is a good chance you will die due to keyboard unresponsiveness. 
+Thankfully levels are short so this isn't a huge hinderence but as i said earlier, it is annoying when it happens and after looking at the same stage for 6 or 7 minutes having made no progress you will give up.
+
+I made it to the ice world part 2 where the screen intentionally whites out every 7 seconds and called it a day. Its not that I couldn't beat those levels had I pushed hard enough but it is more that I didn't see the point. I got the games gimmick and I applaud its originality but spikes and platform switches have been done in other, better games.
+
+However do not mistake that for me thinking this game is bad! It isn't. The music is great and I kept playing just to hear more of it, make it a separate buyable DLC please!
+I say try it for yourself, I welcome more original takes on old game ideas and even without the visual gimmick the game works as a mediocre platformer too. I hope the developer tries their hand again in the future.
+
+Phew, I made it the whole review without mentioning the plotline is stolen from King of Fighters '99!",1534106852,1563673822,True,0,0,0,0,False,False,False,False,,,
+44065911,"{'steamid': '76561198852790395', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1533985860}",english,very simple game,1533985885,1533985885,False,0,0,0,0,False,False,False,False,,,
+43948302,"{'steamid': '76561198342261633', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1527597725}",brazilian,"--Para quem esse jogo foi desenvolvido?
+( ) Espermatozóides
+( ) Crianças
+(x) Tudo e todos
+( ) Adolescentes
+( ) Adultos
+( ) Pessoas que conhecem a morte
+
+--Texturas, Gráficos, Lindeza?
+( ) Parece com os gráficos dos jogos do Atari
+( ) 220 x 120p
+(x) Meia boca, tem piores
+( ) Dentro da média atual
+( ) Quase um The Witcher 3
+( ) The witcher 3
+( ) Isso veio de outra dimensão
+
+--Falhas
+( ) Isso é uma falha
+( ) Bug pra todo lado, tipo tiro em favela no Rio
+( ) Muita falha mas dá pra jogar
+( ) Bugs que são legais e não atrapalham
+(x) Sem falhas 
+( ) Esse jogo saiu perfeito do forno
+
+--É difícil?
+( ) Basta assisitr o jogo
+( ) Zera com uma guitarra
+(x) Pega logo as manha, mas sempre normal
+( ) Bem desafiador, as vezes difícil
+( ) Parece Dark Souls
+( ) Equiparável a Dark Souls
+( ) É necessário morrer (de verdade) pra zerar
+
+--Tem uma história?
+( ) Não, um Pubg da vida
+(x) tem história só pra não dizer que não tem
+( ) Dá pra gostar da história, se esforçando 
+( ) Consegue te arrancar uma lágrima ou duas
+( ) Nivel The Last Of Us
+( ) Dava pra fazer um livro nivel Harry Potter
+( ) Deveria constar no curriculo do Ensino médio
+
+--Audio, músicas
+( ) Nivel do Funk Brasilero
+( ) Jogue mutado
+(x) Dá pra escutar
+( ) Legalzinho 
+( ) Os caras capricharam no áudio
+( ) Baixe a play list pra escutar no ônibus
+( ) Toque o tema no seu casamento
+
+--Trambolho necessário pra rodar
+( ) Nokia 1995
+(x) Um PC com uma placa de vídeo do tempo da vovó
+( ) Um PC decente, com uma gt 1030
+( ) Um PC já considerado gamer
+( ) Invista no minimo 4k em hardware
+( ) SLI de 1080ti
+( ) Esqueça, a tecnologia atual não dá conta
+
+--Vale a pena o investimento?
+( ) Pedi até refund
+( ) Ainda bem que foi presente
+( ) Melhor ter comprado um pastel
+( ) Se pagou
+( ) Pagaria o dobro
+( ) Vale mais que o resto dos meus jogos juntos.
+(x) Foi de graça",1533480669,1533480669,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+43916217,"{'steamid': '76561198170029811', 'num_games_owned': 68, 'num_reviews': 7, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1541032315}",english,"A decent game if you're bored (plus it's free!) but it's definitely not perfect. Overall it's a fairly simple platformer with the fun twist that the screen is filled with copies of you, and that's a great concept! What makes the game not as enjoyable in my opinion is how some levels/jumps feel really cheap and feel artificially difficult (ex:invisible pitfalls hidden behind bushes, obnoxious ice levels) but it's not the end of the world. Every new area has it's own gimmick, for example turrets or my personal favorite, a flashing screen every few seconds that messes up every jump. I never actually reached the full end of the game as I got stuck on a level in particular that's not only really difficult with some super precise timings but also requires planning and performing actions in a certain order, but i'll beat it someday. Overall though, Ctrl CV is a pretty fun game to kill time, especially if you like difficult games. Plus, it's free, so what do you really have to lose?",1533329244,1533329244,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+43901984,"{'steamid': '76561198047753624', 'num_games_owned': 0, 'num_reviews': 241, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1527638135}",english,Very Cool Game.  The visual puzzles were a blast .,1533262551,1533262551,True,0,0,0,0,False,False,False,False,,,
+43901798,"{'steamid': '76561198828103139', 'num_games_owned': 225, 'num_reviews': 6, 'playtime_forever': 889, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1533261861}",english,I don't know if I have ever played a game like this. But I like it.,1533261411,1533261411,True,0,0,0,0,False,False,False,False,,,
+43842469,"{'steamid': '76561198112179592', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1532985127}",english,"Idea for the gameplay is really interesting. But faulty level design makes it infuriating and unplayable. It has a room for improvement, but for now it's a no from me.",1532985588,1532985588,False,1,0,0.505277037620544434,0,False,False,False,False,,,
+43694717,"{'steamid': '76561198302221718', 'num_games_owned': 49, 'num_reviews': 10, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1657968568}",schinese,这很社会。啊我的眼睛mmp。有丶意思，值得一玩。,1532335123,1532335123,True,0,0,0,0,False,False,False,False,,,
+43679053,"{'steamid': '76561198433223334', 'num_games_owned': 84, 'num_reviews': 1, 'playtime_forever': 182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 142, 'last_played': 1544802687}",schinese,好♂VAN：）,1532262239,1532262239,True,2,1,0.547325074672698975,0,False,False,False,False,,,
+43678061,"{'steamid': '76561198260381032', 'num_games_owned': 5, 'num_reviews': 2, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1537559775}",english,despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito despacito,1532258167,1532258167,True,0,2,0.380098640918731689,0,False,False,False,False,,,
+43669758,"{'steamid': '76561198341985057', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2, 'last_played': 1531870448}",english,"Very fun, moderately challenging. Everything in the game is designed to add difficulty to placing and timing your jumps, and combining the elements in the moments.
+ 
+",1532213560,1532213560,True,0,0,0,0,False,False,False,False,,,
+43654117,"{'steamid': '76561198377376998', 'num_games_owned': 4, 'num_reviews': 2, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1530038179}",english,kinda good for throwing away a little time. gets you confused in the fun😁,1532143252,1532143252,True,0,0,0,0,False,False,False,False,,,
+43592027,"{'steamid': '76561198353261325', 'num_games_owned': 56, 'num_reviews': 20, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1560197994}",english,"it needs a better save feature, and maybe there could be an extra-hard mode where the clones stop moving and jump straight up occasionally.",1531858980,1531859371,True,0,0,0,0,False,True,False,False,,,
+43590521,"{'steamid': '76561198155254886', 'num_games_owned': 263, 'num_reviews': 63, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1531853286}",turkish,aşırı dikkat gerektiren bir oyun kendi karakterinize odaklanmalı ve parkuru geçmeye çalışmalısınız oyun böyle,1531853349,1531853349,True,1,0,0.525862038135528564,0,False,False,False,False,,,
+43588310,"{'steamid': '76561198371348548', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1531845724}",english,This is pretty good. Definetly reccoment it,1531845815,1531845815,True,0,0,0,0,False,False,False,False,,,
+43542978,"{'steamid': '76561198158432201', 'num_games_owned': 129, 'num_reviews': 20, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1531650076}",schinese,在人生路上总会有机遇和陷阱，当你踩到陷阱时，也许会有一群人嘲笑你，贬低你；当你碰到机遇时，你或许会一飞冲天，亦或是一撅不振。但无论在哪，一定要选择去认清自己，不要在茫茫人海当中迷失了自我。成为你想成为的你，做你想做的事，而不是变成那群小人去嘲笑那个曾经的你,1531650478,1531650478,True,1,0,0.50205761194229126,0,False,False,False,False,,,
+43514943,"{'steamid': '76561198241648682', 'num_games_owned': 107, 'num_reviews': 1, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1531531513}",brazilian,"Um jogo muito dificil , puzzles bem simples, muito bom pra passar o tempo",1531531673,1531531673,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+43512815,"{'steamid': '76561198224145568', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 62, 'playtime_last_two_weeks': 0, 'playtime_at_review': 62, 'last_played': 1531520909}",english,"Very fun, moderately challenging. Everything in the game is designed to add difficulty to placing and timing your jumps, and combining the elements in the correct moments.
+I recommend this game =)",1531521621,1531521621,True,0,0,0,0,False,False,False,False,,,
+43512143,"{'steamid': '76561198321636985', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 176, 'playtime_last_two_weeks': 0, 'playtime_at_review': 176, 'last_played': 1531518836}",spanish,"Me ha encantado este juego ya que es muy diferente a los que hay hoy en dia. Recomiendo jugarlo y aunque sea demasiado facil al comienzo, al final se dificulta bastante.",1531518823,1531518823,True,1,0,0.515151500701904297,0,False,False,False,False,,,
+43493062,"{'steamid': '76561198069272962', 'num_games_owned': 88, 'num_reviews': 3, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1531438171}",brazilian,"jogo mais ou menos, é dificilzinho!.Mais é legal,so cuidado para n se irritar",1531438213,1531438213,True,0,0,0,0,False,False,False,False,,,
+43374675,"{'steamid': '76561198160219145', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1530965220}",koreana,난이도 적당하면서 시간 때우기 좋네요.,1530964870,1530964870,True,0,0,0,0,False,False,False,False,,,
+43368570,"{'steamid': '76561198158473961', 'num_games_owned': 116, 'num_reviews': 11, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1537559918}",spanish,me gusta el juego porque hay muchas personas parecidas al personaje principal,1530943498,1530943498,True,1,2,0.5,0,False,False,False,False,,,
+43365175,"{'steamid': '76561198165587686', 'num_games_owned': 149, 'num_reviews': 17, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1530927980}",brazilian,"ACHEI CANSATIVO , TIPO MUITO , MAS É DAHORINHA. ATÉ VOCÊ DESISTIR
+",1530928093,1530928093,True,0,0,0,0,False,False,False,False,,,
+43342690,"{'steamid': '76561198137374112', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1530851656}",english,"The premise of this game does not work at all in execution. For starters, you can always tell which clone is you either by standing still or jumping straight up as none of the automoving clones do. Also, the full whiteout/blackout mechanics are annoying beyond disbelief and break the pacing/kill you CONSTANTLY. Cannot recommend this.",1530854617,1530854617,False,1,0,0.505277037620544434,0,False,False,False,False,,,
+43337784,"{'steamid': '76561198073448029', 'num_games_owned': 154, 'num_reviews': 3, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1530833638}",russian,"я чуть не умер, пока играл в эту игру",1530833697,1530833697,True,1,0,0,0,False,False,False,False,,,
+43301727,"{'steamid': '76561198799224565', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1530723162}",english,"Great for a free game, basic 2d platformer",1530723294,1530723294,True,0,0,0.47413790225982666,0,False,False,False,False,,,
+43233891,"{'steamid': '76561198264606720', 'num_games_owned': 138, 'num_reviews': 31, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1533501319}",spanish,"Este juego me llamó la atención, su jugabilidad es bastante innovadora. 
+Es simple, tenemos que cruzar un mundo lleno de copias de nosotros mismos e intentar no confundirnos con los clones, ya que tendremos que prestar atención para no perder a nuestro personaje de vista y que se confunda con los demás.
+No pensaba que los clones afectaban tanto en los niveles , pero sí, cuando ves tantos clones pasando de un lado para otro ya no sabes ni a que personaje estás controlando y por lo tanto terminas en los pinchos ""mágicamente"". 
+Un juego recomendado, para jugar un ratito xD",1530502394,1530502394,True,2,1,0.54356849193572998,0,False,False,False,False,,,
+43227035,"{'steamid': '76561198004565666', 'num_games_owned': 0, 'num_reviews': 296, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1530477522}",english,"Cute concept, but it doesn't work in practice because your clones never stand still or jump straight up. I had vritually no deaths from confusing myself with a clone. Almost all deaths were from visual design which makes it hard to keep track of what is and isn't a solid platform, hard to see some spikes, etc. Or a few spots where it starts a new room with a spike/pit immediately next to you in the same direction you were just walking.",1530477718,1530477718,False,9,0,0.568770110607147217,0,False,False,False,False,,,
+43210990,"{'steamid': '76561198027988658', 'num_games_owned': 133, 'num_reviews': 61, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1530436864}",english,This says a lot about our society,1530437029,1530437029,False,0,0,0.418056666851043701,0,False,False,False,False,,,
+43145839,"{'steamid': '76561198061069410', 'num_games_owned': 227, 'num_reviews': 55, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1530243223}",brazilian,"Você é seu próprio inimigo.
+Isso não diz muita coisa, mas é a essência do jogo.",1530243400,1530243400,True,0,0,0,0,False,False,False,False,,,
+43082462,"{'steamid': '76561198197917457', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 122, 'last_played': 1538176085}",english,"Honestly, one of my favourite games of all time.
+
+So much so I paid for the DLC in order to support the creators.
+
+This game has made me so angry but I want to keep playing it.
+
+The concept is fantastic and I have a feeling that, sadly, it will be one of the best underrated games on Steam.
+
+It takes a lot to get me to like a game and I love this,",1530051844,1530051844,True,7,0,0.541545093059539795,0,False,False,False,False,,,
+43078780,"{'steamid': '76561198352841103', 'num_games_owned': 142, 'num_reviews': 5, 'playtime_forever': 834, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1602006191}",french,Trèèèèèèèèès fun et Gratuit. Must-have pour ceux qui veulent un petit jeu fun quand ils s'ennuient.,1530042617,1530042617,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+43057165,"{'steamid': '76561198346843874', 'num_games_owned': 86, 'num_reviews': 20, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1530426713}",turkish,gyhjklç,1529987917,1529987917,True,0,0,0.417986065149307251,0,False,False,False,False,,,
+43054731,"{'steamid': '76561198397635728', 'num_games_owned': 103, 'num_reviews': 13, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1637536354}",schinese,挺不错的，茶余饭后可以试试，很魔性,1529979473,1529979473,True,0,1,0,0,False,False,False,False,,,
+43039271,"{'steamid': '76561198407011877', 'num_games_owned': 101, 'num_reviews': 10, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 222, 'last_played': 1529945146}",english,beat hard mode to see another ending,1529940332,1529945276,True,0,0,0,0,False,False,False,False,,,
+43025679,"{'steamid': '76561198367606746', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1529901196}",schinese,瞎了,1529903256,1529903256,True,0,0,0,0,False,False,False,False,,,
+42955431,"{'steamid': '76561198410335378', 'num_games_owned': 83, 'num_reviews': 3, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1529732566}",schinese,"很有创意的游戏
+在树枝上行走时经常会迷之踩空坠落死亡，影响游戏体验",1529733308,1529733308,False,1,0,0.480314940214157104,0,False,False,False,False,,,
+42954240,"{'steamid': '76561198838447305', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1529730049}",koreana,시야를 철저하게 방해하는겜.인줄 알았으나 후반부에 인공지능가시 쏘 디스거스팅 ㄱ-,1529730167,1529730334,False,0,0,0,0,False,False,False,False,,,
+42953726,"{'steamid': '76561198016871986', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1574022519}",english,"Absolute nuthouse of a game, super tight controls
+",1529728842,1529728842,True,0,0,0,0,False,False,False,False,,,
+42946252,"{'steamid': '76561198293804714', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1529707866}",english,It's a fun concept!,1529707953,1529707953,True,0,0,0,0,False,False,False,False,,,
+42926259,"{'steamid': '76561198059755057', 'num_games_owned': 2547, 'num_reviews': 29, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1529663782}",english,What the f*** derdirten oyun :D,1529663848,1529663848,False,1,0,0.407741665840148926,0,False,False,False,False,,,
+42904353,"{'steamid': '76561198418886086', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1530389666}",polish,"This game is ingenious, so I really recommend it.",1529593895,1529593895,True,0,0,0,0,False,False,False,False,,,
+42849509,"{'steamid': '76561198838242468', 'num_games_owned': 111, 'num_reviews': 2, 'playtime_forever': 4246, 'playtime_last_two_weeks': 0, 'last_played': 1530888279}",english,it wont open,1529439364,1529439364,False,0,0,0.406022161245346069,0,False,False,False,False,,,
+42780323,"{'steamid': '76561198184644307', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1529213237}",koreana,"제에발 소리 좀 줄이게 해주십쇼
+소리 줄이는 옵션 있나 esc 눌렀다가 게임 꺼졌던 적이 서너번은 됩니다",1529213176,1529213176,True,3,0,0.537037014961242676,0,False,False,False,False,,,
+42760470,"{'steamid': '76561198331612424', 'num_games_owned': 297, 'num_reviews': 23, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1529076934}",english,"Ctrl CV is an original game where you have to get from A-B with a character in a parkour level.
+The originial part is though, you get other characters that look exactly the same like you in the level that make you look for your character in a hord of twins.
+I love the game because it's so original and sometimes hard to see where you are, I definitly recommend this game for you since it's a free game that has an original concept!",1529143116,1529143116,True,0,0,0,0,False,False,False,False,,,
+42720866,"{'steamid': '76561198802413782', 'num_games_owned': 95, 'num_reviews': 11, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1533733751}",brazilian,GENIALLLLLLLLLLLLLLLLL,1528984544,1528984544,True,0,1,0.476190477609634399,0,False,False,False,False,,,
+42709229,"{'steamid': '76561198822573273', 'num_games_owned': 197, 'num_reviews': 35, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1528932006}",brazilian,"Jogo é bacana no começo, mas depois se torna muito repetitivo e enjoativo. A música é sempre a mesma e os gráficos não são dos melhores, parece mais um jogo de navegador. Os primeiros minutos agradam, mas depois se torna uma experiência tediosa.",1528932162,1528932162,False,0,0,0.472440958023071289,0,False,False,False,False,,,
+42691228,"{'steamid': '76561198367276172', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1558748403}",english,"Nice short confusing platformer. It can be boring at times, but it's a good game.",1528865457,1528865457,True,0,0,0,0,False,False,False,False,,,
+42684771,"{'steamid': '76561198041516412', 'num_games_owned': 130, 'num_reviews': 1, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1597676551}",english,This game has a clever algorithm. I think this game will be much improved. I wish success to the developers.,1528836496,1528836496,True,1,1,0.510370910167694092,0,False,False,False,False,,,
+42606293,"{'steamid': '76561198190561489', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1528561924}",schinese,游戏体验极差！,1528561946,1528561946,False,0,0,0,0,False,False,False,False,,,
+42606265,"{'steamid': '76561198095820330', 'num_games_owned': 150, 'num_reviews': 67, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1528733080}",english,"THis game is very good! 
+Specially it have EYES treatment :D
+*Not recommended for people who have high blood pressure*
+
+#GG",1528561876,1528561876,True,4,3,0.572416722774505615,0,False,False,False,False,,,
+42552479,"{'steamid': '76561198194624861', 'num_games_owned': 107, 'num_reviews': 48, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1528369818}",english,"Fun, can be super confusing at times",1528369834,1528369834,True,2,1,0.537153065204620361,0,False,False,False,False,,,
+42538855,"{'steamid': '76561198260161094', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1528311958}",english,"the concept behind it is fun but the levels are poorly designed, which makes it difficult in a very unenjoyable way.
+still worth a try though",1528312120,1528312120,True,1,0,0.52173912525177002,0,False,False,False,False,,,
+42535378,"{'steamid': '76561198097800694', 'num_games_owned': 840, 'num_reviews': 95, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1528302071}",japanese,"「自分」と言う存在など、周りの奴等と何ら変わりの無い
+ただのモブキャラだと言う事を実感させてくれるクソゲー。",1528302306,1528302306,False,3,1,0.511089622974395752,0,False,False,False,False,,,
+42525272,"{'steamid': '76561198145634215', 'num_games_owned': 110, 'num_reviews': 39, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 145, 'last_played': 1569123586}",english,"Great game with a great soundtrack that slowly gets harder until you are at 3456789 deaths and 23 broken monitors
+",1528269529,1528269529,True,6,14,0.519445896148681641,0,False,False,False,False,,,
+42523435,"{'steamid': '76561198333899837', 'num_games_owned': 101, 'num_reviews': 7, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1528261858}",schinese,"或许在茫茫人海之中，别人怎么样并不重要，认识并做好自己，才是最重要的。
+当你迷茫找不到自我的时候，不妨停下来，听听自己内心的声音。
+很适合在烦躁的时候玩一玩的小游戏。
+（ps:只需体验三分钟，你就会像我一样，放弃这款游戏，真特娘的看的头晕啊摔！QAQ）",1528261506,1528262153,True,1,1,0,0,False,False,False,False,,,
+42466159,"{'steamid': '76561198176630879', 'num_games_owned': 54, 'num_reviews': 8, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 125, 'last_played': 1583679535}",schinese,咳咳咳，已经瞎了,1528018720,1528018720,True,1,0,0,0,False,False,False,False,,,
+42440605,"{'steamid': '76561198326391653', 'num_games_owned': 878, 'num_reviews': 84, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 122, 'last_played': 1527923305}",schinese,"通关了，后期难度堪比i wanna
+",1527922612,1527922612,True,2,0,0.523809552192687988,0,False,False,False,False,,,
+42439860,"{'steamid': '76561198179504571', 'num_games_owned': 489, 'num_reviews': 6, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1527864687}",schinese,不能只有我一个人眼瞎，大家一起来,1527918944,1527918944,True,1,0,0,0,False,False,False,False,,,
+42434575,"{'steamid': '76561198044557266', 'num_games_owned': 745, 'num_reviews': 24, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 49, 'last_played': 1527893117}",english,"Kinda enjoyable (denpending on your memorization and reflexes) until level 3. But don't try to play the final level, it's just plain bad.
+
+Pros:
+
+- The orientation between clones is original and truly based on skill
+
+Cons:
+
+- Lacks polish, you advance one pixel when landing while moving
+- Lack of sound effects to orientate and help with timing
+- A lot of big offenders on good platform design, including:
+> Excessive edge jumping
+> trampoline vertical 'off and in' jumping
+> Point blank cannon placement
+> Buttons that you don't know the use until too late
+- Hidden and almost invisible spikes...",1527893743,1527893743,False,0,0,0,0,False,False,False,False,,,
+42423443,"{'steamid': '76561198446379167', 'num_games_owned': 15, 'num_reviews': 2, 'playtime_forever': 159, 'playtime_last_two_weeks': 0, 'playtime_at_review': 159, 'last_played': 1527906811}",english,Omg so hard,1527853904,1527853904,True,1,1,0.521342694759368896,0,False,False,False,False,,,
+42417053,"{'steamid': '76561198101676106', 'num_games_owned': 878, 'num_reviews': 202, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1527821947}",schinese,我是傻逼,1527821973,1527821973,True,18,13,0.724659442901611328,0,False,False,False,False,,,
+42416391,"{'steamid': '76561198195573459', 'num_games_owned': 57, 'num_reviews': 23, 'playtime_forever': 163, 'playtime_last_two_weeks': 0, 'playtime_at_review': 163, 'last_played': 1527364525}",english,"It was interesting at first, but during the factory levels, it lost its quality. Turrets fire during black-outs a lot of times, not even giving you a chance to evade. It's all a gamble by then. Easy and hard mode aren't much different. By the time you get to the factory levels, the clones aren't really a problem in either mode and the whole point of the game is not even there anymore. Instead, you get unfair black-outs as a replacement. It goes from needing good sight to needing luck. The game seems to become worse as it goes on. I never was even able to complete the factory levels. The start was decent though, as the clones actually were relevant then. Even if you take the factory out of the equation, it is filled with cheap deaths such as pitfalls and spikes at the beginning of the level that kill you before you can know what is going on if you start out moving (which you probably would be). 
+
+The main difference in hard mode are that the effects of clones linger longer and last more levels, and the reduction of save points between levels. Lack of save points only forces the player to continue playing the game when the player should be going to bed, but he cannot, for if he does, he'll have to pass through unfair spike turrets again. This lack does nothing for the game. The point of platformers isn't to make the player rage, but to have fun, and this lacking is nothing but annoying.",1527818334,1535905144,False,34,0,0.793204247951507568,1,False,False,False,False,,,
+42411265,"{'steamid': '76561198402128703', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1542946727}",english,"Although it's no means unchallenging, it's a pretty simple game. Check it out if you want to kill some time",1527795029,1527795029,True,0,0,0,0,False,False,False,False,,,
+42399074,"{'steamid': '76561198797963633', 'num_games_owned': 44, 'num_reviews': 3, 'playtime_forever': 76, 'playtime_last_two_weeks': 0, 'playtime_at_review': 76, 'last_played': 1527748941}",english,"First review; It was a bit frustrating, but I powered through. I enjoyed the game. It took a bit more than an hour and entertained me for what it's worth. Difficulty depends on how distracted you are by the clones, but it is beatable. Not a cake walk, but anyway I recommend it.",1527749145,1527749145,True,0,0,0,0,False,False,False,False,,,
+42395591,"{'steamid': '76561198180218514', 'num_games_owned': 160, 'num_reviews': 10, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1527729552}",brazilian,"Esse jogo é bom a idéia é interessante... Porém o motivo de eu não recomendar esse jogo é: A dificuldade dele não esta no plataformer em si nem em seus clones, mas sim na [u]poluição do ambiente com flashes de luz e blackouts[/u].
+[h1]Prós[/h1]
+[list]
+[*]É grátis
+[*]É um jogo leve tendo apenas 17mb 
+[*]Tem um bom desafio
+[/list]
+[h1]Contras[/h1]
+[list]
+[*]É um jogo curto [spoiler]igual meu pau[/spoiler]
+[*]O problema citado acima
+[*]Os gráficos são bem preguiçosos e são provavelmente feitos no paint
+[/list]
+[h1]Notas[/h1]
+[list]
+[*]5/10 Eu chupo meu pau. Eu chupo seu pau? Não, eu chupo meu pau. O pau é seu? Não, o pau é meu. Se fosse fácil chupar o próprio pau cada um chupava o seu. Eu chupo o meu pau. Eu chupo o seu pau? Não, eu chupo o meu pau. O pau é seu? Não, o pau é meu !!!!!",1527730969,1527731106,False,2,11,0.459005475044250488,0,False,False,False,False,,,
+42382085,"{'steamid': '76561198080086359', 'num_games_owned': 75, 'num_reviews': 28, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1528278109}",koreana,고전 명작,1527683104,1527683104,True,1,2,0.525862038135528564,0,False,False,False,False,,,
+42380413,"{'steamid': '76561197966761561', 'num_games_owned': 364, 'num_reviews': 7, 'playtime_forever': 217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 217, 'last_played': 1527536003}",french,"On vient de découvrir ce petit jeu et on a fait une vidéo dessus !
+ENJOY : https://www.youtube.com/watch?v=zrEtIrGSTzI",1527676499,1527676499,True,2,1,0.545454561710357666,0,False,False,False,False,,,
+42373324,"{'steamid': '76561197985987706', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1527641209}",english,"A fun, challenging platformer. I'm sure I'll come back to this often when I'm looking to kill a few minutes.
+
+I only have one serious negative comment about this, and all other game developers please take note:
+
+For the love of Pete, [b][i]give us volume control[/i][/b]. Firing up a game only to be greeted by music that's deafening in comparison to all of your other media with no way to turn it down is maddening. It can ruin what would otherwise be a great experience.",1527642334,1527642334,True,0,1,0,0,False,False,False,False,,,
+42368759,"{'steamid': '76561198804401136', 'num_games_owned': 91, 'num_reviews': 9, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1527619489}",english,"
+very weird but fun
+",1527624987,1527624987,True,0,0,0,0,False,False,False,False,,,
+42363814,"{'steamid': '76561198832412123', 'num_games_owned': 63, 'num_reviews': 7, 'playtime_forever': 252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1570286357}",russian,"15  ""ДА Я ЗАДОЛБАЛСЯ ПРОИГРЫВАТЬ ВЫХОЖУ ИЗ ИГРЫ"" из 10",1527609543,1527609543,True,2,0,0.523809552192687988,0,False,True,False,False,,,
+42361475,"{'steamid': '76561198323496419', 'num_games_owned': 173, 'num_reviews': 19, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 85, 'last_played': 1528431299}",schinese,"上瘾了，每天必玩，没玩这个游戏之前从不知道我居然有抖M属性.......
+[strike] 非常简单好玩，一点都不难，工作学习之余玩的轻松小游戏，每天玩一玩，愉悦身心，开启美好生活	[/strike]
+[spoiler] 我已经疯了啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊（此处省略一万字脏话）	[/spoiler]",1527601937,1527601937,True,2,1,0.523809552192687988,0,False,False,False,False,,,
+42360356,"{'steamid': '76561198748197341', 'num_games_owned': 110, 'num_reviews': 19, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527597689}",english,I'd rather kill myself than play this game.,1527597861,1527597861,False,4,5,0.482534527778625488,0,False,False,False,False,,,
+42358579,"{'steamid': '76561198273245146', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1529906176}",english,Kagebunshin No Jutsu //,1527591199,1527591199,True,0,0,0,0,False,False,False,False,,,
+42355929,"{'steamid': '76561197962914253', 'num_games_owned': 0, 'num_reviews': 199, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1527580169}",english,"Proper free game. (Not free to start)
+
++ Competent platformer
++ Extra mechanics added every few levels keep things interesting
++ Interesting and challenging puzzles in later levels
+
+- Visuals are kind of annoying with fake players, flashing screen and dimming lights.
+- No controller support?
+- No Graphics settings other than fullscreen
+
+Overall a short and simple game that does not overstay its welcome.",1527580510,1527580510,True,0,0,0.475352108478546143,0,False,False,False,False,,,
+42341313,"{'steamid': '76561198836629739', 'num_games_owned': 11, 'num_reviews': 2, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1527929121}",russian,"КОРОЧЕ ТЫ ДОЛЖЕН ТУПО СРЕДИ ВСЕХ ТВОИХ КЛОНОВ НАЙТИ СЕБЯ И НЕ СДОХНУТЬ.
+8888888888888888 ИЗ 10",1527523033,1527523033,True,4,3,0.551451206207275391,0,False,False,False,False,,,
+42337614,"{'steamid': '76561198838249277', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527513616}",schinese,no!! my eye,1527513636,1527513636,True,2,4,0.545454561710357666,0,False,False,False,False,,,
+42335634,"{'steamid': '76561198094803808', 'num_games_owned': 4070, 'num_reviews': 5384, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1527508056}",english,+,1527508063,1527508063,True,2,2,0.307277768850326538,0,False,False,False,False,,,
+42327444,"{'steamid': '76561198312440133', 'num_games_owned': 206, 'num_reviews': 5, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1527474818}",english,Killed my Potato,1527474860,1527474860,True,0,2,0,0,False,False,False,False,,,
+42325918,"{'steamid': '76561198059971262', 'num_games_owned': 2465, 'num_reviews': 632, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1527468101}",english,"Honestly, most of the difficulty doesn't come from the clones mechanic, but all the other ones you'll have to pass through. 
+
+It's not quite hard, but it's fun for a little while. It's a super basic platformer, but it has artificial difficulty, and cheap placement for some levels. Oh so many levels start up with a pit right next to the beginning, making you stop right when you spawn, or else it's a cheap death. Ugh,
+
+Also, the story is nothing special, but it was quite a nice touch.",1527468512,1527468512,True,1,1,0.443428695201873779,0,False,False,False,False,,,
+42319171,"{'steamid': '76561198453568563', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1527447777}",schinese,sha ye bu shi,1527447795,1527447795,True,0,0,0,0,False,False,False,False,,,
+42314648,"{'steamid': '76561198020213340', 'num_games_owned': 1522, 'num_reviews': 131, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1527437183}",english,"Ctrl CV is a rather simple platformer.
+The twist of the game is that there's a bunch of clones of your character running around on the screen, making it harder for you to find yourself or time your jumps.
+The game is about 30~60 minutes long and free to play. I had fun with it.",1527437324,1527437324,True,16,1,0.683749616146087646,0,False,False,False,False,,,
+42313980,"{'steamid': '76561198271247842', 'num_games_owned': 164, 'num_reviews': 11, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1527435599}",english,"A Nice short game and it's fun
+
+worth 17 mb download",1527435749,1527435749,True,0,1,0,0,False,False,False,False,,,
+42312750,"{'steamid': '76561198269435755', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1527700062}",french,"[EN]
+Amazing for a little independant free-to-play game !! I loved this game, it was really hard and I finished it in ~2-3h , I raged a lot on the last level but it's really cool and hard, I will recommend it to my friends ! 
+
+[FR]
+Excellent pour un petit jeu indépendant free-to-play !! J'ai vraiment adoré ce jeu, il était vraiment difficile, la preuve je l'ai fini en 2-3h , j'ai vraiment ragé sur le dernier niveau mais il était vraiment cool et difficile, je recommenderai ce jeu à mes amis !!",1527433011,1527433011,True,2,0,0.540636062622070313,0,False,False,False,False,,,
+42307930,"{'steamid': '76561198065293647', 'num_games_owned': 619, 'num_reviews': 22, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1527421639}",english,Level design is weird sometimes but the game is pretty original and funny,1527421682,1527421682,True,0,1,0,0,False,False,False,False,,,
+42307413,"{'steamid': '76561198327022514', 'num_games_owned': 304, 'num_reviews': 22, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527420337}",english,very fun unique game. worth the 17mb download.,1527420369,1527420369,True,0,1,0,0,False,False,False,False,,,
+42306726,"{'steamid': '76561198315746158', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1527417269}",polish,Bardzo wciogajoca gra po ukonczeniu mozesz byc dumny z swojej osoby :D,1527418551,1527418551,True,0,1,0,0,False,False,False,False,,,
+42305329,"{'steamid': '76561198046580940', 'num_games_owned': 406, 'num_reviews': 23, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1527414773}",schinese,"不要尝试
+前期非常简单 后期故意闪屏
+眼睛不适",1527414893,1527414893,False,2,0,0.524993479251861572,0,False,False,False,False,,,
+42303859,"{'steamid': '76561198260136531', 'num_games_owned': 105, 'num_reviews': 6, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1527485071}",schinese,看见红按钮就想踩患者死了,1527410773,1527410773,True,0,1,0,0,False,False,False,False,,,
+42303143,"{'steamid': '76561198046193538', 'num_games_owned': 701, 'num_reviews': 248, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1527408537}",english,"The problem with [url=http://tvtropes.org/pmwiki/pmwiki.php/Main/FakeDifficulty]fake-difficulty[/url] games is that they aren't enjoyable to play; this game is no exception. All the difficulty in this game doesn't come from the precision platforming, but rather all the interface-screws that come with it. The clones are fine, but the later level's constant whiteouts/blackouts that completely remove your vision for brief moments, as well as turrets that fire projectiles at you periodically in cramped spaces that require you to go near said turrets to minimize/nullify any chance of being able to evade their projectiles that you often can't see because of the aforementioned blackouts is just not fun. The only redeeming quality about this b-game is that it's free.",1527408658,1527408862,False,26,2,0.593221306800842285,4,False,False,False,False,,,
+42298744,"{'steamid': '76561198272294774', 'num_games_owned': 301, 'num_reviews': 92, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1527393994}",english,"Feels like a cheap Flash game on Newgrounds. Controls are iffy, music is repetitive and boring, it's too easy, it's not in 16:9 aspect ratio (more of a pet peeve than anything), there's no pause, and it's just boring and repetitive all around. Steam deserves better than this!
+
+Also, don't pay $1 for this. Just don't.",1527394112,1527453406,False,5,0,0.368516087532043457,1,False,False,False,False,,,
+42290899,"{'steamid': '76561198167709099', 'num_games_owned': 8, 'num_reviews': 1, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1527366571}",english,"Good game, some levels are harder than others. Haven't completed it yet. But it's fun!",1527367313,1527367313,True,1,1,0.523809552192687988,0,False,False,False,False,,,
+42290041,"{'steamid': '76561198083711378', 'num_games_owned': 452, 'num_reviews': 123, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1527364910}",english,"It's a weird game. It's not the other people who confuse me it's the control of the game that makes it hard for me.
+
+https://youtu.be/eRQY0l7kuMI",1527364922,1527364922,True,0,0,0,0,False,False,False,False,,,
+42282669,"{'steamid': '76561198341139066', 'num_games_owned': 18, 'num_reviews': 3, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 124, 'last_played': 1526808647}",schinese,很好玩，就是关卡太少了，普通和困难模式不一会儿就通关了,1527347964,1527347964,True,0,0,0,0,False,False,False,False,,,
+42280994,"{'steamid': '76561198068000257', 'num_games_owned': 143, 'num_reviews': 24, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1529059296}",english,XD,1527344400,1527344400,True,0,0,0,0,False,False,False,False,,,
+42279639,"{'steamid': '76561198109665065', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1527341592}",koreana,"2011년에했으면재밌었을듯
+지금은아님",1527341621,1527341621,False,1,0,0.493128538131713867,0,False,False,False,False,,,
+42276986,"{'steamid': '76561198284211291', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1527335505}",russian,неплохо,1527335553,1527335553,True,1,0,0,0,False,False,False,False,,,
+42275749,"{'steamid': '76561198078742079', 'num_games_owned': 117, 'num_reviews': 2, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1527332448}",russian,Это шедевр! рекомендую для получения стим ачивки...,1527332449,1527332449,True,1,0,0,0,False,False,False,False,,,
+42275489,"{'steamid': '76561198138249706', 'num_games_owned': 139, 'num_reviews': 4, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527331877}",english,anooyng sound,1527331878,1527331878,True,0,0,0,0,False,False,False,False,,,
+42275064,"{'steamid': '76561198316118719', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 73, 'playtime_last_two_weeks': 0, 'playtime_at_review': 73, 'last_played': 1527330808}",schinese,这游戏好玩，完全找不到自己是谁！,1527330853,1527330853,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+42275008,"{'steamid': '76561198073922833', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1527330606}",koreana,"게이머들의 기초스킬, 동체시력을 강화시켜주는 에임히어로와 같은 급의 게임",1527330713,1527330713,True,0,0,0.490196079015731812,0,False,False,False,False,,,
+42266311,"{'steamid': '76561198192946267', 'num_games_owned': 27, 'num_reviews': 9, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1527306763}",koreana,게임플레이가 별로 좋지 않습니다. 좋지 못한 조작감으로 수준급의 컨트롤 플레이를 요구합니다.,1527306931,1527306931,False,0,0,0.490196079015731812,0,False,False,False,False,,,
+42263730,"{'steamid': '76561198811936681', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1527300732}",schinese,很魔性，休闲娱乐。,1527299079,1527299079,True,3,1,0.519999980926513672,0,False,False,False,False,,,
+42263035,"{'steamid': '76561198837922730', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1577500474}",schinese,有点鬼畜，但还是挺有意思的，值得推荐,1527296905,1527296905,True,0,0,0,0,False,False,False,False,,,
+42261823,"{'steamid': '76561198837622569', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1527292732}",english,Great concept! Kind like playing in the middle of a Super Meatboy replay.,1527292761,1527292761,True,0,1,0,0,False,False,False,False,,,
+42250037,"{'steamid': '76561198349391056', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1527447222}",german,good game.,1527264809,1527264809,True,0,0,0,0,False,False,False,False,,,
+42243076,"{'steamid': '76561198150037180', 'num_games_owned': 440, 'num_reviews': 8, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1527252567}",schinese,有点鬼畜，可以推荐下,1527252574,1527252574,True,0,0,0,0,False,False,False,False,,,
+42242760,"{'steamid': '76561197968034560', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1527252012}",tchinese,相當有創意的遊戲 XD,1527251975,1527251975,True,0,0,0.419797748327255249,0,False,False,False,False,,,
+42240051,"{'steamid': '76561198447786746', 'num_games_owned': 14, 'num_reviews': 1, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1529901067}",schinese,很不错,1527246174,1527246174,True,0,0,0,0,False,False,False,False,,,
+42233737,"{'steamid': '76561198013342183', 'num_games_owned': 190, 'num_reviews': 5, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1527315246}",schinese,好好好,1527228821,1527228821,True,0,0,0,0,False,False,False,False,,,
+42229308,"{'steamid': '76561198236181238', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1527350610}",english,"Pretty easy when you realize that the AI always moves, so you can just stand still and find yourself",1527215999,1527216009,True,0,0,0,0,False,False,False,False,,,
+42214622,"{'steamid': '76561198236386616', 'num_games_owned': 59, 'num_reviews': 8, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1527776548}",schinese,眼睛快瞎了，比较变态的设计,1527179892,1527179892,True,1,0,0.476190477609634399,0,False,False,False,False,,,
+42202074,"{'steamid': '76561198096022762', 'num_games_owned': 826, 'num_reviews': 32, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527119707}",brazilian,Gostei achei bem divertido pra passar o tempo,1527119926,1527119926,True,0,0,0,0,False,False,False,False,,,
+42198255,"{'steamid': '76561198118089108', 'num_games_owned': 37, 'num_reviews': 43, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527099578}",english,perfect for trust factor boosting 10/10,1527100172,1527100172,True,6,5,0.566434741020202637,0,False,False,False,False,,,
+42195209,"{'steamid': '76561198815252818', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1527087842}",schinese,眼睛给晃晕了~~~~·,1527087920,1527087920,True,0,0,0,0,False,False,False,False,,,
+42194759,"{'steamid': '76561198296328941', 'num_games_owned': 559, 'num_reviews': 43, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1527143548}",schinese,眼睛已瞎,1527086317,1527086317,True,1,0,0,0,False,False,False,False,,,
+42190544,"{'steamid': '76561198008059406', 'num_games_owned': 4581, 'num_reviews': 426, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1527064177}",koreana,"플래이어랑 똑같은 케릭이 다수 등장해 조작에 장애를 주는 플랫포머 게임이다
+게임 설명에 숨은그림찾기+플랫포머라고 되어있는게 그게 맞는말인듯 ㅎㅎ
+
+컨셉은 좋았으나 그 이외 모든 요소들이 약간 부족한 면이 있움
+그래도 무료라서 추천드림",1527065445,1527065445,True,2,0,0.519780516624450684,0,False,False,False,False,,,
+42179265,"{'steamid': '76561198002455061', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1527002737}",english,"Very fun, moderately challenging. Everything in the game is designed to add difficulty to placing and timing your jumps, and combining the elements in the most inopportune moments is uniquely frustrating.",1527003337,1527003337,True,0,0,0,0,False,False,False,False,,,
+42178857,"{'steamid': '76561198255761244', 'num_games_owned': 6, 'num_reviews': 6, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1527001964}",english,was worth the 17mb internet and 5 min afk,1527001880,1527001880,True,12,13,0.585798323154449463,0,False,False,False,False,,,
+42177922,"{'steamid': '76561198096796142', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1527071851}",schinese,丧心病狂,1526998192,1526998192,True,1,0,0.476190477609634399,0,False,False,False,False,,,
+42174572,"{'steamid': '76561198116401805', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 175, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1658764908}",koreana,와 지존핑크님! 한국분이셨군요! 이게임 플레이하다 머리깨질뻔했습니다!,1526983510,1526983510,True,1,0,0.504132211208343506,0,False,False,False,False,,,
+42171682,"{'steamid': '76561198035301703', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 136, 'playtime_last_two_weeks': 0, 'playtime_at_review': 136, 'last_played': 1526965472}",english,"Fun, except for the last few levels, which were obviously not tested due to their obscene difficulty. The cannons are too unpredictable, firing every 5000ms with no visual cues. On top of that, there's a puzzle to solve while dodging missiles, with no way to pause. (The ""tower"" is the last level.)
+
+The gimmick of the 'clones' is interesting but does not add much to the game past the first few levels.
+
+Prepare to be trolled by walking off the ledge immediately after beating a level because you're still holding the arrow key.
+
+It's worth it if you like platformers and have a few hours to kill. Overall it's good but has some level design flaws.",1526965460,1526965460,True,0,0,0,0,False,False,False,False,,,
+42171358,"{'steamid': '76561198347231215', 'num_games_owned': 36, 'num_reviews': 1, 'playtime_forever': 349, 'playtime_last_two_weeks': 0, 'playtime_at_review': 346, 'last_played': 1666962699}",schinese,当你认不清自己的时候，不妨停下脚步看看你所处的境界再考虑下一步的行动。亦或游戏亦或人生。,1526963387,1526963387,True,46,2,0.810971081256866455,0,False,False,False,False,,,
+42157996,"{'steamid': '76561198447924346', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1526902488}",koreana,딴건 모르겠고 눈뽕심함 정도껏 깜빡여야지,1526902561,1526902561,False,0,0,0.490196079015731812,0,False,False,False,False,,,
+42157443,"{'steamid': '76561198295437536', 'num_games_owned': 59, 'num_reviews': 6, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1557327588}",schinese,好玩！裂墙推荐！减压利器！！！,1526900055,1526900055,True,3,2,0.519999980926513672,0,False,False,False,False,,,
+42156021,"{'steamid': '76561198836910224', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1527341095}",schinese,已疯 哈哈哈,1526892664,1526892664,True,4,1,0.519999980926513672,0,False,False,False,False,,,
+42153992,"{'steamid': '76561198203961431', 'num_games_owned': 192, 'num_reviews': 1356, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1526879012}",russian,"Минус монитор.
+Для ебаных хардкорщиков.",1526879058,1526879058,True,3,0,0.409543454647064209,0,False,False,False,False,,,
+42150855,"{'steamid': '76561198094718459', 'num_games_owned': 134, 'num_reviews': 20, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1526862218}",brazilian,"Proposta interessante,mas nada demais,vale a pena jogar para passar o tempo.",1526859856,1526859856,True,1,0,0,0,False,False,False,False,,,
+42149695,"{'steamid': '76561198064682421', 'num_games_owned': 118, 'num_reviews': 10, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1527185521}",english,"Nice game!Its really fun to play,keep up whit the good work!!!",1526854503,1526854503,True,2,0,0.525862038135528564,0,False,False,False,False,,,
+42141903,"{'steamid': '76561198075082358', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1526825078}",tchinese,"玩完普通難度感受到各種畫面閃爍的惡意
+對眼睛造成疲勞",1526825240,1526825240,False,0,0,0.419797748327255249,0,False,False,False,False,,,
+42130349,"{'steamid': '76561198421967007', 'num_games_owned': 95, 'num_reviews': 29, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1527360595}",english,"what is this broken knuckles ripoff i cannot move left: nothing happens when I press A. I cannot move right (press D) or I die, and all I can do is die or jump
+
+Edit: if you do not know what Broken Knuckles is: it's by ""Razer and Xenon"" https://www.youtube.com/watch?v=5xcaGkyeZRA",1526774297,1526774928,False,0,1,0.335297703742980957,7,False,False,False,False,,,
+42126705,"{'steamid': '76561198826824389', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1526758066}",english,Great idea,1526758702,1526758702,True,1,0,0,0,False,False,False,False,,,
+42125434,"{'steamid': '76561198305095049', 'num_games_owned': 31, 'num_reviews': 5, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1526754020}",english,"I DONT LIKE IT
+Its ok
+",1526754077,1526754077,False,1,4,0.3476371169090271,1,False,False,False,False,,,
+42124947,"{'steamid': '76561198045381877', 'num_games_owned': 557, 'num_reviews': 2587, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1526751667}",english,"Ctrl CV, I have never seen clones work quite like this before. often hindering you more than helping you. I found this to be a fairly neat indie game, with a twist on copying yourself. I don't have a whole lot to say about the game, but its decent enough that I would recommend you try it if you are already thinking about it.",1526752413,1526752413,True,2,0,0.451035141944885254,0,False,False,False,False,,,
+42118174,"{'steamid': '76561198316025030', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1679466090}",schinese,游戏很丧心病狂了hhhh 突然迷失自我,1526729525,1526729525,True,3,0,0.519999980926513672,0,False,False,False,False,,,
+42115351,"{'steamid': '76561198011500024', 'num_games_owned': 67, 'num_reviews': 8, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1526718681}",koreana,우와아 똥겜같은 안해 ㅅㅂ,1526718857,1526718857,False,0,2,0.465116292238235474,0,False,False,False,False,,,
+42113847,"{'steamid': '76561198069095027', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1526878801}",koreana,어린시절 친구들이랑 모여앉아서 했던 추억이 생각나는 게임. 근데 커서 공장스테이지 다시 플레이해보니 추억 파괴됨. 클론들 속 나를 찾는거나 퍼즐 자체는 어렵지 않지만 그냥 컨트롤이 어렵다.,1526712653,1526715862,True,6,0,0.552073061466217041,0,False,False,False,False,,,
+42112291,"{'steamid': '76561198033692372', 'num_games_owned': 3126, 'num_reviews': 11, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1526705431}",english,"This game has pretty interesting premise and is a lot better than I expected. I liked it, but it could use a few things. First thing is that game lacks volume adjustment. Or maybe it has one, but I couldn't find it. And main menu music is really loud. Other than that I think it's worth to play it. I didn't finish it, because I don't have enough patience, so it's hard to tell how long it is. If you are bored with all those AAA games with complex plot, try this game!",1526705680,1526705680,True,2,0,0.469798654317855835,0,False,False,False,False,,,
+42106973,"{'steamid': '76561198138574073', 'num_games_owned': 376, 'num_reviews': 26, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1526678175}",english,"This was alot of fun very uniqe i would love to see more of this
+like a semi multiplayer were instead of AI as the copys its other players (their movements stored on a server to be used in a singleplayer game)",1526678301,1526678301,True,2,0,0,0,False,False,False,False,,,
+42105046,"{'steamid': '76561198061572946', 'num_games_owned': 92, 'num_reviews': 13, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1526670580}",english,"This game is fun it,s a mind trick game you get lost trying see where you are in the game.
+when runing about 8/10",1526670237,1526670371,True,2,0,0.442105263471603394,0,False,True,False,False,,,
+42099027,"{'steamid': '76561198834055921', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1526648606}",schinese,谁开发的游戏，简直丧心病狂,1526648611,1526648611,True,10,4,0.584226429462432861,0,False,False,False,False,,,
+42098691,"{'steamid': '76561198070735098', 'num_games_owned': 65, 'num_reviews': 37, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1526646552}",german,"The gameplay approaches an idea that had not been executed in such a way before. Definitely worth a try, especially if You are into eye-riddle experiences. 
+
+https://www.youtube.com/watch?v=A3sPXAdPwdo <-- A first look / Gameplay video. 
+
+Thank you.",1526647222,1526647222,True,4,0,0.545454561710357666,0,False,False,False,False,,,

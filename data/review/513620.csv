@@ -1,0 +1,759 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+159688937,"{'steamid': '76561197961116002', 'num_games_owned': 25, 'num_reviews': 4, 'playtime_forever': 162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 162, 'last_played': 1709367616}",schinese,"游戏不好玩，但是如果你不在意库存多个游戏的话，推荐购买。
+游戏价格不高甚至算的上是喜加一，如果你通过卡牌可能还有的赚。",1709388844,1709388844,True,0,0,0,0,False,False,False,True,,,
+158678412,"{'steamid': '76561199217159491', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1708302314}",brazilian,horroroso,1708302351,1708302351,False,0,0,0,0,False,False,False,True,,,
+157863015,"{'steamid': '76561198844282465', 'num_games_owned': 1575, 'num_reviews': 4684, 'playtime_forever': 168, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1692886649}",russian,☀️,1707409981,1707409981,True,0,0,0,0,True,False,False,True,,,
+156194893,"{'steamid': '76561198074085825', 'num_games_owned': 4493, 'num_reviews': 175, 'playtime_forever': 2581, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2581, 'last_played': 1594596166}",english,This game was a waste of my time and I wish I would’ve read a book instead.,1705528028,1705528028,False,0,0,0.476190477609634399,0,False,True,False,True,,,
+155353861,"{'steamid': '76561198024246936', 'num_games_owned': 5024, 'num_reviews': 194, 'playtime_forever': 73, 'playtime_last_two_weeks': 0, 'playtime_at_review': 73, 'last_played': 1704503173}",english,"I have no idea where I got SkyTime, but I'm going to find out who's responsible for its presence in my library, and I'm going to make them pay. An amateurish platform puzzler with godawful controls. It looks  bad, it plays bad, and the sound effects consist of little more than incessant grunting reminiscent of a gay orgy. The gimmicky mechanics are both ineffective and nonsensical. You want nothing to do with this. It's as bad as it looks.",1704506475,1704506475,False,3,1,0.474189549684524536,0,False,False,False,True,,,
+153368457,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1679610477}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702294497,1702294497,True,0,0,0,0,True,False,False,True,,,
+152087551,"{'steamid': '76561198418912899', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1527187777}",english,"This game is fun, but like, only for the first hour or two. It's kinda short and has not too much different stuff.",1701021483,1701021483,False,0,0,0,0,False,False,False,True,,,
+151719620,"{'steamid': '76561197999256754', 'num_games_owned': 937, 'num_reviews': 14, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1700875774}",english,I had fun :),1700875791,1700875791,True,2,0,0.547325074672698975,0,True,False,False,True,,,
+142801799,"{'steamid': '76561198970583885', 'num_games_owned': 46, 'num_reviews': 12, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1688927859}",russian,Кайф игра,1690329218,1690329218,True,0,0,0,0,False,True,False,True,,,
+141449602,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 243, 'playtime_last_two_weeks': 0, 'playtime_at_review': 243, 'last_played': 1485549635}",russian,нет,1688651875,1688651875,False,0,0,0,0,False,False,False,True,,,
+140848912,"{'steamid': '76561198162196404', 'num_games_owned': 133, 'num_reviews': 13, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1576878442}",russian,"Прыгаешь, летишь, падаешь, злишься",1687960865,1687960865,True,0,0,0,0,True,False,False,True,,,
+140515632,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1687463979}",spanish,"▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐
+▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐█████████▐▐▐▐▐▐▐▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐▐▐▐▐█████████████████▐▐▐▐▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐▐███████▐▐▐▐▐▐█████████▐▐▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐█████▐▐▐▐▐▐▐▐▐▐▐▐▐▐█████▐▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐█████▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐████▐▐▐▐▐▐ 
+▐▐▐▐▐▐████▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐▐▐▐▐ 
+▐▐▐▐▐████▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐▐▐▐ 
+▐▐▐▐████▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐▐▐ 
+▐▐▐▐███▐▐▐▐▐▐▐████▐▐▐▐▐▐▐▐██▐▐▐▐▐▐▐██▐▐▐ 
+▐▐▐███▐▐▐▐▐▐▐▐████▐▐▐▐▐▐▐████▐▐▐▐▐▐███▐▐ 
+▐▐▐███▐▐▐▐▐▐▐▐████▐▐▐▐▐▐▐████▐▐▐▐▐▐▐██▐▐ 
+▐▐███▐▐▐▐▐▐▐▐▐▐██▐▐▐▐▐▐▐▐███▐▐▐▐▐▐▐▐███▐ 
+▐▐███▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐ 
+▐▐███▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐ 
+▐▐███▐▐▐▐▐██▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐ 
+▐▐███▐▐▐▐▐██▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐███▐ 
+▐▐███▐▐▐▐▐▐██▐▐▐▐▐▐▐▐▐▐▐▐▐▐██▐▐▐▐▐▐▐███▐ 
+▐▐████▐▐▐▐▐▐███▐▐▐▐▐▐▐▐▐▐▐██▐▐▐▐▐▐▐▐███▐ 
+▐▐▐███▐▐▐▐▐▐▐█████▐▐▐▐▐████▐▐▐▐▐▐▐▐███▐▐ 
+▐▐▐▐███▐▐▐▐▐▐▐▐▐█████████▐▐▐▐▐▐▐▐▐▐███▐▐ 
+▐▐▐▐█████▐▐▐▐▐▐▐▐██▐▐██▐▐█▐▐▐▐▐▐▐▐███▐▐▐ 
+▐▐▐▐▐▐████▐▐▐▐▐▐▐██▐▐▐██▐██▐▐▐▐▐▐███▐▐▐▐ 
+▐▐▐▐▐▐▐█████▐▐▐▐▐▐███▐▐▐▐██▐▐▐▐▐████▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐██████▐▐▐▐▐██████▐▐▐▐████▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐▐▐███████▐▐▐▐▐▐▐▐▐▐█████▐▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐▐▐▐▐██████████████████▐▐▐▐▐▐▐▐▐ 
+▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐█████████▐▐▐▐▐▐▐▐▐▐▐▐▐
+▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐▐
+",1687464291,1687464291,True,0,0,0,0,True,False,False,True,,,
+138140058,"{'steamid': '76561198078403549', 'num_games_owned': 0, 'num_reviews': 581, 'playtime_forever': 169, 'playtime_last_two_weeks': 0, 'playtime_at_review': 169, 'last_played': 1683816935}",english,"This game suffer from lack of polish and some technical issue (for reference i use native SteamOS/Linux version). Here's non-complete list,
+- Bad voice acting. I'm not even sure whether it's just bad text-to-speech or it was recorded with poor mic.
+- You can get stuck on wall or edge of certain object.
+- When i choose 2560x1440 resolution on windowed mode, game only show very small window/GUI. And when i switch to fullscreen mode, the game shows extreme flickering. I doubt it's my system since it doesn't happen to other game i played recently.
+- Button ""To Menu"" and ""Quit To Desktop"" doesn't work at all.
+- When you pause the game with ""Esc"" button, game time is still running.
+- Clunky control, which makes quest such as ""Escort the vehicle"" become really tedious.
+
+I feel SkyTime is one ambiguous project, but the developer lack skill, experience and funding to achieve their goal. And i don't expect those problem will be fixed (since i write this review 7 years after this game released), so just skip this game and look for different game.",1683817041,1683817041,False,1,0,0.525139689445495605,0,False,False,False,True,,,
+136962093,"{'steamid': '76561198194680793', 'num_games_owned': 3045, 'num_reviews': 1947, 'playtime_forever': 687, 'playtime_last_two_weeks': 0, 'playtime_at_review': 687, 'last_played': 1681918559}",russian,"Неплохой платформер от первого лица, где вы бежите и прыгаете по объектам в футуристическом будущем, применяя эффект замедления времени, для преодоления протяжённых участков. Игра может показаться адово хардкорной. Но это ровно до той поры, пока вы не свыкнитесь с управлением, и не изучите наизусть каждый уровень, которых десять штук. Да, немного, но вам и их с лихвой хватит, так как бегать вам предстоит не только по крышам домов, но и по потокам летящего транспорта, трафик которого движется в обе стороны. На каждом уровне находятся турели, которые не просто могут расстрелять вас, но и уничтожить ракетами летящий транспорт, на котором вы стоите. Для того, чтобы разобраться с пакостниками у вас имеется газовый ключ, несущий функцию смертоносного бумеранга. Но радиус его полёта не так далёк как хотелось бы. Нужно это учитывать, когда пытаетесь уничтожить турель.
+В общем, для своей символической цены, это годный продукт, с симпатичным и ярким визуалом, бодрой музыкой и увлекательным геймплеем. Однако, если вы привыкли быстро пробегать такие инди-проекты, то эту игру я порекомендовать не могу. Прежде чем вы в ней освоитесь, вас ждёт сотня смертей. А если ещё и все достижения захотите сделать, то провести за ней вам предстоит не один час. 
+Скажу так, любите сложности, милости просим. Если рассчитывали на лёгкую прогулку, лучше пройдите мимо.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2964456584",1681918770,1681918880,True,31,2,0.651791393756866455,2,True,False,False,True,,,
+135917075,"{'steamid': '76561198346499850', 'num_games_owned': 3284, 'num_reviews': 364, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1671640833}",turkish,"Bu oyun tam bir kart kasma oyunudur!
+
+Ülkemiz şartlarında oyuna artık para yatırmak lüks sayılıyor.
+
+bu yüzden oyuncular sanal ticaretlere atıldı.Bunlardan biride steam üzerinde kart kasarak paranızı katlamak, ve ben incelemelerimde tamda buna göre olan oyunları bulunduruyorum eğer paranızı 2 veya 3 katına çıkartıp oyun sayınızın artmasını istiyorsanız profilimi ve öbür incelemelerimi takip edebilirsiniz
+
+
+
+Profilimden öbür incelemelerimede göz atabilirsiniz,
+incelememin üstlerde kalması için geri bildirim yapmayı unutmayınız",1680392101,1680392101,True,0,0,0,0,True,False,False,True,,,
+134788932,"{'steamid': '76561198995387103', 'num_games_owned': 6510, 'num_reviews': 3379, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1677013973}",schinese,chinese can u do it? 更新中文可好？米中文先差评。202211上，t a o宝，本平台，本平台充值折扣掉卡，indie gala，fanatical，humble，它处自定义包入的本体约2元。兄弟萌，强烈建议不要第三方平台的小店买y u额，通过饰品等挂steam市场转的，高概率red信乃至封号，且行且珍惜。爱人如己，目前就这，看以后追评。,1679021594,1679021594,False,1,0,0.520295202732086182,0,False,False,False,True,,,
+132803759,"{'steamid': '76561199375884067', 'num_games_owned': 166, 'num_reviews': 78, 'playtime_forever': 242, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1679756306}",turkish,kanser,1676333471,1676333471,False,0,0,0,0,True,False,False,True,,,
+130836652,"{'steamid': '76561198378747026', 'num_games_owned': 92, 'num_reviews': 123, 'playtime_forever': 1032, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1028, 'last_played': 1679758745}",english,‎,1673711140,1673711140,True,0,0,0,0,False,False,False,True,,,
+129033760,"{'steamid': '76561199205976807', 'num_games_owned': 1167, 'num_reviews': 39, 'playtime_forever': 581, 'playtime_last_two_weeks': 0, 'playtime_at_review': 581, 'last_played': 1671727819}",turkish,eğlenceli,1671727831,1671727831,True,0,0,0,0,True,False,False,True,,,
+128890402,"{'steamid': '76561198137985934', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 3672, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2830, 'last_played': 1702338150}",english,I got lotion on my dick I'm strokin' my shit rn,1671510394,1671510394,True,1,0,0.520201981067657471,0,True,False,False,True,,,
+125036323,"{'steamid': '76561198241470358', 'num_games_owned': 847, 'num_reviews': 100, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 297, 'last_played': 1667655250}",turkish,"Ülkemiz şartlarında oyuna artık para yatırmak lüks sayılıyor. bu yüzden oyuncular sanal ticaretlere atıldı.Bunlardan biride steam üzerinde kart kasarak paranızı katlamak, ve ben incelemelerimde tamda buna göre olan oyunları bulunduruyorum eğer paranızı 2 veya 3 katına çıkartıp oyun sayınızın artmasını istiyorsanız profilimi ve öbür incelemelerimi takip edebilirsiniz
+
+Bu oyun tam bir kart kasma oyunudur!
+Profilimden öbür incelemelerimede göz atabilirsiniz,
+incelememin üstlerde kalması için geri bildirim yapmayı unutmayınız.",1667724916,1667724916,True,0,0,0,0,True,False,False,True,,,
+121901415,"{'steamid': '76561198268993462', 'num_games_owned': 2434, 'num_reviews': 1076, 'playtime_forever': 81, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1589495607}",english,ASD,1662588799,1662588799,True,0,0,0.47413790225982666,0,True,False,False,True,,,
+120906779,"{'steamid': '76561199152345574', 'num_games_owned': 366, 'num_reviews': 8, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 227, 'last_played': 1660945246}",turkish,gödden,1660945087,1660945087,True,0,0,0,0,True,False,False,False,,,
+117235881,"{'steamid': '76561198359335578', 'num_games_owned': 0, 'num_reviews': 399, 'playtime_forever': 213, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1655643449}",turkish,İndirimdeyken alıp kartları satarak kâr edebilirsiniz. İncelemelerimde kâr ettiren daha fazla oyun mevcut bakabilirsiniz.,1655643414,1655643414,False,0,0,0,0,True,False,False,False,,,
+117103237,"{'steamid': '76561199006948123', 'num_games_owned': 1442, 'num_reviews': 205, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1688239251}",spanish,"pinche juego para raro, metete una buena soplada y a saltar",1655430516,1655430516,True,0,0,0,0,True,False,False,False,,,
+115741634,"{'steamid': '76561198963788044', 'num_games_owned': 0, 'num_reviews': 692, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1693266462}",german,funny minigame,1653064202,1653064202,True,0,0,0,0,True,False,False,False,,,
+115088509,"{'steamid': '76561199044883562', 'num_games_owned': 140, 'num_reviews': 5, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1651924434}",turkish,Bu oyun bok gibi bazı level lerde araba patlama efekti çok kötü neden mi patlama efekti yüzünden hiçbir şey göremiyorsunuz ve arbalar da çok bug var arabanın yana gelinci karakter sıçrıyor bide arabanın önüne gelince karakter sıkışıp aşağı düşüyor çok buglu bir oyun.Bu oyunu alma,1651924045,1651924045,False,0,0,0,0,True,False,False,False,,,
+113278639,"{'steamid': '76561198816518410', 'num_games_owned': 579, 'num_reviews': 448, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1632788211}",english,"The concept is great, the execution is terrible.",1648992797,1648992797,False,0,0,0,0,True,False,False,False,,,
+111356587,"{'steamid': '76561198011305194', 'num_games_owned': 282, 'num_reviews': 20, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1646198860}",english,Probably one of the worst games i ever played. the only reason i keep playing is because it has achievements and brings my total completion rate up... i do not recommend this garbage on anyone.,1646198963,1646198963,False,0,0,0,0,True,False,False,False,,,
+108786843,"{'steamid': '76561199227258706', 'num_games_owned': 1483, 'num_reviews': 666, 'playtime_forever': 254, 'playtime_last_two_weeks': 0, 'playtime_at_review': 254, 'last_played': 1641319799}",turkish,"kart düşürmelik oyun
+",1643156316,1643156316,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+107796660,"{'steamid': '76561199083820095', 'num_games_owned': 50, 'num_reviews': 12, 'playtime_forever': 1117, 'playtime_last_two_weeks': 0, 'playtime_at_review': 748, 'last_played': 1688170363}",english,fun,1641913520,1641913520,True,0,0,0,0,False,False,False,False,,,
+106963431,"{'steamid': '76561199158292051', 'num_games_owned': 2792, 'num_reviews': 1619, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 236, 'last_played': 1627957711}",schinese,+1,1640932068,1640932068,True,0,0,0,0,True,False,False,False,,,
+106848298,"{'steamid': '76561198145117633', 'num_games_owned': 209, 'num_reviews': 7, 'playtime_forever': 119, 'playtime_last_two_weeks': 0, 'playtime_at_review': 119, 'last_played': 1640806627}",brazilian,"I just finished the game and I'll list some of the problems I had:
+- cars will just spit you out sometimes or you'll bug into them and won't be able to get out
+- bad voice acting
+- please change the soundtrack
+- incredibly short (if you take the bugs out it would probably take me way less time, some of the levels you'll pass in 2 minutes and there are only 8 levels... most of the time spent was retrying some levels- I mean... retrying A LOT... some of it looks intentional because you need to think a little on some levels but the game needs to work properly to not demotivate you on keep trying)
+
+Anyway... something made me keep playing it so I'll give it a positive review, this game could be a lot better if someone got back to working on it, it has some good ideias.
+",1640807571,1640807571,True,0,0,0,0,False,False,False,False,,,
+106429415,"{'steamid': '76561198277421774', 'num_games_owned': 35, 'num_reviews': 4, 'playtime_forever': 895, 'playtime_last_two_weeks': 0, 'playtime_at_review': 834, 'last_played': 1688170740}",english,"wrench go fast , scb moment",1640358422,1640358422,True,0,0,0,0,False,False,False,False,,,
+106328735,"{'steamid': '76561199119981819', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1640230012}",polish,...,1640228769,1640228769,True,0,0,0,0,True,False,False,False,,,
+105051323,"{'steamid': '76561199217435987', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 199, 'last_played': 1650356362}",english,"Fun game, would reccommend!",1638422725,1638422725,True,0,0,0,0,True,False,False,False,,,
+105020015,"{'steamid': '76561199224575962', 'num_games_owned': 23, 'num_reviews': 13, 'playtime_forever': 197, 'playtime_last_two_weeks': 0, 'playtime_at_review': 197, 'last_played': 1638345428}",english,"Been playing, good game.",1638382009,1638382009,True,0,0,0,0,False,False,False,False,,,
+103062728,"{'steamid': '76561198072609146', 'num_games_owned': 566, 'num_reviews': 235, 'playtime_forever': 224, 'playtime_last_two_weeks': 0, 'playtime_at_review': 285, 'last_played': 1657254748}",spanish,"El otro dia sali a bailar bachata a pinar de rocha con una minusa. Muertos de tanto tirar pasos salimos tipo 4 am.
+Nos clavamos unos panchos en promo 2x1 super pancho papas pai aderezo y villa del sur levite naranja. A pleno, todo 150 pesos.
+Este juego esta 144. Fijate la diferencia.
+",1637336671,1637336671,True,3,0,0.56081080436706543,0,True,False,False,False,,,
+100728970,"{'steamid': '76561198796851430', 'num_games_owned': 927, 'num_reviews': 3719, 'playtime_forever': 6091, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6091, 'last_played': 1646390009}",schinese,"《SkyTime》最初以其新颖的时间操控机制和动人的故事情节吸引了广大玩家的目光，然而在我深度体验这款游戏后，不得不面对一个现实：尽管创意独特，但实际游玩过程中存在的种种问题使其未能完全兑现最初的承诺。
+
+首先游戏的核心机制——时间操控的设计初衷无疑是创新且有趣的，但在实际操作中却显得复杂而笨拙。时间回溯功能并未能流畅地融入游戏流程，反而经常造成混乱，尤其在关键节点的操作反馈不足，导致玩家无法精确掌握时间流逝的节奏，影响了整体游戏体验的连贯性和愉悦感。
+
+其次游戏的性能表现并不稳定。频繁出现的帧率波动和技术故障，包括但不限于卡顿、画面撕裂以及偶尔的崩溃情况，极大地破坏了沉浸式游戏氛围。即便是在推荐配置下运行，也无法保证游戏的顺畅进行，这对于一款主打视觉效果和时间操控精准度的游戏来说是致命的短板。
+
+在剧情方面故事设定充满温情，但由于叙事方式和角色塑造的薄弱，故事的情感深度并没有得到有效传达。对话与动画衔接生硬，人物性格刻画单一，导致玩家很难与游戏角色建立情感连接，进而削弱了拯救家人的主线任务的感染力和紧迫感。
+
+此外游戏关卡设计的重复性较高，解谜要素较少变化，玩家在推进游戏的过程中容易感到乏味。而且部分关卡难度陡增，缺少适当的教程指导，新手玩家可能会面临较大的入门门槛，而老玩家也可能因为缺乏逐步提升的挑战而早早失去继续探索的动力。
+
+总结起来，这是一款具有潜力但未能充分打磨的作品。虽然其独特的概念和艺术风格值得赞赏，但技术层面的问题、剧情叙述的乏力以及关卡设计的不足，最终让这款原本可以成为佳作的游戏止步于平庸。",1633702143,1711310772,False,0,0,0,0,True,False,False,False,,,
+100615378,"{'steamid': '76561198419007580', 'num_games_owned': 1093, 'num_reviews': 111, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1633519805}",schinese,"[h1]空中跑酷游戏[/h1]
+1.特色：右键减速技能
+不仅仅是降低体感时间，还能保持你的跳跃速度，能帮助你跳得更远
+中后期的几乎所有跳跃都需要用到，不然的话距离是够不到的
+2.左键，丢出手上的扳手（？）
+攻击地图里的枪塔，剩余数量在界面左上角
+3.非常大的bug，你过的关卡下一次在菜单里仍然显示锁着的
+每次进游戏都只能从第一关开始一关关来
+如果要通关的话就要一次性打到底
+4.路线设置不明显，尤其后面，根本就不知道该往哪里跳，只能自己看哪里的屋顶看上去够得到
+有些需要在一定时间内跳上去的飞船，如果过了又要重来
+5.难度算是还可以
+主要成就就是打完每关的所有炮塔和指定时间内完成关卡
+6.人物动作有些僵硬，不过以这个价位的游戏来说属于高配了",1633526108,1633526108,True,2,0,0.541666686534881592,0,False,False,False,False,,,
+94248951,"{'steamid': '76561198157958110', 'num_games_owned': 169, 'num_reviews': 20, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1481262066}",english,This game was a waste of my time and I wish I would’ve read a book instead.,1624503309,1624503309,False,3,0,0.531148850917816162,0,True,False,False,False,,,
+94191015,"{'steamid': '76561198394930510', 'num_games_owned': 846, 'num_reviews': 349, 'playtime_forever': 309, 'playtime_last_two_weeks': 0, 'playtime_at_review': 282, 'last_played': 1674992126}",turkish,Oyunn çok güzel speed run oyunu tam zor biraz ama eğlenceli baya ya mekanikleri güzel oyunun alabilirsiniz ama kısa sürebilir maks 15 saat diyem oda bölümlerden kaynaklı,1624403768,1624403768,True,0,0,0,0,True,False,False,False,,,
+91013677,"{'steamid': '76561198374343875', 'num_games_owned': 278, 'num_reviews': 21, 'playtime_forever': 278, 'playtime_last_two_weeks': 0, 'playtime_at_review': 163, 'last_played': 1636887010}",turkish,"Öncelikle, oyunu çok beğendim normalde 2 lira olmasına karşın indirim ile 1 lira 5 kuruşa aldığım efsane oyunlardan birtane.
+
+Oyunun konusu = biz uzaydayız ve uzay araçlarının üstünden atlayıp (kısaca parkur yaparak) bitiş çizgisine (yeşil yer) ukaşmaya çalışıyoruz. bu sırada karşımıza düşmanlar çıkıyor (robot) bize ateş ediyorlar biz bu sırada elimizdeki saat ile zamanı durdurabilir diğer elimizdeki silah (silah yok levye gibi birşey var) ile düşmana bunu atabiliriz.
+temel olarak böyle.
+
+oyunun iyi yönleri (+)
++ güzel vakit geçirebilirsiniz
++1 tl lik bir oyuna göre grafikleri de güzel
++ bir konusu var boş boş etrafta dolaşmıyoruz bazı oyunlarda olduğu gibi
++steam kartları var ve başarımları var
++ oyun kumandası desteği var
+
+oyunun kötü yönleri (-)
+- arada sırada anlık olarak çok fazla ping alabilirsiniz. acaba sorun bendenmi kaynaklı dedim hayır .d oyunun grafiklerini en düşüğe indirdim internetide marstan çekmiyor :D iyi bir internet hızı var ama bir bakıyorum ara sıra ping çıkıyor ama bunlar kısa süreli..
+
+
+oyuna puanım = 10/9",1619542925,1619542925,True,0,0,0.476190477609634399,0,True,False,False,False,,,
+90806990,"{'steamid': '76561198391430557', 'num_games_owned': 308, 'num_reviews': 48, 'playtime_forever': 224, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1619825665}",latam,"La verdad es que el juego es muy entretenido y casi no tiene bugs, lo único que le añadiera seria una animación para correr, nada mas 9.4/10",1619221595,1619221595,True,0,0,0,0,True,False,False,False,,,
+90713982,"{'steamid': '76561198989874805', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 286, 'playtime_last_two_weeks': 0, 'playtime_at_review': 286, 'last_played': 1619037465}",spanish,gg,1619069304,1619069304,True,0,2,0,0,True,False,False,False,,,
+90211293,"{'steamid': '76561198160049615', 'num_games_owned': 2616, 'num_reviews': 79, 'playtime_forever': 361, 'playtime_last_two_weeks': 0, 'playtime_at_review': 361, 'last_played': 1618263306}",russian,+,1618263498,1618263498,True,1,0,0.435483872890472412,0,False,False,False,False,,,
+89716781,"{'steamid': '76561198963311674', 'num_games_owned': 383, 'num_reviews': 14, 'playtime_forever': 6390, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1377, 'last_played': 1686762116}",english,YEP wrench,1617557163,1617557163,True,1,1,0.523809552192687988,0,False,False,False,False,,,
+89661623,"{'steamid': '76561198134398768', 'num_games_owned': 214, 'num_reviews': 121, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1617479280}",english,"A small, simplistic indie game with one nifty mechanic.
+
+[b] Pros [/b]- works well (seems obvious but not all indie games are)
+ - very cheap
+ - good set of achievements that aren't too easy or too hard. Also not tedious
+ - Decent soundtrack
+
+[b] Cons [/b]- short
+ - game is very easy if you simply don't bother destroying turrets
+ - easy to cheese
+
+Game isn't going to amaze you but for the price it's pretty cool",1617484812,1617484812,True,0,0,0,0,True,False,False,False,,,
+89000202,"{'steamid': '76561197960935498', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 18165, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18165, 'last_played': 1600692455}",russian,"Прикольно можно попрыгать по крышам, когда вообще нечего делать..
+ понравилась возможность замедления времени, ну и конечно же метательный разводной ключ. 
+
+Плюсы:
+1. Игра дешевая 
+2. Графика - пойдёт
+3. Геймплей вполне способен увлечь на некоторое время
+
+Минусы:
+1. Скучновато
+2. Звук и музыка кошмар 
+3. Нет русского
+
+Лучше поиграть во что то другое...
+
+5/10",1616590551,1616590585,True,85,0,0.906462609767913818,0,True,False,False,False,,,
+87818383,"{'steamid': '76561198101595541', 'num_games_owned': 2284, 'num_reviews': 155, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1614829747}",spanish,lindos cromianos,1614834739,1614834739,True,8,2,0.608369410037994385,0,True,False,False,False,,,
+86944424,"{'steamid': '76561198838258999', 'num_games_owned': 54, 'num_reviews': 21, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1617794663}",polish,fajna zatrzymujesz czas i latasz,1613644125,1613644125,True,0,1,0,0,False,False,False,False,,,
+83096528,"{'steamid': '76561198121350652', 'num_games_owned': 115, 'num_reviews': 51, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1561802407}",schinese,fly to sky,1608883495,1608883495,True,0,0,0,0,False,False,False,False,,,
+82778143,"{'steamid': '76561198028570547', 'num_games_owned': 0, 'num_reviews': 2563, 'playtime_forever': 723, 'playtime_last_two_weeks': 0, 'playtime_at_review': 693, 'last_played': 1608490598}",german,"""SkyTime"" ist ein First-Person Jump&Run Plattformer.
+
+Die Story macht nicht wirklich Sinn und hat mit dem Spiel selber auch nicht wirklich etwas zu tun. Wir sind Wissenschaftler bauen eine Zeitmaschine, um unsere verschwundene Familie wiederzufinden. Für den Bau der Zeitmaschine müssen wir aber eine Komponente aus einer Militäreinrichtung eines bösen Firma klauen und sind nun auf der Flucht. Oder so ähnlich. Außer der Formulierung ""auf der Flucht"" merkt man im gesamten Spiel nichts von der Geschichte. 
+
+Wir sind auf jeden Fall in einer futuristischen Stadt mit sehr hohen Wolkenkratzern und fliegenden Fahrzeugen. Alles findet in der Höhe statt, stürzen wir ab, verlieren wir. Ziel ist es nun, möglichst schnell vom Start zum Ziel zu gelangen ohne zu Sterben. 
+
+Das Spiel besteht aus nur wenigen, immer gleichen Assets. Alle Autos sehen gleich aus, von den Wolkenkratzern gibt es nur wenige unterschiedliche und Gegner gibt es nur eine Art: drehbare Turrets, die überall in der Welt angebracht sein können. Um letztere auszuschalten müssen wir unsere Rohrzange auf sie werfen, dadurch explodieren sie... warum auch immer. 
+
+Also rennen wir über Wolkenkratzer und sich bewegende Fahrzeuge und suchen Weg und Ausgang. Allerdings könnten wir einige Sprünge gar nicht schaffen, wenn wir nicht eine Spezialeigenschaft hätten, die uns deutlich weiter Gleiten läßt: wir können nämlich für kurze Zeit die Zeit verlangsamen. Dadurch können wir nicht nur deutlich weiter springen, sondern haben auch die Möglichkeit den Geschossen der Turrets auszuweichen. Die Fähigkeit zur Zeitverlangsamung lädt sich ziemlich zügig wieder auf.
+
+Somit spielt sich ""SkyTime"" zumindest theoretisch wie eine Art Hybrid aus ""Mirrors Edge"" und ""Superhot"". Allerdings wie eine ziemlich schwache Hybrid-Version. Denn die Steuerung ist recht träge und schwammig und das Leveldesign ist wenig durchdacht. Oftmals ist es ziemlich unklar, wo es gerade eigentlich weitergeht. Der Umfang ist sehr mager, es gibt nur zehn Level, die jeweils vielleicht 1-3 Minuten dauern. Die Unity-Grafik ist schwach und der Sound nach kurzer Zeit nervig. 
+
+Alles schlecht also? Naja, eigentlich sollte man einem solchen Titel keinen Daumen hoch geben, denn er wirkt mehr wie eine Demo oder ein frühes, noch unausgereiftes Konzept. Aber dieses Konzept ist gar nicht mal so schlecht. Die Kombination aus ""Superhot"" und Mirrors Edge"" würde in einem richtigen ausgereiften Spiel ziemlich gut funktionieren und reichlich Spaß machen. 
+
+Insofern gibts mehr für die Idee, nicht für die Ausführung und auch wegen des sehr geringen Preises gerade mal so einen Daumen nach oben. 
+
+[h1]Wertung:[/h1]
+6/10 Atmosphäre
+2/10 Story
+5/10 Grafik
+5/10 Sound
+6/10 Spielmechanik
+4/10 Balancing
+6/10 Spielspass
+
+[h1]Fazit:[/h1]
+Gutes Konzept, schwache Ausführung. 
+
+[h1][b]6/10 Gesamtwertung",1608490417,1608491019,True,15,1,0.70289081335067749,0,True,False,False,False,,,
+82274847,"{'steamid': '76561198282834224', 'num_games_owned': 100, 'num_reviews': 7, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1633840461}",schinese,玩到后面卡关了，不知道怎么过，但我感觉还是蛮好玩的。,1607871483,1607871483,True,0,0,0,0,False,False,False,False,,,
+79322450,"{'steamid': '76561198837053571', 'num_games_owned': 164, 'num_reviews': 37, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1605230649}",polish,ciulowa gra,1605467164,1605467164,True,0,0,0,0,False,True,False,False,,,
+77080696,"{'steamid': '76561198928802438', 'num_games_owned': 138, 'num_reviews': 33, 'playtime_forever': 1050, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1050, 'last_played': 1578665575}",russian,"БЛИЯТЬ Я НАЖАЛ КНОПКУ ОСТАНОВКА ВРЕМЕНИ И СУКА ОНО ОСТАНОВИЛОСЬ БЛИЯТЬ, РАЗАРАБЫ ПОЧИНИТЕ, А ТО Я ЗАИЕБАЛСЯ СИДЕТЬ И ЖДАТЬ ПОКА ОНО СНОВО ПОЙДЁТ.",1601908967,1601908967,True,0,0,0.463709652423858643,0,True,False,False,False,,,
+76003416,"{'steamid': '76561198308628242', 'num_games_owned': 2811, 'num_reviews': 950, 'playtime_forever': 268, 'playtime_last_two_weeks': 0, 'playtime_at_review': 206, 'last_played': 1600151696}",brazilian,Análise.,1600146535,1600146535,True,5,0,0.522810697555541992,0,True,False,False,False,,,
+75629960,"{'steamid': '76561198087212503', 'num_games_owned': 917, 'num_reviews': 9, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1598917768}",english,bad level and mechanic design .. feels wonky and overall  bad,1599537927,1599537927,False,0,0,0,0,False,False,False,False,,,
+72533435,"{'steamid': '76561198009032111', 'num_games_owned': 551, 'num_reviews': 749, 'playtime_forever': 687, 'playtime_last_two_weeks': 0, 'playtime_at_review': 687, 'last_played': 1545343060}",english,The earth is 4.6 billion years old and we managed to exist at the same time as this masterpiece.,1594517228,1602334145,True,1,2,0.487684726715087891,0,True,False,False,False,,,
+72501635,"{'steamid': '76561198865953765', 'num_games_owned': 114, 'num_reviews': 49, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 84, 'last_played': 1594636627}",russian,хорошая игруля за 30р если в неё не играть.,1594476094,1594476094,True,0,0,0,0,False,False,False,False,,,
+71863193,"{'steamid': '76561198991721369', 'num_games_owned': 73, 'num_reviews': 30, 'playtime_forever': 58622, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45618, 'last_played': 1597690135}",russian,Гг,1593678579,1593678579,True,0,0,0,0,True,False,False,False,,,
+69992020,"{'steamid': '76561198982021275', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 2692, 'playtime_last_two_weeks': 0, 'playtime_at_review': 122, 'last_played': 1656749146}",english,"“Si vous aimez les jeux de plateformes, si vous appréciez de devoir sauter au dessus du vide, de ne pas chuter mais flotter, si les causes justes méritent des actions douteuses, si vous aussi vous voulez pouvoir changer le temps, enfin, si un bon jeu à un très petit prix est un élément qui compte pour vous, alors, allez-y ! Faites vous plaisir, achetez sur la boutique de Steam SkyTime, c’est un bon petit jeu indépendant et vous ne pouvez pas le regretter.”",1590757771,1590757771,True,0,0,0,0,False,False,False,False,,,
+68387504,"{'steamid': '76561198059259945', 'num_games_owned': 2735, 'num_reviews': 1725, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 212, 'last_played': 1588362891}",russian,Сойдет ),1588364552,1588364552,True,0,0,0,0,False,False,False,False,,,
+68185669,"{'steamid': '76561197984524933', 'num_games_owned': 1377, 'num_reviews': 335, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1588089082}",russian,"Скучный Г0BH0раннер 
+картинка вроде ниче так, но игра стремная.",1588089124,1588089124,False,2,0,0.509283840656280518,0,False,False,False,False,,,
+66092522,"{'steamid': '76561198079455220', 'num_games_owned': 602, 'num_reviews': 15, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1585493693}",english,"This game is cheap... and it shows. A lot like clustertruck but with flimsier physics, but is functional for the most part. I could not complete every level as one near the end would begin lagging and totally freeze at the same point, making it impossible to finish. If you've got a few cents and an afternoon to spare, maybe consider it but I cannot totally recommend this.",1585492584,1585492584,False,1,0,0,0,False,False,False,False,,,
+65093234,"{'steamid': '76561198151845999', 'num_games_owned': 1284, 'num_reviews': 381, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1584341079}",russian,"Нечего сказать, отлично",1584284788,1584284788,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+63939930,"{'steamid': '76561198114642824', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 295, 'playtime_last_two_weeks': 0, 'playtime_at_review': 258, 'last_played': 1678636392}",english,It's just bad(,1582386344,1582386344,False,1,0,0.492642343044281006,0,True,False,False,False,,,
+62852419,"{'steamid': '76561198353382120', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 5383, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1559, 'last_played': 1580918596}",turkish,Mytime <3,1580644260,1580644260,True,0,0,0,0,True,False,False,False,,,
+62728429,"{'steamid': '76561198025089345', 'num_games_owned': 2174, 'num_reviews': 2934, 'playtime_forever': 177, 'playtime_last_two_weeks': 0, 'playtime_at_review': 177, 'last_played': 1580466473}",schinese,"跑酷！不仅仅是跑酷，还要打炮台！
+重点就在这，跑酷已经好难了！还要打炮台，3下就die···好难···
+",1580466544,1580466544,False,13,5,0.640812397003173828,0,False,False,False,False,,,
+61834075,"{'steamid': '76561198046836998', 'num_games_owned': 447, 'num_reviews': 259, 'playtime_forever': 568, 'playtime_last_two_weeks': 0, 'playtime_at_review': 568, 'last_played': 1578991804}",schinese,挂卡喜加一,1578991778,1578991778,True,0,0,0,0,False,False,False,False,,,
+59819073,"{'steamid': '76561198300270231', 'num_games_owned': 5388, 'num_reviews': 894, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 274, 'last_played': 1551535206}",koreana,"왼손에는 타임 슬로우 워치, 오른손에는 렌치 한 자루 들고 빌딩 사이를 누비면서 고장난 터렛을 철거하는 게임 [b]《공중시간》[/b]이다. 솔직히 나 긴장했잖아. 트레일러 영상만 보면 난이도가 괴랄할 줄 알았거든요. 그도 그럴게 '점핑 플랫폼 + 시간 조절' 이라는 시스템의 조합이 대체로 난이도가 어려울 거라는 막연한 느낌이 들잖아요. 예전에 카스 버니합 맵을 많이 해서 그런가? 하지만 직접 먹어본 이 게임의 맛은······ 맵지도, 싱겁지도 않게 정갈하게 딱 떨어지는 맛이었습니다. 더 디테일하게는 오히려 싱거운 편에 좀 가깝달까?
+
+ + 슬로우라는 기능을 이용하면서도 속도감은 충분히 느낄 수 있었다
+ + 점프하는 움직임 자체는 부드러운 편(렌치 던지는 게 족같아서 그렇지···)
+ + 적절한 레벨 디자인 및 플레이 타임
+ + 이상하게 도전의식을 자극하게 된다(레알, 은근히 계속 하게 되잖어 ㅋ)
+ + 도전과제 올클리어가 할 만한 편이다
+ + 트레이딩 카드 존재(플탐 대비 파밍시간 약간 긴 편)
+
+ - 너무 과한 오브젝트 폭발 이펙트(터질 때 시야 차단해서 밑에 발판이 안 보여 시벌)
+ - 지 멋대로 규칙성이라곤 찾아볼 수 없는 렌치 회수 과정
+ 
+ 후, 렌치 조작만 빼면 '조작' 측면에서 불편함은 딱히 없었습니다. 점핑 플랫폼에 점프가 매끄러우면 된 거죠 뭐. 그리고 과거의 리뷰를 보면 '중간 세이브가 없다' 이런 글이 보이는데 최근에는 거듭된 업데이트로 인해 개념 세이브를 장착하게 되었습니다. 진짜 중간 세이브 없었던 당시에 이 게임을 했다면 바로 욕 하고 엄지 내려갈겼을 거예요 저도. 1,100원이라는 가성비에 어렵지 않은 도전과제 올클리어. 이 정도면 엄지를 올릴 이유는 된다고 봅니다 ㅎ :)",1576314639,1576314639,True,56,0,0.859575450420379639,1,False,False,False,False,,,
+54573956,"{'steamid': '76561198031313794', 'num_games_owned': 8531, 'num_reviews': 3393, 'playtime_forever': 168, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1565547250}",russian,"[h1]Описание:[/h1]
+Раннер от первого лица на прохождение с десятком уровней. Бежим на время, уничтожаем турели кидая гаечный ключ и останавливаем время для длительных прыжков. Уровни не простые и часто нужно будет понимать логику разработчика, чтобы их пройти. В итоге смерти будут постоянными. Я осилил половину игры и дальше даже через силу играть уже не хотелось... Все слишком скучно и неинтересно. Для такой цены игры достойная, но назвать её хорошой увы не смогу... Не рекомендую.
+
+[h1]Оценка: 3/10[/h1]
+
+[h1]Послесловие:[/h1]
+Если вам понравился этот обзор добро пожаловать в группу
+http://steamcommunity.com/groups/uojer - тут вы сможете увидеть рекомендованные мною игры, другие обзоры, а также просто пообщаться в хорошей компании",1565560798,1565560798,False,5,0,0.536428749561309814,0,False,False,False,False,,,
+54409816,"{'steamid': '76561198112946341', 'num_games_owned': 1752, 'num_reviews': 17, 'playtime_forever': 233, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1541854042}",english,"Skytime is a first person time stopping Platformer.
+
+The hero of this story, family had died in accident. He has found a way to bring them back?
+
+In order to do so he has to beat the clock while avoiding turrets and jumping through platforms.
+
+His trusty stop watch can stop time, when in mid air he can jump further using it. 
+
+First person platforming had never been great, at least from the games I have played that used it.
+
+
+All the levels in SkyTime are in the same surroundings (Building, Airships). In the 8 or so levels, not once do you see something different.
+
+
+Pros:
+
+Easy Achievements/Platinum
+
+https://www.youtube.com/watch?v=xRmrDPCOqFQ
+
+Very Cheap 
+
+Cool Feeling when stopping time and destroying turrets (Made by understood why SuperHot was raved)
+
+Neutral:
+
+Story is just there to push the gameplay.
+
+Cons:
+
+Voice Acting ( Barely understandable) 
+
+Slippery Landing (especially when jumping on a tilted object)
+
+Same Scenery in every level
+
+-----
+
+I did enjoy my time with Skytime. 
+
+I don't think the majority of players will enjoy it. I can't recommend it, unless you have time to spend. 
+
+The game can be beat in 2-3 hours. 
+
+4/10
+
+Disclaimer: 
+
+I did buy the Steam Version, however the Developer provided me with a Console Version. My opinion has no impact on whether I receive a key or not.",1564687603,1564687603,False,2,0,0,0,False,False,False,False,,,
+53898087,"{'steamid': '76561198325759605', 'num_games_owned': 308, 'num_reviews': 26, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1694436946}",schinese,还挺好玩,1562493138,1562493138,True,0,0,0,0,False,False,False,False,,,
+53678212,"{'steamid': '76561198201855922', 'num_games_owned': 300, 'num_reviews': 211, 'playtime_forever': 283, 'playtime_last_two_weeks': 0, 'playtime_at_review': 283, 'last_played': 1519151476}",polish,Polecam!,1562341900,1562341900,True,0,0,0,0,False,False,False,False,,,
+52414333,"{'steamid': '76561198364191649', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1497272060}",english,WindTime,1561897372,1669632888,True,0,0,0,0,False,False,False,False,,,
+51911567,"{'steamid': '76561198050192920', 'num_games_owned': 1032, 'num_reviews': 13, 'playtime_forever': 303, 'playtime_last_two_weeks': 0, 'playtime_at_review': 303, 'last_played': 1497902170}",english,For the badge,1561810537,1561810537,True,1,0,0.516129076480865479,0,False,False,False,False,,,
+51685563,"{'steamid': '76561198057385742', 'num_games_owned': 1641, 'num_reviews': 162, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1561715449}",russian,годная игра пойдет,1561787735,1561787735,True,7,0,0.639411807060241699,0,False,False,False,False,,,
+50417130,"{'steamid': '76561198065641223', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1556659523}",english,Really cool game with interesting time motion effects and platformer gameplay mechanics. Although sometimes the game can get too hard and it actually takes a bit of time to correctly handle your character but when you find it out it actually gives you some fun!,1556738245,1556738245,True,0,0,0,0,True,False,False,False,,,
+48530575,"{'steamid': '76561198050609891', 'num_games_owned': 0, 'num_reviews': 117, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1548368983}",english,Trashy and bullshit and horrible in the best way,1548369018,1548369018,True,0,0,0.45919528603553772,0,False,True,False,False,,,
+46976059,"{'steamid': '76561198363864431', 'num_games_owned': 167, 'num_reviews': 10, 'playtime_forever': 352, 'playtime_last_two_weeks': 0, 'playtime_at_review': 276, 'last_played': 1672862297}",russian,"SkyTime. Плохая ли это игра? Нет. Немного убогая графика (но она не мешает воспринимать игру), неплохой геймплей, и небольшая хардкорность. В игре куча багов, связанных с модельками зданий, на одном здании вообще можно забраться на крышу, фактически самого низа, и просто куча мест, в которых можно застрять и отпрыгнуть от них... Что мать вашу делает эту игру ещё круче, ты начинаешь искать места, которые можно пройти ""иначе"", также куча моментов (если вы криворукий), которые можно описать как ""нихера себе как я там отскочил"", игре я ставлю 6/10
+- 1 балл за графен
+- 1 балл за немного сломанную механику замедления времени
+- 2 балла за баги (хоть это и делает игру разнообразней, но это не отменяет факта, того, что это баги) 
+",1543177883,1543177883,True,1,1,0.523809552192687988,0,False,True,False,False,,,
+45629307,"{'steamid': '76561198027286434', 'num_games_owned': 1715, 'num_reviews': 1363, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1541363783}",russian,"[i][b]Средненький такой раннер, не хороший да и неплохой, сыграть вполне себе можно, да и цена небольшая.[/b][/i]",1541363959,1541363959,True,11,0,0.607257604598999023,0,False,False,False,False,,,
+43894517,"{'steamid': '76561198065176763', 'num_games_owned': 1315, 'num_reviews': 1772, 'playtime_forever': 248, 'playtime_last_two_weeks': 0, 'playtime_at_review': 135, 'last_played': 1533400473}",schinese,"还行吧。
+
+Not Bad",1533226936,1533226936,True,5,0,0.57125401496887207,0,False,False,False,False,,,
+43739776,"{'steamid': '76561197982940540', 'num_games_owned': 1150, 'num_reviews': 15, 'playtime_forever': 76, 'playtime_last_two_weeks': 0, 'playtime_at_review': 76, 'last_played': 1532533849}",english,"I like the concept here, but execution is utterly terrible. The controls and maneuverability which are most important things in this type of game are extremely bad. I can see that devs wanted to make nice and ambitious game but they just didnt have skills to do that. Im little sad to not recommending this game because of it. I want support them so they would persist and next time they would deliver maybe better game... So I will do it just here in my comment - keep it up guys! :)
+
+I had troubles with resolutions in windowed mode. It didnt work for me very well. Game window retained its size about one quarter of Full HD and I was unable to resize it. Even if actual rendered resolution was higher like 1600x900 or full hd. Everything was then very small gui included. In fullscreen there was no problem.
+
+But I just cant recommend this game to anyone. Overall quality is just too low to ask money for it.",1532534790,1596202072,False,4,0,0.565384149551391602,0,False,False,False,False,,,
+43390790,"{'steamid': '76561198026806776', 'num_games_owned': 0, 'num_reviews': 302, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 154, 'last_played': 1531018196}",english,"Influences include the stated [url=https://store.steampowered.com/app/397950/Clustertruck/]Clustertruck[/url] and [url=https://store.steampowered.com/app/322500/SUPERHOT/]SUPERHOT[/url], but there's also some obvious touches of [url=https://store.steampowered.com/app/17410/Mirrors_Edge/]Mirror's Edge[/url], too.  Despite taking influence from so many good games, [i]SkyTime[/i] didn't match them... or even come close.  This is a reasonably attractive ambitious indie title that simply isn't capable of achieving its own ambitions.  [i]SkyTime[/i] could have been a good game, but it needed more experienced developers.  Try [url=https://store.steampowered.com/app/278360/A_Story_About_My_Uncle/]A Story About My Uncle[/url] for a more polished take on a similar sort of gameplay.",1531018699,1531018733,False,2,0,0.549202859401702881,0,False,False,False,False,,,
+43289878,"{'steamid': '76561198062504568', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1530688534}",english,"Even at the price of free (got this as a free gift from GOG), this game still isn't worth it",1530688611,1530688611,False,2,0,0.517475724220275879,0,False,True,False,False,,,
+42728918,"{'steamid': '76561198144469869', 'num_games_owned': 3039, 'num_reviews': 200, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1485700257}",brazilian,top,1529009702,1529009702,True,1,1,0.481675416231155396,0,False,False,False,False,,,
+42400137,"{'steamid': '76561198053229942', 'num_games_owned': 1399, 'num_reviews': 1091, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1496136956}",english,Bugged and unfinished garbage platformer.,1527754655,1527754655,False,2,1,0.504504501819610596,0,False,False,False,False,,,
+42388462,"{'steamid': '76561198200952189', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 220, 'last_played': 1527702636}",schinese,"第一次玩，晕了。一度怀疑这款[strike]恐高症福利[/strike]游戏是不是要戴VR玩的。
+无聊拿来挂卡刷刷成就……还有点意思？
+[spoiler]我就是被机器人乱枪打死，死在终点，从飞船上跳下去，也不会去刷成就。全成就真香。[/spoiler]
+说几个做成就的体会：
+有些关是有近路的，比如第三关走近路可以少用十几秒，轻松跑完。
+Where am I[spoiler]在第一关，多跑一跑[/spoiler]。
+三杀成就需要利用扳手由远至近打出回旋，可以在第六关做。",1527702714,1527702784,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+41502694,"{'steamid': '76561198157906427', 'num_games_owned': 2619, 'num_reviews': 179, 'playtime_forever': 600, 'playtime_last_two_weeks': 0, 'playtime_at_review': 600, 'last_played': 1545023899}",english,"Interesting idea, terrible execution however, just makes it ultimately frustrating to play.",1523797488,1545019521,False,0,0,0,0,False,False,False,False,,,
+40556774,"{'steamid': '76561198343052842', 'num_games_owned': 605, 'num_reviews': 151, 'playtime_forever': 184, 'playtime_last_two_weeks': 0, 'playtime_at_review': 184, 'last_played': 1519827964}",schinese,喜加一,1520153685,1520153685,True,0,0,0,0,False,False,False,False,,,
+40485750,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 221, 'playtime_last_two_weeks': 0, 'playtime_at_review': 221, 'last_played': 1519906764}",english,"This is a truly awful 3D platformer/parkour runner game where you need to jump over rooftops and flying cars, throwing a wrench at turrets which shoot at you and trying to get to the end of the level so you can stop playing the game.
+
+It's nice that this isn't a 2d retro pixel platformer, but at the same time, it is not a good game at all.  The controls are sluggish.   The game is buggy, lacks polish, and even though the graphics are simplistic and relatively low poly, the framerates I was getting were deplorable.  While Unity enables mediocre developers to glut Steam with mediocre games, as an engine, it's pretty good and capable of delivering excellent graphics and performance (it's just a sad trend that it's used to make so many awful games). 
+
+It's not fun, the graphics are mediocre, and the gameplay uninspired and boring.  Impossible to recommend.",1519908371,1519908371,False,2,1,0.379331797361373901,0,False,False,False,False,,,
+40439791,"{'steamid': '76561198132271402', 'num_games_owned': 741, 'num_reviews': 19, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1519745310}",polish,"Ta gra jest taka fajna, że gdyby nie karty kolekcjonerskie, to nawet nie chciałbym jej za darmo z giveawaya. Gra bardzo irytuje i ma wiele niedociągnięć. Autor gry chyba oszalał i na ślepo robił wszystkie osiągnięcia, samemu nie grając i nie testując, czy są one w ogóle możliwe do osiągnięcia.
+
+Grę przez niedoróbki ciężko przejść w jakikolwiek sposób, a co dopiero zrealizować wszystkie wytyczne jakie stawia przed nami twórca tego crapa.
+
+Jeżeli zajdziesz się już gdzieś dalej, okazuje się, że nie możesz podskoczyć, bo jakiś obiekt przykleił Cię do siebie. Albo w trakcie skoku twoja postać nie porusza się do przodu, a ty zmuszony jesteś jeszcze raz wcisnąć ""W"" aby postać raczyła zatrybić, że faktycznie chcesz ruszyć naprzód... przez to Ty i tak nie dolecisz do celu i spadniesz po raz setny w przepaść. 
+
+
+Crap alert, odradzam. Sam po zdobyciu wszystkich kart usunę ją z biblioteki, bo nie zasługuje aby tam być.",1519744029,1519744029,False,2,0,0.536376595497131348,0,False,True,False,False,,,
+40118129,"{'steamid': '76561198397171454', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 56, 'playtime_last_two_weeks': 0, 'playtime_at_review': 56, 'last_played': 1518762642}",english,"8/10, game is good!",1518761150,1518761150,True,0,0,0,0,False,False,False,False,,,
+39543081,"{'steamid': '76561198295579340', 'num_games_owned': 796, 'num_reviews': 94, 'playtime_forever': 1485, 'playtime_last_two_weeks': 0, 'playtime_at_review': 926, 'last_played': 1510500336}",spanish,"Al principio pocas pistas te dan, pero una vez que entiendes los controles y lo que esperan de ti, se hace entretenido",1516653690,1516653690,True,0,0,0,0,True,False,False,False,,,
+39347393,"{'steamid': '76561198053667514', 'num_games_owned': 629, 'num_reviews': 324, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1515957575}",german,"Und das nächste Disaster! SkyTime soll ein Mix aus SuperHot und Clustertruck sein, was ich aber vorwegnehmen kann, da das völlig gelogen ist. Das Spiel wird durch das unklare und unübersichtliche Leveldesign vollständig zerstört. Dazu kommen aber die ungenauen Hitboxen der Flugkörper und Bauwerke hinzu, die deswegen schwer zu erklimmen sind. Abgerundet wird das Ganze von den unzählbaren Bugs und Glitches. So kommt es nicht selten vor, dass die Spielfigur in einem Gebäude feststeckt, von einem Fahrzeug mitgeführt wird oder sogar aus dem Level katapultiert wird, was heißt, dass man das Level von vorne beginnen kann. Darüber kann man in einem 3D Platformer nicht hinwegsehen, da das zentrale Spielelemente sind! Beschämender wird das Bug-Chaos aber durch die 5 Sekunden Story am Anfang des Spiel, die dann aber auch fertig erzählt wurde. 5 Sekunden... Genau so lange hatte ich auch Spaß am Spielen.",1515958788,1520502535,False,7,0,0.630080103874206543,0,False,False,False,False,,,
+38622097,"{'steamid': '76561198350446275', 'num_games_owned': 0, 'num_reviews': 46, 'playtime_forever': 233, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1503871232}",spanish,Bueno para pasar el rato,1514122028,1514122028,True,0,0,0,0,True,False,False,False,,,
+37303879,"{'steamid': '76561198275366979', 'num_games_owned': 82, 'num_reviews': 2, 'playtime_forever': 213, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1511519262}",schinese,啥子玩意啊,1511519277,1511519277,False,0,0,0,0,False,True,False,False,,,
+36370217,"{'steamid': '76561197992781909', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1510126063}",english,"Skytime is the perfect game for using footage from while making a youtube rant about the CRINGIEST BOY ALIVE (NOT CLICKBAIT?!?!).
+
+PLAY AS  Captain Wrenchdude, and save the world from weird jumping physics.
+
+If you get this game as a random steam key from a trade deal and gave 45 minutes to kill at 2am, I highly recommend taking this bad boy for a spin. Otherwise you could probably save yourself some time and join a surf lobby in CS:GO.",1510126394,1510126453,False,1,1,0,0,False,True,False,False,,,
+36338123,"{'steamid': '76561198130847481', 'num_games_owned': 123, 'num_reviews': 4, 'playtime_forever': 180, 'playtime_last_two_weeks': 0, 'playtime_at_review': 180, 'last_played': 1484942957}",polish,Polecam,1510042089,1510042089,True,0,0,0,0,False,False,False,False,,,
+35578943,"{'steamid': '76561198091745178', 'num_games_owned': 159, 'num_reviews': 10, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1507402134}",russian,"Более чем сносный ""раннер"" для того, чтобы убить время под любимую музыку. Никакой необычной хардкорности не наблюдается.",1507484081,1507484081,True,0,0,0,0,True,False,False,False,,,
+35038520,"{'steamid': '76561198317101192', 'num_games_owned': 147, 'num_reviews': 55, 'playtime_forever': 146, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1505556485}",schinese,手癌患者的福音（滑稽），游戏很好玩。机制和关卡难度把控的特别棒。画面也很赞，值这个价。,1505707659,1505707659,True,0,0,0.495049506425857544,0,False,False,False,False,,,
+35008981,"{'steamid': '76561198344447317', 'num_games_owned': 400, 'num_reviews': 19, 'playtime_forever': 242, 'playtime_last_two_weeks': 0, 'playtime_at_review': 227, 'last_played': 1532434590}",schinese,操作还行....有一个bug，在用怀表时按下shift+tab跑的飞快,1505601963,1505601963,True,0,0,0,0,False,False,False,False,,,
+34774525,"{'steamid': '76561198363966935', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 144, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1505545164}",schinese,无聊,1504700795,1504700795,False,0,0,0,0,False,False,False,False,,,
+34774178,"{'steamid': '76561198316565166', 'num_games_owned': 114, 'num_reviews': 15, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1502363359}",schinese,慈善包里带的，不推荐，操作十分难受,1504699383,1504699383,False,0,0,0,0,False,True,False,False,,,
+34457964,"{'steamid': '76561198379127104', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1546172434}",danish,jeg kan ikke få mine penge til bage,1503574614,1503574614,True,0,0,0,0,True,True,False,False,,,
+34390778,"{'steamid': '76561198325997522', 'num_games_owned': 371, 'num_reviews': 11, 'playtime_forever': 189, 'playtime_last_two_weeks': 0, 'playtime_at_review': 139, 'last_played': 1510750692}",schinese,喜加一,1503305367,1503305367,True,0,0,0,0,False,False,False,False,,,
+34358795,"{'steamid': '76561198403282921', 'num_games_owned': 112, 'num_reviews': 137, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1507036254}",brazilian,This game sucks,1503175389,1503175389,False,0,0,0.476190477609634399,0,False,False,False,False,,,
+34306483,"{'steamid': '76561198127808613', 'num_games_owned': 145, 'num_reviews': 311, 'playtime_forever': 185, 'playtime_last_two_weeks': 0, 'playtime_at_review': 164, 'last_played': 1496699731}",schinese,买来挂卡，没有中文，我也没有玩，礼节性好评,1502973886,1502973886,True,0,1,0.460893839597702026,0,False,False,False,False,,,
+34298929,"{'steamid': '76561198163799602', 'num_games_owned': 80, 'num_reviews': 30, 'playtime_forever': 209, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1502277097}",schinese,还可以,1502939554,1502939554,True,0,0,0,0,False,False,False,False,,,
+34204295,"{'steamid': '76561198150782877', 'num_games_owned': 157, 'num_reviews': 15, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1490902660}",russian,"Достаточно кривая игра в прямом и переносном смысле, хотя автор умеет работать с эффектами и это даже выглядит вполне красиво, наверное. Поиграть конечно можно пару часиков, но не более. Лучше потратьте свои деньги на более достойные игры, чем эта.",1502590405,1562097731,False,0,0,0,0,True,False,False,False,,,
+34170351,"{'steamid': '76561198325967721', 'num_games_owned': 1271, 'num_reviews': 255, 'playtime_forever': 144, 'playtime_last_two_weeks': 0, 'playtime_at_review': 144, 'last_played': 1579860381}",czech,"Musím říct, že když jsem viděl průměrné hodnocení a přečetl si nějaké ty recenze tak jsem čekal, že SkyTime bude mnohem, mnohem horší. Z nich to totiž znělo jako zabugovaná a skoro nehratelná hra. Byl jsem překvapen.
+
+Jistě, stále to není žádný masterpiece, ale vyklubal se z toho celkem pohodový kousek který zabaví i mírně zaujme. Velkou roli v této změně hraje to, že byly odstraněny bugy které jsou v ostatních recenzích zmiňované, nebo minimálně já  je nepotkal. Fajn je také možnost získání některých poměrně jednoduchých achievementů které má ale velmi malé procento uživatelů.
+
+Na druhou stranu opravdu otřesná byla úvodní scéna, a to hlavně dabingem který zní neskutečně neprofesionálně a pravděpodobně také neprofesionální je. Naštěstí nezabere dlouho a dál už žádné dialogy neprobíhají. Vlastně celý ten ""příběh"" nedává tolik smysl, pořádně si nejsme jisti kdo vlastně jsme, co to vlastně děláme a z jakého vlastně důvodu. Naštěstí hra funguje i bez pokusu od storyline a tak jsem ochotný nad tím přimhouřit oko. Stejně jako pochybné a neštastně formulované vysvětlení ""když zpomalíte čas pohybujete se rychleji"".
+
+6/10, za euro to špatné není a pokud to uvidíte ve slevě tak váhejte ještě méně.",1502464080,1509210907,True,2,0,0.549196362495422363,0,False,False,False,False,,,
+34160927,"{'steamid': '76561198321778743', 'num_games_owned': 149, 'num_reviews': 3, 'playtime_forever': 243, 'playtime_last_two_weeks': 0, 'playtime_at_review': 243, 'last_played': 1502513208}",schinese,cool,1502425864,1502425864,True,0,0,0,0,False,True,False,False,,,
+34118491,"{'steamid': '76561198285645532', 'num_games_owned': 287, 'num_reviews': 99, 'playtime_forever': 2161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1335, 'last_played': 1546860717}",russian,Рекомендую.,1502257285,1502257285,True,0,0,0,0,False,False,False,False,,,
+33941064,"{'steamid': '76561198398891287', 'num_games_owned': 464, 'num_reviews': 6, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1499617575}",english,"i realize its only a dollar but the game looks, sounds, and feels cheap.",1501557724,1501557740,False,1,0,0.474527537822723389,0,True,False,False,False,,,
+33928083,"{'steamid': '76561198042866413', 'num_games_owned': 627, 'num_reviews': 14, 'playtime_forever': 114, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1501509436}",english,"Cool concept but it fails in so many ways it is a terrible game.
+FIrst of all, a parkour game like this should feel fast and packed with action, but this one is really slow and boring. The time-slowing mechanic is just the icing on the cake as it makes it all feel very sluggish, and the regular gameplay is already pretty slow.
+Also, there is no wall-climbing, sliding, sprinting, nothing. You just run and jump. (correct me if i'm wrong on this one, didn't play a lot to check if there was more than that in later gameplay)
+Not to mention the graphics which are also terrible. Your hands don't even move while you're running and why the f* do you have a boomerang wrench that looks like sh*t?
+Overall, is the gameplay was faster (even when not in slow-mo mode) it could be passable as a time-killer for some minutes, but I can't really recommend this to anyone.",1501509759,1501509759,False,1,0,0,0,False,False,False,False,,,
+33864722,"{'steamid': '76561198054858609', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1501272467}",english,"i got this game in an indiegala giveaway.
+I dont write review often and i only played this for 30 min but it was so bad i just had to warn other. 
+I been playing games since the 80s and i played alot of bad games in my time as a gamer. 
+But oboy was this bad  i think its at the toplist of bad games. 
+It look like someones school project 
+controls are unresponsive somettimes and with no checkpoint you have to start all over  again.
+And like some other have mention hits sometimes dont register.
+
+save your money best thing with this game is the uninstall.  
+
+we need a steam turky  award so i can nominate this game for it",1501273519,1511873909,False,1,0,0,0,False,False,False,False,,,
+33855428,"{'steamid': '76561198276802853', 'num_games_owned': 582, 'num_reviews': 81, 'playtime_forever': 291, 'playtime_last_two_weeks': 0, 'playtime_at_review': 250, 'last_played': 1677397825}",schinese,"更新频率高产似母猪
+然后现在莫名其妙停更了",1501247567,1506264545,True,0,0,0,0,False,False,False,False,,,
+33838619,"{'steamid': '76561198094803808', 'num_games_owned': 4070, 'num_reviews': 5384, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 186, 'last_played': 1501182234}",english,3/10 the no check points really kills this game,1501180318,1501180318,False,7,0,0.390139937400817871,0,False,False,False,False,,,
+33701678,"{'steamid': '76561198156035770', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 84, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1521918808}",english,"AESTHETICS 
+
+I do not care about graphics unless they look awful...this game looks awful. This game is screaming for a style it just looks bad the shadows are awful all the levels look the same they just blur in my mind. The models are really bad they look like Minecraft creations by a 5 year old. 
+
+The hud is disgusting it looks like something put together in a day by someone who just finished making his first power pint presentation.
+
+GAMEPLAY
+
+The level design has the complexity of running in a straight line and freezing time and shooting your wrench when you see a turret... IT NEVER GETS MORE COMPLEX THAN THIS. I can only remember one level that broke up the monotony you had to follow this car and jump on it to beat the level, the problem with this is that you can slow down time, and the car is moving quickly... you see the problem there is no in between the car is either moving so quickly that you lose or so slowly that you get bored. 
+
+No levels compliment the powers that you have, its almost like you were playing a sonic game but every time you go fast an enemy snipes you and kills you in 1 hit,  THE ONLY OPTION TO WIN IS TO GO VERY SLOW, AND GET VERY BORED, for example: the enemy is almost impossible to beat if you are going quickly because of the travel time of your weapon, but incredibly easy if you slow down time, and bore yourself to death.
+
+Another problem is the lack of enemy variety, only 1 type of enemy exists in this game, a turret a stationary 1 hit turret that kills you almost instantly if you are not using your boring time power. 
+
+SOUND
+
+The voice acting is terrible it sounds like it was recorded on an iPod and put into the game.
+
+The music is so forgettable that I am not even sure that there is any music, and I do not want to check because that means I have to keep playing this game for another minute and thought of doing so makes me gag.
+
+CONCLUSION
+
+This game is not worth the dollar it is asking for, and it fails on every aspect it sets to do if it wanted to be like Superhot it failed, because Superhot is a Puzzle FPS, but the only puzzle in this game is use wrench on turret, because your time powers make it so it is impossible for you to lose any encounter with the 1 enemy type in the game. It fails at being Custertruck because Clustertruck has cars whose movement patterns change the level design in interesting ways other than you were too slow to make it to this point that looks identical too every other thing in this level before this car so you lose.
+
+
+0/5 this game is not early access saying that it should be early access is an insult to early access games like Subnautica, or Dead Cells.
+",1500658604,1500658604,False,0,0,0,0,True,False,False,False,,,
+33696889,"{'steamid': '76561198211519496', 'num_games_owned': 450, 'num_reviews': 31, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1556551065}",english,"cool game
+",1500644646,1500644646,True,0,0,0.45785638689994812,0,False,False,False,False,,,
+33645637,"{'steamid': '76561198343957625', 'num_games_owned': 0, 'num_reviews': 83, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1527463282}",romanian,Este un joc foarte distractiv dar te plictiseşti repede ... nota mea 6/10,1500446096,1500446096,True,0,0,0,0,False,False,False,False,,,
+33454404,"{'steamid': '76561198044880764', 'num_games_owned': 456, 'num_reviews': 3, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1499205503}",english,"I'm giving this game a positive review seeing its price and playability i think it is worth it!
+choice is yours though,",1499774841,1499774841,True,0,0,0,0,False,False,False,False,,,
+33415317,"{'steamid': '76561198146663971', 'num_games_owned': 289, 'num_reviews': 8, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1503426454}",russian,"Пол дня искал финиш в итоге здох. За свою цену игра норм но нужно доработать чтобы финиш был например красным цветом и контрастировал на фоне уровня.
+
+А так 7 гаечных ключей из 10.",1499635471,1499635471,True,0,0,0.495902806520462036,0,False,False,False,False,,,
+33323196,"{'steamid': '76561198027938371', 'num_games_owned': 182, 'num_reviews': 14, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1499372372}",english,I couldn't even get past the first level without constantly dying and it didn't matter how many different ways I used the slow motion or jump etc. Ended up becoming very frustrating and repetitive.,1499372533,1499372533,False,0,0,0,0,True,False,False,False,,,
+33294798,"{'steamid': '76561198022272508', 'num_games_owned': 1545, 'num_reviews': 83, 'playtime_forever': 186, 'playtime_last_two_weeks': 0, 'playtime_at_review': 135, 'last_played': 1522217944}",spanish,mmmmmm y ya.,1499297852,1499297852,False,1,0,0.438419610261917114,0,False,False,False,False,,,
+33151801,"{'steamid': '76561198208414892', 'num_games_owned': 163, 'num_reviews': 14, 'playtime_forever': 306, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1515167022}",brazilian,ZAAAAAAAAAAAAAAAAA WARUDOOOOOOOOOOOOOO,1499027918,1499027918,True,7,1,0.613970577716827393,0,True,False,False,False,,,
+32814496,"{'steamid': '76561198361895516', 'num_games_owned': 172, 'num_reviews': 125, 'playtime_forever': 337, 'playtime_last_two_weeks': 0, 'playtime_at_review': 337, 'last_played': 1496402114}",schinese,好尴尬，卡在第二关过不去。视角有点别扭。不是为了喜加一挂卡别买。,1498483009,1498483009,False,0,0,0,0,False,False,False,False,,,
+32701950,"{'steamid': '76561198301749399', 'num_games_owned': 704, 'num_reviews': 78, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1496949905}",polish,Bardzo fajna gra,1498259370,1498259370,True,0,0,0.49751242995262146,0,False,False,False,False,,,
+32509604,"{'steamid': '76561198094321628', 'num_games_owned': 1225, 'num_reviews': 1004, 'playtime_forever': 192, 'playtime_last_two_weeks': 0, 'playtime_at_review': 192, 'last_played': 1498153593}",english,i dont like it,1497715773,1497715773,False,0,0,0.353554099798202515,0,False,False,False,False,,,
+32476564,"{'steamid': '76561198106288150', 'num_games_owned': 1015, 'num_reviews': 208, 'playtime_forever': 194, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1498501360}",english,Porrly made and annoying. Not worth my 10 cents,1497625173,1497625173,False,0,0,0,0,False,False,False,False,,,
+32410818,"{'steamid': '76561198072646282', 'num_games_owned': 347, 'num_reviews': 124, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1497448553}",spanish,"Para los 0,99 céntimos que cuesta, no está nada mal, es una aventura gráfica en primera persona donde tenemos que ir saltando y destruyendo torretas.",1497448756,1497448756,True,1,1,0.5,0,False,False,False,False,,,
+32352262,"{'steamid': '76561198009356092', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1497215558}",english,"Looks fun, but very frustrating.  Poor voice acting, sluggish controls.",1497215594,1497215594,False,0,0,0,0,False,False,False,False,,,
+32312187,"{'steamid': '76561198086787906', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 212, 'last_played': 1497692903}",english,"I dont normally write reviews but this game was so bad i'm confused how or why this was released. It has many bugs and glitches. The voice acting is terrible and to top it all off the game can be completed in less than 10 minutes. So to finish here is a list of glitches and bugs i experienced while playing this.
+
+1. the back to menu and exit to desktop buttons don't work.
+
+2. the spanner would often take a good 20 seconds to return to my hands.
+
+3. sometimes i would clearly hit the turrets and the hit wouldnt register.
+
+4. every level can be completed by climing a building and jumping making no insentive to actually do anything.
+
+5. the level select screen doesn't work since even if you finish the game you can only select the first 2 levels and the first level is a cutscene.
+
+
+6. This isnt a glitch but throwing the wrench feels weak and flimsy and goes like 2 meters which is complete crap because by the time you throw the wrench the enemies have either already killed you or you'll still miss the target.
+
+
+P.S: I spent way to long playing this game because it had so little content i was sure i was missing something that i can no longer refund it.
+
+P.P.S: The excuse for a story this game gives is literally here have a wrench and a pocket watch now go fuck yourself and half of the missions cant even be completed by doing them as your supposed to.
+
+P.P.P.S: Seriously just save the money and put it towards buying games that you wont hate after playing for 10 mins like Cluster Truck or Superhot which are basically what this game is trying and failing to be.
+
+P.P.P.P.S: Sorry for being so harsh I just really hate this game.",1497084838,1497169341,False,33,2,0.795919120311737061,3,True,False,False,False,,,
+32082087,"{'steamid': '76561198018771550', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1496224127}",japanese,"ジャンプとジャンプ中のスローモーションで足場を移動しつつ、固定タレットをブーメランレンチで破壊するゲーム。
+
+主な操作
+スペースキーでジャンプ。
+左クリックで右手のレンチを投げる（最大飛距離まで行ったらブーメランのように手元に戻る）。
+右クリックで左手の懐中時計みたいなものでスローモーション（使用可能時間は懐中時計の青い円で確認できる）。
+Fキーで投げたレンチを強制的に手元へ戻す（スローモーション可能時間が減少する）。
+
+感想
+通常ジャンプで届かない距離をジャンプとスローモーションを使って滞空時間を延ばすことで移動していく点が面白いとおもったのだが、
+スローモーションの使用後にプレイヤーの移動速度が通常より速くなり足場に移ったとおもったら急な加速により落下してしまう。
+この仕様がなければ面白いといえた。",1496224969,1496224969,False,32,0,0.750484883785247803,0,True,False,False,False,,,
+32080605,"{'steamid': '76561198105592478', 'num_games_owned': 1117, 'num_reviews': 1354, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1496219069}",russian,Норм.,1496219093,1496219093,True,0,0,0.458461552858352661,0,False,False,False,False,,,
+32021644,"{'steamid': '76561198347701910', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1495983030}",english,"Fine game, but missing level selection Frustrating to start from the beginning whenever you want to continue you progress. Could have been better.",1495983261,1495983261,False,0,0,0,0,False,False,False,False,,,
+31957632,"{'steamid': '76561198348214581', 'num_games_owned': 444, 'num_reviews': 47, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1638794246}",turkish,"Bu tür oyunlara göre çok uygun fiyatı var 
+
+",1495738547,1495738547,True,1,0,0.5,0,True,True,False,False,,,
+31849146,"{'steamid': '76561198105042379', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 493, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1596637286}",english,"This is a pretty great game. Its a bit buggy, BUT those are features. If you can't finish a level, you are probably not smart enough. Like liquid love directly in my veins.",1495234132,1495234132,True,3,1,0.350126534700393677,0,False,False,False,False,,,
+31749269,"{'steamid': '76561198172925593', 'num_games_owned': 14023, 'num_reviews': 4533, 'playtime_forever': 1147, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1147, 'last_played': 1494851372}",schinese,"空中跑酷游戏
+1.特色：右键减速技能
+不仅仅是降低体感时间，还能保持你的跳跃速度，能帮助你跳得更远
+中后期的几乎所有跳跃都需要用到，不然的话距离是够不到的
+2.左键，丢出手上的扳手（？）
+攻击地图里的枪塔，剩余数量在界面左上角
+3.非常大的bug，你过的关卡下一次在菜单里仍然显示锁着的
+每次进游戏都只能从第一关开始一关关来
+如果要通关的话就要一次性打到底
+4.路线设置不明显，尤其后面，根本就不知道该往哪里跳，只能自己看哪里的屋顶看上去够得到
+有些需要在一定时间内跳上去的飞船，如果过了又要重来
+5.难度算是还可以
+主要成就就是打完每关的所有炮塔和指定时间内完成关卡
+6.人物动作有些僵硬，不过以这个价位的游戏来说属于高配了",1494771484,1494771585,False,5,0,0.585362017154693604,1,False,False,False,False,,,
+31722579,"{'steamid': '76561198047455579', 'num_games_owned': 2682, 'num_reviews': 1289, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1494681079}",english,"""SkyTime was publicly chosen to be the number 1 game and has found love from all the people that have played it.
+If you ever played Superhot or Cluster Truck, this game combines them both!""
+ahahahahahahahahaha
+
+comparing this game to those should be a federal offense",1494677246,1494677302,False,0,0,0.438634604215621948,0,False,True,False,False,,,
+31667868,"{'steamid': '76561198290137702', 'num_games_owned': 405, 'num_reviews': 136, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1537028312}",schinese,"操作手感有些糟糕，我认为不只是我手残的原因，
+画面还行，但是目的地并不明显，总走错路，
+游戏音乐音效缺乏，容易乏味",1494432400,1494432400,False,2,0,0.555982649326324463,0,False,True,False,False,,,
+31538684,"{'steamid': '76561198008549198', 'num_games_owned': 0, 'num_reviews': 576, 'playtime_forever': 131, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1493892595}",english,"Incredibly frustrating game with horrible voice acting, cheap graphics and awful maneuverability",1493892617,1493892934,False,13,1,0.56285172700881958,0,False,False,False,False,,,
+31372118,"{'steamid': '76561198125250168', 'num_games_owned': 1500, 'num_reviews': 21, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1493197013}",turkish,"Yani fiyatını düşünürsek alınabilir fakat ben önermem. Ayrıca ""Quit to Desktop""un çalışmaması ayrı bir saçmalık.",1493197215,1493197215,False,0,3,0.483193278312683105,0,True,False,False,False,,,
+31187838,"{'steamid': '76561198130649516', 'num_games_owned': 74, 'num_reviews': 9, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1492966813}",german,"Its just funny,not the best game but i had fun ^^
+For 99cents is this game nice :D",1492380490,1492380490,True,0,0,0,0,True,False,False,False,,,
+31160971,"{'steamid': '76561198211156451', 'num_games_owned': 75, 'num_reviews': 1, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1492276789}",english,"Want my money back. The second level is imposible. I can get past the fist and second part of level one but the third one i cant get past. You just dont have enought time to get to the spaceship. when i do get close to geting to it, i use the slow time thing but it runs out before i get there. i have had this game for over a year and can not bet the SECOND level.",1492276949,1492276949,False,1,0,0.470588237047195435,0,True,False,False,False,,,
+31150344,"{'steamid': '76561198327662136', 'num_games_owned': 186, 'num_reviews': 57, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1499266114}",schinese,"那个箭头提示牌完全没用啊，完全不知道该往哪儿走！
+最后是在各种建筑物之间飞着飞着看到了终点过的关……
+[spoiler] 最终会陷入“人生那么美好我干嘛要玩这个游戏”的哲学思考[/spoiler]",1492238750,1492238750,False,0,0,0,2,False,False,False,False,,,
+31069472,"{'steamid': '76561198174039313', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 102, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1491872382}",english,"Pretty good idea of combining game mechanics of Superhot and Clustertruck, but game flaws and poor level design mar the experience a lot.  Expect a lot of dying from falls, dying from turrets, and getting lost.
+
+Even the options ""return to menu"" and ""exit to desktop"" don't work.  Music gets annoying after a while; at least the volume adjustment works.  
+
+It's sort of playable, but there are better platformers out there.",1491868256,1491868256,False,3,0,0.55601203441619873,0,False,False,False,False,,,
+30878076,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 790, 'playtime_last_two_weeks': 0, 'playtime_at_review': 790, 'last_played': 1491393167}",romanian,Very nice game,1491057766,1491057766,True,0,0,0.466321229934692383,0,False,False,False,False,,,
+30862327,"{'steamid': '76561198207132713', 'num_games_owned': 86, 'num_reviews': 24, 'playtime_forever': 127, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1503767802}",english,Fuckin' piece of shit game dont buy this game its not worth your money!!!11!!,1490996163,1490996163,False,6,1,0.46389538049697876,2,True,False,False,False,,,
+30580493,"{'steamid': '76561198034257044', 'num_games_owned': 215, 'num_reviews': 15, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1484149523}",english,shit game. built with unity in 10 mins.,1489798519,1489798519,False,5,2,0.453445196151733398,0,True,False,False,False,,,
+30572079,"{'steamid': '76561198029471029', 'num_games_owned': 1286, 'num_reviews': 128, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1489769038}",french,"J'ai même pas envie de gaspiller mon temps à expliquer POURQUOI ce jeu est une daube infâme. On te parle de SUPERHOT et CLustertrucks comme des inspirations, jouez à ces deux merveilles et laisez cette merde là ou elle devrait être.",1489769146,1489769146,False,4,2,0.555147051811218262,0,True,False,False,False,,,
+30425277,"{'steamid': '76561198281263431', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1492957097}",english,Very fun i was very imeresed in the game i felt i was the one pulling the strings and it was the shit.,1489150315,1489150315,True,1,0,0.436316072940826416,0,True,False,False,False,,,
+29945764,"{'steamid': '76561198169811014', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1486842279}",english,"i love the concept, uniqe and not mainstream
+If i have to give some point i'll give 7/10
+
+Negative 3 point Cause the control",1487179475,1487179475,True,0,0,0,0,False,False,False,False,,,
+29654538,"{'steamid': '76561198245379268', 'num_games_owned': 49, 'num_reviews': 6, 'playtime_forever': 112, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1488040309}",english,It sucks when you jump to a missle and you just glitch out or slip off it.,1486061550,1486061550,False,0,0,0.497941672801971436,0,True,False,False,False,,,
+29572514,"{'steamid': '76561198043799439', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1485721163}",english,It wouldn't be so bad if the controls weren't as slow as the gameplay.,1485721269,1485721269,False,1,0,0.500023365020751953,0,True,False,False,False,,,
+29545466,"{'steamid': '76561198154965552', 'num_games_owned': 2254, 'num_reviews': 231, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1488806380}",schinese,别以为是包货就不好玩啊，真的好玩，而且够难，但是通过的关怎么还是锁着的,1485622396,1485622396,True,5,0,0.492910683155059814,0,False,False,False,False,,,
+29464419,"{'steamid': '76561198307881671', 'num_games_owned': 181, 'num_reviews': 8, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1496757080}",schinese,这特效不止5元OVO[spoiler]作为一名手癌晚期，过关是一种煎熬233[/spoiler],1485272245,1485272245,True,3,0,0.523809552192687988,0,True,False,False,False,,,
+29440017,"{'steamid': '76561198265052239', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1499669030}",english,"Nice graphics. But, the gameplay isn't a very funny/nice one. I don't like the voices. The game seems to be made with a low budget.",1485166112,1485166112,False,0,1,0.497941672801971436,1,True,False,False,False,,,
+29408705,"{'steamid': '76561198018061433', 'num_games_owned': 1510, 'num_reviews': 1588, 'playtime_forever': 230, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1488130538}",german,"[b] Der Fortschritt wird NICHT gespeichert. War laut Levelanzeige beim vorletzten Level, habe abgestoppt weil ich langsam die Lust verloren habe und als ich ins Menü zurück gegangen bin, wurde  nichts freigeschaltet. Somit muss man immer wieder beim Tutorial Level starten. Patcht das mal bitte! Entweder in einem Rutsch durch spielen oder auf ein Update warten...[/b]
+
+Wenn das Problem nicht da ist, ist es ein gutes schnelles Game, das man ruhig mal als Gamer mitnehmen kann. Wir haben einen Schraubenschlüssel und eine Uhr womit wir die Zeit anhalten können. Mit diesen beiden Dingen kommen wir durch die Level. Gegner zerstören, springen und Zeit anhalten, um weiter entfernte Orte zu erreichen. Die Level sind recht abwechslugsreich. Mal alle Ziele zerstören, mal schnell einen bestimmten Ort erreichen um das Level zu beenden, wenn man zu  spät kommt, ist der Zug im wahrsten Sinne des Worte abgefahren usw.
+
+
+
+@ das nicht speichern Problem wurde behoben!",1485037253,1500063766,True,8,0,0.53692328929901123,0,False,False,False,False,,,
+29373936,"{'steamid': '76561198033111448', 'num_games_owned': 863, 'num_reviews': 156, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1484913136}",english,this game feels like a high school project,1484913241,1484913241,False,2,4,0.51028364896774292,0,False,False,False,False,,,
+29361752,"{'steamid': '76561198286200379', 'num_games_owned': 0, 'num_reviews': 1491, 'playtime_forever': 1004, 'playtime_last_two_weeks': 0, 'last_played': 1504457468}",brazilian,Legalzin,1484853712,1484853712,True,2,2,0,0,True,False,False,False,,,
+29356885,"{'steamid': '76561197970149845', 'num_games_owned': 3732, 'num_reviews': 455, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1486338254}",english,"While I could enjoy the pretty bad voice acting, the controls and maneuverability is god awful.
+
+It supposedly is a speed running game, but on the second mission you have to jump on top of moving platforms and at times wait for them.
+
+Map-wise it is not polished. You can get stuck on walls where you're done for, and some edges you have to jump are not well rounded in terms of mapping.
+
+If this had better movement handling and a quick restart button (rather than getting stuck in walls or waiting for falls), I could probably enjoy this.",1484836626,1484836626,False,20,3,0.731001973152160645,7,False,False,False,False,,,
+29353699,"{'steamid': '76561198183373325', 'num_games_owned': 110, 'num_reviews': 7, 'playtime_forever': 56, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1535892014}",english,Fine game. I can't play it thanks to my wooden PC but it seems like fine game :lilbot:,1484823461,1484823461,True,3,0,0.375731587409973145,0,True,False,False,False,,,
+29282063,"{'steamid': '76561198135597183', 'num_games_owned': 48, 'num_reviews': 26, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1485341090}",english,Not bad but the voice acting is terrible.,1484510421,1484510421,False,1,0,0.417667597532272339,0,False,False,False,False,,,
+29213411,"{'steamid': '76561198124166040', 'num_games_owned': 537, 'num_reviews': 23, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1481402542}",english,"Cool mechanic. Awful game.
+
+
+2/10",1484263418,1484263418,False,4,0,0.4613456130027771,0,True,False,False,False,,,
+29185939,"{'steamid': '76561198122481669', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1484064280}",russian,"Если честно, то купил ради карточек.",1484151988,1484151988,True,2,0,0.498494625091552734,0,True,False,False,False,,,
+29121047,"{'steamid': '76561198127250012', 'num_games_owned': 0, 'num_reviews': 97, 'playtime_forever': 246, 'playtime_last_two_weeks': 0, 'playtime_at_review': 246, 'last_played': 1483896796}",koreana,"!주의 : 정신 건강에 해로운 게임. 가볍게 즐길려고 했다가  스트레스만 받게 됩니다
+
+
+
+███████▄▄███████████▄	
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓███░░░░░░░░░░░░█
+██████▀▀▀█░░░░██████▀	
+░░░░░░░░░█░░░░█	
+░░░░░░░░░░█░░░█	
+░░░░░░░░░░░█░░█	
+░░░░░░░░░░░█░░█	
+░░░░░░░░░░░░▀▀",1483895129,1483895458,False,15,3,0.679793953895568848,0,True,False,False,False,,,
+28520516,"{'steamid': '76561197963490432', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1493584606}",english,No.,1482375152,1482375152,False,3,0,0.376586437225341797,0,True,False,False,False,,,
+28471509,"{'steamid': '76561198347290205', 'num_games_owned': 18, 'num_reviews': 3, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1530907504}",turkish,bokum gibi,1482168428,1482168428,False,0,0,0.401522964239120483,0,True,False,False,False,,,
+28332280,"{'steamid': '76561198139720686', 'num_games_owned': 196, 'num_reviews': 8, 'playtime_forever': 195, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1481576613}",spanish,"tiene muchos bugs, no es malo pero los errores afectan la experiencia de juego",1481572940,1481572940,False,1,0,0.5,0,True,False,False,False,,,
+28302967,"{'steamid': '76561198045984337', 'num_games_owned': 1085, 'num_reviews': 151, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1488379871}",english,"The game mechanic is bad, then the rage quit happen.
+
+✔ The concept of this game is interesting
+❌ Graphic is decent
+❌ voice acting is bad
+❌ controlling is bad
+
+[b][i]How much I like this game[/i] score:[/b] 2/10, nope!
+
+[b][i]How much I want to recommend this game[/i] score:[/b] 4.5/10",1481434260,1491104261,False,4,1,0.461725771427154541,0,True,False,False,False,,,
+28298789,"{'steamid': '76561198027349749', 'num_games_owned': 1458, 'num_reviews': 19, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1481411159}",english,"The concept is great, the execution is terrible.
+
+This could be an amazing game if it was just polished a little more. Primarily the counterintuitive movement, if you jump off a moving vehicle (while being carried along by it) you suddenly lose all speed you had as if you just jumped from a stationary position. This one issue caused me to stop playing due to it feeling like the levels were designed with it in mind.....yet it isn't there.
+
+I think the concept is amazing and if little issues were fixed I would definitely play it, but even the one jumping issue (that caused me to retry one of the first levels over 20 times) is too major of an issue to ignore.
+
+Hope I can one day recomment this, but today I cannot because of its unfinished state.",1481411471,1481411471,False,9,0,0.625034332275390625,0,True,False,False,False,,,
+28292985,"{'steamid': '76561198113554750', 'num_games_owned': 506, 'num_reviews': 9, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1481390843}",german,just no,1481390937,1481390937,False,1,0,0.434371441602706909,0,True,False,False,False,,,
+28288890,"{'steamid': '76561198100107074', 'num_games_owned': 76, 'num_reviews': 4, 'playtime_forever': 106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1547745057}",english,When you finish a level it doesnt go forward on the levels at all. Sad thing and now i wasted an euro for this shitty game?,1481377070,1481377070,False,4,0,0.441271126270294189,0,True,False,False,False,,,
+28286622,"{'steamid': '76561198328107014', 'num_games_owned': 22, 'num_reviews': 7, 'playtime_forever': 86, 'playtime_last_two_weeks': 0, 'playtime_at_review': 86, 'last_played': 1481368439}",english,"this game is very bad.
+sometimes you cant move",1481368556,1481368556,False,3,0,0.431866616010665894,0,True,False,False,False,,,
+28279881,"{'steamid': '76561198056073158', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 86, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1482622698}",english,"When I heard this game was a fusion between Superhot and Clustertruck, I became very excited. While I won't go over everything here, I did make a video on this game, which you should totally check out (winkwinkwinkwinkwinkwinkwink)
+ 
+My Video: https://www.youtube.com/watch?v=vdcn8YoUJwY&t=314s
+
+Anyway, a few key points. (I played this game during the 1.1 update btw)
+
+First of all the game is great, so don't let anything I say change that fact. The main issue I found was that cars too often were too difficult to land on. Many times one would become cought on the sides or land on it just to immediately fall off. I understand that the game should be hard and the platforming is key, but it becomes difficult when it's hard to predict how the cars interact with the player and viceversa. Also there's a bug where the wrench just won't throw, as in it'll play the throwing animation as if it hit something even if there was not anything there. 
+
+I will come back and review again after a few updates have passes, but I like the changes so far, such as the 30% wrench return charge. <3",1481331665,1481331665,True,3,0,0.478244602680206299,0,True,False,False,False,,,
+28254655,"{'steamid': '76561198132874822', 'num_games_owned': 395, 'num_reviews': 52, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1481211003}",schinese,"真是跑酷届的一股泥石流。
+被宣传画面靓丽的风格+减速时间的跑酷模式吸引，看了看喜加一价格就入了。
+进了游戏才发现，这游戏哪是跑酷啊，简直是滑翔机模拟，在空中时间减速时高度不会下降，但是水平速度却不会降低，大多数部分不是通过跑酷而是通过这种滑翔的方式通过（牛顿的棺材板都要压不住了）
+画面没有视频渲染的那么好看，上世纪音效，操作手感差，还有个不明所以而且很难操作的打炮台用的扳手。
+操作手感差体现在踩在东西上面没有画面反馈，让你很难判断（即使已经站在上方了）你是不是站在了地上，是不是该把时间减速关了（因为人物很“滑”，稍微一动就可能掉下去了）
+如果真喜欢玩跑酷类的我还是推荐卡车的那个。
+不说了，我去退款了",1481211431,1481211516,False,2,0,0.523876726627349854,0,True,False,False,False,,,
+28251087,"{'steamid': '76561198027080467', 'num_games_owned': 636, 'num_reviews': 6, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1481195914}",english,"Slowed down time and managed to run up a wall before falling off it, to then fall into nothing but space and the void. 
+Best 0.84 USD I have ever spent. Must try. Buy it for the guy you really don't like too much.",1481196055,1481196055,True,1,1,0,0,True,False,False,False,,,
+28233924,"{'steamid': '76561198318013963', 'num_games_owned': 125, 'num_reviews': 31, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1481106835}",russian,"Всем Привет!
+Сегодня посмотрим игру SkyTime!
+Ей всего 5 дней и вышла она во время моего день рождения.
+Ну а если честно , неплохой инди-раннер где вы сможете попросту расслабиться и уничтожать турели.
+Наше оружие разводной ключ и кидать его в турели очень весело.
+Гемплей мне понравился , графика тоже , озвучка подкачала , системные требования мизерные.
+Советую попробывать  поиграть  и сами оцените прелесть этой игры.
+Есть поддержка геймпада , и есть главный минус : нет русской локализации.
+Цена вполне оправдана и мне нечего добавить
+Моя оценка игры 7.5/10.
+",1481107411,1481107411,True,1,0,0.495902806520462036,0,False,False,False,False,,,
+28232641,"{'steamid': '76561198061066803', 'num_games_owned': 3431, 'num_reviews': 277, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1481062269}",russian,"Вообще, внешне изначально SkyTime чем-то напомнила Mirrors Edge, но как геймплейно, жанрово, так и бюджетно - это игры разного уровня. Хотя есть одно существенное НО, за ту сумму, которую вам предлагают купить её разработчики - это более чем адекватный инди платформер. В котором присутсвует даже сюжет, вы будете играть за профессора, главное оружие которого гаечный ключ, вот так вот) Что бы убить пару-тройку вечерков - игра самое то!",1481099350,1481099350,True,1,0,0.387618452310562134,0,False,False,False,False,,,
+28232544,"{'steamid': '76561198284737282', 'num_games_owned': 2346, 'num_reviews': 214, 'playtime_forever': 253, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4, 'last_played': 1481091807}",russian,"Простенький платформер, выполненный в стиле экшена от первого лица. 
+
+Уровни состоят из небоскребов и парящих машин. В одной руке у нас хронометр, замедляющий время, а в другой оружие - разводной ключ, которым швыряемся и разбиваем пушки. 
+Геймплей увлекательный, но не особо разнообразный. Прыгать и дохнуть придется много (попутно не раз вспоминая автора добрыми словами). Добежать до конца очередного уровня и взорвать все пушки не так уж и легко, но игра чем-то цепляет, и ты проходишь уровень снова и снова.
+
+Цена на игру небольшая. Присутствуют карточки и достижения. 
+Покупкой не разочарован. Поиграл с удовольствием. Хардкорная, но увлекательная игра! Рекомендую!",1481098639,1481098639,True,6,0,0.462495535612106323,0,False,False,False,False,,,
+28232368,"{'steamid': '76561198272374716', 'num_games_owned': 13029, 'num_reviews': 3562, 'playtime_forever': 467, 'playtime_last_two_weeks': 0, 'playtime_at_review': 467, 'last_played': 1481104493}",russian,"«SkyTime» - динамичный раннер - платформер.
+
+Бегаем и прыгаем по крышам, замедляем время, уничтожаем турели. Наше оружие – огромный разводной ключ, которым можно запустить по турелям, а он возвращается обратно, как бумеранг.
+
+В игре приятная графика и неплохая оптимизация, удручает только озвучка. Лично мне не очень нравится голос в игре, и нет возможности его отключить. Я предпочел бы просто субтитры без голоса. 
+
+Геймплей понравился, хоть игра довольно сложная. Падать, умирать под пулями и лазерами будете часто пока не научитесь точно рассчитывать прыжки и моменты, в которые нужно воспользоваться замедлением, чтобы разнести турели. Попасть по турелям проще с близкого расстояния, если кидать издалека, то ключ часто пролетает мимо.
+
+Неплохая игра за небольшие деньги. Любителям прыгалок и стрелялок с крепкими нервами рекомендую!",1481097266,1481097266,True,33,0,0.724313318729400635,0,False,False,False,False,,,
+28231850,"{'steamid': '76561198292019432', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 173, 'last_played': 1481085724}",russian,"SkyTime - минималистичный платформер про легендарного безымянного ученого - мастера-метателя гаечных ключей и грозы турелей с секундомером. Бегаем по платфомам, уворачиваемся от стреляющих турелей и дезинтегрируем их гаечным ключом.
+
+Графика  для инди-игры норм, озвучка мне не очень понравилась. Геймплей вполне способен увлечь на некоторое время, понравилась возможность замедления времени, ну и конечно же метательный разводной ключ. В игре есть поддержка контроллера, коллекционные карточки и достижения для ценителей. Из минусов удручает отсутствие русской локализации.
+
+В целом мне игра понравилась, рекоммендую брать, тем более что цена вполне разумна",1481093531,1481093531,True,5,1,0.454420924186706543,0,False,False,False,False,,,
+28231624,"{'steamid': '76561198114294778', 'num_games_owned': 6406, 'num_reviews': 301, 'playtime_forever': 81, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1481090885}",russian,"SkyTime -  трехмерный инди-платформер от первого лица, в котором вы будете расправляться гаечным ключом с турелями, прыгать по крышам небоскребов и замедлять время.
+
+Сюжет в игре присутствует - вы играете за ученого, который хочет создать машину времени для спасения своей семьи, погибшей при обвале, но для создания машины ему не хватило ключевого компонента, который он крадет у частной военной корпорации Mortech, от которой, собственно, вы и убегаете в игре.
+
+Плюсы игры:
++ оригинальная концепция
++ нетребовательность к ресурсам
++ поддержка контроллера
++ цена
++ достижения и карточки
+
+Минусы игры:
+- озвучка
+- нет русской локализации
+
+Игра мне понравилась, за свою цену вполне приемлемый инди-платформер - любителям инди-игр и платформеров рекоммендую.",1481092223,1481092223,True,4,0,0.466099798679351807,0,False,False,False,False,,,
+28226911,"{'steamid': '76561198251317540', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1480982107}",english,"It's actually pretty good for the price. Somewhat challenging and I really like the mechanics, but I like all mechanics in games that have to do with time travel, anyways.
+
+The only bad thing I have to say is that there are a very few amount of levels, so you may want to hold off until there are more. But this game is great, can't wait to see what the developer does with it!
+
+Oh, another thing. The voice acting is hilariously bad. Sorry, but it's true.",1481062927,1481062927,True,7,1,0.592902779579162598,1,True,False,False,False,,,
+28226286,"{'steamid': '76561198074404956', 'num_games_owned': 0, 'num_reviews': 34, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 147, 'last_played': 1481125764}",finnish,"Olemme ihmisiä, jotka voivat pysäyttää ajan ja meillä on haaste tila, joka on laittaa maailman polvilleen ja yrittää tuhota hänen henkilöllisyytensä. Aseita meillä on vain avaimella, mutta me tiedämme, miten käsitellä sitä. Tällä hetkellä olen vain torneineen, joka oli tuhottava sitten, mitä eivät tiedä, mutta aika dilation se näyttää enemmän näyttäviä. Grafiikka ovat kauniita, mutta värimaailma sekä liian kevyt. Musiikki tyytyväinen!
+Rahaa kääri 2 kappaletta :)",1481060070,1481060070,True,4,0,0.532051265239715576,0,False,False,False,False,,,
+28226221,"{'steamid': '76561198063489584', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 147, 'last_played': 1481125756}",russian,"Почитав отзывы решил прикупить и себе. В общем цена не большая и это только подогрело интерес. 
+Решил купить из-за того что некоторые ребята писали что игра чем то похожа на SUPERHOT, и как фанату той игры мне присмотрелась и это игрушка. В общем по сюжету мы похоже борец с системой которой парализовала всю жизнь в городе и ставит свои правила которые воистину являются бесчеловечными и мы должны разрушить этот мир чтобы построить новый.
+Графика понравилась, хотя нужно поменять освещение, в некоторых местах сильно светло.
+Рекомендую!",1481059745,1481059745,True,4,1,0.519847214221954346,0,False,False,False,False,,,
+28220577,"{'steamid': '76561198014698888', 'num_games_owned': 924, 'num_reviews': 240, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1481034745}",english,"I don't see the appeal.  It's a runner, and not a good one.  Voice acting is terrible.  Animation is terrible. Level design is terrible.  Throwing a wrench at turrets makes no sense.  Why the wrench magically returns to my hand makes even less sense.  This feels and plays like a low-quality production that was rushed to the Steam marketplace before it was ever finished, and now that it's available for purchase it likely [b]never[/b] will be finished.  The product you're left with offers a buggy experience that, while playable, is not very enjoyable.  The game has no purpose and offers no reason to play.",1481037078,1481037830,False,11,0,0.546341598033905029,0,False,False,False,False,,,
+28219262,"{'steamid': '76561198328449114', 'num_games_owned': 208, 'num_reviews': 13, 'playtime_forever': 49, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1504114519}",czech,"COK güzel 
+",1481031654,1481031654,True,4,1,0.539308309555053711,0,True,False,False,False,,,
+28205611,"{'steamid': '76561198125815914', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1515798226}",english,Great fun! This game has a great concept which is very satisfying. There are a few minor bugs and gliches but overall a well made idea!,1480955811,1480955870,True,4,0,0.468716442584991455,0,True,False,False,False,,,
+28204910,"{'steamid': '76561198142019150', 'num_games_owned': 0, 'num_reviews': 249, 'playtime_forever': 185, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1480794984}",russian,"SkyTime - довольно-таки неплохой 3D-платформер,в котором мы имеем возможность управлять временем.
+
+В этой игре мы будем играть за учёного,которому надо спасти свою семью. Мы создаём машину времени,но нам не хватает одного компонента(для питания),именно его нам нужно заполучить.
+
+Уклоняйтесь от пуль,уничтожайте турели и преодолевайте припятствия!
+В описании игры написано,что это смесь Superhot и Clustertruck - К сожалению,не могу это подтвердить или опровергнуть,ибо не играл в эти игры.
+
+В целом,довольно интересный платформер. Могу смело советовать к приобретению.",1480953189,1480953189,True,7,0,0.477153986692428589,0,False,False,False,False,,,
+28203258,"{'steamid': '76561198130680551', 'num_games_owned': 71, 'num_reviews': 10, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1480864903}",hungarian,Bugos de amugy nagyon jó +nehéz de rohadtul az átvezető alatt az a bajom h egy ember hangja van csak ez a bajom még vele amugy nagyon jó.,1480946480,1480946480,True,1,0,0,0,True,False,False,False,,,
+28190914,"{'steamid': '76561198129182253', 'num_games_owned': 196, 'num_reviews': 6, 'playtime_forever': 88, 'playtime_last_two_weeks': 0, 'playtime_at_review': 88, 'last_played': 1480967019}",english,"The aiming's shit but yeah, it's still good.",1480879188,1480879188,True,4,1,0.474430054426193237,0,False,True,False,False,,,
+28190844,"{'steamid': '76561198114125578', 'num_games_owned': 1532, 'num_reviews': 109, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1482273157}",english,"In this game you play as Vault Boy from Fallout. You are equiped with a boomerang Wrench (Boomerwrench?) and the clock from that amazing movie Clockstoppers (2002). You somehow got stuck in the world of the Fifth Element (1997) and you are desperately trying to get home. Will you make it?
+
+Side note: The ""Quit to Desktop"" button doesn't work. That's invalid considering nobody would ever want to quit playing this game!
+
+-Casey",1480878926,1480880539,True,26,27,0.561857938766479492,2,True,False,False,False,,,
+28187271,"{'steamid': '76561197994002775', 'num_games_owned': 6538, 'num_reviews': 1438, 'playtime_forever': 891, 'playtime_last_two_weeks': 0, 'playtime_at_review': 876, 'last_played': 1481114511}",english,"For this price this game is very awesome.
+its not that easy as it looks like in the trailer,
+if u like matrix effect and fast thinking then this game is one u dont want to miss
+
+https://www.youtube.com/watch?v=JBjY9v6q9Ok",1480868294,1480868294,True,11,0,0.460852921009063721,0,False,False,False,False,,,
+28181584,"{'steamid': '76561198017449527', 'num_games_owned': 0, 'num_reviews': 59, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 130, 'last_played': 1480800106}",russian,"АХахахахаха разводной ключ бумеранг))) Интересный ранер\проходилка\бродилка... Все время кудато бежишь, проходишь сложности, на тебя стреляют всякие пушки там.... Купил за недорого, а оказалась прикольная, что бывает редко в последнее время. В общем РЕКОМЕНДУЮ. 9\10 -1 бал за отсутствие русского языка....хотяяя все и так более чем понятно. ладно 10\10 )))",1480850361,1480850361,True,2,0,0.429156631231307983,0,False,False,False,False,,,
+28181185,"{'steamid': '76561198285874692', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1480848739}",english,This is the most stupid game ever!!!,1480848884,1480848884,False,0,2,0.345753908157348633,0,True,False,False,False,,,
+28173346,"{'steamid': '76561198003759035', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 209, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1480802584}",english,"I enjoyed the game.  It's simple, addictive, and fustrating.
+
+https://www.youtube.com/watch?v=oTBBp61WwSI",1480812589,1480812653,True,4,1,0.43154531717300415,0,True,False,False,False,,,
+28165207,"{'steamid': '76561198080455610', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 377, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1531844653}",russian,"разработчик конечно музыку и звуки накладывать умеет но физика повреждений врагов в игре дерьмо полное, и сам игрок взаимодействует с поверхностями не очень. Кидает гаечный ключ криво, иногда ключ меняет форму и вообще летит куда попало. Вообщем дорабатывать и дорабатывать.",1480784552,1480784552,False,1,0,0.480280011892318726,0,False,False,False,False,,,
+28160940,"{'steamid': '76561198016096893', 'num_games_owned': 11947, 'num_reviews': 1422, 'playtime_forever': 575, 'playtime_last_two_weeks': 0, 'playtime_at_review': 575, 'last_played': 1480806706}",russian,"Пришел сантехник к своей любовнице, а тут муж явился. Вот и прошлось ему въeбывaть от греха подальше, да еще и по крышам, а там горе-муж раставил турели, но то все xepня, ведь вы волшебник можете отстановить время и у вас есть супер оружие: газовый ключ-бумернг)
+
+Что то среднее между ранером и паркуром от первого лица. Игра в меру сложная, с красивой графикой (играл на ультра настройках), правда звук не очень, но это на любителя.
+
+Я смотрю, что игра разработана не одним человеком, в том числе есть и русские разработчики, а вот русской локализации (хотя бы текстовой) в игре нет, вот за это минус. Раз вы делаете стоимость игры минимальной, и игра по карману и русским игрокам, то нам (русскоязычным) было бы на много приятней играть с родной локализацией. 
+
+Другие мои обзоры:
+http://store.steampowered.com/curator/25737869/",1480772127,1480772127,True,5,1,0.422561138868331909,2,True,False,False,False,,,
+28158276,"{'steamid': '76561198118858334', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1480808410}",russian,"Интересный 3D платформер с красивой графика и низкой ценой.
+На первый взгляд выглядит просто, но это не так, нужно действовать быстро и точно, иначе придется начать уровень сначала, так как нет никаких чекпоинтов.Немного удивило оружие которым мы будем уничтожать турели, а именно газовый ключ, я не смог приловчится к его бросанию, он все время летел куда-то не туда куда указывал прицел.
+В игре есть способность замедлять время, в замедлении поведение персонажа меняется и нужно быстро переключатся между режимами.Раз 20 пытался пройти четвертый уровень и все таки смог его пройти, но потом застрял на 5, я не попадал по турелям или они взрывали летающие корабли подо мной.
+Единственное что не понравилось это то что при уничтожении турели она слишком ярко взрывается и слепит, не видно куда приземлятся.",1480763659,1480763659,True,2,0,0.517648220062255859,0,False,False,False,False,,,
+28157946,"{'steamid': '76561197999454904', 'num_games_owned': 0, 'num_reviews': 109, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1480762165}",english,"This is one of those situations where I look at the price and I have to ask myself ""was the price of the game worth the experience""
+
+
+There are definitely better time manipulation games out there, but for 1$ this is decent.
+I hope the programmer who made this improves on the experience they have gained from making this and proceeds to make a better one.  It is worth the asking price if you are into this sort of thing.",1480762518,1480762518,True,5,1,0.504081010818481445,0,True,False,False,False,,,
+28153741,"{'steamid': '76561198017531109', 'num_games_owned': 587, 'num_reviews': 63, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'last_played': 1480712402}",russian,"Отличный индиэкшен с карточками и достижениями. Единственный минус, нет русского, а так зашла на ура. Имеет место быть в вашей библиотеке стима. 10/10",1480743938,1480743938,True,3,1,0.513147890567779541,0,False,False,False,False,,,
+28147728,"{'steamid': '76561198044469409', 'num_games_owned': 0, 'num_reviews': 345, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1480713813}",russian,"SkyTime - это обычный раннер, в котором вы играете за потомка Марио. Почему Марио? Да кто будет как сумасшедший скакать по блокам с гаечным ключом, как не потомок знаменитого сантехника?) Собственно, наша задача заключается в том, чтобы допрыгать до последнего блока на уровне и не быть убитым/ столкнутым с этих самых летающих блоков турелями. Игру можно пройти за час. Графика на среднем уровне, что мне резануло ухо - так это озвучка. Сразу видно, что занимался этим любитель. Но озвучки тут немного, так что не так страшно. Настроек в игре минимум, в принципе и настраивать тут особо нечего. Поддерживается контроллер. Хоть на странице не указано - но дропаются и карточки.
+Есть достижения, на них и заострю внимание. Они делятся на 2 типа:
+1. Пройти определенный уровень за определенное время.
+2. На определенном уровне уничтожить определенно количество турелей.
+Выполнить и то и то сразу -практически невозможно. Так что для ""идеальной игры"" придется проходить несколько раз.
+В принципе неплохая разовая игра для убийства времени ( за 24 рубля).",1480715130,1480715130,True,5,0,0.487780332565307617,0,False,False,False,False,,,
+28146216,"{'steamid': '76561198273201683', 'num_games_owned': 687, 'num_reviews': 64, 'playtime_forever': 151, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1492796032}",hungarian,Jó is meg nem is! Nekem bejött csak ha gyorsan fell lehet huzni magad ezen a játékon. kicsit bugos is de attol jó.,1480709853,1480709853,True,3,0,0.478917717933654785,0,False,True,False,False,,,
+28145685,"{'steamid': '76561198075952331', 'num_games_owned': 0, 'num_reviews': 114, 'playtime_forever': 119, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1481297413}",russian,"Сегодня,а именно 2 декабря в стиме вышла игра под названием SkyTime!
+К игре не успели выпустить ни одной обновы,ни одного патча,а уже придраться не к чему!...
+SkyTime - 3д платформер,где ВЫ можете управлять временем.Некая головоломка.
+Тут есть все даже для самых придирчивых и причудливых геймеров.
+Нормальная графика,увлекательный геймплей.Достижения Steam.
+И,самое главная цена - Покажите мне головоломку лучше за 30 рублей!
+Игре есть куда развиваться! Поддержите ее!
+
+0_0 а еще тут есть карточки! Хотя в стиме не пишет!
+_
+P.SЯ рад что я один из первых написал обзор на этот продукт",1480708205,1480708245,True,3,0,0.451688706874847412,0,False,False,False,False,,,
+28143970,"{'steamid': '76561198046861024', 'num_games_owned': 550, 'num_reviews': 5, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1480886770}",english,"Buy this game just for the Voice Acting 10/10.
+In actual fact there isn't much polish and you do clip through things a lot but the actual core gameplay is fun and the movement is pretty entertaining, so for the price you can't really go wrong.",1480703206,1480703206,True,8,4,0.487197279930114746,0,True,False,False,False,,,

@@ -1,0 +1,319 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+160737072,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 222, 'last_played': 1688489851}",english,bad game,1710659205,1710659205,False,0,0,0,0,True,False,False,True,,,
+159225947,"{'steamid': '76561199379365477', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 260, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1708854267}",turkish,pirate sex yok,1708852298,1708852307,False,0,0,0,0,True,False,False,True,,,
+156125885,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 237, 'playtime_last_two_weeks': 0, 'playtime_at_review': 237, 'last_played': 1655035468}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1705446340,1705446340,True,0,0,0.476190477609634399,0,True,False,False,True,,,
+153467199,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1679616469}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702413663,1702413663,True,1,0,0.442028999328613281,0,True,False,False,True,,,
+151360472,"{'steamid': '76561198041885150', 'num_games_owned': 1852, 'num_reviews': 2654, 'playtime_forever': 110, 'playtime_last_two_weeks': 0, 'playtime_at_review': 110, 'last_played': 1455657239}",russian,Yes.,1700756737,1700756737,True,4,0,0.5685158371925354,1,True,False,False,True,,,
+146828270,"{'steamid': '76561198995387103', 'num_games_owned': 6510, 'num_reviews': 3379, 'playtime_forever': 219, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1689235164}",schinese,"光荣大航海7的精神续作
+[spoiler]才怪[/spoiler]
+
+
+鼓励性好评，不推荐。we need chinese, cloud save, Ach. 我们需要中文，云存档，成就。
+
+202211下，t a o宝，支付宝红包，杉果，本平台，本平台充值折扣掉卡，indie gala，fanatical，humble，daily indie game，loot boy，它处自定义包入的本体约3元。爱人如己，目前就这，看以后追评。有中文的游戏请耐心自研体验乐趣，攻略指南尽量不用。不建议使用外挂，插件，作弊之类的，游戏都要这样搞，那现实里那更是如此了。兄弟萌，强烈建议不要第三方平台的小店买y u额，通过饰品等挂steam市场转的，高概率red信乃至封号，且行且珍惜。",1695438979,1695438990,True,1,0,0.280442804098129272,0,True,False,False,True,,,
+145855403,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 250, 'playtime_last_two_weeks': 0, 'playtime_at_review': 250, 'last_played': 1694097359}",english,"A Sirius Game is more crap shovelware from Aldorlea, the asset flipper who's dumped OVER ONE HUNDRED RPG Maker asset flips onto Steam, they pump out an asset flip every two weeks, so they're serial polluters of the Steam store and they do it because they want your money for valueless crap games... and this is no exception.  But it isn't an RPG Maker asset flip, instead, they conned some feckless amateur dev out of a low poly mobile app-esque ripoff of Sid Meier's Pirates! (and we can cross our fingers and hope that Take-Two interactive sues this serial polluter into oblivion). 
+
+Not to be confused with an actual game, this crap mobile app is just a shallow pirate themed shooter as you escort ships around... yeah, it's nothing of value at all, just a shallow mockery of older, yet far more sophisticated PC games.  Again, to understand why such garbage is polluting Steam here, just look at the developers track record of harmful, greedy cash grabs and pollution. 
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+The game features lazy low-polygon ""retro"" assets, making this look like a barely functional 3D game from the 1990s.  It's unclear why the developers weren't able to arrange high quality, high polygon count contemporary assets for the game, and also irrelevant... what matters is that this looks bad as a result of their decisions, a compromise PC gamers shouldn't have to put up with.
+
+The developers didn't design the game for modern gaming PCs, as such the display resolution caps out at 1080p, a very low resolution that became mainstream back in 2006 and became obsolete when 4K entered the mainstream in 2014.  The game simply won't look right on modern gaming displays due to this failure on the part of the developers.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers, or gamers using AZERTY or other international keyboard layouts.  
+
+Some of the defects in the game can be attributed to the choice of using the video game construction kit/toolset, Microsoft XNA Game Studio.  This is a very poor quality toolset sometimes used by amateur/unskilled developers as it doesn't require advanced game development skills, but unfortunately has very limited capabilities.  Just as you can't make a silk purse out of a sows ear, you can't make a great video game if you use a terrible engine.
+
+This looks and feels like a mobile app, but it doesn't seem to have made it to the app stores.  It's unclear why this was put on Steam instead of the app stores it seems to have been designed for.  Maybe it was removed, maybe it was rejected by Apple and Google (they do have more rigorous quality standards than Valve does for Steam, after all).
+
+Regardless, for all intents and purposes A Sirius Game might as well be a mobile app, it has the same limitations and dumbed down qualities.  It's impossible to recommend such a game to PC gamers.  We don't spend all this money building gaming rigs so we can pretend they're iPhones and play games that might as well be mobile apps.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a very healthy spike in player counts for the game.  But this only appears around the same time that trading cards were applied to the game... so this is just card idlers getting their cards and moving on.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+A Sirius Game has the almost comically optimistic (if it wasn't so sad) price of around $5 USD, it's not worth it given the defects and shortcomings with the product, especially considering the sheer number of completely free, much higher quality games on Steam.
+",1694098250,1694098397,False,3,1,0.215498790144920349,0,True,False,False,True,,,
+144151344,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 281, 'playtime_last_two_weeks': 0, 'playtime_at_review': 281, 'last_played': 1456043322}",russian,нет,1691992661,1691992661,False,0,0,0,0,True,False,False,True,,,
+141804135,"{'steamid': '76561198049823783', 'num_games_owned': 1712, 'num_reviews': 1265, 'playtime_forever': 126, 'playtime_last_two_weeks': 0, 'playtime_at_review': 126, 'last_played': 1689032225}",latam,"Es un juego similar al Windwards, sos un barquito pirata, compras municiones y mejoras de cañones al barco, vas tripulandolo por las aguas y haciendo misiones y enfrentandote contra otros NPS, muy aburrido, no destaca en nada, sonidos, ni musica, es totalmente olvidable y muy basico.
+
+Safa apenas algo en graficos.
+
+2.5  - Lore Pobrisimo y apenas la musica del video de promocion safa.",1689044064,1689044064,False,0,0,0,0,True,False,False,True,,,
+140999233,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1688120693}",spanish,"┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌
+┌┘┌┘┌┘┌┘┌┘┌┘┌███████████████┌┘┌┘┌┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘┌┘███████████████████████┘┌┘┌┘┌┘┌
+┌┘┌┘┌┘█████████████┘┌┘█████████████┘┌┘┌┘
+┘┌┘┌┘██████┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌██████┘┌┘┌
+┌┘┌┘████┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘███┘┌┘
+┘┌┘███┘┌┘┌┘┌┘┌┘┌┘┌┘███┘┌┘┌┘┌┘┌┘┌┘┌┘███┘┌
+┌┘┌████┘┌┘┌┘┌┘█████████████┘┌┘┌┘┌┘████┌┘
+┘┌┘┌████┘┌┘┌█████████████████┌┘┌┘████┌┘┌
+┌┘┌┘┌████████████┘┌┘┌┘┌┘┌███████████┌┘┌┘
+┘┌┘┌┘┌┘███████████████████████████┘┌┘┌┘┌
+┌┘┌┘┌┘┌┘█████████████████████████┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘███┘┌┘┌┘┌█████████┌┘┌┘┌┘███┘┌┘┌┘┌
+┌┘┌┘┌┘███┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘███┘┌┘┌┘
+┘┌┘┌┘████┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┌███┘┌┘┌
+┌┘┌┘┌███┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌███┌┘┌┘
+┘┌┘┌███┌┘┌┘┌┘█████┘┌┘┌┘┌████┘┌┘┌┘┌███┌┘┌
+┌┘┌┘███┘┌┘┌┘██████┌┘┌┘┌██████┘┌┘┌┘███┘┌┘
+┘┌┘┌███┌┘┌┘┌███████┌┘┌███████┌┘┌┘┌███┌┘┌
+┌┘┌┌██┌┘┌┘┌┘███████┘┌┘███████┘┌┘┌┘┌███┌┘
+┘┌┘███┘┌┘┌┘┌██████┘┌┘┌┘██████┌┘┌┘┌┘███┘┌
+┌┘┌███┌┘┌┘┌┘┌┘███┘┌┘┌┘┌┘████┌┘┌┘┌┘┌███┌┘
+┘┌┘███┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘███┘┌
+┌┘┌███┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌███┌┘
+┘┌┘┌███┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌███┌┘┌
+┌┘┌┘███┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘███┘┌┘
+┘┌┘┌███┌┘┌┘┌██┘┌┘┌┘┌┘┌┘┌┘┌┌██┌┘┌┘┌███┌┘┌
+┌┘┌┘┌███┌┘┌┘████┌┘┌┘┌┘┌┘┌████┘┌┘┌███┌┘┌┘
+┘┌┘┌┘███┘┌┘┌┘██████┌┘┌██████┘┌┘┌┘███┘┌┘┌
+┌┘┌┘┌┘███┘┌┘┌┘█████████████┘┌┘┌┘███┘┌┘┌┘
+┘┌┘┌┘┌┘███┘┌┘┌┘┌█████████┌┘┌┘┌┘███┘┌┘┌┘┌
+┌┘┌┘┌┘┌┘████┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌████┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘┌┘████┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌████┘┌┘┌┘┌┘┌
+┌┘┌┘┌┘┌┘┌┘██████┌┘┌┘┌┘┌┘┌██████┘┌┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘┌┘┌┘┌█████████████████┌┘┌┘┌┘┌┘┌┘┌
+┌┘┌┘┌┘┌┘┌┘┌┘┌┘█████████████┘┌┘┌┘┌┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘███████┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌
+┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘
+┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌┘┌
+",1688156454,1688156454,True,0,0,0,0,True,False,False,True,,,
+137270288,"{'steamid': '76561198884572897', 'num_games_owned': 0, 'num_reviews': 212, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1681816187}",koreana,레알 저질 스잡겜이군.. 당연히 비추...,1682422336,1682422336,False,3,0,0.554275929927825928,0,True,False,False,True,,,
+115588844,"{'steamid': '76561197995576278', 'num_games_owned': 255, 'num_reviews': 41, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1652788486}",russian,"брал на распродаже, получил карточки, тут претензий нет. сама игра.... эх язык только английский хрен с ним прочитать можно, захожу в настройки игра сразу вылетает пришлось в окне играть. сам геймплей до ужаса прост, напомнило мне игру на телефоне которую я играл лет 15 назад, правда тут функций побольше но где то рядом.
+в общем 3/10.",1652788463,1652788463,False,0,0,0,0,True,False,False,False,,,
+112793312,"{'steamid': '76561198217318681', 'num_games_owned': 0, 'num_reviews': 1730, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1521406308}",german,"Ein abenteuer spiel für zwischendurch.
+ich empfehle es nicht.
+lanweiliges spiel.
+musik ist in ordnung.
+der preiß ist im angebot akzeptabel.
+hat steam karten.
+",1648205989,1648205989,False,0,0,0,0,True,False,False,False,,,
+96332907,"{'steamid': '76561198093298055', 'num_games_owned': 0, 'num_reviews': 1761, 'playtime_forever': 207, 'playtime_last_two_weeks': 0, 'playtime_at_review': 207, 'last_played': 1487927748}",russian,"ПОБОЛЬШЕ БЫ ТАКИХ, КАК ТЫ.
+",1627195549,1627195549,True,2,0,0.29450148344039917,1,True,False,False,False,,,
+92972765,"{'steamid': '76561198137285867', 'num_games_owned': 0, 'num_reviews': 2553, 'playtime_forever': 414, 'playtime_last_two_weeks': 0, 'playtime_at_review': 414, 'last_played': 1622522117}",english,6/10,1622522175,1622522175,True,0,0,0,0,True,False,False,False,,,
+92541787,"{'steamid': '76561197983267187', 'num_games_owned': 5317, 'num_reviews': 888, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1621891543}",english,"Has a working menu with settings and even a tutorial which is helpful. It is clear that some effort has been put into this, but I can't recommend it because I didn't enjoy it.",1621891617,1621891617,False,3,0,0.531968176364898682,0,True,False,False,False,,,
+91021378,"{'steamid': '76561199103341229', 'num_games_owned': 290, 'num_reviews': 4, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1613519601}",spanish,buenisimo los barquitos todos giles,1619553700,1619553700,True,0,0,0,0,True,False,False,False,,,
+81945568,"{'steamid': '76561198308628242', 'num_games_owned': 2811, 'num_reviews': 950, 'playtime_forever': 192, 'playtime_last_two_weeks': 0, 'playtime_at_review': 103, 'last_played': 1607596636}",brazilian,Análise.,1607582918,1607582918,True,7,0,0.51742851734161377,0,True,False,False,False,,,
+81016246,"{'steamid': '76561199059727722', 'num_games_owned': 131, 'num_reviews': 39, 'playtime_forever': 205, 'playtime_last_two_weeks': 0, 'playtime_at_review': 205, 'last_played': 1606483304}",english,The women in this game have mustache :|,1606639149,1606639149,True,2,2,0.51803278923034668,0,True,False,False,False,,,
+76239717,"{'steamid': '76561198259181455', 'num_games_owned': 0, 'num_reviews': 63, 'playtime_forever': 395, 'playtime_last_two_weeks': 0, 'playtime_at_review': 395, 'last_played': 1600542135}",english,Not my type of game,1600542257,1600542257,False,0,0,0.394031286239624023,0,True,False,False,False,,,
+75554863,"{'steamid': '76561198398375136', 'num_games_owned': 433, 'num_reviews': 195, 'playtime_forever': 202, 'playtime_last_two_weeks': 0, 'playtime_at_review': 175, 'last_played': 1599419132}",turkish,s,1599413443,1599413443,False,0,0,0,0,True,False,False,False,,,
+72564213,"{'steamid': '76561198009032111', 'num_games_owned': 551, 'num_reviews': 749, 'playtime_forever': 485, 'playtime_last_two_weeks': 0, 'playtime_at_review': 485, 'last_played': 1495972436}",english,The earth is 4.6 billion years old and we managed to exist at the same time as this masterpiece.,1594561801,1602334834,True,0,1,0.344822108745574951,0,True,False,False,False,,,
+62670341,"{'steamid': '76561199008758760', 'num_games_owned': 16, 'num_reviews': 2, 'playtime_forever': 3952, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1032, 'last_played': 1583284850}",russian,Ну вообщем время поубивать может..,1580379630,1580379630,True,0,0,0,0,True,False,False,False,,,
+62033653,"{'steamid': '76561198286799269', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 246, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1579551051}",turkish,leş arada duraksamalar falan oluyor,1579358749,1579358749,False,0,0,0,0,True,False,False,False,,,
+49490138,"{'steamid': '76561198006886759', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 219, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1552251326}",english,"At first, this game seemed like it would be fun.  Unfortunately, it is littered with so many bugs that I found it frustrating.  
+
+First, aiming your cannons can be hard, since the cursor looks like a hook, so you have to guess at where the center of the hook is to hit anything.  
+
+Second, some of the quests are seriously bugged.  It is often impossible to select a quest in the quest journal, as for some reason they bug out.  Also, there are some quests that reset when unselected, and sometimes getting a new quest will de-select your current quest.  And sometimes, a quest might say ""go back to X port"" and when you arrive, nothing happens (this means you have to start it over, and that doesn't always work).  I found all of these bugs converged on the same quest, and rage-quit as a result.  
+
+Third, the pathfinding is strange.  It is based on a grid pattern, and your ship takes whatever pathe the game decides is the best path, but I often find that means I end up sailing through shallow water (which is slower than deeper water).  
+
+All in all, this game was not finished at release.  I usually dont have a problem with games published by Aldorlea Games, but in my eyes, this one has hurt their credibility.  I recommend avoiding this one at all costs.",1552252150,1552252150,False,4,0,0.541389226913452148,0,True,False,False,False,,,
+48223685,"{'steamid': '76561198071780191', 'num_games_owned': 0, 'num_reviews': 175, 'playtime_forever': 134, 'playtime_last_two_weeks': 0, 'playtime_at_review': 98, 'last_played': 1547079495}",turkish,"Hileyle oynayıp bitirdim , güzel oyun 1 saate temiz.",1547126482,1547126482,True,0,1,0.297619044780731201,0,True,True,False,False,,,
+42462878,"{'steamid': '76561198046742781', 'num_games_owned': 0, 'num_reviews': 74, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1517515327}",english,"I ignored the negative reviews about this game because it looked like something I'd like but I probably should have listened.  I got this for 49 cents and looking I see that it's still on sale for 49 cents (which is a 90% discount) so either that's a coincidence or it hasn't gone off sale since I bought it, which has been a while.
+
+I didn't find most of the problems deal-breaking but the ships travel speed is REALLY slow and the title character is a grade A jerk. I gave up when I sat through Sirius being an entitled two year old, then was faced with that slow, slow ship back to the last location.
+
+Even if it looks like you might like it, the negative reviews are NOT exaggerating.  Even if you're morbidly curious, this isn't even enjoyable from the stand-point of it being a bad game.",1528005831,1528005831,False,5,0,0.57053142786026001,0,True,False,False,False,,,
+40947131,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 254, 'playtime_last_two_weeks': 0, 'playtime_at_review': 254, 'last_played': 1521702439}",romanian,Very nice game,1521585480,1521585480,True,1,0,0.448588341474533081,0,True,False,False,False,,,
+40039458,"{'steamid': '76561198172925593', 'num_games_owned': 14023, 'num_reviews': 4533, 'playtime_forever': 286, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1518506365}",schinese,"很粗糙的一款海上冒险游戏
+基本控制非常简单，左键移动，右键攻击，攻击速度就是你的点击速度...敌人肯定没有你攻击频繁
+任务基本上就是让你从一个地方开到另一个地方，护送护送，打劫打劫什么的
+最傻的一点就是主线任务必须你要在任务菜单里打上勾，否则让你却对话什么的任务根本就不会触发
+还是的敌船就是一发炮弹不够再来一发，如果还是不够就再来一发，纯点击，没有任何战术可言",1518506545,1518506545,False,2,0,0.523809552192687988,0,True,False,False,False,,,
+38276689,"{'steamid': '76561198164871081', 'num_games_owned': 940, 'num_reviews': 839, 'playtime_forever': 308, 'playtime_last_two_weeks': 0, 'playtime_at_review': 255, 'last_played': 1644174966}",english,The gameplay is difficult but it's so much fun once you get used to it :),1513160034,1513160034,True,3,0,0.541571915149688721,0,True,True,False,False,,,
+35922066,"{'steamid': '76561198436094162', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 263, 'playtime_last_two_weeks': 0, 'playtime_at_review': 263, 'last_played': 1508706165}",turkish,Basit gibi sanki,1508682161,1508682161,False,0,1,0,0,True,False,False,False,,,
+35749509,"{'steamid': '76561198377745596', 'num_games_owned': 226, 'num_reviews': 5, 'playtime_forever': 118, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1508347100}",english,i am finished to game very valuable and important game i loved game story,1508078641,1508078641,True,2,0,0.45526355504989624,0,True,False,False,False,,,
+34467443,"{'steamid': '76561198357261355', 'num_games_owned': 505, 'num_reviews': 9, 'playtime_forever': 138, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1562275222}",turkish,Oynanışı zor fakat alışınca çok zevkli oluyor :),1503607016,1503607016,True,0,0,0,0,True,False,False,False,,,
+33800140,"{'steamid': '76561198052978243', 'num_games_owned': 2644, 'num_reviews': 36, 'playtime_forever': 607, 'playtime_last_two_weeks': 0, 'playtime_at_review': 607, 'last_played': 1500941276}",brazilian,"O jogo é sobre Sirius, a ovelha negra de uma família de mercadores, que resolveu sair de casa e navegar.
+O jogo apresenta gráficos coloridos em 3D, nada demais, mas bonitos. Possui maior jogabilidade com o mouse, possui uma boa historia, pelo preço é aceitavel, mas o jogo em si é repetitivo, você pega as missões para escoltar barcos, e vai atirando nos piratas, ganha dinheiro, melhora seu navio, vai para partes mais dificeis do mapa, que é um mundo semi aberto, após abrir cada parte do mapa é possivel navegar livremente. 
+E é basicamente isso, se gosta de piratas, navios o jogo é relativamente agradavel.",1501039961,1501039961,True,3,0,0.567901253700256348,0,True,False,False,False,,,
+33613371,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 398, 'playtime_last_two_weeks': 0, 'playtime_at_review': 398, 'last_played': 1500315351}",english,"Tags: Tycoon&Simulator&Sim&City
+Narrower Tags: Pirate Simulation
+Additional Tags: Delete Local Content & Remove from Library
+
+TLDR: Firmly low budget. Get Sid Meier's Pirate for a better sim. Get Zubmariner for better top down ship combat with quests
+
+A Sirius game is extremely slow paced, you can fire your cannons at machine gun speeds, the world is oversaturated in bright lights that give this a fake cheap look. The world feels extremely uninteractive, only the occasional power up or hotspot shows up. Coupled with the slow movement this hurts interactivity quite a bit. Tutorial was slow and clunky. User interface was cluttered and unattractive and did not offer a good flow for your actions. Camera and ship controls did not feel fluid and well thought out. The writing for the story part was decent but faltered in a few places, especially in character depth where everyone is uni-dimensional with silly motivations. Which leads me to say that the protag is not terribly interesting. I am removing this title for library declutter.",1500315558,1509674877,False,0,0,0,0,True,False,False,False,,,
+31834123,"{'steamid': '76561198098998682', 'num_games_owned': 114, 'num_reviews': 3, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1488970048}",schinese,中文都没有,1495167853,1495167853,False,0,0,0,0,True,False,False,False,,,
+31764326,"{'steamid': '76561198063882892', 'num_games_owned': 222, 'num_reviews': 58, 'playtime_forever': 663, 'playtime_last_two_weeks': 0, 'playtime_at_review': 656, 'last_played': 1496294970}",swedish,What the fuck is this?,1494834920,1494834920,False,0,0,0.476190477609634399,0,True,False,False,False,,,
+31564879,"{'steamid': '76561198349039974', 'num_games_owned': 89, 'num_reviews': 185, 'playtime_forever': 181, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1480897219}",english,"──────██────────────██
+───███▓▓█─██────██─█▓▓███
+──█▒▒█▓▓██▒▒█──█▒▒██▓▓█▒▒█
+──█▒▒███░█▒▒████▒▒█░███▒▒█
+─████░░░░░███▓▓███░░░░░███​█
+█▓▓█░░░░░░░░█▓▓█░░░░░░░░█▓​▓█
+█▓▓█░░░░░░░░░██░░░░░░░░░█▓​▓█
+─██░░░░░░░░░░░░░░░░░░░░░░█​█
+█▒▒█░░▄██▄██▄░░▄██▄██▄░░█▒​▒█
+█▒▒█░░▀██▄██▀░░▀██▄██▀░░█▒​▒█
+─████░░░▀█▀░░░░░░▀█▀░░░███​█
+──█▓▓█░░░░░░░░░░░░░░░░░█▓▓​█
+──█▓▓█░░▀▄▄▄▄▄▄▄▄▄▄▀░░░█▓▓​█
+───████░░░▄▄▄▄▄▄▄▄♥░░████
+────█▒▒█░░░░░░░░░░░░█▒▒█
+────█▒▒███░░░░░░░░███▒▒█
+─────███▓▓█░░░░░░█▓▓███
+───────█▓▓███░░███▓▓█
+────────███▒▒██▒▒███
+──────────█▒▒██▒▒█
+───────────██▓▓██
+────────────█▓▓█
+─────────────██
+",1494009560,1494009560,True,4,1,0.263303816318511963,0,True,False,False,False,,,
+31003866,"{'steamid': '76561198271547466', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1475312070}",hungarian,"Senkinek sem ajánlom. 
+30 centért sem éri meg, legalább a játékkártyákból visszajött egy kicsi az árából.
+",1491595866,1491595866,False,0,0,0,0,True,False,False,False,,,
+30755918,"{'steamid': '76561198059259945', 'num_games_owned': 2735, 'num_reviews': 1725, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1491029506}",russian,Nice ),1490548219,1490548219,True,0,0,0.455255955457687378,0,True,False,False,False,,,
+30162111,"{'steamid': '76561198077432213', 'num_games_owned': 1845, 'num_reviews': 506, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1451906978}",russian,Сама рожа бабы с усами на картинке говорит не покупай эту игру. Не надо,1488014654,1488014654,False,3,6,0.443854629993438721,0,True,False,False,False,,,
+29745333,"{'steamid': '76561198133170269', 'num_games_owned': 1796, 'num_reviews': 102, 'playtime_forever': 387, 'playtime_last_two_weeks': 0, 'playtime_at_review': 387, 'last_played': 1455297578}",schinese,"我们需要中文
+We need Chinese
+中国語は必要
+Nous avons besoin de chinois
+Wir brauchen chinesisch
+Necesitamos chino
+potrzebujemy chin
+Precisamos de chinês
+Нам нужно китайский 
+เราต้องการภาษาจีน
+Χρειαζόμαστε κινέζικα",1486401610,1486401610,True,0,0,0.361372292041778564,0,True,False,False,False,,,
+29461789,"{'steamid': '76561198286017559', 'num_games_owned': 2641, 'num_reviews': 416, 'playtime_forever': 201, 'playtime_last_two_weeks': 0, 'playtime_at_review': 201, 'last_played': 1485214542}",english,"This is game is so underrated, like what the hell? I, myself didn't even expect much of this game but it just surprises you with what it has to offer from content, Eagle ship? Freaking shark ship, what the hell is that? The graphics are charming, giving you that old game nostalgia, you like ships, sailing, rpg, action and pirates? The this game is for you.
+
+The RPG elements this game has to offer puts a ton more fun into the game, for hours of enjoyment for everyone, I recommend this game, as it's just around 5$",1485263017,1485263017,True,2,1,0.432980567216873169,0,False,False,False,False,,,
+29455242,"{'steamid': '76561198053757623', 'num_games_owned': 3175, 'num_reviews': 210, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1485106587}",english,Win 10 x64 - game crashes when I click Settings menu. Can't play in fullscreen. UI is way to small to play in a window that is  less than 1/4 of my screen in size.,1485233167,1485233167,False,0,0,0.417501986026763916,0,True,False,False,False,,,
+28657956,"{'steamid': '76561198099089625', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1482143611}",english,"shit control,I hate that game",1482724923,1482724923,False,0,0,0.361098438501358032,0,True,False,False,False,,,
+28434489,"{'steamid': '76561198352204301', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1481936545}",english,Purchased since it looked like Pirates!  Not bad for the price.,1482011656,1482011656,True,1,0,0.456851482391357422,0,False,False,False,False,,,
+25982289,"{'steamid': '76561198285605207', 'num_games_owned': 2608, 'num_reviews': 534, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1476550621}",schinese,"嗯
+
+[spoiler]习惯性拇指向上，不具参考性[/spoiler]",1476193741,1476193741,True,0,2,0,0,True,False,False,False,,,
+25623566,"{'steamid': '76561198049226389', 'num_games_owned': 1703, 'num_reviews': 83, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1474482261}",english,"Awful, dull game, movement is painfully slow. Don't waste your time or money on this shite.",1474482370,1474482370,False,1,0,0.440380662679672241,0,False,False,False,False,,,
+24799260,"{'steamid': '76561197994995502', 'num_games_owned': 0, 'num_reviews': 186, 'playtime_forever': 311, 'playtime_last_two_weeks': 0, 'playtime_at_review': 311, 'last_played': 1470771427}",english,If you like Pirates! you can't pass by this game. It even has advantages over Pirates! — no stupid dances and captain fights and surprisingly interesting story. Controls is not perfect but bearable.,1470773105,1470773105,True,11,4,0.564172923564910889,2,True,False,False,False,,,
+24440029,"{'steamid': '76561198268537934', 'num_games_owned': 0, 'num_reviews': 243, 'playtime_forever': 691, 'playtime_last_two_weeks': 0, 'playtime_at_review': 691, 'last_played': 1469098838}",english,"This game has too many bugs!
+
+The worst one is: If you completed the quest A POOPY JOB and dock the ship at Ibul, then the game will suddenly crashed and return to desktop! So the player will never win all of trophies!",1469098410,1471403545,False,0,0,0.414771586656570435,0,True,False,False,False,,,
+24409505,"{'steamid': '76561198138206475', 'num_games_owned': 2038, 'num_reviews': 192, 'playtime_forever': 102, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1473891957}",polish,"I go to settings and window appears ""A Sirius Game has stopped working"" !!!!!!!!!",1468941120,1468941120,False,1,1,0.43637382984161377,0,True,False,False,False,,,
+23367527,"{'steamid': '76561198028570547', 'num_games_owned': 0, 'num_reviews': 2563, 'playtime_forever': 187, 'playtime_last_two_weeks': 0, 'playtime_at_review': 187, 'last_played': 1464985353}",german,"""A Sirius Game"" ist ein stark vereinfachtes ""Pirates"" in Kombination mit ""Windward"" und das Ganze mit kleiner Story und Magie.
+
+Die Kombination wirkt merkwürdig? Ist sie auch.
+
+Wir sind Sirius, der mißratene und verstoßene Sohn eines Kaufmanns und müssen uns nun allein durch Inselwelten schlagen. Also schnappen wir uns die nächstbeste Schalluppe und schalluppen los, kaufen und verkaufen Waren in Häfen, verbessern unser Schiff und unsere Kanonen, erledigen kleine Aufträge und beschießen böse Piraten.
+
+Wie schon das Wortspiel im Namen des Spiels erahnen läßt, will es nicht allzu ernst genommen werden. Und so gibt es auch wilde Zaubersprüche oder Schiffe in Haiform. Das Problem: die Kombination ist so beliebig, der Stil so unklar und platt, daß das Ganze zu einem zusammengewürfelten Etwas verkommt.
+
+Mechanisch ist Alles sehr rudimentär und runtergedummt. Die wenigen Karten sind winzig, haben vielleicht jeweils drei Städte. Die anderen Schiffe fahren planlos in der Gegend rum. Kanonen nachladen? Gibt es nicht. Wir ballern einfach mit Button-Mashing auf die Piraten ein. Schöner Nebeneffekt: dadurch wird das Upraden gleich mal ziemlich unnötig. Handel zwischen Städten? Wozu? Man kann auch einfach kurz aus dem Hafen raus und wieder an denselben andocken. Oft haben sich dann die Preise erhöht. Andere Mechaniken, die schon ""Pirates"" kannte, wie etwa Wind oder Landbewegungen auf einer Insel? Fehlanzeige.
+
+Es wirkt so, als sollte jemand in zwei Wochen ein ""Pirates""-Verschnitt für ein altes Smartphone entwickeln. Genauso unausgereift und undurchdacht sind alle Mechaniken. Ausgelegt darauf, daß man eh nur kurz spielt und deswegen die Schwächen nicht so auffallen. Und auch Grafik und Sound bewegen sich auf diesem niedrigen Niveau. 
+
+Die winzige, in Standbildern und englischen Texten präsentierte Story ist dabei noch das Beste. Nicht daß sie gut wäre, sie ist nur in ihrer albernen Plattheit schon wieder leicht unterhaltsam.
+
+""A Sirius Game"" will witzig sein, will unterhalten und steht sich dabei aber ständig selber im Weg. 
+
+[h1]Wertung:[/h1]
+2/10 Atmosphäre
+4/10 Story
+2/10 Grafik
+4/10 Sound
+2/10 Spielmechanik
+2/10 Balancing
+3/10 Spielspass
+
+[h1]Fazit:[/h1]
+Sehr schwacher ""Pirates""- oder ""Windward""-Verschnitt, der durch fehlende Qualität in allen Bereichen gnadenlos absäuft.
+
+[h1][b]3/10 Gesamtwertung",1464984515,1464984604,False,5,0,0.367800325155258179,0,True,False,False,False,,,
+22759933,"{'steamid': '76561198087610111', 'num_games_owned': 0, 'num_reviews': 60, 'playtime_forever': 504, 'playtime_last_two_weeks': 0, 'playtime_at_review': 504, 'last_played': 1462204892}",russian,"игра детсва или её клон в любом случае , попалась мне она на диске с сборником игр
+вылетает когда заходишь в настройки, наверняка из-за этого и не могу сделать фулскрин никаким образом
+огорчен экономикой, думал что можно торговать между островами покупая и продавая одинаковые товары с разной стоимостью в городах, но нихрена",1462188000,1462191229,True,3,0,0.49332621693611145,0,True,False,False,False,,,
+22701795,"{'steamid': '76561198032476027', 'num_games_owned': 0, 'num_reviews': 951, 'playtime_forever': 189, 'playtime_last_two_weeks': 0, 'playtime_at_review': 189, 'last_played': 1461933871}",russian,при попытке зайти в настройки игра сваливается,1461923313,1461923313,False,5,1,0.440790057182312012,0,True,False,False,False,,,
+22274611,"{'steamid': '76561198191726577', 'num_games_owned': 7284, 'num_reviews': 983, 'playtime_forever': 333, 'playtime_last_two_weeks': 0, 'playtime_at_review': 333, 'last_played': 1453319177}",russian,Чудная игра с элементами RPG.,1459973170,1459973170,True,6,1,0.463340401649475098,0,True,False,False,False,,,
+21822759,"{'steamid': '76561198281049420', 'num_games_owned': 0, 'num_reviews': 130, 'playtime_forever': 1483, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1483, 'last_played': 1455713486}",russian,0/10,1457901370,1457901386,False,1,0,0.450998187065124512,0,True,False,False,False,,,
+21775694,"{'steamid': '76561198023274041', 'num_games_owned': 1643, 'num_reviews': 171, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1451013490}",ukrainian,"Гарно виконана непогана гра оріентована більше на шанувальників пригодницького жанру.
+",1457735137,1457735137,True,2,0,0.522874116897583008,0,True,False,False,False,,,
+20663898,"{'steamid': '76561198059871439', 'num_games_owned': 0, 'num_reviews': 413, 'playtime_forever': 254, 'playtime_last_two_weeks': 0, 'playtime_at_review': 254, 'last_played': 1453287861}",german,"✿ Inhalt:
+A Sirius Game handelt rund um Sirius, den missratenen Sohn, der sich von seiner Familie abwendet, um sein Leben fortan auf See mehr Sinn zu geben.
+
+
+[+]
+□ ab und an unterhaltendene Dialoge
+□ Es gibt ein Schiff das aussieht wie ein Hai - alle Mal ein begeistertes ""Woooow"", bitte
+
+[-]
+□ nicht die beste grafische Leistung
+□ die aus zuführenden Techniken erinnern, nicht immer unbedingt an ein Piratenleben, das Spiel macht mäßig Spaß
+□ die Schiffe sind auch nicht gerade schnell - Boring Faktor +10
+
+
+✿ Fazit:
+Ein Spiel, das vor allem in seinen Haupthandlungen so langweilig ist, wie A Sirius Game, muss man sich nicht unbedingt haben. Die Dialoge können noch minimal unterhaltsam sein, aber das war's auch schon.",1453398243,1453398243,False,5,1,0.571790754795074463,0,True,False,False,False,,,
+20589465,"{'steamid': '76561198063144919', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1452895650}",english,"This game has a lot of potential, but the controls make it more frustrating than fun. The left mouse button controls movement, you rotate your view by pressing the scroll wheel, and you fire at pirates with the right button. Any one of which makes sense, but during combat it is unwieldy to say the least. If they update the controls I will revisit this review, but for now, it just isn't fun.",1453053311,1453053311,False,6,0,0.520380556583404541,0,True,False,False,False,,,
+20440641,"{'steamid': '76561198060947404', 'num_games_owned': 1046, 'num_reviews': 46, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 220, 'last_played': 1451706729}",english,"A SHARK BATTLESHIP! Need I say more? Not satisfied? Fine.. when I died it said ""you killed Sirius, want a cookie?""",1452408559,1452408559,True,3,2,0.38244926929473877,0,True,False,False,False,,,
+20358327,"{'steamid': '76561198067891330', 'num_games_owned': 8194, 'num_reviews': 202, 'playtime_forever': 224, 'playtime_last_two_weeks': 0, 'playtime_at_review': 224, 'last_played': 1452223464}",english,"[h1]Summary:[/h1]
+A Sirius Game is a game where you take control of Sirius, a bad guy from family of traders, who decides to leave home and... sail until he die, trading and escorting ships meanwhile. Is that all? No, you can shoot your cannons to protect others, you can even cast magic! But now the important question - is it fun to play the role of Sirius, doing mostly a boring messenger work combined with repetitive cannon shooting to protect NPC ships? Not at all. Only thing worth mentioning and praising is the way story is being presented, with dialogues in style you may know from visual novels.
+
+[h1]Pros:[/h1]
+- [b]Story parts[/b]. I guess this is the reason why Aldorlea Games took this game under their publishing, the character and background artworks are nice, same applies to dialogues.
+- Mediocre 3D graphics.
+
+[h1]Cons:[/h1]
+- [b]Boring[/b]. Ships are slow and the sea combat is just average relatively for the genre.
+- Controls with keyboard are awful, but mouse control is just a little better.
+- Everytime I tried to get to the options menu the game crashed, so I had to play it only in small window.",1452108838,1452109831,False,39,0,0.77188950777053833,0,False,False,False,False,,,
+20123973,"{'steamid': '76561198095987789', 'num_games_owned': 713, 'num_reviews': 112, 'playtime_forever': 245, 'playtime_last_two_weeks': 0, 'playtime_at_review': 245, 'last_played': 1451502408}",russian,Незапускаеться!!!!!!((((((((,1451502502,1451502502,False,1,1,0.347187340259552002,1,True,False,False,False,,,
+20071239,"{'steamid': '76561198073289890', 'num_games_owned': 0, 'num_reviews': 872, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 154, 'last_played': 1450884136}",russian,"Чудная игра с элементами RPG. Можно смело брать, пока находится на скидке! Порадует вас интересными морскими боями, торговлей и потрясным сюжетом! Годно!",1451402731,1451402731,True,0,0,0,0,True,False,False,False,,,
+20066358,"{'steamid': '76561198033364706', 'num_games_owned': 2253, 'num_reviews': 51, 'playtime_forever': 307, 'playtime_last_two_weeks': 0, 'last_played': 1452130800}",russian,"Отличная игрушка с элементами RPG. За такую цену тут вам и хороший сюжет, морские бои, торговля и конечно же карточки, которые несомненно окупят ваше приобретение =) Брать пока скидка! Приятной игры =)",1451392247,1451392247,True,14,2,0.494691044092178345,0,False,False,False,False,,,
+19940197,"{'steamid': '76561197963927864', 'num_games_owned': 0, 'num_reviews': 184, 'playtime_forever': 246, 'playtime_last_two_weeks': 0, 'playtime_at_review': 246, 'last_played': 1451064850}",japanese,"カジュアルな大航○時代的なゲーム
+船長として交易をしたり
+クエストをしたり海賊したりして
+お金を稼いで船をアップグレードしていく
+
+食料や水は必要なく気軽に楽しめる
+あまりテンポは良くないけど
+雰囲気は良いと思う
+
+操作が簡単でわかりやすい
+左クリックで移動、右クリで砲撃
+コロコロ押し込みでカメラ
+Shiftで入港",1451066828,1451066828,True,12,0,0.63278728723526001,0,True,False,False,False,,,
+19154056,"{'steamid': '76561198067728231', 'num_games_owned': 535, 'num_reviews': 168, 'playtime_forever': 311, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1, 'last_played': 1447833708}",russian,"Приобрел эту игру, т.к. нравятся игры про пиратов. Ну что ж...за такую цену весьма неплохая цена. Всю игру можно проходить с помощью мыши. Левый клик отвечает за передвижения, правый клик - за стрельбу. Колесиком мыши можно изменять масштаб камеры. Геймплей игры состоит из торговли и миссий между четырьмя различными зонами. Основная сюжетная линия развивается в стиле классического морского любовного романа. Миссии продвигают прогресс игры вперед, но это не мешает главному игроку спокойно бродить по локациям, грабить, резать пиратов и находить сокровища. Поддержка разных разрешений и некоторых настроек графики как раз кстати. Игра будет бегать даже на слабенький ноутбуках и лаптопах.
+Рекомендую.",1447904974,1447904974,True,6,3,0.491103798151016235,0,True,False,False,False,,,
+17653904,"{'steamid': '76561197985036092', 'num_games_owned': 0, 'num_reviews': 292, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1440634096}",english,"Purchased since it looked like [i]Pirates![/i] Junior Edition. Not bad for the price. Entire game can be played with the mouse. left click steer, right click shoot, middle click camera and scroll wheel zoom. Gameplay consists of trade and missions between 4 different zones. Storyline is presented through visual novel-like cut-scenes when docked. Missions progress the story forward while still leaving the free roam options of finding loot, slaughtering pirates and picking up sub-quests. Supports 1080p and some basic graphic options. Should run on netbooks/laptops. 
+https://www.youtube.com/watch?v=sog0_8DrX1Q
+More aimed at the younger generation but I'm still having some fun with it. Would like to see the in-game trophies linked to steam achievements.",1440208861,1440210063,True,54,6,0.70779043436050415,2,True,False,False,False,,,
+17651754,"{'steamid': '76561198208766641', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1447901566}",english,Ok atmosphere but it feels like a mobile version of pirates! or sunless sea but with far worse controls,1440196747,1440196747,False,22,6,0.409000992774963379,1,True,False,False,False,,,

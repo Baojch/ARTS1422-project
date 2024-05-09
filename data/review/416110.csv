@@ -1,0 +1,839 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+160765222,"{'steamid': '76561199134095780', 'num_games_owned': 553, 'num_reviews': 475, 'playtime_forever': 487, 'playtime_last_two_weeks': 52, 'playtime_at_review': 342, 'last_played': 1711849201}",english,<3,1710684127,1710684127,True,0,0,0,0,True,False,False,True,,,
+160042523,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 193, 'last_played': 1705775095}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1709825141,1709825141,True,2,0,0.390865832567214966,0,True,False,False,True,,,
+158013868,"{'steamid': '76561198056832422', 'num_games_owned': 0, 'num_reviews': 151, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1663111072}",brazilian,Great,1707585681,1707585681,True,0,0,0.455244511365890503,0,False,False,False,True,,,
+154004747,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1688229992}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1703088761,1703088761,True,1,0,0.417344152927398682,0,True,False,False,True,,,
+148621775,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 168, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1688168297}",english,gg,1697913538,1697913538,True,1,0,0.420924574136734009,0,True,False,False,True,,,
+147838111,"{'steamid': '76561199093828536', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 194, 'last_played': 1697071224}",english,"I love this video game!
+
+Well
+
+Besides some levels...
+
+This game will single handedly make me go insane.",1696728061,1696728061,True,0,0,0,0,True,False,False,True,,,
+146346815,"{'steamid': '76561198997326919', 'num_games_owned': 346, 'num_reviews': 126, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1609327098}",english,"My gambling addict friend said if I post a review on Blitz Breaker and it gets 350 likes and 150 Awards that he will buy me a case of beer and some vodka . So I'm just gonna leave this here.
+",1694797590,1694797590,True,1,0,0.357141256332397461,0,True,False,False,True,,,
+143725343,"{'steamid': '76561198299662791', 'num_games_owned': 219, 'num_reviews': 77, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1562191691}",english,It's a fun game for when you're bored and don't want to dedicate yourself to a game that requires a lot of your time and attention.,1691596737,1691596737,True,0,0,0,0,True,False,False,True,,,
+142112368,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 274, 'playtime_last_two_weeks': 0, 'playtime_at_review': 274, 'last_played': 1689403825}",english,"Blitz Breaker is a mobile app that's been dumped on Steam as if it was a real PC game (it's not)... it's a cash grab from greedy mobile devs at the Russian publisher, Ratalaika (yes, it's more Russian shovelware polluting Steam).  The mobile app is a simple action puzzle game where you control a pixel blob that can rush in any direction until hitting a wall (then fall, so it's almost like a platformer, but not as good).
+
+From a technical perspective, as a mobile app, this doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+A choice was made to use obsolete, decades old retro pixel ""art"" as a substitute for contemporary PC graphics.  It's unclear if this is due to lack of budget or talent, regardless, the overall visual quality of the game is extremely low as a result.
+
+The mobile app only displays in mobile phone style ultra-pillarboxed aspect ratio (there's some crappy MS-Paint drawings on the ""wings"" to fill out the space).  This is just one of many indications this was developed to be a mobile app and not a serious PC game.  It's not acceptable for developers to dump garbage like this on Steam when it's not even formatted or designed to run properly on modern PC gaming displays, to the point that this could be considered insulting.
+
+There's no option to change the resolution and no useful graphics tweaks.  There's no way to ensure this is running at the native resolution of your display.  There's no guarantee this game will look right on any PC as a result of this hamfisted design decision.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the mobile app unplayable for differently-abled gamers, or gamers using AZERTY or other international keyboard layouts.  
+
+Because this is a mobile app, it carries a number of deliberate design deficiencies.  Compromises were made to cater to the iPhones that the mobile app was designed for.  These are unfortunate handicaps and limitations that PC gamers shouldn't be forced to accept, but it's evident that PC was an afterthought for the iPhone developers who are to blame for this.  The mobile app is deficient as a result of these choices, and would have been so much better without the handicaps that designing games for mobile phones forces upon a game.  Once more, mobile devs have made gaming worse for everyone.  I didn't spend thousands on building a gaming rig just so I could pretend it's an iPhone.
+
+These technical defects push this mobile app below acceptable standards for any modern PC game.
+
+You don't have to take my word about how bad the mobile app is, we can measure the interest in a game by how much people bothered to play it.  Blitz Breaker has achievements, and they show us a very clear picture that the mobile app absolutely failed to capture any interest from gamers.  The most commonly and easily attained achievement is for dying a lot, although this does take some effort to achieve, less than 5 percent of players bothered to get that far before uninstalling the mobile app.  That's a tiny, tiny proportion of gamers who even bothered with this.  Ouch.
+
+Reviewing SteamDB to check how popular this mobile app was with players reveals a surprise... there's a very healthy spike in player counts for the mobile app.  But this isn't consistent with the achievement stats, that show less than 5 percent of players bothered playing the mobile app for any reasonable amount of time.  How is it possible for this mobile app to have so many concurrent players who weren't even playing the mobile app?  Trading cards.  Players will use card idling software to collect the cards and sell them, but this won't trigger any achievements in-game.  That tells us people only really bought this mobile app for trading cards, and that's a damning indictment of the woeful quality.  A closer look at the numbers shows the mobile app just has a couple of players every week running up the mobile app and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+Blitz Breaker is relatively cheap at $3 USD, but it's not worth it. Given the defects and quality issues with the mobile app, coupled with the unrealistic price, this is impossible to recommend.",1689404373,1689404373,False,3,1,0.245456427335739136,0,True,False,False,True,,,
+141907487,"{'steamid': '76561198967525961', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 300, 'playtime_last_two_weeks': 0, 'playtime_at_review': 300, 'last_played': 1689019362}",turkish,"✅İndirimdeyken alınıp kartları satılarak kâr edilebilir.
+
+Hesabımda bunun gibi birsürü inceleme var kâr yaptıran oyunlar mevcut profilimden bakabilirsiniz.
+
+Üstte kalması için incelemeye geri bildirim bırakmayı unutmayın.",1689171128,1689171128,True,0,0,0,0,True,False,False,True,,,
+141866310,"{'steamid': '76561198051708512', 'num_games_owned': 0, 'num_reviews': 175, 'playtime_forever': 1823, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1748, 'last_played': 1689563586}",english,"I realized I didn't review this before, but I wanted to replay this anyhow.
+Blitz breaker is one of those games with a really simple idea that has great execution to make you keep playing. It's got really nice music and very cool graphics. Most of the level design leads into this sense of speed and accuracy that very little other games accomplish honestly.
+It's not perfect though, There are a lot of frustrations because of the sprite collisions. It seems to be the whole sprite or at least most of it, and stuff like spikes can make you hit them when it really doesn't feel like they should. It's not a deal breaker for me but I know for others it might be.",1689116114,1689116114,True,0,0,0,0,True,False,False,True,,,
+141670872,"{'steamid': '76561198201246082', 'num_games_owned': 3232, 'num_reviews': 1500, 'playtime_forever': 214, 'playtime_last_two_weeks': 0, 'playtime_at_review': 206, 'last_played': 1688907029}",turkish,"Blitz Breaker, Boncho Games tarafından geliştirilen ve yayınlanan hızlı tempolu bir platform oyunudur. Bu oyunda Blitz adında sevimli bir robot olarak oynuyorsunuz ve amacınız inşa edildiğiniz fabrikadan kaçmak. Ancak, dost canlısı bir bilgisayar yardımcısı olan Chip hariç, fabrikadaki her şey sizi kırmak için dışarı çıkmış gibi görünüyor.
+
+Blitz Breaker'ın oynanışı basit ama tatmin edici. Karakteriniz sadece zıplayabilir ve dört yönde hava atışı yapabilir. Sizi kırmayan bir nesneyle çarpıştığınızda, tekrar zıplayabilirsiniz. Sivri uçlar, toplar, füzeler, lazerler, mayınlar ve hatta dev mekanik canavarlar gibi çeşitli zorluklar ve tehlikeler arasında gezineceksiniz.
+
+Oyun, zamanlama ve tepki yeteneklerinizin test edileceği zorlu ama adil bir zorluğa sahiptir. Bu becerilerde ustalaşarak, Blitz'i giydirmek için ek kafaların kilidini açmak için kullanılabilecek yıldızlar kazanabilirsiniz. Seviyeleri iyice keşfetmek sizi gizli portallarda daha da büyük zorlukların kilidini açan sırlara ve anahtarlara da götürebilir.
+
+Blitz Breaker, bir klavye veya gamepad ile oynamanıza olanak tanıyan birden fazla kontrol şeması sunar. Tek elle bile oynanabilir ve Steam Controller için destek üzerinde çalışılmaktadır. Oyun, ek zorluklar sağlayan dört patron seviyesi de dahil olmak üzere özenle hazırlanmış 101 seviyeye sahiptir. Ayrıca Blitz için bazıları gizli sırlar olan 20'den fazla kafa keşfedebilir ve toplayabilirsiniz. Gizli Warp Bölgelerinin kilidini açmak oyuna başka bir zorluk katmanı ekliyor.
+
+Fat Bard'ın chiptune müziği Blitz Breaker'ın retro arcade hissini artırıyor ve oyunun görselleri genel deneyime katkıda bulunmak için fantastik arcade kabin tarzı yan sanatlara sahip.
+
+Genel olarak Blitz Breaker, karakterinizin koşamadığı benzersiz bir bükülme ile basit ama bağımlılık yapıcı bir platform deneyimi sunuyor. Zorlu oynanış, çeşitli seviyeler ve ortaya çıkarılacak sırlar, oyunu platform hayranları için keyifli bir macera haline getiriyor.",1688899568,1688899568,True,1,0,0.516129076480865479,0,True,False,False,True,,,
+141658786,"{'steamid': '76561199374998180', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 394, 'playtime_last_two_weeks': 0, 'playtime_at_review': 394, 'last_played': 1688884891}",ukrainian,Very good. Very.,1688884973,1688884973,True,0,0,0,0,True,False,False,True,,,
+141543702,"{'steamid': '76561198239624900', 'num_games_owned': 233, 'num_reviews': 65, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1656521595}",turkish,"✅ [b]( İncelemeler indirimdeki fiyatına göre değerlendirilmiştir. )[/b] Az bile olsa oyundan düşen kartlar ile bakiyenizi arttırmak istiyorsanız bu oyunu alabilirsiniz.
+
+Daha fazlası için profilimden incelemeler diyip öğrenebilirsin.
+
+İşine yaradıysa profilime yorum yazarsan çok memnun olurum.",1688756256,1688756256,True,0,0,0,0,True,False,False,True,,,
+141022491,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1688184792}",spanish,"─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+█░░░█░░░░░░░░░░▄▄░██░█
+█░▀▀█▀▀░▄▀░▄▀░░▀▀░▄▄░█
+█░░░▀░░░▄▄▄▄▄░░██░▀▀░█
+─▀▄▄▄▄▄▀─────▀▄▄▄▄▄▄▀
+",1688184839,1688184839,True,0,0,0,0,True,False,False,True,,,
+140989267,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1477108864}",russian,нет,1688146896,1688146896,False,0,0,0.476190477609634399,0,True,False,False,True,,,
+137118361,"{'steamid': '76561198237676960', 'num_games_owned': 5411, 'num_reviews': 2874, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1682178149}",turkish,aslında eğlenceli türüne göre güzel fakrlı bi yapım olmuş ilerledikçe zolaşan bi polatform oyunu ama denenir,1682178169,1682178169,True,0,0,0,0,True,False,False,True,,,
+123096582,"{'steamid': '76561198370605865', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 146, 'playtime_last_two_weeks': 0, 'playtime_at_review': 126, 'last_played': 1672384331}",english,"Excellent action, great saving system, a good time, for a session",1664567611,1664567611,True,0,0,0,0,False,False,False,True,,,
+121446653,"{'steamid': '76561198268993462', 'num_games_owned': 2434, 'num_reviews': 1076, 'playtime_forever': 103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 103, 'last_played': 1585649951}",english,asd,1661814973,1661814973,True,0,0,0,0,True,False,False,True,,,
+119933713,"{'steamid': '76561198353248179', 'num_games_owned': 280, 'num_reviews': 160, 'playtime_forever': 175, 'playtime_last_two_weeks': 0, 'playtime_at_review': 175, 'last_played': 1659440822}",koreana,무난한 킬링타임용 게임. 마지막 두 스테이지가 쓸데없이 길어서 좀 빡침,1659441033,1659441033,True,0,0,0,0,True,False,False,False,,,
+118441215,"{'steamid': '76561198451775997', 'num_games_owned': 90, 'num_reviews': 18, 'playtime_forever': 570, 'playtime_last_two_weeks': 0, 'playtime_at_review': 570, 'last_played': 1657273630}",french,"Great game, very underrated and very challenging",1657273685,1657273685,True,0,0,0,0,True,False,False,False,,,
+115736698,"{'steamid': '76561198286724621', 'num_games_owned': 2514, 'num_reviews': 453, 'playtime_forever': 431, 'playtime_last_two_weeks': 0, 'playtime_at_review': 431, 'last_played': 1652878384}",schinese,"只能往4个方向冲撞+跳跃，难度高、节奏快。
+非常有趣的是很多处需要撞墙后回弹的距离来避开刺，或是需要很快速度连续操作（靠一点背板）。
+虽然真的很难，但每关流程短，不算特别受苦。打败BOSS特别有成就感！
+
+共4个世界，小关卡共101关，体感重复感很低，玩到底并不腻！
+我7小时通关的，一共死了1467次。",1653057200,1653057200,True,2,0,0.536435484886169434,0,True,False,False,False,,,
+115613419,"{'steamid': '76561198128239804', 'num_games_owned': 552, 'num_reviews': 183, 'playtime_forever': 1173, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1173, 'last_played': 1652824244}",spanish,"Blitz Breaker es un juego de habilidad que a pesar de su sencillez, te atrapará durante horas.
+Pocos juegos debe haber en Steam tan simples y a la vez con esa capacidad de engancharte a la pantalla durante horas. Con un personaje que se mueve en linea recta y salta puntualmente, nada más. El resto son pinchos, bombas y láseres que nos complicarán un poco más la vida durante los 100 niveles que tendremos por delante.
+Al final, es un título con gráficos resultones, música bastante trabajada, y un diseño de niveles excelente, aliñado todo ello con una durabilidad importante (unas 20 horas) y una jugabilidad brillante. Altamente recomendable si disfrutas de los juegos de habilidad.
+
+NOTA: 7,5/10",1652825087,1652825087,True,0,0,0,0,True,False,False,False,,,
+106541327,"{'steamid': '76561198157378018', 'num_games_owned': 310, 'num_reviews': 101, 'playtime_forever': 375, 'playtime_last_two_weeks': 0, 'playtime_at_review': 329, 'last_played': 1640525665}",spanish,"396 muertes en 5 horas y media.
+Este juego te asegura 1.22 muertes por minuto",1640485624,1640485624,True,0,0,0,0,True,False,False,False,,,
+95661432,"{'steamid': '76561198173899526', 'num_games_owned': 0, 'num_reviews': 102, 'playtime_forever': 778, 'playtime_last_two_weeks': 0, 'playtime_at_review': 778, 'last_played': 1626179172}",english,"For those of you who'd be asking themselves whether this is a cool game that happens to be difficult, or another uninspired game whose cheap difficulty is its only so-called quality, I'll answer that right away. It's the former one.
+That's a legitimate question to ask, as there's a lot of games where developers will just throw in a bunch of spikes at random to cover up an essentially terrible level design, and Blitz Breaker is one of few challenge-platformey games that don't fall into that category.
+
+First of all, it looks and sounds cool. It's graphically simplistic, of course, but very easy to read, and rings the nostalgia bell just right. The probably-16-bit soundtrack is also quite fresh. It may be forgettable, but it's well-constructed and has some interesting lines.
+
+Now the gameplay is tons of fun. As silly as it may sound, I can't think of any game before that had you able to move around only by dashing (not mentioning the jump, as it's only relevant in some specific sections). The sense of speed in Blitz Breaker is really exhilarating, and it's actually crazy how complex the movement can get with only 4 directional buttons to press. It makes some levels feel like puzzles, and forces you to think in an unusual way, which is quite refreshing. On top of that, the level design is very smart and makes the most of this unique core gameplay.
+
+Finally, there's two great things I'd like to point out :
+
+- No exploration, hidden secrets behind breakable walls nonsense. There are secret levels and unlockables, but they're always there for you to see and try to get to. You don't have to spend a lot of tedious time bumping your head against every pixel to complete the game. It's all play and no work. Wonderful.
+
+- The stages' length and difficulty make sense. Levels are not unreasonably long, and the game is difficult in the right way, as there are no pixel-perfect (stricto sensu) jumps or dashes to perform, even though there are a lot of tight ones to pull off. As long as you like feeling challenged, you won't have to deal with excruciating moments where you revisit a level a thousand of times just to get past a dozen cheap obstacles at once. That's a relief.
+
+All in all a very solid game. I especially recommend it to speedrun enthusiasts, as it's a prime example of a game that's rewarding to try and speed through, and you don't have to learn any complicated glitches before jumping in.",1626180734,1697051432,True,0,0,0,0,False,False,False,False,,,
+94058903,"{'steamid': '76561199014103174', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 346, 'playtime_last_two_weeks': 0, 'playtime_at_review': 346, 'last_played': 1624190214}",russian,крутая игра,1624191515,1624191515,True,1,1,0.523809552192687988,0,True,False,False,False,,,
+87508334,"{'steamid': '76561198400417991', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1667270249}",brazilian,A prova de que pode sair coisa bom do Construct. Excelente jogo!,1614382985,1614382985,True,0,0,0,0,True,False,False,False,,,
+86987560,"{'steamid': '76561198095537553', 'num_games_owned': 195, 'num_reviews': 4, 'playtime_forever': 877, 'playtime_last_two_weeks': 0, 'playtime_at_review': 870, 'last_played': 1639344634}",english,"solid arcade game, levels are unique and interesting, i recommend it",1613690837,1613690837,True,0,0,0,0,True,False,False,False,,,
+86916722,"{'steamid': '76561198844241441', 'num_games_owned': 0, 'num_reviews': 87, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1675389034}",spanish,"Esta bueno y es entretenido, buenos controles y linda decoración, recomiendo jugarlo.",1613607302,1641239555,True,0,1,0,0,True,False,False,False,,,
+84533039,"{'steamid': '76561198368891882', 'num_games_owned': 0, 'num_reviews': 50, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1610428800}",thai,"เราจะได้บังคับตัวละครที่มีความสามารถคือโดดไว คอยหลบสิ่งกีดขวางหรืออุปสรรคเพื่อผ่านไปด่านต่อไป
+เกมน่ารักๆ ใช้สมองนิดหน่อย คุ้มๆ",1610429017,1610429017,True,0,0,0,0,True,False,False,False,,,
+84034371,"{'steamid': '76561198822076089', 'num_games_owned': 4986, 'num_reviews': 323, 'playtime_forever': 144, 'playtime_last_two_weeks': 0, 'playtime_at_review': 144, 'last_played': 1608853061}",english,We reach the end of the horizon :(,1609809712,1609809712,False,2,1,0.486713290214538574,0,True,False,False,False,,,
+79599951,"{'steamid': '76561197998574036', 'num_games_owned': 1880, 'num_reviews': 8, 'playtime_forever': 393, 'playtime_last_two_weeks': 0, 'playtime_at_review': 393, 'last_played': 1605952941}",english,"[h1]Teominious's Game Alarm Episode 2: Blitz Breaker.[/h1]
+
+I usually do not give reviews, however, in this case, I thought I was more than justified to issue a heavy warning to any, and everyone whom finds themselves reading this, or wanting to buy/play it for yourself.
+
+If the above, and thumbs down rating were not enough to form the image of my distaste in your mind, and/or send a clear image of the message I'm trying to convey: watch videos of this pile of frustration first, and even if it looks like something you'd enjoy, still err heavily on the side of caution when picking it up.
+
+Obviously, that viewpoint is [b]subjective[/b], but that being said, this game has many, factual, [b]objective[/b] errors to it, that at best frustrate, and at worst, make you (or at least me) wonder what was going through any of those responsible for designing it's heads when that phase was undergoing development.
+
+Playing the demo/prototype of this on Kongregate years before I actually bought it, I quite enjoyed it, and thus added it to my wishlist. Finally getting it, I had a reasonable amount of fun, but only up until the second world. Since I'm a stubborn being whom seemingly doesn't know when to quit, and sees brokenly-frustrating pieces of software as a reason to get all the possible achievements, so the temptation to replay never arises again, I kept pressing on until I reached a level by name of  ""For Whom the Bell Tolls"".
+
+After smashing my head into a wall for several attempts, I finally gave up and neglected it for almost a year. Coming back, I played a bit briefly, shut it down within a minute, and then finally came back to it a few days later after I formulated a strategy while attempting to drift off to sleep that same day.
+
+Alas, my strategy worked, and I was able to push through it, but that only brought light to more issues, and utterly baffling design choices, including what has to be one of the worst ideas in anything I've ever played (I'll get to this later). Before we get into the negatives and I slam this thing so hard that it punches through the floor, I feel like it's my duty, as a reviewer, to give you some positives, as this game definitely has some. 
+
+First off, the most subjective thing of all, is that I found the music to be very enjoyable. As well, the Art Style is very charming and complements the soundtrack to a heavy degree. What's more, and again, the opening stages, before any of the glaring flaws can come up, are rather fun, fun enough to have lulled me into the desire, and finally action of buying it. Next, you can unlock a wide variety of character costumes, and some of these are absolutely delightful, with the ""bread"" skin being my favourite. Last on the list of merits, we have the bosses, which are both incredibly well-designed in my eyes, and fun to fight at that.
+
+As said though, the negatives are not only objective, present, and hard to ignore, but they are not-at-all outweighed by the positives. 
+
+First off, it became rapidly apparent to me that pretty much every sprite in the game not only has a square collision box, but said box seemingly extends beyond the bounds of the sprite. The first part of that would be more forgivable if all the hazards were square, but when you get killed by, for instance, touching the air [b]next[/b] to the tip of a spike when trying to ascend underwater via wall ricochets, or hit the platform next to a spike and still randomly die, it becomes glaringly problematic.
+
+Next, we have the fact that the frame rate is either way too low, or you fall way too fast, often seeming like it's outright required to press a button well before it actually looks like you need to, which is to say  you can't trust your eyes. In a precision platformer, especially one where your controls are as limited as they are, that is never a good thing.
+
+While on the subject of controls,. (and this is the only complaint that's more nitpick than anything) you can only move by jumping, and dashing until you hit something in the four cardinal directions...yet, the character clearly has legs. Not only that, but using them would be deeply helpful in some stages. I did say it was more a nitpick than anything, but when something that could be used to ease up your time and expand options is present on the character, but non-functional, it makes it feel unnecessarily limiting.
+
+Continuing the subject of mostly nitpicks, as I feel that this instance of demerit surfaces often enough to warrant it being a full complaint, some stages are designed such that you can do absolutely nothing after spawning, but sit there and wait for a hazard to clear. In a game where you zip all around the screen in a flashy manner, this totally breaks the flow of the game, and is super tedious.
+
+Finally, and worst of all, we have the Checkpoints. I know how this sounds: 
+
+""What? Is that a typo? How can something that lets you start midway through a stage in a game that's touted as ""hard but fair"" be anything other than amazing?!"" 
+
+...but yes; I absolutely did mean checkpoints, and they are (told you I'd get to it) absolutely the worst part about this game, and one of the worst design choices in anything I've ever played.
+
+How can something so good be utterly ruined, and bring this game down to Bloody Trapland (Teominious's Game Alarm Episode 1) levels of inhumanely cheap, senseless and unfair? Instead of, say, being an optional bit of insurance for those whom just want to beat the game, and don't care about achievements, or 100%ing the game (AKA getting your money's worth) or, better yet, exactly as it sounds: a way to not have to do a long, arduous bit of a stage again, they instead do the cheapest, most-artificially frustrating thing I can think of save for deleting your save, and ability to play the game.
+
+It's probably beneficial to mention now, that this game both has optional collectibles, and rewards you with Stars if you're able to beat a level with your always-depleting-but-refillable-with-coins score above a certain value. As well, Purple Squares that unlock Warp Zones, and Green Keys whose use I didn't make it to can be found in certain stages. Half the reason these checkpoints are so incredibly, artificially frustrating is because, as hinted at earlier, you outright [b][i][u]have[/u][/i][/b] to go through them in order to reach the end of the stages they appear in.
+
+While this, at first, seems like a welcome sigh of relief after a lengthy, challenging bit of stage, if you press on and actually beat the stage after dying and respawning at the glowing gate, you don't get the standard notification you cleared a level, or earned a star. Instead, all you get is ""checkpoint used"" and the next level. 
+
+Simply put, going through the unavoidable checkpoint, and not being absolutely perfect in every screen after it, means you can't earn your star, and worse than that, forfeits any and all collectibles you may have gotten within said stage.
+
+What's the point, then? Making completionists waste time and up the already high levels of frustration brought about by the numerous, unfair deaths (that came as no fault of the player), by making them waste time to press restart to throw their progress in the garbage? Also sending the message of ""HAHA! All your progress is moot; serves you right for wanting to experience all this game has to offer""?
+
+In a hard, but fair - as the store page announces - ""masocore"" platformer, this would be cause to drive yourself to satisfying victory via self-improvement, but when little of said failures ever seem like your fault, this is just the icing on the bitter cake of janky timing, invisible, oversized death plains, and wondering if your character's legs could walk over in the time it takes for a saw to ascend, rather than just watching it do so.
+
+Thus, the only thing I was motivated to do after posting, was save myself more headache by continuing to play, and taking an hour to warn others of what they are getting into.",1605957580,1605957580,False,1,0,0.439999997615814209,0,True,False,False,False,,,
+75582845,"{'steamid': '76561198340847703', 'num_games_owned': 0, 'num_reviews': 310, 'playtime_forever': 253, 'playtime_last_two_weeks': 0, 'playtime_at_review': 253, 'last_played': 1599460069}",english,"Genre:
+-Retro Precision Platformer w/ Gameboy Inspiration
+
+Fit for me:
+-Good fit
+
+Pros:
+-Very easy to get started and learn the basics
+-Extremely consistent, focused platformer that doesn't try to do too much
+-Well crafted platforming sequences that will push you to improve each level
+-Creative, unique boss battles
+-Very clean aesthetic w/ the Gameboy inspiration and the solid pixel art
+-Warp levels inspired by Super Meat Boy was a nice touch
+-The collectible coins add an extra challenge for experienced players
+-Cheap as balls and a good amount of content for under $2
+
+Cons:
+-Although it's well designed, it never feels as intuitive as better precision platformers
+-Newbies to the genre may find the learning curve a bit too tough
+-The hit boxes on the spikes are a square which makes it harder to avoid 
+-The margin for error is extremely narrow like so many old school games (There is only one way to master this game which limits individual creativity)
+-Once you've completed the game w/ all of the collectibles, there isn't much content to further challenge the player
+
+Notes:
+-This is a very simple platformer where you can't walk, and your only options are to dash until you hit a surface or jump.  It's seems very simple on the surface, but the devs found some really creative ways to challenge you w/ new platforming sections.  I really enjoyed this one for about the first 3-4 hrs and then hit a wall.  This is a nice change of pace between playing some of the more common precision platformers but I'm not sure how much long term value there is.  I do think this is an easy game to recommend, but I don't know if I'll come back to this one any time soon.
+
+Consensus:
+-Middle of the Road Game (Tier 4 and makes up 25% of my reviews).  I was very close to giving this a Solid Game score but I just don't think it's as good as that tier of games.  While playing this, I immediately thought of Slime-San which I think is a significantly better game in almost every way.  W/ saying that, this game is $2 and is a fun platformer.  If you like this genre, or like Gameboy inspired games, give this a try.",1599461075,1599730346,True,0,0,0,0,True,False,False,False,,,
+75430597,"{'steamid': '76561198063536376', 'num_games_owned': 1675, 'num_reviews': 39, 'playtime_forever': 542, 'playtime_last_two_weeks': 0, 'playtime_at_review': 369, 'last_played': 1599391682}",greek,"Blitz Breaker is a cheap but great game for all kinds of platformer lovers: From casuals to hardcore twitch gamers, everyone will love it as soon as they get used to movement (which won't be difficult).
+
+The game features a lot of levels, challenging but fair gameplay and is a steal at its price point.
+
+100% recommended.
+
+One or two things as nitpicks are that the hitboxes could need a little care, but it's not too much, the levels with screen transitions didn't work well for me and were a guaranteed death the first times I was playing them (but I cannot propose a solution, so I just point it out, accepting it's probably the best solution) and please, let me hit R to retry when I die, before you pause for 2 screens until I try again. I feel it could keep the flow of the game much better.
+
+But it's a great game, nonetheless. If I could make games, that's the kind of games I would like to make: Small scope, tight mechanics, fun gameplay, accessibility for not so great players, but serious challenge via collectibles for the best players.",1599231661,1599242545,True,0,0,0,0,True,False,False,False,,,
+73378147,"{'steamid': '76561198035100973', 'num_games_owned': 395, 'num_reviews': 766, 'playtime_forever': 1370, 'playtime_last_two_weeks': 0, 'playtime_at_review': 237, 'last_played': 1646655723}",english,"Disclaimer: My scores/reviews are almost always based on having bought the game at close to the ""lowest historical price"" on steam at time of purchase.
+
+Quick score: 5/5
+
+Notes: This is actually one of the most underrated games on all of steam. Easily top 10 ""platformer"". I would put it up there with super meat boy and celeste and im not exagerating. The movement mechanics are much more simplistic than either of those games, but the level design and challenge is perfectly tuned IMO. Loved this game. This is without a doubt the best platformer on steam for under 5$.",1595887693,1622860462,True,3,0,0.560293138027191162,0,True,False,False,False,,,
+72565378,"{'steamid': '76561198021408460', 'num_games_owned': 1674, 'num_reviews': 227, 'playtime_forever': 202, 'playtime_last_two_weeks': 0, 'playtime_at_review': 202, 'last_played': 1594491088}",english,"Ballbot breaker hardcore collector edition
+
+have i mention that the game is very hard ? (╯ ͠° ͟ʖ ͡°)╯┻━┻",1594563191,1594563191,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+71964725,"{'steamid': '76561198220304959', 'num_games_owned': 6170, 'num_reviews': 864, 'playtime_forever': 263, 'playtime_last_two_weeks': 0, 'playtime_at_review': 263, 'last_played': 1587685451}",brazilian,"divertido e um ótimo passatempo !!
+
+Roda em nootbooks de boa, rodo no meu caco pelo menos .-.",1593798219,1593798219,True,3,1,0.5692252516746521,0,True,False,False,False,,,
+67748215,"{'steamid': '76561197966634097', 'num_games_owned': 0, 'num_reviews': 149, 'playtime_forever': 291, 'playtime_last_two_weeks': 0, 'playtime_at_review': 291, 'last_played': 1572794112}",turkish,:Big_Heart: :Big_Heart: :Big_Heart: Vey Good Game :Big_Heart: :Big_Heart: :Big_Heart:,1587464959,1587464959,True,0,0,0,0,True,False,False,False,,,
+67168546,"{'steamid': '76561198403525195', 'num_games_owned': 0, 'num_reviews': 73, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1561919288}",english,One of the best indie games I've played,1586704817,1586704817,True,0,0,0,0,True,False,False,False,,,
+67145986,"{'steamid': '76561199020209963', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 547, 'playtime_last_two_weeks': 0, 'playtime_at_review': 411, 'last_played': 1587045237}",turkish,"‮
+‍‮
+‍‮
+‍‮
+‍",1586678096,1586678096,True,0,0,0,0,True,False,False,False,,,
+66436078,"{'steamid': '76561198196443982', 'num_games_owned': 568, 'num_reviews': 10, 'playtime_forever': 356, 'playtime_last_two_weeks': 0, 'playtime_at_review': 235, 'last_played': 1604566086}",english,Simple but not easy! Love it,1585845878,1585845878,True,0,0,0,0,True,False,False,False,,,
+65752105,"{'steamid': '76561198215995024', 'num_games_owned': 1353, 'num_reviews': 108, 'playtime_forever': 231, 'playtime_last_two_weeks': 0, 'playtime_at_review': 231, 'last_played': 1626601227}",english,"Excellent game. Well worth the price, very addictive and has an amazing soundtrack.",1585103137,1665511496,True,0,0,0,0,True,False,False,True,,,
+61121451,"{'steamid': '76561198348612738', 'num_games_owned': 1849, 'num_reviews': 185, 'playtime_forever': 217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 217, 'last_played': 1577952437}",english,Good,1577952438,1577952438,True,0,0,0.467836260795593262,0,True,False,False,False,,,
+60066462,"{'steamid': '76561198874418258', 'num_games_owned': 314, 'num_reviews': 27, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1591102808}",russian,блитз бреакер,1576673739,1576673739,True,0,0,0,0,True,False,False,False,,,
+58337690,"{'steamid': '76561197970851000', 'num_games_owned': 363, 'num_reviews': 2, 'playtime_forever': 355, 'playtime_last_two_weeks': 0, 'playtime_at_review': 355, 'last_played': 1571706043}",french,"[b][i]En 2010, un petit jeu nommé Super Meat Boy a relancé (ou lancé chez certains) durablement l'intérêt et l'envie de nombreux joueurs pour les jeux de plate-forme dit hardcore. Un jeu difficile parce que exigeant, mais avec un gameplay suffisamment simple et des mécaniques compréhensibles immédiatement, et une frénésie qui prend le joueur et ne le lâche jamais. Les enfants du jeu de Edmund MacMillen sont légion, plus ou moins réussis, tous essayant d'une manière ou d'une autre d'égaler le niveau d'un jeu qui a secoué les bases du jeu indépendant, et qui a contribué à lui donner ses lettres de noblesse.[/b][/i]
+
+[h1]Seul dans un panier de crabes mécaniques[/h1]
+
+	[b]Blitz Breaker[/b] est arrivé un peu après la bataille. Sorti en 2016, il est l'oeuvre d'un seul homme, se cachant derrière le studio Boncho Games, qui semble n'avoir rien produit depuis. 
+Vous y jouez un petit robot qui tente de s'échapper de son usine de fabrication, aidé dans sa quête par l'ordinateur principal qui accepte de le laisser partir à condition de passer par son terrain de jeu et de jouer avec ses amis.
+Bien entendu, le terrain de jeu de ce cher ordinateur est composé de scies circulaires, de lasers, de piques, et ses amis sont plus du genre brutes de bac à sables que petits angelots élevés à la quinoa. Et pour les collectivistes, il y a possibilité de débloquer plusieurs personnages et niveaux supplémentaires, en fonction de ce que vous ramassez dans les niveaux et du temps que vous mettez à les finir. Bref, toutes les cases sont cochées pour de bons moments.
+
+	[b]Blitz Breaker[/b] est donc ce que l'on pourrait appeler un Manic Platformer, clairement pas aussi riche qu'un Super Meat Boy, mais assez touffu pour caler une dent creuse aux drogués du genre. Car si le jeu ne semble pas proposer beaucoup d'originalité jusque là, un petit retournement de situation nous attend au moment de la prise en main. En effet notre personnage ne peut pas marcher ou courir, uniquement sauter (aussi vivement qu'un Tofu Boy) et dasher dans les quatre directions cardinales. Et ça change tout. Car il va falloir composer avec une mécanique qui nous force à taper sur un mur avant de pouvoir changer de direction de dash.
+
+Il y a donc peu de place à l'erreur, et il faudra s'habituer à la physique assez particulière du personnage (plusieurs sont donc déblocables, mais je n'ai pas senti de différences entre eux), entre le saut famélique et les petits rebonds à chaque choc contre un mur, il est facile de se laisser surprendre au début.
+J'en profite pour recommander de jouer au clavier, qui permet d'avoir des directions franches. Si j'enlève une grosse part de mauvaise foi, j'ai en effet eu quelques soucis avec ma manette Xbox, qui me faisait aller parfois verticalement alors que je voulais aller horizontalement.
+
+[h1]Rester sobre[/h1]
+
+	Cette rigidité du gameplay donne au jeu une dimension extrêmement tendue, accentuée par le level design qui sait se renouveler et coupler les différents obstacles pour mieux vous piéger. Ainsi l'enchaînement des morts est rythmé par une musique 8bits (ou 16bits?) extrêmement efficace, composée par le duo Fatbard, et qui donne envie de bouger et de foncer dans une scie en rythme, juste pour le beau geste et le plaisir de prolonger l'écoute quelques secondes.
+Les graphismes quant à eux sont tout mignons, même si le minimalisme pixelleux et les couleurs un peu flashy ont été vus et revus (avec toutefois un choix particulier : un format en 9/16), ils restent efficaces et agréables, et l'épure des décors sert parfaitement ce pour quoi le jeu a été développé.
+[h1]Alors pourquoi ce jeu a-t'il été développé ? Pour filer un shot de plate-forme intense pour quelques heures à ceux qui ont épuisé les autres options. Bref, une excellente surprise.[/h1]
+
+[i]Merci d'avoir lu, [u]Si vous souhaitez découvrir plus de trésors cachés, n’hésitez pas à nous suivre[/u][/i] 
+
+[url=https://steamcommunityx.com/groups/xxx] Groupe Steam [/url] 
+[url=https://store.steampowered.xcom/curatxor/00000000/] Curateur[/url] 
+[url=https://discord.xx/xxxxxxx[/url]
+ [url=https://www.youtube/] Youtube [/url] 
+
+[i]Nous sommes toujours à la recherche de rédacteurs, contactez-nous pour en parler ![/i]
+
+[b]Coupe-coupe, le curateur qui défriche la Jungle Steam[/b]",1574908832,1574908832,True,4,0,0.586466193199157715,0,True,False,False,False,,,
+57095450,"{'steamid': '76561198889562085', 'num_games_owned': 1627, 'num_reviews': 1204, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1635053022}",tchinese,超級好玩,1573648104,1573648104,True,0,0,0,0,False,False,False,False,,,
+55908713,"{'steamid': '76561198083413093', 'num_games_owned': 3787, 'num_reviews': 2801, 'playtime_forever': 136, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1572468250}",turkish,"░░░░░░░░░░░████
+░░░░░░░░░░░█░░█
+░░░░░░░░░░█░░░█
+░░░░░░░░░█░░░░█
+██████▄▄█░░░░░███▄
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░
+░░░░░░░░░░░░▀▀",1572460978,1572460978,True,0,0,0.469798654317855835,0,True,False,False,False,,,
+55558560,"{'steamid': '76561198257379177', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 942, 'playtime_last_two_weeks': 0, 'playtime_at_review': 941, 'last_played': 1570835185}",english,"Got this game in a raffle quite a while ago, but only recently realized I should probably leave a review in return. Sorry about that, Boncho Games!
+
+Anyway, Blitz Breaker is actually quite a fun time for being a one-dollar title! The game consists of multiple short gauntlets, where you have to dodge a multitude of spikes, buzzsaws, lasers, and cannons as you make your way to the end. You do that not by moving around, but rather by launching yourself up, down, left, or right to traverse the levels. Once you've blasted off, you will remain flying in that direction until you hit a wall, at which point you will drop down; but you can launch yourself again before you hit the ground. In this manner you have to figure out the proper path of blasting-yourself-into-walls, without touching any spikes or other hazards, because you die in one hit.
+
+This gameplay provides a fun, arcade-y feel, helped by its simple pixel graphics, its great chiptune soundtrack, and its lack of any plot focus (there [i]is[/i] sort of a plot, but it's very bare bones and not necessary to pay attention to). The levels are, for the most part, very short and simple, with a great emphasis on speedrunning.
+
+A timer counts down during the level, and coins scattered throughout the stages extend the timer when collected. By finishing a level with enough time on the clock, you will get that level's Star, and getting enough Stars awards numerous skins for your character, which is always a nice bonus! Some levels also contain a purple square, which unlocks a harder version of that level when you beat the stage with the square collected. Some of these secret levels also have character skins to collect, which is a nice incentive! There are also a few green keys to collect, but admittedly I do not know what these do. One immediate nitpick though is that the timer appears near the top of the stage and can block spikes; they'll still be visible, but with a timer in front of them you might not notice, which is a bit annoying.
+
+There are at least four worlds, each one with two batches of nine stages, and a boss. These bosses aren't particularly memorable, I'll admit; the first two are rather simple and easy, though the third one ramps up the difficulty tremendously to the point of frustration, and the fourth one exponentially so. Sadly I'd probably call the bosses some of the game's low points; when they aren't too easy, they're too frustrating instead, which is exacerbated by the fact that if you die, you have to start over from the beginning of the fight.
+
+On that note, this game is very difficult indeed. The difficulty scales near-perfectly as you progress, but regardless, if you plan on beating this game, prepare to die a lot. Fortunately most of the levels are very short, and whenever you die, you're back at the start very quickly. More importantly, for the most part, the game never throws any unfair obstacles your way, and the controls are perfectly responsive, so whenever you die, it feels like it was your fault and not the game's; the best kind of difficulty, complete with that familiar ""one more run"" feeling.
+
+Though, there are a couple of hiccups: first off, the spikes have square hitboxes, which can make a few spots (namely certain underwater sections) a bit frustrating when you seem to be killed by thin-air, though this doesn't happen often. Secondly, the stages are divided into rooms, and the camera pans to the next room you enter, but unlike, say, Mega Man or The Binding of Isaac, your character does not sat still as the camera moves, which can make the next obstacle appear rather suddenly at times; though fortunately, almost every level is designed with this in mind. You will usually never die from blasting from one room to another, and cases where an obstacle [i]does[/i] surprise you after a transition are rare enough where it really isn't a big issue.
+
+Unfortunately, there is still one significant snag; the final nine levels before the fourth boss. Not only are these levels incredibly difficult, they're also very [i]long[/i], to the point where, unlike the previous levels, these stages have checkpoints. They're even labeled Gauntlets I through XI! Problem is, if you die and respawn at a checkpoint, you won't be able to get that stage's Star, nor its purple square if it has one.
+
+This means that, if you want to 100% this game, you need to essentially perfect-run these nine stages. While this is also true for the other stages, it's far more problematic in the Gauntlets just because of how long they are, on top of already being extremely difficult. On top of this, a few select spots in these stages feel incredibly cheap and reek of trial-and-error; namely, breakable walls with mines hidden [i]behind[/i] them, which, if you are trying to speedrun the stage - which is encouraged, mind you - you will almost certainly not see coming, and suffer a cheap death as a result.
+
+It honestly got kind of exhausting, and I'll admit, after a point I didn't bother with getting all the Stars and purple squares. I'm led to believe there's a secret fifth world for getting everything (which I'm assuming may have to do with those green keys), but I just don't want to put up with doing that. I feel this game should have stuck to keeping its levels short, or at the very least allowed the collection of Stars and purple squares after checkpoint respawns; I don't think long levels mesh very well with difficult, one-hit-death gameplay like this.
+
+The fourth boss is probably the worst of this, though. It's longer than the Gauntlets, very difficult, and does [i]not[/i] have any checkpoints, and I just kinda felt tired of it by the end.
+
+Going back to the visuals, while I do like the simple pixel style, I do wish there was more visual variety. There's nothing aesthetically separating any of the worlds, and it's only in the secret stages where anything looks different. On the plus side, there are also options to play the game with borders featuring very pleasing art, which is always nice.
+
+Performance-wise, there was very little issue. I played this game on a veritable potato, and there was little if any hiccups in the framerate. I did run into a couple of oddities, though: one of the menu buttons seemed visually glitched, and a few times when I was speeding through parts of a stage the screen would turn white for half a second. That only happened very few times, though, and it could have easily just been on my PC's end.
+
+In conclusion, though I did feel there were some design issues near the end, Blitz Breaker was still a blast to play throughout! The stages are fun and satisfying to beat and especially speedrun through, and the great music combined with the numerous collectible costumes only helps with that feeling. Even if I do feel that the thrill-of-speedrunning aspect kinda falls apart at the last nine levels, the game up until that point is still very well made, and I still feel that this game is more than worth its incredibly low price!
+
+In Summary:
+
+Pros:
+
+-Fun and simple gameplay
+
+-Difficult yet almost entirely fair design
+
+-Very satisfying to speedrun
+
+-Simple, pleasing pixel visuals
+
+-Great chiptune soundtrack
+
+-Multiple unlockable costumes that are fun to collect and a good incentive to get everything
+
+-Runs very well on relatively low-end PCs
+
+Cons:
+
+-Lack of visual variety
+
+-Bosses are either too easy or too frustrating
+
+-Last nine normal levels are far too frustrating to make speedrunning and Star/purple square collection worthwhile
+
+-Spike hitboxes are iffy
+
+-Character does not pause during room transitions, which at times can make the next obstacle appear rather suddenly, though not at all often
+
+-Visual glitches, though very rare, are still noticeable
+
+[b]Recommendation: High, extremely well worth the price![/b]
+
+Again, if there is a secret final world, I have not unlocked it, but if I ever do unlock and play through it I'll update the review.",1570833796,1570893510,True,0,0,0,0,False,True,False,False,,,
+55504627,"{'steamid': '76561198129295723', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 176, 'playtime_last_two_weeks': 0, 'playtime_at_review': 167, 'last_played': 1582667504}",brazilian,"Esse jogo é simplesmente I-N-C-R-Í-V-E-L! Polido, bem divertido, desafiante, criativo e com skins legais para colecionar! Vale totalmente a pena pelo seu preço de R$2,29! Cara, achei muito criativo colocar boss nesse jogo, o que o diferencia deste jogos em que você simplesmente fica passando fase e pegando 3 estrelas!
+E a música da vitória é a melhor de todas! Me divirto com ela toda vez que toca!
+É um jogo sem arrependimentos. Pode confiar.",1570505869,1570505869,True,0,0,0,0,True,False,False,False,,,
+54528702,"{'steamid': '76561197995602640', 'num_games_owned': 390, 'num_reviews': 26, 'playtime_forever': 302, 'playtime_last_two_weeks': 0, 'playtime_at_review': 302, 'last_played': 1565329609}",english,"Took 5 hours to beat the story mode from start to end and I enjoyed the whole thing thoroughly. Concept is really simple, controls are tight, music is ok, and pixel art is decent.  The gameplay itself is tough but in a good way as the game gives you tight enough controls to overcome everything it throws at you.  Before I started I saw a lot of complaints about the hitboxs of the triangle spikes taking up the whole square they inhabit, which was a little annoying at first but only took like 5 minutes to get used to.
+
+TLDR - 7.5/10 - If you like simple, but difficult games this is a great buy for the price.",1565330598,1565330598,True,0,0,0,0,True,False,False,False,,,
+54307041,"{'steamid': '76561198236165848', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 221, 'playtime_last_two_weeks': 0, 'playtime_at_review': 84, 'last_played': 1565143213}",english,"How is this only $0.99?!?! Kind of a mix between Meatboy and Celeste and feels like it is being played on the Pico 8 mixed with a GBA... and I love it! Already logged a couple of hours, still plenty of content to go! Solid puzzle solving and platforming skills. The extras are fun, too!",1564158446,1564158446,True,0,0,0,0,True,False,False,False,,,
+53685469,"{'steamid': '76561198277457825', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1562351091}",brazilian,brabo,1562345503,1562345503,True,0,0,0,0,True,False,False,False,,,
+53123408,"{'steamid': '76561197960373660', 'num_games_owned': 2084, 'num_reviews': 4137, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1562565906}",english,󠀡,1562064699,1562064699,True,2,0,0.2578125,0,True,False,False,False,,,
+52063440,"{'steamid': '76561198042132528', 'num_games_owned': 1818, 'num_reviews': 12, 'playtime_forever': 626, 'playtime_last_two_weeks': 0, 'playtime_at_review': 371, 'last_played': 1583123530}",english,"Nice, fun game that takes a simple concept and at points really forces the player to think. Not necessarily challenging unless you are trying to 100% the game - a good mix between easy and hard.",1561826374,1561826374,True,0,0,0,0,False,True,False,False,,,
+51832450,"{'steamid': '76561198059853827', 'num_games_owned': 912, 'num_reviews': 18, 'playtime_forever': 265, 'playtime_last_two_weeks': 0, 'playtime_at_review': 212, 'last_played': 1562078566}",english,"Awesome little game!
+It's as much fun as ""big"" platformers, but way, way cheaper!
+
+Go get it now!",1561803393,1561803393,True,0,0,0,0,True,False,False,False,,,
+50504286,"{'steamid': '76561198022179607', 'num_games_owned': 4160, 'num_reviews': 1170, 'playtime_forever': 100, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1590726428}",french,good game,1557103332,1557103332,True,0,0,0,0,True,False,False,False,,,
+48482477,"{'steamid': '76561198172925593', 'num_games_owned': 14023, 'num_reviews': 4533, 'playtime_forever': 138, 'playtime_last_two_weeks': 0, 'playtime_at_review': 138, 'last_played': 1548132457}",schinese,"非常不错的一款动作游戏
+游戏中控制着一个只会冲刺的小机器人来逃离工厂
+非常考验反应力+操作的游戏，因为只能冲刺的关系，有时候需要在撞墙后准确的输入下一次的移动方向，才能避免碰到陷阱
+难度由简入难，刚开始让你熟悉一下操作手法，逐渐增加不同的陷阱，甚至还有一些限时要素
+需要一边找准时机按下按键，一边观察环境找准下一个可移动位置
+总体难度还是挺高的，游戏还有两个模式：story和arcade
+游戏地图完全一样，也都有一定的收集要素
+只不过前者story模式可以无限制挑战关卡，直到通关，然后解锁下一关
+arcade模式，每次都从第1关开始，并且有一定数量限制的生命（关卡中间可以拾取增加生命的道具），需要在有限的失败次数中尽量挑战更多的关卡数",1548132473,1548132473,True,1,0,0.505154609680175781,0,False,False,False,False,,,
+48273847,"{'steamid': '76561198350621229', 'num_games_owned': 57, 'num_reviews': 3, 'playtime_forever': 179, 'playtime_last_two_weeks': 0, 'playtime_at_review': 176, 'last_played': 1554624216}",english,This game is reallly fun.. in the begining and then it gets super stressful. But its really fun to mess with your head and make you think more.,1547288535,1547288535,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+47653588,"{'steamid': '76561198098936991', 'num_games_owned': 222, 'num_reviews': 21, 'playtime_forever': 286, 'playtime_last_two_weeks': 0, 'playtime_at_review': 286, 'last_played': 1558777007}",french,"Un petit jeu d'arcade bien sympathique alliant réflexion et dynamisme, dont la difficulté est exigeante mais non injuste.
+Tel est le résumé de Blitz Breaker qui se range aux côtés de jeux tels que Super Meat Boy ou Céleste sans être aussi poussé que ces derniers. 
+
+Les niveaux sont d'une difficulté croissante, qui se corse vraiment vers la fin, il faut s'accrocher pour le finir. Des ""fragments"" sont cachés à travers les niveaux afin de débloquer des niveaux bonus, de quoi booster la durée de vie et motiver les plus courageux à faire le 100%.
+
+Les graphismes ne sont pas repoussants, le gameplay est facilement abordable tout en étant innovant, pour un jeu à 1€ (prix actuel) et si vous êtes fan du genre, il en vaut vraiment le détour.",1545323098,1545323098,True,1,0,0.525547444820404053,0,True,False,False,False,,,
+47014761,"{'steamid': '76561198251196836', 'num_games_owned': 0, 'num_reviews': 111, 'playtime_forever': 260, 'playtime_last_two_weeks': 0, 'playtime_at_review': 260, 'last_played': 1543214151}",english,It's good.,1543214028,1543214028,True,0,0,0.453297644853591919,0,True,False,False,False,,,
+45957027,"{'steamid': '76561198025524179', 'num_games_owned': 315, 'num_reviews': 48, 'playtime_forever': 528, 'playtime_last_two_weeks': 0, 'playtime_at_review': 528, 'last_played': 1517447546}",english,"Blitz Breaker is an excellent action-puzzle game! The levels are well thought out with the game mechanics, that are simple and easy to control but hard to master!
+
+If you like super challenging difficulty, the extra levels are extra hard. I wasn't able to complete them, and I had some difficulty on the last levels and bosses but I was still able to have a lot of fun while playing!
+
+The game visuals are really good if you like pixel art and the visual feedbacks have a lot of juice as well!",1542826634,1542826634,True,2,0,0.542097508907318115,0,True,False,False,False,,,
+45381806,"{'steamid': '76561198088697179', 'num_games_owned': 660, 'num_reviews': 56, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1542195063}",english,"It's just a mobile game, with keyboard controls. And bad ones at that.",1540152003,1541333801,False,0,0,0.400498300790786743,0,False,False,False,False,,,
+45181717,"{'steamid': '76561198063117447', 'num_games_owned': 4841, 'num_reviews': 1362, 'playtime_forever': 272, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1551742786}",schinese,"画风很可爱
+手感也不错",1539039679,1539039679,True,0,0,0,0,False,False,False,False,,,
+43721455,"{'steamid': '76561197970149845', 'num_games_owned': 3732, 'num_reviews': 453, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1532456938}",english,"Great dash-platformer.
+
++ Great, charming pixel graphics
++ Great, charming music
++ Great variety in stages/gameplay
++ Great variety in difficulty (complete level vs get stars vs hard mode levels)
++ Interesting gameplay switchup in boss stages
++ Good progression",1532458318,1532458318,True,1,1,0.523195862770080566,0,False,False,False,False,,,
+42600712,"{'steamid': '76561197994397124', 'num_games_owned': 0, 'num_reviews': 87, 'playtime_forever': 448, 'playtime_last_two_weeks': 0, 'playtime_at_review': 448, 'last_played': 1528642048}",english,"Same ingredients as Super Meat Boy: hard, short levels. Simple controls that take time to master. Smaller scope / shorter game.
+
+The controls in this game are a bit more unusual, though. The character cannot walk or run (also you *can* jump, with is useful with treadmills, but is rather anecdotical overall). To move, you ""rush"" at full speed, in one of any 4 directions, top/down/left/right (you cannot stop or change direction until you hit an obstacle). This makes for fast navigation in the levels, *if* you can keep up to it. The controls being very responsive and the game supporting 120/144fps makes them a joy to play with. Also, the game allows you to keep a direction arrow pressed *before* you hit a wall (most games do this to some extent, it's just that here the window is of infinite size), which is both a clever choice and a fun property to play with.
+
+The game area is in a portrait format (close to 9:16), there is no helping it unfortunately, probably due to being made for mobiles. It does not ""feel"" like a mobile game at all, though. A part from that, the graphics are decent retro-like.
+The music (also 8-bit mostly) is pretty good, as you can see for yourself https://fatbard.bandcamp.com/album/blitz-breaker-ost
+
+The game *is* relatively short: 4 Worlds (made of 12 areas each - areas being a sequence of small levels) and 4 bosses, but there is no repetition here, and if you want to get the most difficult achievements, you will have to give this game quite some more practice.
+Last but not least, it is dirty cheap, $1 for this is a steal.",1528546940,1528619729,True,4,0,0.583333313465118408,0,True,False,False,False,,,
+42507237,"{'steamid': '76561198118940396', 'num_games_owned': 2994, 'num_reviews': 70, 'playtime_forever': 117, 'playtime_last_two_weeks': 0, 'playtime_at_review': 117, 'last_played': 1521363589}",koreana,"킬링타임으로 제법 괜찮은 게임
+게임 느낌도 과거 모바일 게임 미니게임천국 느낌도 들고 난이도도 적당한 수준",1528198689,1528198689,True,0,0,0,0,True,False,False,False,,,
+42469232,"{'steamid': '76561198087997851', 'num_games_owned': 8626, 'num_reviews': 50, 'playtime_forever': 433, 'playtime_last_two_weeks': 0, 'playtime_at_review': 433, 'last_played': 1528029818}",schinese,"一共四大关 后面的难度真是变态   打完boss真是热泪盈眶了
+
+",1528029430,1528029430,True,0,0,0,0,False,False,False,False,,,
+42197113,"{'steamid': '76561198116551175', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 2193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 591, 'last_played': 1710998146}",english,"Bought this game last summer on a sale, had lots of hours of fun. Simple to learn, hard to master. It's tough yet fair, once you observe the obstacle patterns and get the timing right, you can whiz through any level you thought was previously impossible. Very impressed with how some of the levels have multiple obsticles that require prefect combos of reaction and timing in order to beat the level. Really well-designed. If you like a game that tests your reflezes, ala bullet-hell shooters or Cuphead, buy this game NOW!",1527095732,1527095765,True,0,0,0,0,False,False,False,False,,,
+40258444,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 249, 'playtime_last_two_weeks': 0, 'playtime_at_review': 249, 'last_played': 1519202701}",romanian,Very nice game,1519151401,1519151401,True,0,0,0,0,True,False,False,False,,,
+39723277,"{'steamid': '76561198181034922', 'num_games_owned': 302, 'num_reviews': 301, 'playtime_forever': 471, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1523788693}",schinese,"打折时候看很便宜买的，相当好玩。
+
+上手简单音乐好听，至于画面么......像素党应该还会是很高兴的。
+
+玩了几关，手有点痛了。
+
+看了一眼成就，找度娘翻译了一毛，又撇了一眼好像没有G胖的反作弊，于是手残的我默默打开了成就解锁器。",1517304951,1517304951,True,3,0,0.50302731990814209,0,True,False,False,False,,,
+39114382,"{'steamid': '76561198013321249', 'num_games_owned': 4603, 'num_reviews': 245, 'playtime_forever': 739, 'playtime_last_two_weeks': 0, 'playtime_at_review': 735, 'last_played': 1515330617}",english,"A game similar to super meat boy. Good gameplay and controls. Simple to operate. You just need the fingers on the keyboard, so you can play one handed. Although the game does recommend the controller of course...
+
+Surprisingly refreshing to play with so many steam games out there.
+
+I think i saw it 1st beeing played on an AGDQ event, and it did leave a mark.
+
+And the best thing is...
+You will feel like a Nyancat !! :333",1515237163,1515247603,True,3,1,0.562728583812713623,1,True,False,False,False,,,
+38833273,"{'steamid': '76561198271115782', 'num_games_owned': 156, 'num_reviews': 24, 'playtime_forever': 104, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1540914317}",spanish,"Hola amantes del timing, si en este juego se necestia bastante timing, el juego es dificil(no mucho)
+El juego tiene unos graficos pixel art que le sienta super bien, un tipo de movilidad dificil pero muy completa(esto es loque le hace dificil, su movilidad).
+el juego tiene bastantes niveles y un buen rato de entretenimiento.
+8/10
+",1514579764,1514579764,True,1,1,0.523809552192687988,0,True,True,False,False,,,
+38747221,"{'steamid': '76561198037994924', 'num_games_owned': 645, 'num_reviews': 18, 'playtime_forever': 1173, 'playtime_last_two_weeks': 0, 'playtime_at_review': 335, 'last_played': 1476887942}",english,"Fun little challenging game. I played it a lot between classes or in my lunch time , it's a good way to pass some time.",1514397321,1514397321,True,0,0,0.49301561713218689,0,True,False,False,False,,,
+38626639,"{'steamid': '76561198009843595', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 3740, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3710, 'last_played': 1485399000}",english,"There is a lot underneath the cover of this bite-sized game. You have essentially 1 main ability. Air dash. You can jump, but it will seldomly help you. The game is fast-paced, has an excellent soundtrack, and main things to unlock and collect. This game is just fun, and sometimes that's all you can ask for.",1514129926,1514129926,True,0,0,0,0,False,False,False,False,,,
+38050347,"{'steamid': '76561197971275585', 'num_games_owned': 0, 'num_reviews': 173, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1512364460}",english,Square hitboxes on round/triangular objects which lead to death when you clearly weren't hit make this a thumbs down review to me. You can't do that in a precision platform and there are far too many instances where you know you didn't collide with an object but you do.,1512364568,1512364568,False,3,1,0.525936663150787354,0,True,False,False,False,,,
+37868136,"{'steamid': '76561198215752520', 'num_games_owned': 257, 'num_reviews': 15, 'playtime_forever': 563, 'playtime_last_two_weeks': 0, 'playtime_at_review': 563, 'last_played': 1511864720}",spanish,Juego entretenido,1511864735,1511864735,True,0,0,0,0,True,False,False,False,,,
+37634648,"{'steamid': '76561198377574777', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 131, 'playtime_last_two_weeks': 0, 'playtime_at_review': 131, 'last_played': 1512230551}",turkish,Güzel !,1511684062,1511684062,True,0,0,0,0,True,False,False,False,,,
+36741690,"{'steamid': '76561198049243092', 'num_games_owned': 2079, 'num_reviews': 37, 'playtime_forever': 520, 'playtime_last_two_weeks': 0, 'playtime_at_review': 512, 'last_played': 1653224787}",russian,"Забавная, хардкорная, приятная на глаз и слух аркадка с весьма своеобразным геймплеем. Если хотите потрепать себе нервишки, эта вещь специально для вас.",1511377794,1511377794,True,0,0,0,0,False,False,False,False,,,
+36608404,"{'steamid': '76561198337281006', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1511043946}",english,"OK, played through the demo version of this game and loved it! Niceness all around. But, i find the full game on steam and im like: Yay! I get to play the full game! But now i want a refund because of several reasons: 
+
+1: Hitboxes. After beating the first boss, the Mish Masher Marshall, i ended up in the second world, and to my surprise it wasnt that bad. BUT on one level where you HAVE TO HAVE ABSOLUTLY PERFECT TIMING, things got bad. All the hitboxes are square, enemies, the character, spikes, water, more spikes, they all have square hitboxes which make those little perfect timing parts INFINITLY HARD.
+2: Platforming. The platforming sections are so hard! when i first went up against Mish Masher Marshall, That one part of the boss where there are spikes on walls everywhere, ITS DANG HARD FOR BEGINNERS!
+3: Timing and NO CHECKPOINTS. The timing on some of these levels...oh my bloody god...ITS SO IMPOSSIBLE! And to make that worse there are no checkpoints at all. That one thing makes the game so repetitive. Run a level. Die just at the end of the hardest part. Repeat. 
+
+Personally, i like this game, but it needs some serious work and changes to the level design.",1511043979,1511044788,False,3,0,0.545786261558532715,0,True,False,False,False,,,
+36324974,"{'steamid': '76561198097644433', 'num_games_owned': 947, 'num_reviews': 299, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1509138119}",english,not fun,1509984959,1509984959,False,2,0,0.411712467670440674,0,False,False,False,False,,,
+35896446,"{'steamid': '76561198054558486', 'num_games_owned': 424, 'num_reviews': 7, 'playtime_forever': 307, 'playtime_last_two_weeks': 0, 'playtime_at_review': 307, 'last_played': 1456950771}",english,Good,1508604178,1508604178,True,0,0,0.434038490056991577,0,True,False,False,False,,,
+34783820,"{'steamid': '76561197984883519', 'num_games_owned': 607, 'num_reviews': 25, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1489858053}",english,"This is a great original idea that's very well executed.  I originally played this in a blind race and bought the game immediately.  The advanced mechanics are introduced at a near perfect pace throughout the game to make the experience enjoyable throughout.
+
+The movement mechanics are what makes the game stand out.  You don't actually move your character, you just push a direction and your character moves all the way across the screen until hitting a wall.  This makes for unique level design with the innovative movement in the game.",1504734665,1504734665,True,2,0,0.541984736919403076,0,True,False,False,False,,,
+34110033,"{'steamid': '76561198025774024', 'num_games_owned': 1822, 'num_reviews': 23, 'playtime_forever': 156, 'playtime_last_two_weeks': 0, 'playtime_at_review': 156, 'last_played': 1502219406}",german,"Doing a stage 50 times over is fun.
+t. developer of this game",1502219505,1502219505,False,1,0,0.421621561050415039,0,True,False,False,False,,,
+31636311,"{'steamid': '76561198162418221', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 647, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1532734079}",english,I first bought this game on mobile and its a great game! Its so good that I also bought this version and its just as good. Its not in depth and you can tell it was made for mobile but if you got some change to spare then please buy this. Very underrated game.,1494285804,1494285804,True,0,0,0,0,True,False,False,False,,,
+31619410,"{'steamid': '76561198000100103', 'num_games_owned': 1184, 'num_reviews': 3, 'playtime_forever': 359, 'playtime_last_two_weeks': 0, 'playtime_at_review': 359, 'last_played': 1475756412}",koreana,"쳅터 별 적당한 난이도 증가로 깨는맛이있음
+
+다만 이건 일반적으로 스테이지 깨는 난이도고
+
+수집품을 모두 모를려고 매달으 전부 모으는 경우 난이도가 미친듯이 올라감",1494223364,1494223364,True,0,0,0,0,False,False,False,False,,,
+30408173,"{'steamid': '76561198254436619', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 616, 'playtime_last_two_weeks': 0, 'playtime_at_review': 582, 'last_played': 1517512400}",english,10/10 difficulty scaling. Not very long but it'll stump you at the later levels. Those secret green keys give some extra challenge for the 100% too. Keep up the good work,1489066162,1489066162,True,4,0,0.558339297771453857,0,True,False,False,False,,,
+29794956,"{'steamid': '76561198003435423', 'num_games_owned': 0, 'num_reviews': 40, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1513577863}",english,"Good game! Fun for short play sessions. Beat a world, move on with life, then come back later to beat the next world.",1486616091,1486616091,True,0,0,0.49301561713218689,0,False,False,False,False,,,
+29682571,"{'steamid': '76561198241070248', 'num_games_owned': 65, 'num_reviews': 1, 'playtime_forever': 743, 'playtime_last_two_weeks': 0, 'playtime_at_review': 586, 'last_played': 1583443242}",english,I love this game. The controls are responsive and it's just hard enough that it takes a few trie to pass some levels. The levels are fun and enjoyable and the iOS version is great as well. I wish there was a way to sync my iOS version and this though so I could play this both at home and on the go. Perfect for it you have a spare moment or two. The boss fights are enjoyable and I rather enjoy all of the levels I've played so far.,1486174123,1486174123,True,1,0,0,0,True,False,False,False,,,
+29585304,"{'steamid': '76561197994707385', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 322, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1489763252}",english,"Beating the game with 1025 death. What wrong with me?
+
+...Oh by the way, the game is good.",1485783626,1485783626,True,1,0,0.49301561713218689,0,True,False,False,False,,,
+29275983,"{'steamid': '76561198331422350', 'num_games_owned': 50, 'num_reviews': 11, 'playtime_forever': 1315, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1059, 'last_played': 1523984614}",english,"An amazing platformer that catched me some minutes after I started playing. Although it has simple controls levels like Gauntlet X really aren´t as peaceful as the music. If you play this game you should definitely be patient because it can take you a long time to beat a level.
+
+All in all I had a lot of fun with this game.",1484494313,1484494313,True,2,0,0.523809552192687988,0,True,False,False,False,,,
+29186924,"{'steamid': '76561197989317906', 'num_games_owned': 278, 'num_reviews': 64, 'playtime_forever': 337, 'playtime_last_two_weeks': 0, 'playtime_at_review': 261, 'last_played': 1581264281}",english,"Got this game after seeing a guy speed run for a charity stream, and holy crap it's a lot of fun, the movement itself of the character feels very satisfying.
+
+EDIT: this game is perfect.",1484154998,1484325873,True,1,0,0.446194231510162354,0,True,False,False,False,,,
+28904639,"{'steamid': '76561198056700704', 'num_games_owned': 1370, 'num_reviews': 594, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1483256647}",japanese,"指示した方向に突き進む自機をゴールに導くゲーム。
+ドット絵と8bitMusicが好印象だったが、内容は単調ですぐ飽きてしまいました。",1483281877,1483281877,False,1,0,0.348481982946395874,0,True,False,False,False,,,
+28731938,"{'steamid': '76561198041108401', 'num_games_owned': 1219, 'num_reviews': 496, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'last_played': 1482883134}",english,"+ Nice music
++ retro 8-bit style
+- Doing the same again and again to finally get that level done
+- Waiting to fall down
+
+NOT MY GAME!
+Maybe this is something for speedrunners",1482883422,1482883422,False,2,1,0.523809552192687988,0,True,False,False,False,,,
+27107624,"{'steamid': '76561198198437223', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1480948118}",russian,"игра хорошая на первых уровнях все легко, а потом напоминает dark souls думаю дальше нет смысла продолжать",1479983798,1479983798,True,1,0,0.502487540245056152,0,True,False,False,False,,,
+26454387,"{'steamid': '76561198286200379', 'num_games_owned': 0, 'num_reviews': 1491, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1478434157}",brazilian,"Jogo legalzin pra passa o tempo
+
+recomendo se gosta de jogo assim",1478431895,1478431895,True,0,1,0,0,True,False,False,False,,,
+26143419,"{'steamid': '76561198009627228', 'num_games_owned': 0, 'num_reviews': 46, 'playtime_forever': 143, 'playtime_last_two_weeks': 0, 'playtime_at_review': 143, 'last_played': 1474628603}",english,"[Full disclosure: My copy of Blitz Breaker was supplied bywww.pcgamesnnews.wordpress.com]
+
+When discussing games of incredible difficulty or challenge, there are typically three schools of thought I subscribe to: Spelunky for roguelikes, Dark Souls for action/RPG, and Super Meat Boy for arcade-like, rapid fire levels. Blitz Breaker comes from the latter school; featuring levels that frequently take less than a minute or two to complete, are full of gimmicks that are introduced over time, and becomes the stuff of patience-testing nightmares near the end. While the controls are incredibly simple and easy to underestimate, the skill, tact and timing needed to execute successful runs through the levels is still quite impressive, even if the game has some bothersome elements that could’ve been avoided.
+
+Your character cannot walk or run; the only methods of locomotion are a meager little jump, dashing in one of the four cardinal directions, and using parts of the environment, like by a magnetized platform or conveyor belts. The catch is that your character doesn’t stop dashing until they bump into a surface which, if the surface is a harmful one, then results in exploding death and returns you to the start of the level to try again. The levels and obstacles are all designed around this control scheme in compact levels that are quick to complete when you know the tricks. To be expected, the game is clever in unveiling new gimmicks (sawblades, cannons, keys etc) and starts off easy until they’re mashed together to really test your skill. These levels, or ‘worlds’, are punctuated by boss battles that are quite punishing, since a death restarts the entire fight from scratch. Levels have a par time and meeting this will reward you with stars, a collectible needed mainly for completionism, but which also unlocks different characters who have no purpose other than a visual one. Extra time towards the par can be gained by collecting coins throughout the level - Later on it feels like every coin must be grabbed to reach the par time unless speedy tricks are used to shave precious seconds. While the first twenty or so minutes will be a relative breeze, before long Blitz Breaker gets real mean and unfortunately rather irksome.
+
+I’m not exclusively talking about the difficulty in terms of level design anymore, since that’s to be expected out of a game like this. Hitboxes interacting between your character and obstacles can be an iffy deal, since a handful of pixels brushing past a spike can result in some dubious deaths. This also is a problem when falling at terminal velocity and then dashing at the last moment; you’ll hear the sound effect of the dash being executed via your input, yet your character will still take a death regardless. It’s hard to tell if this is just the hitboxes not co-operating or if this is a proper bug that never got ironed out. The timer at the top of the screen obstructs the upper section of the level, and this can result in dashing headfirst into spikes hidden behind said timer if you’re not aware, which feels just downright silly. The game also does itself no favors by having a taunting message appear on screen after a death, resulting in annoyed jamming of the jump button in order to get by it as fast as possible and begin a fresh run. This makes fast restarts take a moment too long which can be a deal breaker for a game like this.
+
+The biggest takeaway from Blitz Breaker of all comes not from a design quirk but from player input; in that you will try to dash around as fast as possible and make the same mistakes constantly. Even when there’s a spike wall to your left and a conveyer belt needs to carry you to the next platform, there will be that awful urge to dash that way to try to save time. I cannot count the number of times I’ve dashed straight into a spike wall after breaking a barricade and mashing the button to try and save time instead of just waiting for the correct and safe moment to continue. The game excels at preying upon player impatience, especially if you’re trying to go for every par time and collectible. This is both great game design and comically infuriating, and you’ll certainly have to train yourself to not just dash yourself to oblivion at every waking opportunity.
+
+So even with some bothersome points that can effectively rob a successful run, Blitz Breaker is still a competent little title, with emphasis on little. The game is incredibly affordable and also short if you’re just trying to finish the game, but getting all the collectibles and par times is another story entirely, especially with them being scattered across an infinite-lived Story mode and an Arcade mode with finite lives. The difficulty may be off-putting for some, but for those looking for a new challenging platform in same veins as Super Meat Boy and the like, Blitz Breaker certainly can be recommended.",1477047771,1477047771,True,2,0,0.537857174873352051,0,False,True,False,False,,,
+25984451,"{'steamid': '76561197970602587', 'num_games_owned': 6364, 'num_reviews': 3660, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1476144110}",english,"https://youtu.be/ioEy3mrKw0Q
+
+The tight controls on this masocore platformer makes for an enjoyable experience.  The super narrow cellphone screen playspace makes for a lackluster presentation.  Challenging level design rewards players with a feeling of accomplishment marred by the not uncommon death to unseen hazards on screen transition.
+
+The game's formula is solid but it's presentation is holding it back, a better use of the screen space would make this a solid recommendation.",1476202472,1476202472,False,3,0,0.537037014961242676,0,False,False,False,False,,,
+25761744,"{'steamid': '76561198286075366', 'num_games_owned': 0, 'num_reviews': 57, 'playtime_forever': 1101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1101, 'last_played': 1475133545}",spanish,"Este es un juego muy complicado y en ocasiones injusto debido a su programación (a veces el personaje tarda en reaccionar, los spikes te matan aunque no los toques). Si te gustan los desafíos, este es tu juego. 
+
+Lo que me gusta, sin embargo, es la sutileza de su historia: un personaje de videojuego que desea escapar de éste (una simulación, como toda cárcel) para salir al mundo real.",1475133992,1475133992,True,0,0,0,0,True,False,False,False,,,
+25417231,"{'steamid': '76561198059216394', 'num_games_owned': 859, 'num_reviews': 125, 'playtime_forever': 1196, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1196, 'last_played': 1473367545}",english,"Spheres with square hitboxes...
+Spikes with square hitboxes...
+Pretty much every object in this game, regardless of its shape, got a large square hitbox...
+It totally ruins the platformer when you keep getting killed by objects that didn't even touch you.
+
+Everything else is pretty much great:
+* the difficulty scales well with the game
+* levels are well designed and not repetetive 
+* lovely graphics and nice soundtrack
+
+
+If you are not going for 100% achievements and want to play it just for story mode go for it. It's totally worth the price.
+
+However, due to that lazy hitbox implementation and frustration it caused I can't give this game a positive reviev.",1473372034,1473372769,False,25,1,0.668511092662811279,1,True,False,False,False,,,
+25398008,"{'steamid': '76561198256930117', 'num_games_owned': 156, 'num_reviews': 43, 'playtime_forever': 568, 'playtime_last_two_weeks': 0, 'playtime_at_review': 568, 'last_played': 1472847411}",french,"
+Pour une présentation vidéo avec un peu de gameplay:
+
+https://www.youtube.com/watch?v=4b6bqtE-hZ0
+
+Blitz Breaker est un jeu sympa, même si on ne peut que dasher et sauter, les niveaux restent diversifiés avec pas mal de nouveaux éléments qui rentrent en compte: niveaux aquatiques, niveaux avec des portails, boss...
+
+Il faut toutefois préciser que:
+--> Il n'y a pas d'histoire
+--> Le jeu est dur, avec certains niveaux qui ont des allures de ""die and retry"".  
+",1473263665,1473263665,True,0,0,0,0,True,False,False,False,,,
+25322239,"{'steamid': '76561198086834174', 'num_games_owned': 1149, 'num_reviews': 12, 'playtime_forever': 2238, 'playtime_last_two_weeks': 0, 'playtime_at_review': 579, 'last_played': 1478430313}",polish,Really fun game with great oldschool feel,1472899352,1472899380,True,0,0,0,0,True,False,False,False,,,
+25305459,"{'steamid': '76561198118225246', 'num_games_owned': 321, 'num_reviews': 5, 'playtime_forever': 1408, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1120, 'last_played': 1473249085}",english,"Platformer Game, HARD GAME, harder than I tought it would be
+at first kind of easy, until I reach the Gauntlet Level, 
+get a headache, stress, and depressed every time 
+101/10 fun game",1472825987,1472825987,True,0,0,0.476190477609634399,0,True,False,False,False,,,
+25294141,"{'steamid': '76561197972347569', 'num_games_owned': 0, 'num_reviews': 46, 'playtime_forever': 56, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1475770891}",english,TIGHT.,1472767835,1472767835,True,0,0,0.49301561713218689,0,True,False,False,False,,,
+24021815,"{'steamid': '76561198003711145', 'num_games_owned': 878, 'num_reviews': 96, 'playtime_forever': 414, 'playtime_last_two_weeks': 0, 'playtime_at_review': 414, 'last_played': 1467587214}",english,"Cute  but challenging little platformer with beautiful style. Easy to play with keyboard.
+
+Although I agreed with some other reviewers: sometimes levels are bocoming too long and too tedious. Why don't make 2-3 short levels instead?",1467478945,1568022067,True,0,0,0.46501883864402771,0,True,False,False,False,,,
+23272176,"{'steamid': '76561198192388414', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 150, 'playtime_last_two_weeks': 0, 'playtime_at_review': 126, 'last_played': 1480189645}",english,It's fun to play,1464527562,1464527562,True,0,0,0.49301561713218689,0,True,False,False,False,,,
+23240755,"{'steamid': '76561198066230302', 'num_games_owned': 916, 'num_reviews': 136, 'playtime_forever': 1841, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1841, 'last_played': 1463907813}",brazilian,"Um excelente jogo de plataforma com um [i]twist[/i], o personagem não anda. A primeira vista soa estranho, seja por ser um conceito novo ou já visto pelo jogador, mas no fim esse pequeno detalhe está longe de ser o que importa.
+
+Confira o review com maiores detalhes acessando nosso vídeo.
+
+https://www.youtube.com/watch?v=eSfbnX3yUUk",1464381795,1464381795,True,2,0,0.54595792293548584,0,False,True,False,False,,,
+23129856,"{'steamid': '76561198054978155', 'num_games_owned': 2688, 'num_reviews': 183, 'playtime_forever': 264, 'playtime_last_two_weeks': 0, 'playtime_at_review': 264, 'last_played': 1463817675}",tchinese,"嘛
+畫面還不錯
+而且可以用點腦",1463889341,1463889341,True,0,0,0.471698105335235596,0,False,False,False,False,,,
+23094015,"{'steamid': '76561198098472108', 'num_games_owned': 178, 'num_reviews': 11, 'playtime_forever': 482, 'playtime_last_two_weeks': 0, 'playtime_at_review': 480, 'last_played': 1469963870}",schinese,很有意思的小游戏，考验你的耐心和你的手残值。值得一如=入,1463730993,1463730993,True,3,0,0.554430365562438965,0,False,True,False,False,,,
+23085436,"{'steamid': '76561198188515021', 'num_games_owned': 1382, 'num_reviews': 312, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1464548296}",english,"A little piece of a heart.
+
+Super sweet sounds.
+Novel twist on platforming. 
+
+Blitz Breaker is perfection.
+Deserves your attention.",1463682429,1463682429,True,4,0,0.544473886489868164,0,False,False,False,False,,,
+23054677,"{'steamid': '76561198103505463', 'num_games_owned': 438, 'num_reviews': 10, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1464104938}",schinese,很有意思的益智类小游戏,1463578753,1463578753,True,2,0,0.54356849193572998,0,False,False,False,False,,,
+23047418,"{'steamid': '76561198095270749', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 5860, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1651625322}",english,Really good game 10/10 great physics and just a greAt platformer in general,1463533980,1463533980,True,0,0,0.49301561713218689,0,True,False,False,False,,,
+22917558,"{'steamid': '76561198036446642', 'num_games_owned': 2569, 'num_reviews': 85, 'playtime_forever': 418, 'playtime_last_two_weeks': 0, 'playtime_at_review': 289, 'last_played': 1463332183}",spanish,"Lo recomiendo, es muy adictivo y entretenido me recuerda al meat boy, con las veces que me picaba yo porque me matan ;) 
+
+De verdad me tiene enganchado ;-;",1463000903,1463000903,True,0,1,0,0,False,False,False,False,,,
+22628377,"{'steamid': '76561198087766489', 'num_games_owned': 164, 'num_reviews': 27, 'playtime_forever': 126, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1480855515}",spanish,"Simple, barato y adictivo, fórmula perfercta.
+Los controles son sencillos e intuitivos, cómodos en teclado y mando.
+buen soundtrack de niveles (y del juego en general :P).
+Es un juego para jugar alguna que otra tarde divertida y hacerla amena.",1461586272,1461586272,True,0,0,0,0,True,False,False,False,,,
+22624720,"{'steamid': '76561197987459477', 'num_games_owned': 780, 'num_reviews': 264, 'playtime_forever': 568, 'playtime_last_two_weeks': 0, 'playtime_at_review': 291, 'last_played': 1511423010}",english,"Tight controls and fun levels along with plenty of unlockables skins, secret bonus levels and the like make this worth the price. I was somewhat annoyed by the final level and the boss because there are no checkpoints in an extremely lengthy stage. Gauntlet IX and the final boss took me an hour of the three hours it took me to finish. I'll probably go back to unlock the warp zone bonus stages at some point. Fun and challenging.",1461563941,1461563941,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+21972850,"{'steamid': '76561197999240477', 'num_games_owned': 1592, 'num_reviews': 98, 'playtime_forever': 900, 'playtime_last_two_weeks': 0, 'playtime_at_review': 588, 'last_played': 1464546416}",english,Little indie gem. Fast and challenging like Super Meat Boy. Good pixel art and chiptunes too.,1458601452,1458601452,True,0,0,0,0,True,False,False,False,,,
+21772145,"{'steamid': '76561198178344349', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 258, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1481040982}",russian,"Игра показалась интересной. Скачал и просто бомбануло!!!
+1. Что с маской колизии. Какого она так плохо настроена. Ты умираешь не касаясь шипов! Нормально.
+2. Для чего такой ущербный прыжок? 
+3. Из-  за вышеперечисленных пунктов невозможно играть. Думаешь, что ты плохо играешь, а на самом деле игра тролит.
+В данный момент этот продукт наполовину играбельный..",1457724267,1480071278,False,1,0,0.513647615909576416,0,True,False,False,False,,,
+21682502,"{'steamid': '76561198066280697', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 538, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1642145585}",russian,"Потресканный стол,разбитый геймпад и куча уничтоженных нервов. Что ещё надо для хардкорной инди-игры? 10ебучих монеток из 10",1457342533,1457342533,True,0,0,0,0,True,False,False,False,,,
+21675542,"{'steamid': '76561198009854709', 'num_games_owned': 3087, 'num_reviews': 549, 'playtime_forever': 568, 'playtime_last_two_weeks': 228, 'playtime_at_review': 77, 'last_played': 1711665687}",italian,"UN GIOCHINO PICCOLO E FIGHISSIMO (Blitz Breaker) - Novità 
+Blitz Breaker è uno dei motivi per cui questo canale mi rende felice. La possibilità di scoprire e farvi scoprire un giochino semplie e divertente come Blitz Breaker giustifica la quantità di giochi mediocri che ci tocca provare. C'è poco da dire che non si veda nel gameplay; Blitz Breaker è un gioco bello, immediato, facile e difficile allo stesso tempo. Insomma, soldi ben spesi.
+
+https://www.youtube.com/watch?v=dgelKJsc6vI",1457303927,1457303927,True,0,0,0.419767230749130249,0,False,False,False,False,,,
+21671588,"{'steamid': '76561198144409478', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 235, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1550763180}",french,"Un jeu fun et nerveux ! tourne comme un charme sur n'importe quelle machine (normal étant donné que le jeu fait 80 mb)
+un gameplay facile à prendre en main.",1457290626,1457290626,True,0,0,0,0,True,False,False,False,,,
+21670281,"{'steamid': '76561198214374944', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 114, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1545782383}",english,"I would definetly reccomend this game to Mario, Sonic, Kirby, Yoshi, etc. fans. It's got that good platformer feel and a twist on control. Moving left and right and just jumping? NOT! This game requires wit as if you have to aim properly to get where you're going. The other great spot this game has covered; the soundtrack. I listen to that more than I actually play the game. I would give this a 9.5/10.",1457286869,1457286869,True,0,0,0,0,True,False,False,False,,,
+21645107,"{'steamid': '76561198016432675', 'num_games_owned': 1503, 'num_reviews': 483, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 160, 'last_played': 1457120393}",english,"[b] Target Audience: [/b] [I] Twitch Action lovers who have exhausted all other possibilities[/i]	
+
+[b] Summary: [/b]  
+
+While it's alright for what it does, it just doesn't have an oompf factor to put it over the top. The simple gameplay does well at first in requiring quick decision making and changing up its mechanics. But soon it becomes apparent that the game has a problem with consistency, as good sets of levels are backed up with ones that don't execute very well. The traps can be hit or miss, as the conveyor belts are great and play off the physics of the game well, but the missile traps don't provide any sort of real challenge whatsoever. And then some other flaws start to show: as the length of levels start becoming a real problem. It starts to punish the player for small mistakes that they couldn't really have predicted in boss encounters, and it turns into a slog as you try a level over and over again, asking for precision that the players already proven repeatedly. The game is fine for the price tag in terms of content, and for those looking for twitch action platforming, it can do the job. But a lack of an outstanding factor to draw attention in versus all the other twitch action platformers out there, and it just doesn't get a recommendation from me in the end. When it goes to mobile, it'll be worth a pickup there.
+
+[b]Gameplay Footage and Video Review:  https://www.youtube.com/watch?v=-Nrtjo8YGwQ [/b] 
+
+[u] Lists: [/u]
+[b]Positives:[/b]
+[list]
+[*] Solid. Does do a good job of twitch action gameplay at first, and some of the traps provide a challenge.
+[*] Game is at its best when it's testing your understanding of momentum and using the physics of the world around you.
+[*] Visually it's not bad. It's got a good selection of alternate costumes and I like the “break through screen” part of the presentation.
+[*] Load times non existent, and good performance overall.
+[/list]
+
+[b]Negatives:[/b]
+[list]
+[*] Lacks a punch. While it's functional, it just doesn't have something to keep your attention for a long period of time.
+[*] Some levels are way too long. You've tested us with the precision of one specific jump, you don't need to test us repeatedly. And it doesn't help when.....
+[*] You get the “ooo gotcha” moments, in particular with Boss fights. There's no good way of  predicting the bosses mechanics, and you'll die at least once on each phase. Which is annoying.
+[*] It just lacks. I'm sorry, it just doesn't keep my attention at all.
+[/list]
+
+[b] If you want more reviews/information regarding games I've reviewed, visit my curator. [url=https://store.steampowered.com/curator/6861768/]Dragnix Curator [/url][/b]",1457195452,1611247941,False,10,1,0.540033161640167236,0,False,True,False,False,,,
+21641534,"{'steamid': '76561198044263231', 'num_games_owned': 333, 'num_reviews': 7, 'playtime_forever': 205, 'playtime_last_two_weeks': 0, 'playtime_at_review': 113, 'last_played': 1533257207}",english,"This game made me throw my controller across the room for the first time since I was 9. 
+10/10",1457185000,1457185000,True,0,0,0,0,True,False,False,False,,,
+21632497,"{'steamid': '76561198028049202', 'num_games_owned': 0, 'num_reviews': 136, 'playtime_forever': 247, 'playtime_last_two_weeks': 0, 'playtime_at_review': 227, 'last_played': 1474130771}",english,"Fun little game, but I don't think I'll finish it, because the levels are just getting too long and annoying towards the end. Some interesting mechanics here, and I hope the developer keeps working on this, or uses similar mechanics in a future more polished game.
+
+I recommend this only if you have a high tolerance for frustration.",1457146746,1457146746,True,2,0,0.506173610687255859,0,True,False,False,False,,,
+21603012,"{'steamid': '76561198117812986', 'num_games_owned': 1834, 'num_reviews': 111, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1457181188}",schinese,"好难，手残误入
+可以视作玩法特殊的iwanna
+
+完美治疗：
+耐心过度
+通关强迫症
+隐藏物品收集症
+
+保证要到病除
+
+",1457015545,1457015545,True,1,3,0.503491044044494629,0,False,False,False,False,,,
+21570727,"{'steamid': '76561197960894050', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 2193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1783, 'last_played': 1463933285}",english,"I bought this game even though none of my friends had it, basically to have one nice evening playing a fun looking game... well now I am at ~30 hours of playing and it is still as much fun to play as on evening I bought it :)
+Let's sum it up:
+
+[h1]Pros[/h1]
+
+[list]
+[*] The concept of this game is unique, fun and doesn't get boring. Controlling your cute little character works flawlessly and even though only 5 keys are required for movement there is a wide variety of techniques to move your character from A to B.
+[*] The level of difficulty is well balanced, the game gets harder and harder once you try to master every aspect of it, beating it casually shouldn't make you rage too hard... except of course... nah, I don't want to spoiler too much :)
+[*] Achievements are interesting and obtainable and NOT crap like ""Play this game X hours""
+[*] Bugs... well there are none, at least none that I would know of... as soon as anything gets mentioned (bug, request) in steam discussions developers respond and in case of a bug get a patch out a few days later. (A big ""Thank you"" from my side here)
+[*] The soundtrack is really refreshing and fits the gameplay
+[*] The price...I bought the game&soundtrack-bundle and knowing what gameplay this game offers I would have probably paid twice as much.
+[/list]
+
+[h1]Cons[/h1]
+
+[list]
+[*] Sound and music can either be turned on or off, the volume can't be adjusted. If there actually is a way to lower the volume and I was only too blind to see it I am sorry, but then this definitely is a user interface issue ^^
+[*] Next to achievements there are currently no Steam features available for this game, but from what I've read in the discussions this is something that DEVs are currently working on (Trading Cards)
+[/list]
+
+All in all this game is totally worth the money and I would be the first one buying a DLC if one get's added to the game... I wouldn't complain if additional content was added as a free feature update of course :D",1456860352,1456860352,True,0,0,0,0,True,False,False,False,,,
+21392274,"{'steamid': '76561198038456407', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 3409, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1562, 'last_played': 1509925219}",english,"This is probably the most fun game I've played over the past months.
+
+[b][u]Pros:[/u][/b]
+[b]Gameplay[/b] - A fastpaced 2d platformer with a twist: you can't move! Blitz into the walls, be careful there's no spikes though! This game requires precision, fast decisions and in case of speedrunning; lots of silly tricks for optimalization! This game is original and challenging, satisfying for each level you beat!
+[b]Soundtrack[/b] - The soundtrack is great. Upsweeping music that will go well with the fast gameplay. The slower water levels even have a bit more relaxed music!
+[b]Bosses[/b] - The game has bosses! Extra challenges besides the regular platforming.
+
+[b][u]Cons:[/u][/b]
+[b]Content[/b] - The game is pretty short as there's not a lot of content yet, however, the content that's out there is amazing and worth playing more than once! Also, more content is supposed to be on its way, or so I heard!
+
+It's not expensive and I recommend anyone who can spare some dollars to give this game a go! You'll be guaranteed to have fun!",1456171006,1456171006,True,0,0,0.459183663129806519,0,True,False,False,False,,,
+21251572,"{'steamid': '76561198018416895', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 311, 'playtime_last_two_weeks': 0, 'playtime_at_review': 264, 'last_played': 1679520049}",english,"What a sweet little game. Unforgiving but very enjoyable at the same time, it will suck you in and you won't be prepared for it. I like tight level design, characters and controls. And Blitz Breaker somehow looks and feels like old cult classic Mighty Bomb Jack, which I can't wait to be rebooted someday properly.
+Oh, and I like music, too. Not every track, but most of it.
+
+I would like to see a sequel of this little gem:-)
+",1455627510,1455627510,True,4,0,0.545454561710357666,0,True,False,False,False,,,
+21195469,"{'steamid': '76561197998575226', 'num_games_owned': 498, 'num_reviews': 9, 'playtime_forever': 496, 'playtime_last_two_weeks': 0, 'playtime_at_review': 496, 'last_played': 1455415528}",english,"Addicting gameplay, good graphic design, and nice music all at a low price! No reason not to get this gem",1455416881,1455416881,True,0,0,0,0,True,False,False,False,,,
+21151486,"{'steamid': '76561198018794499', 'num_games_owned': 288, 'num_reviews': 6, 'playtime_forever': 459, 'playtime_last_two_weeks': 0, 'playtime_at_review': 308, 'last_played': 1488223957}",polish,"Grając w Blitz Breakera przypomniały mi się czasy, gdy przesiadywałem na stronach typu Newgrounds i odkrywałem kolejne dziwaczne gry stworzone przez domorosłych programistów we flashu. Jedne były bardziej udane, inne mniej, lecz łączył je wspólny mianownik – wypełniały czas. Podobnie podszedłem do tej produkcji, spodziewałem się dobrego sposobu na zabicie nudy i tak właśnie było.
+
+Po więcej zapraszam na bloga:
+[url=http://kazunarii.pl/blitz-breaker-recenzja/]Blitz Breaker - Recenzja[/url]",1455284638,1455284638,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+21108441,"{'steamid': '76561198076721797', 'num_games_owned': 915, 'num_reviews': 778, 'playtime_forever': 769, 'playtime_last_two_weeks': 0, 'playtime_at_review': 616, 'last_played': 1464457450}",english,"The story? Nonexistent, but the game doesn't need one.
+The controls? Good and responsive, no issues with dropped inputs here.
+The graphics? Passable and never visually confusing, which is good for a precision platformer.
+The music? Decent, gets old once you have to listen to it so much though.
+But... the level design... sigh.
+
+This is just a textbook case of a game with lots of potential ruined by tedious level design. I'm gonna spoil a secret for you: Making something longer does not make it harder. It makes it more tedious. Those 6-screen, 8-screen, 10-screen levels? They could easily be several great 2-3 screen levels. Especially since this game is quite good at not repeating ideas; even the final levels are still tossing out fresh level design ideas without feeling stale.
+
+But when you have to replay the first half of a level just to even get a shot at the second half, and the first half is hard enough on its own... I get frustrated for all the wrong reasons. It's simply not fun to keep replaying the same few rooms just desperatle hoping for a chane to learn the later ones. The gauntlet levels and final boss are the main offenders here, really, they're mostly too bloody long. Gauntlet VII in particular requires you to replay through the entire level, backtrack through half of it to collect a green key, and on top of that go through the hardest room in the entire level just to get the key. Not to mention an equally hard room right below it that, thankfully, you can skip... and then you have to make it back to the end of the level after collecting the key, backtracking through the room you just went through first. And Gauntlet X... sure, it's the level that will take the longest to clear, but you wanna know why? Because  you have to clear 6 screens of gameplay to even get a shot at the later three, and I have a sneaking suspicion that there's going to be even three more beyond that door in the ceiling (even if there isn't, it's already way, way too much) [UPDATE: There wasn't, thankfully, but my point still stands.] It doesn't help that the bottom rooms are far harder than the upper rooms, and that you have to get through the already difficult top rooms just to even get a shot at the lower ones. It ain't fun, yo.
+
+Am I being fair to the game if I did genuinely enjoy it through most of the first three worlds? Ehh. Even ignoring the awful bonus level, and ignoring the last level of Warp 8 that starts out with legitimately the worst screen in platforming history, there's still too much obnoxious design in the later parts of the main game for me to recommend it. I feel like the bad significantly outweighs the good since it just completely kills any fun factor for me. But honestly if I could I still think I'd rate this a ""meh"", 'cause it's far from an awful game and a lot of the earlier level design is compact enough and interesting enough to be worth playing, especially for the low price this game is offered at.",1455128348,1455141888,False,27,1,0.607408344745635986,6,True,False,False,False,,,
+21092162,"{'steamid': '76561198041325378', 'num_games_owned': 270, 'num_reviews': 8, 'playtime_forever': 3418, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1695, 'last_played': 1529837717}",english,"I've personally been addicted to this game from the moment I started playing it to the point where I'm writing my very first Steam review. As such, forgive my lack of structure.
+
+It takes a core aspect of game design; [b]innovation via limitation[/b] to deliver an experience that is similar to, but unlike anything else I've seen before.
+
+Removing the ability to walk, the only way to get around the map is to [b]blitz[/b] in one of 4 directions at high speed until colliding with something, only then can you move in another direction. Moving platforms and conveyor belts assist with this a bit more but the absence of a core functionality of platforming suddenly the game into a sort of puzzle/platformer hybrid.
+
+I would compare it to the likeness of VVVVVV in terms of traversing the landscape in a new and interesting way, but also Super Meat Boy for the way it rewards you for beating a stage faster, opens warp zones via collectibles and doesn't contain a single checkpoint within a stage. You need to play the stage from start to end without dying and to some this might be a turn-off but if you like a challenge you're definitely going to find one with this game.
+
+At only $3 you should expect to spend around 10-15 hours if you're looking to beat the game 100%, but this is entirely dependent on your skill level and patience. One final thing worth noting is that no death in this game is random or unjustified, it's up to you to git gud.",1455072523,1455072523,True,0,0,0,0,False,False,False,False,,,
+21087492,"{'steamid': '76561197983662248', 'num_games_owned': 865, 'num_reviews': 116, 'playtime_forever': 613, 'playtime_last_two_weeks': 0, 'playtime_at_review': 613, 'last_played': 1455057145}",english,"For the sake of the reader and my own verbosity, I have opted to write two reviews: a longer, more in-depth review on Pastebin (found here: http://pastebin.com/RB4nJWuy ), and a shorter, appended version here on Steam. As such, you can find my reviewing ethos and scoring systems on the Pastebin review.
+
+Gameplay: Controls are very slick and fluid, game is a lot of fun to play very fast, some stages don't allow for fast gameplay but many others are geared for speed, bosses are pretty alright, difficulty curve shoots up quite heavily in the last area but it's not too harsh, stages are very fair and well designed. 8/10.
+
+Story: No real story to speak of
+
+Graphics: Art style is very clean and bright, game doesn't have much in the way of graphics options but it doesn't need to, fullscreens to your native resolution and windowed can be resized to any resolution, uncapped 60FPS throughout for me. 4/5.
+
+Sound: Soundtrack was good for what it was, but not something I'd listen to outside of the game. 3/5.
+
+8/0/4/3; 7.5/10. Definitely worth a look, and is much better than a lot of the $3 shovelware drek that gets on Steam nowadays (note: this game is most definitely not mobile shovelware, it was released on PC first).
+
+Edit 1 (2/12/2016): One minor addendum is that they patched out the not so well thought out timed gate that can prevent you from getting a character in the final boss level. This doesn't affect score, but something that should be noted.",1455056526,1455312679,True,0,0,0,0,True,False,False,False,,,
+21084344,"{'steamid': '76561198033768377', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 752, 'last_played': 1587603179}",english,"Great game!! Best game Ive actually played in a while.  I reccomend for them nintendo lovers out there. I got to try the game out on newgrounds first, loved it... so i decided to buy it.",1455048271,1455048271,True,0,0,0,0,True,False,False,False,,,
+21057301,"{'steamid': '76561198169610956', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 378, 'playtime_last_two_weeks': 0, 'playtime_at_review': 342, 'last_played': 1498602965}",french,"Jeu sympa. Il faudrait juste rajouter une dizaine de levels vraiment hardcore à la fin, mais je vous le recommande. Il était question d'une sortie sur mobile je crois, si c'est dispo, préférez ce format au jeu sur Steam, car l'aspect ""bande au milieu de l'écran"" peut être désagréable. Au niveau des bons points, je dirais le rapport qualité/prix, les niveaux assez intelligents, les 4 boss sympatiques et enfin la croissance de difficulté maitrisée.",1454954258,1454954258,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+20988017,"{'steamid': '76561198046260526', 'num_games_owned': 0, 'num_reviews': 27, 'playtime_forever': 794, 'playtime_last_two_weeks': 0, 'playtime_at_review': 792, 'last_played': 1480481228}",english,"I bought this game on a whim since it was cheap, but I have to say I am simply blown away by the quality. Levels are challenging but fair, the pixel art is great, and the soundtrack is superb. This is easily one of the best indie games I have ever played, and for $3 it is an absolute steal! I cannot recommend this enough.",1454739329,1454739435,True,0,0,0,1,True,False,False,False,,,
+20981861,"{'steamid': '76561198053218655', 'num_games_owned': 147, 'num_reviews': 1, 'playtime_forever': 142, 'playtime_last_two_weeks': 0, 'playtime_at_review': 140, 'last_played': 1455414842}",english,"Extremely enjoyable and challenging platformer game. Different mechanics bring something new and exciting to the table. Definately worth the ~$3. 
+
+Also, doing a giveaway for two free steam keys, check it out!
+
+https://www.youtube.com/watch?v=ddIwi3DVXEc",1454716053,1454716053,True,0,0,0,0,True,False,False,False,,,
+20981678,"{'steamid': '76561198121207406', 'num_games_owned': 151, 'num_reviews': 4, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1454715098}",english,"Blitz Breaker is a nice throwback to old school flash games.  I played the demo on Newgrounds and was immediately hooked.  The mechanics are fresh, the puzzles are just difficult enough to provide a challenge without making me too frusturated.  Be warned, you will find yourself saying ""Just one more level!"" about a hundred times.  I also have to warn you: the learning curve is STEEP.  I flew through 1-1 to 2-2 before anything became too challenging, but 3-2 and up are reeeally hard (not that its a bad thing).
+
+tldr: Just buy it.  Worst thing that could happen, you walk away slightly dissapointed and $3 poorer.  Buy the game instead of lunch today.",1454715461,1454715461,True,0,0,0,0,True,False,False,False,,,
+20942767,"{'steamid': '76561197993351711', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 301, 'playtime_last_two_weeks': 0, 'playtime_at_review': 112, 'last_played': 1562126669}",english,A very challenging twitch platformer. Love the old school arcade feel and the addicting gameplay.,1454550956,1454550956,True,0,0,0,0,True,False,False,False,,,
+20938569,"{'steamid': '76561198134743328', 'num_games_owned': 0, 'num_reviews': 96, 'playtime_forever': 264, 'playtime_last_two_weeks': 0, 'playtime_at_review': 172, 'last_played': 1461843170}",ukrainian,"Крутий геймплей,чудова музика і оформлення. 
+Ця гра дійсно важка,але вона мене приваблює) 
+Тішить також її низька ціна і велика кількість рівнів.
+Рекомендую.",1454531676,1454531676,True,7,0,0.598284661769866943,0,False,False,False,False,,,
+20936831,"{'steamid': '76561198194658353', 'num_games_owned': 67, 'num_reviews': 22, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1470320419}",english,"Amazing game, great soundtrack, awesome artsyle and a bit hard ( I like ).",1454525487,1454525487,True,0,0,0,0,True,False,False,False,,,
+20935917,"{'steamid': '76561198099117824', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1454522788}",schinese,还不错的休闲小游戏  后面难度越来越大 值得挑战一下,1454522826,1454522826,True,2,2,0.515339255332946777,0,True,False,False,False,,,
+20929463,"{'steamid': '76561197999367193', 'num_games_owned': 504, 'num_reviews': 60, 'playtime_forever': 421, 'playtime_last_two_weeks': 0, 'playtime_at_review': 223, 'last_played': 1517056540}",english,"Awesome gameplay, nice music, and a good difficulty curve.
+It's also cheap as chips, if you get two scoops.
+Great game if you want a challenging arcadey experience.",1454497935,1454497935,True,0,0,0,0,True,False,False,False,,,
+20928986,"{'steamid': '76561197992397236', 'num_games_owned': 2542, 'num_reviews': 47, 'playtime_forever': 1393, 'playtime_last_two_weeks': 0, 'playtime_at_review': 601, 'last_played': 1501083620}",english,"""Review"" copy provided by developer)
+
+Good level design, responsive controls, simple yet clever character movement (not your usual left-right-jump), retro but stylish visuals and matching music, challenging, sometimes frustrating (especially if you go for 100%, i.e. enjoy Gauntlet VII), but fair and it's only 2,99 EUR. 
+
+Although It's only February I already have a runner-up for best indie game of this year :)",1454495575,1454495575,True,1,0,0.487055718898773193,2,False,False,False,False,,,
+20921505,"{'steamid': '76561198065590526', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 56, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1536599309}",english,"Blitz Breaker has a lot going for it: simple yet intricate controls, levels that are equally simple yet intricate, a butt load of unlocks, a stellar musical score, and clever writing that'll keep ya going after dying twenty times over on the same level. That last part I said though, that's very important, you're gonna die a lot. You gotta know beforehand that Blitz Breaker is gonna shift between quick reactionary button presses to waiting and timing based sequences, you gotta stay on your toes through every level or you're gonna have a bad time. If you're even considering buying Blitz Breaker, you really should get it considering it's only three frickin bucks, and manages to be a stellar time killer, putting in a few minutes at a time works but so does a half hour. the arrow keys and WASD work with this game as well as the controller, but in my opinion I found using the keyboard (specifically WASD since I'm left handed) the best way to play this game.
+
+So, to conclude: Blitz Breaker is 3 frickin bucks, it's a total time killer, the levels are wonderfully designed, there are lots of different characters to unlock and they're all cute as heck. Now go buy this game
+
+Big thanks to Boncho Games for the review copy, I had a ton of fun with this game and I'm sure to be playing it off and on for quite a while :D
+",1454455394,1454455394,True,9,1,0.550283670425415039,0,False,False,False,False,,,
+20917059,"{'steamid': '76561198046365755', 'num_games_owned': 416, 'num_reviews': 30, 'playtime_forever': 323, 'playtime_last_two_weeks': 0, 'playtime_at_review': 296, 'last_played': 1540132837}",german,"Fun little game :)
+Expanded on the concept that you can only dash in 4 directions really well.
+Nice levels, bosses and graphics. Polished overall.",1454440057,1454440057,True,0,0,0.497287511825561523,0,True,False,False,False,,,
+20916582,"{'steamid': '76561197970511158', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1455038664}",english,"I've played the demo for this quite a bit on Scirra's website, and so far the full game is pretty awesome. The way you control the character is clever and flying around the levels is fast and fun. Definitely recommended.",1454438574,1454438574,True,10,1,0.494836270809173584,0,False,False,False,False,,,
+20915000,"{'steamid': '76561198025166471', 'num_games_owned': 2972, 'num_reviews': 37, 'playtime_forever': 912, 'playtime_last_two_weeks': 0, 'playtime_at_review': 764, 'last_played': 1461902317}",english,"[i]Steam key provided by the developer for review; I spoke extensively with them in the form of feedback.[/i]
+
+Scorecard:
+http://i.imgur.com/7uaXgpR.png
+
+[table]
+    [tr]
+        [th]Feature[/th]
+        [th]Y/N/Rating[/th]
+    [/tr]
+    [tr]
+        [td]Aspect Ratios[/td]
+        [td]Horiz 16:9 w/ Border or Vert 9:16[/td]
+    [/tr]
+    [tr]
+        [td]Framerate Cap[/td]
+        [td]144+[/td]
+    [/tr]
+    [tr]
+        [td]Performance[/td]
+        [td]Just Fine[/td]
+    [/tr]
+    [tr]
+        [td]Options[/td]
+        [td]Very Few[/td]
+    [/tr]
+    [tr]
+        [td]Key Rebinding[/td]
+        [td]No[/td]
+    [/tr]
+    [tr]
+        [td]Controller Support/Rebinding[/td]
+        [td]Yes, No[/td]
+    [/tr]
+[/table]
+
+[h1]PC Port Quality[/h1]
+
+Runs in HTML5; dedicated fullscreen isn’t available and most injected overlays (Steam, RivaTuner, etc) won’t work properly. No framerate cap; I can confirm at least 144FPS and that it v-syncs properly. The options amount to toggles for music and sound effects, windowed/borderless-fullscreen, and your choice of side art. The side art and border make the whole image 16:9, but one option removes everything and it becomes 9:16 instead. You can set your display to vertical to fill the entire display, but there's no official ‘Tate Mode’ yet to make the switch easier.
+
+While windowed, the game is surrounded by a black border until the window is large enough to step up to the next integer. The minimum size is 2x the base art, and it’ll snap to 3x/4x/5x/etc. Fullscreen at 1080P w/ the side art keeps the game at exactly 4x. All resolutions should be sharp, as nearest neighbor filtering is used.
+
+There’s no rebinding, though there are multiples of the bindings on both the keyboard and controller. You can use WASD/Arrows/D-Pad/AnalogSticks to dash, Space/Enter/Bumpers/A to jump, and ESC/Backspace/Start/Back/Triggers/B to pause. All function identically; there's no analog movement. Both controller and keyboard inputs will function simultaneously, as will any of the multiple mappings on each input method. I used the arrow keys most often, but hdidn't like using my left arm for just space. Jump is used as a small positioning tool, rather than a consistent core function like most other platformers. I externally rebound Right Ctrl and Numpad 0, which sit on either side. It played very well, and should vbe coming in a later build.
+
+[h1]Gameplay[/h1]
+
+It’s technically a 2D platformer, but it really doesn’t feel like one. Your movements are limited to a short jump, and a vertical/horizontal dash that doesn’t stop until you collide with something. These ations are consistent and it feels very responsive. You bash into the wall, and you’ll almost always bounce outward to the same point. Once you dash you give up all control, but the frame you collide with something you can dash again, and can even prepare that it holding the direction during the previous. Using that technique allows you to go very fast with minimal effort, but as you progress, the levels contain far more spikes along the walls. You’re forced to balance riding the walls to go fast, with timing your dashes to clear hazards.
+
+The various collectible heads (24 total) are found in secret levels, with others being gated by ‘Stars’, earned by completing a stage with more than a certain value left on the clock. Coins add to your timer, forcing you to not only dash in the proper places to collect them as you go, but it also presents optional paths that are out of your way, but filled with coins so that by the time you get back to the goal you’ll have a higher counter than before. You're often teased as you pass right by the goal to go grab coins in a more challenging section. There are purple squares in 1/3rd of the levels behind similar sections.
+
+The 101 levels are split across 4 areas. Each have 18 levels, two secret warps of 3 extra levels each if you to collected each purple cube. The final section of each area is a boss, each offering a challenge different from the standard levels, along with bonus heads to grab.
+
+The Arcade Mode puts you through all the same levels with tweaked mechanics. You have lives, the purple squares change to 1-ups, and coins convert into lives as well. A timer ticks up as you progress, so assuming you can reach the end, you could compete against others with a definitive score for your single run. You can quit out save runs for later. It's clearly meant for speedrunners, but I don’t think it’s quite pure enough. Less than incredible players are actively forced to collect coins and 1-UPs to have enough chances to even finish the more difficult levels, skewing their final score. A pure speedrun mode with just the timer (no coins, pick-ups, or lives) would be a nice addition.
+
+Outside of secret levels use an inverted palette, and some with water, there's little visual variery, but it does a great job of introducing new mechanics as you progress. Combining hazards and obstacles in new ways, it remained compelling the whole way through. It can be very frustrating in certain sections, even more so if you’re aiming for 100% completion. The game lacks a dedicated reset button, which could have slightly lowered the delay between certain attempts. I’m not the most patient, so while I made it through to the final boss, I’ll likely never get every star and collectible. 
+
+[h1]Presentation[/h1]
+
+The pixel art aesthetic is very simple, but charming and cohesive. Hazards and objects are conveyed well, which reduced some early trial and error, though the hitbox for spikes isn't exactly as you'd expect. The custom heads are really cute, each having extra art for jumping and dashing states, though it would have been nice to see a custom trails to replace the default 4 color rainbow. Some of the character’s movements can snap to the original pixel-art grid appearing choppy, though the dashing movements are too fast for it to matter.
+
+The wonderful chiptune soundtrack by Fat Bard suits the game extremely well, and it’s on the level that I listen to the OST on its own; I’m a fan of the genre. All of the retro sound effects fit well, but a few are quite loud or abrasive, drowning out the music in small sections. A slider instead of the toggle would help alleviate that.
+
+[h1]Conclusion[/h1]
+
+Blitz Breaker is a relatively simple title and you could potentially reach the end in less than an hour, but it's difficulty and the learning process make it significantly longer. Playing more like a rhythm game than any traditional 2D platformer, it’s a unique, tactile experience paired with well suited visuals, and a brilliant chiptune original soundtrack. It won’t win any artsy-fartsy awards, but it’s a sharp and can have a bit of longevity should you choose to master it.
+
+If you’ve ever played a game on Nitrome back in the day, you’ll have an idea of what this is going for in terms of content. While those games were often built around sloppy, physics-based controls that made them difficult, Blitz Breaker is precise and responsive. It becomes brutally challenging near the end, but rarely feels genuinely unfair or unsatisfying as it largely avoids RNG-influenced mechanics. As both of my friends and I will attest, you’ll die a ton, but are assured that it is possible, driving you forward each time you pick it up. The star system and unlockable secret levels drive you back to replay and fully complete earlier stages, and in doing so you’ll see just how far you’ve progressed in your understanding of the game’s movement system and ability to read the environments on the fly.",1454433363,1562998742,True,13,0,0.527636826038360596,4,False,True,False,False,,,
+20914759,"{'steamid': '76561198079595906', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 1106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1106, 'last_played': 1453946218}",english,"I received a review copy from the developers
+
+If you’d prefer a video review, have a look here: https://www.youtube.com/watch?v=atfuDj-x0fQ
+
+Do you like Super Meat Boy? How about all those death gauntlets filling up the Mario Maker servers? Do you get a kick out of spending 5 hours on a level -- your right hand reaching for the doritos upon every death and break in the action -- to finally complete it before moving on to the next (which’ll take 6 hours by the way)  in a seemingly endless loop of misery for a grand total of a mere, maybe, 5 seconds of satisfaction?
+
+Yeah, me neither.
+
+Which might lead you to believe that this is gonna be a negative review of Blitz Breaker. You’d be wrong. The fact that this game, a really difficult (at least in the last third) 2D platformer, had me glued to my seat, me being a self admitted hater of platformers and all things mario, for 6 hours straight one evening, is why I think it’s a fantastic game.
+
+Blitz Breaker does have its slow moments, but all in all it’s a much faster game than Mario or even Super Meat Boy. And it’s because the developers opted to do away with traditional left and right walking controls in favour of slamming their heads against a wall repeatedly.
+
+I don’t mean that as an analogy of the oftentimes tediousness that is developing video games, but instead literally. The way you traverse the map in Blitz Breaker is exclusively charging in a direction until you hit something; with the odd hop every now and again.
+
+[h1]Presentation[/h1]
+This game is very beautiful for what it is. At first it might just seem like a typical retro inspired 2D indie game, but it’s the camera shake whenever you bash into a wall,  it’s the extremely easy to miss splashes when you enter or exit the water, it’s the tiny golden pulse of light whenever you collect a coin. All of these things throw Blitz Breaker into modern times, and the beautifully made animations combined with the appropriate thudding sound effects and the surprisingly memorable soundtrack create this nearly flawless presentation that I think makes up 50% of the reason I enjoyed the game so much. I don’t know how big the developer Boncho Games is or exactly who works there, but they have an incredible eye and ear for production design. One detail I particularly enjoyed was the different animations that some of the playable characters have for when you’re just falling. I will say that I don’t think that the game gains anything in particular by cutting off the resolution into the small window, and maybe the levels could have had a bit more colour variety in them, but those are both nitpicks; you soon forget that you are playing on a smaller screen, and the lack of environmental variety can be explained away by the location you are supposed to be in story-wise.
+
+[h1]Mechanics[/h1]
+The mechanics are the other half of what makes the game great. The controls are nice and tight and work well with both controller and keyboard though I will say that, while this can be fixed by simply using the d-pad, the analog stick could be frustrating to use here. The thing that I think really makes this a fun game to play from a strictly gameplay point of view though, is that it’s satisfying to zip around a level like you can in Blitz Breaker; narrowly avoiding deadly sawblades and missiles with pure speed and response time. This is definitely possible in other platformers but, outside of optional objectives like a reward for being quick in Super Meat Boy, it’s very rarely required that you act fast. In Blitz Breaker there are many situations where if you don’t move you will simply fall onto some spikes. That combined with the game always introducing new kinds of level layouts, bosses and hazards means the game stays interesting. Ultimately though, if I had to pinpoint what I enjoyed about this game as opposed to something similar like Super Meat Boy, it’d all come down to the controls. I often find in platformers that the controls just feel too floaty, or the way my character moves is too slow, and that’s the case with Mario. In this game everything just feels so fast and responsive, and so it was easy for me to get into.
+
+I’ve really been sucking the game off so far, but it’s time for me to talk about some of the weaker elements of the mechanics. Intrinsically, the way the game works is great, but every now and again I’d encounter a level that just felt like I was running into a wall (no pun intended) over and over again in the hopes that it would eventually break. The best example of this is a particular level half-way through the game called “precision” that is designed around the idea of fitting through tiny little spaces without touching the spikes. It took me about 30 minutes to beat it which is not the longest time I spent on a level in this game, but it stands out to me because I didn’t really feel like I was getting better at the level, or that I had to apply any kind of technique, and so when I beat it I felt relieved rather than satisfied. In my eyes the ultimate platformer would be like a puzzle game; where each level is a new problem that you have to solve by exploring different strategies and ways of approaching it.
+
+[h1]Story[/h1]
+There isn’t really anything to the story. There’s only one cutscene for the game right at the end, and even then I didn’t really understand exactly what the main character was trying to achieve the whole time. It wasn’t bad and it didn’t take away from the experience by being absent, but there’s also no reason why a game like this can’t have a compelling or funny story that’s being told through narration, cutscenes between bosses, or environmental tells. That’s not a negative, necessarily; if you’re interested in the gameplay then this won’t be an issue, but I thought I’d acknowledge that the game could have been more in this area, and definitely gave itself a limiting factor to the kind of people it might appeal to, its distinctiveness from other platformers, and ultimately its memorability. I’d argue that a lot of what made a game like Super Meat Boy so popular was the ridiculous theme and the comedy. That said, I’ll take a nonexistent story over an intrusively bad story.
+
+[h1]Verdict[/h1]
+Guys, here’s the real kicker. This game is only $3 and I got 15 hours out of it; 15 hours of high quality content. This makes it, in my opinion, an absolute must buy for any fan of platformers, and a tentative recommendation, even, to haters of platformers. If the reason you can’t stand platformers is because of their slow pace, then this is definitely your antidote. And for $3? Everyone should try this game, frankly, it’s dirt cheap so you’re unlikely to have buyer’s regret, and even then, provided you’re going to play it, I don’t believe that, to most people, this game will be a bad investment for them -- and even if you don’t play it you’re only out $3! Seriously, go buy this game (it sounds like I work for them, but for real, this is my genuine feelings on the game).
+
+<h1>Score</h1>
+
+Presentation: 9 
+Mechanics: 8
+Story: 5
+Price to content Ratio: 10
+Personal Enjoyment: 9
+
+Final: 8.2/10
+
+I’m awarding Blitz Breaker an 8.2 out of 10. The presentation was phenomenal with extremely minor complaints; the Mechanics had a few issues here and there, but were intrinsically sound. The story just didn’t exist, and so it could have been more; the real knockout here, in my opinion, is the price to quality ratio -- this game could have easily sat at $10 dollars, maybe a little more and still gotten a recommendation from me, but this is incredible. And I got 15 hours out of this game collecting all the little optional stuff; getting all the stars; everything! On top of everything else I really just purely enjoyed this game.",1454432506,1454435570,True,25,0,0.623921513557434082,0,False,False,False,False,,,

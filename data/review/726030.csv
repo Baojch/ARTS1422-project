@@ -1,0 +1,55 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+155088700,"{'steamid': '76561198081479010', 'num_games_owned': 3380, 'num_reviews': 1002, 'playtime_forever': 2066, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2066, 'last_played': 1657242665}",russian,"– Сегодня была у врача, оказалось, что я беременная.
+– Имя ребёнку уже придумала?
+– Я ещё отчество обдумываю.",1704227946,1704227946,True,0,0,0.477941185235977173,0,False,False,False,True,,,
+109840860,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1644398628}",english,"MinSweeper is a collection of three minimalist/mobile app tier Unity games (Minesweeper, Asteroids and Sudoku) that look to have been flipped from Unity Asset packs or tutorials, or just ripped out of someone's GitHub. 
+
+Despite being basic ripoffs of games that you can play for free, LinQ are running a cash grab/scam with this and trying to charge $3 USD for what looks like someone else's work.  To double down on this, they've dumped this into cheap game bundles to extract as much money as possible from this. 
+
+As usual I can't recommend asset flips and scams to gamers.",1644398789,1644398789,False,3,2,0.227472931146621704,0,False,False,False,False,,,
+60638682,"{'steamid': '76561198001585882', 'num_games_owned': 1792, 'num_reviews': 12, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1577410090}",english,"Look, I like puzzle games but I can't recommend this one. it's boring and easy to complete in less than an hour. Go ahead if you want the achievements (which are easy to get).
+
+Minesweeper has 3 difficulties and each one has 3 parts and that's it. You can customize your puzzle too. The thing is, it's like there's no UI: no tracking mines or minutes in the game. Did you finish the puzzle? Too bad you won't know unless you're playing it for the first time, since the achievement will appear once you complete it.
+
+Sudoku was hell for my eyes. No clear lines between the 3x3 boxes and once you finish it the ""solved"" line stays there until you quit the game.
+
+Catcher and Asteroids were a bit more fun.",1577411558,1577411558,False,5,0,0.589625895023345947,0,True,False,False,False,,,
+39423416,"{'steamid': '76561198034695286', 'num_games_owned': 758, 'num_reviews': 25, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1516225796}",english,"This is not a good clone of Minesweeper or any of the ""Minigames"" that are included. It is not fun to play, has no real user interface at all, has some displaying bugs when it comes to the ""SUCCESS"" text in the upper left corner and the worst is that there is no indication on what to do when you ""won"" a game. It feels like it crashed.
+
+Minimal style is fine and all, but minimal style is something that one should be able to handle and not remove necessary information for the player just because the style is ""minimal"".",1516226493,1516226493,False,8,0,0.662797152996063232,0,True,False,False,False,,,
+36309861,"{'steamid': '76561198066286619', 'num_games_owned': 517, 'num_reviews': 25, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1509919077}",english,"I know saying ""not fun"" in here sounds weird, seeing how its a damn minesweeper, yet I felt quite bored.
+
+[list]
+[*]Minesweeper itself is.. alright. UI is kind of meh, but tolerable. Right clicking on a number shows up a grid of affected area, but... why is it on hold, instead of press once - press twice. It's nitpicking, but still it's simply for quality of life.
+And having to use arrows, as well as mouse, feels kind of uncomfortable.
+[*] I also bought the game for having Sudoku in it, which, sadly, had a pretty bad UI, which very badly chosen colors making them hard to read, or to distinguish between 3x3 boxes of sudoku itself. I can find better ones online for free.
+[*]Asteroids were just meh. Plain meh, with objects spawning nearly on top of me, with ship being too slow, and not being able to fire more missiles until they despawned offscreen.
+[*]Catcher was a bit fun, I liked how it sped up a bit after 300 or so points.
+[/list]
+
+UI wise again, it bugs out (as if you complete Sudoku, you get SOLVED stuck on the screen forever, even making it impossible to track your score in Catcher), the zoom gets wonky (zoomed out at minesweeper and swapped to Catcher - camera was still zoomed out, making the mode easier to do).
+And to summarize the minigames: They feel cheap, quickly made, put in just for the sake of it.
+Soundtrack feels... like if i was on an exotic island, to be quite honest, but I can't really criticise this, because I have no idea what would [i]I[/i] put into minesweeper.
+Oh and Steam leaderboards didn't work for me. No idea if they are updated periodically, but it only had one entry in easy mode sweeper category, with my name nowhere to be found, even through I played 5 different sweepers + all 3 minigames.
+
+For these who care about the achievements, I finished all of them in 35 minutes. So if you are into that, it's a plus, i guess.
+
+Recommendation for a dev: Add different color schemes (night mode would be great)",1509920561,1509920561,False,14,0,0.717685580253601074,0,True,False,False,False,,,
+36219998,"{'steamid': '76561197979911851', 'num_games_owned': 31125, 'num_reviews': 116, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1509617837}",russian,"Вариация классического Сапера и еще трех мини-игр: Sudoku, Catcher и Asteroids. По Саперу и Судоку все стандартно, обычные версии игр в приятном оформлении и возможностью более гибкой настройки. Catcher и Asteroids просто забавные аркады на ""разок посмотреть"". В целом получился неплохой сборник для убийства времени на слабом компьютере.",1509637364,1509637364,True,11,0,0.625748813152313232,0,False,False,False,False,,,
+36192496,"{'steamid': '76561198016096893', 'num_games_owned': 11947, 'num_reviews': 1422, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1509482576}",russian,"Сборник из классического сапера и трех мини-игр. 
+Сложность можно настраивать. Выбираем из шести вариантов или настраиваем величину поля от 5*5 до 75*75 клеток и выставляем количество мин. Чтобы попасть в таблицу лидеров нужно разминировать поле за минимальное время.
+Когда наиграетесь в сапера, можно поиграть в остальные крохотные игры. Первая - обычный судоку, вторая – простенькая стрелялка, а третья похожа на арканоид, только не отбиваем шарик, а ловим блоки и уклоняемся от бомб.
+Хороший сборник для офисных сотрудников и людей, которым надо скоротать время в небольших перерывах.
+",1509545061,1509545061,True,2,0,0.285080254077911377,0,False,True,False,False,,,
+36191252,"{'steamid': '76561198272374716', 'num_games_owned': 13029, 'num_reviews': 3562, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1509545402}",russian,"[h1]«MinSweeper»[/h1]
+Сапер + 3 мини-игры.
+Геймплей:
+https://www.youtube.com/watch?v=Tp-1jeVHo8k
+
+Очередная версия игры «Сапер» в минималистичном оформлении. Можно выбрать масштаб поля и количество мин. В остальном ничего нового.
+Бонусом идут достижения, доска почета и 3 мини-игры:
+[list]
+    [*]Sudoku: головоломка с числами.
+    [*]Catcher: ловим блоки и уворачиваемся от мин.
+    [*]Asteroids: уничтожаем астероиды на экране.
+[/list]",1509541735,1509542328,True,34,0,0.729557991027832031,0,False,False,False,False,,,

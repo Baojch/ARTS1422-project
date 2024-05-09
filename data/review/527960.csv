@@ -1,0 +1,21 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+124742855,"{'steamid': '76561198076556000', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1593071515}",english,game was dropped,1667254744,1667254744,False,1,0,0.5,0,True,False,False,True,,,
+77593019,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1709946840}",english,"This is a simplistic low poly 3D squad based RTS game where you control a small unit of soldiers and fight enemies. 
+
+The game crashes on launch and is unplayable, so also impossible to recommend.  It's not ethical for developers to keep asking for people to buy a game that doesn't work.  Thumbs down.",1602761575,1602761575,False,3,1,0.283561259508132935,0,False,False,False,False,,,
+67234172,"{'steamid': '76561198028090740', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1586735953}",english,its sad when a game dies and the Dev is still selling it.. Steam should throw this game in the trash.,1586789505,1693369852,True,0,0,0,0,True,False,False,False,,,
+55167065,"{'steamid': '76561198202529859', 'num_games_owned': 1686, 'num_reviews': 2354, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1568799858}",english,Pretty good game,1568799881,1568799881,True,0,0,0.421765804290771484,0,False,False,True,False,,,
+54808255,"{'steamid': '76561197960373660', 'num_games_owned': 2084, 'num_reviews': 4137, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1566796009}",english,󠀡,1566796296,1566796296,True,2,0,0.233492434024810791,0,False,False,True,False,,,
+31048295,"{'steamid': '76561197994663654', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1491803582}",english,Very promising mechanics and a great resource for mod builders. Looking forward to seeing it develop!,1491769811,1491769811,True,4,0,0.451873481273651123,0,True,False,True,False,,,
+30959688,"{'steamid': '76561198133845992', 'num_games_owned': 0, 'num_reviews': 183, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1615110357}",english,"One of the best Early Access RTS games I have ever seen.
+OK its clear it's a long way to final version,
+but you do see here already great design and nice ideas.
+
+The AI is smart and is reliable.
+The concept of take over buildings and street wars is convincing.
+
+The gain of base remembers me of Gangland,
+but the combat and armies size of Warhammer Dawn of War.
+
+It looks promising. 
+Guys you are awesome and keep the good work.",1491394031,1540563097,True,11,2,0.474398761987686157,6,True,False,True,False,,,

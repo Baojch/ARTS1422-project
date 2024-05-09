@@ -1,0 +1,69 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+120711432,"{'steamid': '76561198352738899', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 472, 'playtime_last_two_weeks': 0, 'playtime_at_review': 472, 'last_played': 1660617618}",brazilian,"Jogo muito simples, porém interessante para quem gosta de colocar a massa cinzenta para queimar e ""programar"" um pouco. Não tem nada a ver com códigos de programação, e sim com definir etapas para que o robozinho do game faça aquilo que foi preestabelecido. Até algum tempo atrás o desenvolvedor ainda prestava suporte e respondia comentários, não sei atualmente.",1660625966,1660625966,True,0,0,0,0,True,False,False,False,,,
+93468457,"{'steamid': '76561198012544954', 'num_games_owned': 0, 'num_reviews': 64, 'playtime_forever': 214, 'playtime_last_two_weeks': 0, 'playtime_at_review': 214, 'last_played': 1623253547}",english,"Can I recommend the game? Hmm, yes and no. Is very short game (At least 3h unless I'm missing something), you can't select which level do you want to reply, unless you play again everything, I don't think the game have ""secret levels"" to try to find.
+
+- Is for kid? Yes
+- Educational? Yes
+- Can a teacher use it? Yes.
+
+Similar games that can be use it for kids and teacher: Algo Bot, Algotica.",1623254085,1623254588,True,0,0,0,0,True,False,False,False,,,
+92156454,"{'steamid': '76561198089741603', 'num_games_owned': 788, 'num_reviews': 15, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 86, 'last_played': 1669581850}",english,Very Good game,1621260442,1621260442,True,0,0,0,0,True,False,False,False,,,
+71962801,"{'steamid': '76561198859651271', 'num_games_owned': 162, 'num_reviews': 21, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1548185422}",german,meh,1593796298,1593796298,False,2,0,0.501018345355987549,0,True,False,False,False,,,
+44856024,"{'steamid': '76561198263427469', 'num_games_owned': 442, 'num_reviews': 246, 'playtime_forever': 649, 'playtime_last_two_weeks': 0, 'playtime_at_review': 649, 'last_played': 1537546887}",english,"A nice educational game.
+
+You control a robot. You don't have a manual control of it, but you can set a program (a several commands) and it can execute it. So, basically how the computer works.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1518662059
+The game is great for children to help them understand how the computer works.
+The game is short, it is a plus.
+
+There are a few flaws. You cannot restart the level , it is bad because you can get in endless cycle. Also, there is no way to leave from this cycle.
+
+I can recommend this game for children!",1537547102,1537547173,True,8,0,0.641086399555206299,0,True,False,False,False,,,
+41675384,"{'steamid': '76561198380290860', 'num_games_owned': 53, 'num_reviews': 7, 'playtime_forever': 335, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1547318319}",english,"i really enjoyed the game, although it was a little short, otherwise really good",1524635724,1524635724,True,1,0,0.513888895511627197,0,True,False,False,False,,,
+35951310,"{'steamid': '76561198003705559', 'num_games_owned': 471, 'num_reviews': 226, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1508784391}",russian,7/10,1508784773,1508784773,True,0,0,0.41253325343132019,0,True,False,False,False,,,
+34919761,"{'steamid': '76561198153815175', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1505345226}",english,"This game is an absolute treat!
+It throws ya right into it, ya pick up the story from the cute little robot BOB and a snarky controler~ I found their back and forths a nice respite from some of the puzzles.
+The programing aspects are well executed, though perhaps a little more explanation on a few aspects might be good, or I might just be dumb XD I did find a few puzzles I had to ""brute Force"" my way through, but those aside the puzzles are well designed and you have a real feeling of accomplishment when you finish them!
+The Visuals itself are clean, crisp, cute, and pretty. beautifully rendered plants and waterfalls of cubes really pull the world together!
+
+If I had to rate this game I'd give it a solid 9/10!
+only critisisms I can think of are a few better explanations would be nice and a look at a few puzzles...
+
+OTHERWISE, thisi s a wonderful game and I look foreward to tryign to make it to the leaderboards!",1505310099,1505310099,True,5,0,0.602562189102172852,0,True,False,False,False,,,
+32215695,"{'steamid': '76561198043299279', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1510360283}",japanese,"前進・方向転換・ジャンプ等からなる命令コマンドを組み合わせて、
+ロボットを目的地まで誘導するゲーム。
+【長所】
+・日本語翻訳にそこまで違和感はなく、コマンドの内容やストーリーがわからないということは多分ない
+・失敗してもリトライが早い
+
+【短所】
+・ゴールにたどり着かずに命令を全て実行した場合、最後の命令からすぐにリトライされる（待って様子が見れない）
+・立体的なステージがあるにも関わらず、視点の回転ができないため、位置関係が把握しづらい
+
+決して悪いゲームではないのだが、個人的には視点回転ができないのが非常に不満でややマイナスと評価。",1496736699,1496736699,False,1,0,0.5,0,True,False,False,False,,1508766533.0,"すべての不良プロパティが修正されました。あなたのレビューを肯定的に変更できますか？
+
+Hi, we fixed all the negative points you mentioned, is there any chance, you change your mind about the game and give us a positive rating ? Thanks and sorry, we used a google translate to say what we meant."
+30952696,"{'steamid': '76561198008768479', 'num_games_owned': 636, 'num_reviews': 286, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1490796331}",english,"I like it alot, have unique gameplay and it's hard...
+
+Check out my gameplay and join the Indie Army!
+https://www.youtube.com/watch?v=BjJ-0u_7zwo",1491353749,1491353749,True,3,0,0.378037959337234497,0,False,True,False,False,,,
+30935583,"{'steamid': '76561198140132611', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 200, 'playtime_last_two_weeks': 0, 'playtime_at_review': 200, 'last_played': 1491295633}",schinese,"虽然有中文翻译，但是真的很烂
+游戏本身还是比较有趣的，但是UI实在太简单了一点
+包括视角调整和过关方式提示都非常差劲
+有些迷题本身不难，但是苦于视角和目标提示，
+完全不知道要干什么而且失败的时候回退一个保存点的设定非常傻
+卡在一关的时候，你得反复的机械的去完成上一关，真可真蠢
+
+总得来说还是值 得一买的，希望能改进游戏内容适合程序员，可以教儿子编程，哈哈",1491279009,1491279009,True,3,0,0.566929101943969727,0,True,False,False,False,,,
+30863060,"{'steamid': '76561198129255707', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 359, 'playtime_last_two_weeks': 0, 'playtime_at_review': 355, 'last_played': 1506086085}",english,"Disclaimer: At the time of writing this review, I haven't completly finished the game.
+
+Jump, Step, Step is an entertaining game with cute graphics. But don't let the first impression fool you, this game gets really challenging after the first few stages.
+
+The concept is similar to games such as Lightbot. You control a little robot (called Bob) stranded in a world full of dangerous cliffs, spikes and breaking stones. You'll have to program Bob by clicking together a chain of commands. Bob will faithfully execute your defined commands. If he doesn't reach the goal, you'll lose a life (in form of a battery). If you have no lives left, you'll have to start over at a checkpoint.
+
+As you progress in the game, the stages will become harder and you'll gradually unlock more complex commands. You'll have to think of clever ways to help Bob reach the goal. In the later levels, you'll inevitable fail a few times before you get the right idea and you have to start over at a checkpoint.
+
+Unfortunately, there's no ingame indication when you have reached a checkpoint and sometimes the placement of the checkpoints is annoying because they're too far away from where you failed. The translation of the dialogues is okay, tough not perfect (I accidentally lost an early save because of a misleading german translation of the menu option ""clear saved game"").
+
+Despite of it's minor shortcomings, the game is definitly worth the price and the right choice for everybody who likes to program and/or puzzle! Even experienced programmers will get their money's worth with this game!",1490999220,1490999890,True,11,1,0.662207603454589844,1,True,False,False,False,,,

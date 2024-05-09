@@ -1,0 +1,164 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+147634679,"{'steamid': '76561199491004392', 'num_games_owned': 51, 'num_reviews': 11, 'playtime_forever': 159, 'playtime_last_two_weeks': 0, 'playtime_at_review': 85, 'last_played': 1696443637}",turkish,75tl kart düştü enai oyun ez çerez dünyanın en güzel oyunu,1696439340,1696439340,True,0,0,0,0,True,False,False,True,,,
+146042956,"{'steamid': '76561198107248385', 'num_games_owned': 58, 'num_reviews': 1, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1696384639}",brazilian,muito bom,1694339163,1694339163,True,0,0,0,0,True,False,False,True,,,
+121397995,"{'steamid': '76561198041059131', 'num_games_owned': 0, 'num_reviews': 47, 'playtime_forever': 680, 'playtime_last_two_weeks': 0, 'playtime_at_review': 155, 'last_played': 1662232862}",english,"Fun game about placing tetronimo pieces to get 100% coverage of a board. In a similar vein as the Chime series, except that there is no time pressure. You are beholden to RNG to an extent, especially once you get down to the last squares on the board. Luckily there are lifelines that allow you to change a piece or skip a piece in the queue once per board, so you're not entirely at the mercy of the RNG.
+
+Soundtrack is a nice mix of synthwave artists, including some well-known in that scene (Home). I found myself eventually disabling the music because of how small the selection is.
+
+Biggest gripe is that placing the pieces can be awkward, and can cause you to place a piece wrong if you're moving too quickly. With only one undo per board, it can get frustrating if you irreparably place a piece in the wrong spot more than once, causing you to have to restart if you want 100%.
+
+Overall a good game. Not gonna blow you away by any means, and certainly isn't in the same league as difficult puzzle games like The Witness or Baba Is You, but nonetheless a nice game to play while listening to podcasts or music.",1661730309,1661730309,True,0,0,0,0,True,False,False,True,,,
+113289908,"{'steamid': '76561198258820744', 'num_games_owned': 370, 'num_reviews': 25, 'playtime_forever': 151, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1671941295}",russian,Тут есть карточка за 150 тыщ,1649005519,1649005519,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+54522536,"{'steamid': '76561198114914850', 'num_games_owned': 2626, 'num_reviews': 989, 'playtime_forever': 232, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1610337607}",english,make my brain work,1565294019,1565294019,True,1,0,0.519999980926513672,0,True,False,False,False,,,
+45703556,"{'steamid': '76561198051634509', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 167, 'playtime_last_two_weeks': 0, 'playtime_at_review': 167, 'last_played': 1541780196}",english,"I prefer this over a similar game called Chime Sharp because there's no pressure of a time limit and no irregular pieces. This is a great game to play if you want to zone out and listen to a podcast or your own music (game doesn't have a lot of tracks). 
+",1541687364,1541687364,True,0,0,0,0,True,False,False,False,,,
+40701992,"{'steamid': '76561198045301435', 'num_games_owned': 2017, 'num_reviews': 697, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1521515600}",english,"This is actually a pretty great game. If you want something that will give you a stimulating puzzle, then this should do it. I'd highly recommend it. 8/10.",1520661765,1520661765,True,0,0,0,0,True,False,False,False,,,
+38639776,"{'steamid': '76561197968956752', 'num_games_owned': 1893, 'num_reviews': 164, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1514157743}",english,"✓ Very nice presentation
+✓ Decent soundtracks
+✓ Pleasant game mechanics
+✓ GNU/Linux support! (beta testing, not advertised yet, look through the Steam discussions)
+
+Haven't had time to play it enough yet, but judging from the little I've seen already the game looks pretty good. It also runs very well in Linux on low end hardware.",1514158203,1514158242,True,3,0,0.514629840850830078,0,True,False,False,False,,,
+38138507,"{'steamid': '76561198036611060', 'num_games_owned': 287, 'num_reviews': 3, 'playtime_forever': 11448, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11448, 'last_played': 1510007941}",english,"Very relaxing puzzle game.
+Puzzle mode is like a tetris jigsaw puzzle. It's really tricky to nail them 100%.
+In combo mode you have to place pieces in combos next to another until time runs out. Then you get extra points for block lines and start another combo. Bonus lottery every couple pieces is fun.
+Overall a very polished game.
+Awesome soundtrack.",1512682362,1512682362,True,0,0,0,0,True,False,False,False,,,
+36511194,"{'steamid': '76561198041512403', 'num_games_owned': 1837, 'num_reviews': 2465, 'playtime_forever': 146, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1661770432}",koreana,"테트리스 도형 채우기.
+
+테트리스에서 보던 도형들이 등장합니다.
+이 도형들을 이용하여 화면에 보이는 타일들을 채워야하죠.
+비어있는 타일 중 하나를 클릭하면 하얀 타일들이 표시됩니다.
+이 하얀 타일로 마우스를 드래그하면 도형의 형태가 나타나죠.
+이때, 우클릭을 하면 도형이 회전하여 다른 형태로 변합니다.
+
+도형을 얼마나 채우느냐에 따라서 메달의 색이 달라집니다.
+동메달, 은메달, 금메달로 나뉘는데 100%를 해야 금메달을 받을 수 있죠.
+금메달 따기가 얼마나 힘든 지 알 수 있습니다.
+
+모드는 기본 모드/ 콤보 모드/ 타임 어택이 존재합니다.
+기본모드는 그냥 주어지는 도형을 자유롭게 채우면 되는 모드이며,
+콤보 모드는 배치된 도형과 인접한 곳에만 다음 도형을 배치할 수 있습니다.
+또한, 콤보 타임이 종료되면 가로 또는 세로 라인에서 일정 수 이상의 연결된 타일에 따라
+점수를 획득하고, 연결되지 않은 타일들이 제거되죠.
+타임 어택은 콤보 모드에 제한 시간 10분이 추가된 모드입니다.
+
+색다른 테트리스 느낌이 들지만,
+그것보다 더한 두통을 느낄 수 있는 게임.
+
+아쉬운 점
+-특수 능력이 1회성이 아닌 회복 방식이면 좋을 듯",1510665678,1510665678,True,0,0,0,0,True,False,False,False,,,
+36057941,"{'steamid': '76561198365436494', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 633, 'playtime_last_two_weeks': 0, 'playtime_at_review': 633, 'last_played': 1509033814}",english,"Awesome puzzle game to kill time.
+Similar to tetris but it's more jigsaw puzzle than tetris.
+Polished gameplay and awesome soundtrack. It has level editor so there's plenty of custom levels.
+I definitely recommend it.",1509141974,1509141974,True,0,0,0,0,True,False,False,False,,,
+35950884,"{'steamid': '76561198058102803', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1508783123}",english,"Great game, really addicive and time consuming. Love the clean look of the art style, I can definitelly reccomend it :D",1508783236,1508783236,True,0,0,0,0,True,False,False,False,,,
+35949471,"{'steamid': '76561198004002269', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 481, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1472750614}",polish,Fantastic puzzle game.,1508778753,1508778753,True,0,0,0,0,False,False,False,False,,,
+34017450,"{'steamid': '76561197980796094', 'num_games_owned': 0, 'num_reviews': 435, 'playtime_forever': 275, 'playtime_last_two_weeks': 0, 'playtime_at_review': 275, 'last_played': 1501857912}",english,"This isn't a Tetris clone. It uses the familiar Tetris shapes, and it is a jigsaw puzzle without a jigsaw puzzle picture. You set the blocks to a great soundtrack into the field. This is actually more difficult, than it sounds, because a gold medal awaits only the one filling up every free spot. The game has different modes and workshop support, so if you like this kind of filling up a board puzzles, you have plenty of hours to do so.
+
+Well coded, great soundtrack, different modes that are quite well thought through, I recommend it. Price is ok.
+
+Follow me as a curator at http://store.steampowered.com/curator/28337205-Fair-Minded-Witness/?appid=298050",1501858293,1504476963,True,1,0,0.482131451368331909,0,True,False,False,False,,,
+33585700,"{'steamid': '76561197994002775', 'num_games_owned': 6538, 'num_reviews': 1438, 'playtime_forever': 111, 'playtime_last_two_weeks': 0, 'playtime_at_review': 110, 'last_played': 1523738191}",english,"There is something with those blocks that makes you love each game that have them
+the game is not that hard, but you have to anticipate to prevent creating leftover holes that u cannot fill anymore
+
+https://www.youtube.com/watch?v=NDzQgOnBR6Q",1500213830,1500213830,True,7,0,0.535969257354736328,0,False,False,False,False,,,
+26746035,"{'steamid': '76561198027940796', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 288, 'last_played': 1488815917}",english,"Matris is really relaxing experience. With great music and Puzzle Mode it delivers a Zen-like state of mind. It starts with ease with lazy putting blocks whenever you want and then it gradually begins to making it more difficult to make it really mindbending at the end without ruining your relaxed mood.
+
+If you want to exercise your mind under time pressure you can have it in Combo or Time Attack mode.
+
+Overall it can relax and exercise whichever you prefer. It's good to have it installed just in case you need one of those.",1479820363,1479820382,True,1,0,0.500166594982147217,0,False,False,False,False,,,
+26503248,"{'steamid': '76561198106292852', 'num_games_owned': 251, 'num_reviews': 21, 'playtime_forever': 758, 'playtime_last_two_weeks': 0, 'playtime_at_review': 565, 'last_played': 1578789905}",english,"As you could probably tell from the name of the game, it is inspired by ""Tetris"". You use tetronimoes to try to fill the board as close to 100% full as you can in the puzzle mode. There are a few other modes as well which include getting as high a score as possible from making a chain by always placing the next block on the one before it and getting ""powerups"". There are different board shapes and you can also make your own boards and share them. The soundtrack is very good. If you enjoy ""Tetris"" you will likely enjoy ""Matris"".",1478699378,1478905133,True,0,0,0.467032968997955322,0,True,False,False,False,,,
+26435524,"{'steamid': '76561198128006860', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 248, 'playtime_last_two_weeks': 0, 'playtime_at_review': 227, 'last_played': 1482278366}",english,"I would say that it's a nice game which is fairly relaxing, plays wonderful with controller (thanks dev for fixing the needed stuff) and has a really nice music.
+
+as I already quickly noted when I got the game and had a few problems with my DS4, the dev was nice and fixed stuff quickly.",1478353501,1478353501,True,4,0,0.572368443012237549,0,True,False,False,False,,,
+25934643,"{'steamid': '76561198057368841', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1476643145}",polish,"Good game, nice music.",1475963156,1475963156,True,0,0,0,0,False,False,False,False,,,
+25376285,"{'steamid': '76561198025096024', 'num_games_owned': 69, 'num_reviews': 4, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1464959666}",polish,"Bardzo ciekawa gra, idealna na leniwe popołudnia :) 
+Trzeba czasem pogłówkować, ale ogólnie gra ma fajne tempo, dobrze rozplanowane poziomy trudności i rewelacyjny edytor poziomów :)",1473142503,1473142503,True,0,0,0,0,False,False,False,False,,,
+25285748,"{'steamid': '76561198021365643', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1473937002}",english,Cool game to chill out after long day ;),1472737762,1472737762,True,0,0,0.468164771795272827,0,False,False,False,False,,,
+25008985,"{'steamid': '76561198000765023', 'num_games_owned': 138, 'num_reviews': 5, 'playtime_forever': 246, 'playtime_last_two_weeks': 0, 'playtime_at_review': 166, 'last_played': 1472808509}",english,"Its really good and polished puzzle game. Very easy to play because of good UI, but it's still entertaining.
+It's even support Gamepad and its really cool to play on it! 
+
+Definitely worth checking out!",1471599832,1471599832,True,0,0,0,0,False,False,False,False,,,
+24962026,"{'steamid': '76561198059919307', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1471384069}",english,Cool puzzle game with relaxing music.,1471383810,1471383810,True,0,0,0,0,False,False,False,False,,,
+24242392,"{'steamid': '76561198028447272', 'num_games_owned': 112, 'num_reviews': 4, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1475145678}",english,"Hi!
+So I played this game a little. I think it's good game to play once a time. IMO this game will be very good on mobile devices. Graphics is really nice but music can be annoying. However I recomend this game for casual gamers who like Tetris-style games
+PS. Sorry for my English",1468192261,1468192261,True,0,0,0,0,False,True,False,False,,,
+24154557,"{'steamid': '76561197979332326', 'num_games_owned': 0, 'num_reviews': 140, 'playtime_forever': 282, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1468388833}",english,"I'll be honest: My interest in this game is based purely on the soundtrack by HOME. I also happen to love the occasional puzzler. Long story short? The most talented of artists don't always sign off their music to quality products
+
+Matris' gameplay could be best described as... the painters version of Tetris? Although I'd more say it was the Duplo or Mega Bloks of Tetris games, but even with that comparison, I think in some ways that's giving this game more credit than it deserves, as it would justify why it was made. Matris lacks that certain raison d'être, both in design and its gameplay. You kind of just stick puzzle pieces into place, and that's really it. None of the other game modes take it in an interesting direction either, as you lack that reason to care about your placement like in real Tetris when you fear your blocks touching the top of the screen. You have all day, really, and you could think out your moves precisely, and that's just not exciting. 
+
+Classic puzzle games like Tetris or Columns are about a constant assault on the player. How will you deal with what the game throws your way next? Matris (like a mattress, as in, the game will put you to sleep because it's so boring) isn't interested in asking you that question. I don't even think it's even that interested in itself with its colorless, grey and plain design. Yes I know I can customize it myself, but it says a lot when not even the designers thought fit to make the presentation eye catching for people that you know, might REFUND the game, cause you could get everything you need within five minutes.
+
+The soundtrack by HOME, while great, just doesn't fit. The gameplay is too slow. Even in time attack - where you're given a way too generous (I'd actually call it laborious) 10 minute limit - never do I ever feel compelled to race the clock. It'd be like if Jeopardy had the Duke Nukem theme playing throughout the entirety of the show. Does it make Jeopardy more exciting? No. It'd still be the same old sassy molassy Trebek askin' questions. HOME's music deserves a better home in a moderately faster paced game.
+
+The game reeks of mobile phone game design, where if you give the game your undivided attention, you get nothing in return, because it's just not that taxing to play. It needed something to drive the gameplay, but maybe like myself, the devs were too excited about licensed music and not the actual content of the game.
+
+The Pro's
+[quote]
++Great soundtrack regardless of the game
+
++Good customization
+[/quote]
+
+The Con's
+[quote]
+-Boring. Flat out boring
+
+-Dull color scheme you have to fix yourself
+
+-HOME's soundtrack goes to waste
+[/quote]
+
+I do highly recommend checking out the Columns clone, [url=store.steampowered.com/app/401120/]Anode[/url]. It will definitely scratch your itch if you're looking for a puzzle game. It has the tight gameplay and the killer soundtrack to back it.",1467888511,1467888758,False,6,0,0.437365442514419556,0,False,False,False,False,,,
+23980719,"{'steamid': '76561198018899079', 'num_games_owned': 147, 'num_reviews': 7, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1467368270}",english,Very good game for relaxing and nice changes from the AAA games.,1467368863,1467368863,True,0,0,0,0,False,True,False,False,,,
+23703879,"{'steamid': '76561198117174943', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 223, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1466628047}",polish,"Gra bardzo ciekawa, doskonała oprawawa audio-wizualna. Wiele ciekawych poziomów i trybów. Dodatkową zaletą jest możliwość tworzenia plansz oraz zmiany wyglądu poszczególnych kafelek według własnego uznania. Gorąco polecam!",1466594973,1466594973,True,0,0,0,0,False,False,False,False,,,
+23635103,"{'steamid': '76561198051282030', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1087, 'playtime_last_two_weeks': 0, 'playtime_at_review': 976, 'last_played': 1486718451}",polish,Great logic game. It can be really challenging and adictive.,1466266982,1466266982,True,0,0,0,0,False,True,False,False,,,
+23509106,"{'steamid': '76561197996823450', 'num_games_owned': 141, 'num_reviews': 1, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1465563382}",english,"Very fun game. Easy to play, hard to master ;) Worth the price.",1465678954,1465678954,True,0,0,0.468164771795272827,0,False,False,False,False,,,
+23493045,"{'steamid': '76561198025102075', 'num_games_owned': 222, 'num_reviews': 8, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1464995689}",english,"Simple, kind and addictive puzzle game. It's unbelievable how much time player can spend to do perfect arrangement of bricks.",1465603664,1465603664,True,0,0,0,0,False,False,False,False,,,
+23483980,"{'steamid': '76561198020252957', 'num_games_owned': 18, 'num_reviews': 1, 'playtime_forever': 1009, 'playtime_last_two_weeks': 0, 'playtime_at_review': 286, 'last_played': 1471252321}",polish,"Gra bardzo wciągająca i nieskomplikowana. Podobna trochę do kultowego tetrisa tylko o wiele przyjmneiejsza. Niesamowita muzyka która nie nudzi się po długim graniu. Polecam młodszym, starszym, kobietom i mężczyznom ;D",1465563666,1465563666,True,0,0,0,0,False,False,False,False,,,
+23476307,"{'steamid': '76561198026752020', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1465485790}",polish,"Really cool game ! You need to get used to the rules, but after a while its really addictive ! I'm looking forward to see updates !",1465516218,1465516218,True,0,0,0,0,False,False,False,False,,,
+23474350,"{'steamid': '76561198040217809', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1465506066}",english,"Entertainging game, with really cool music. If You are tetris fan, You should totally try it, if You aren't You may like it ;)",1465506182,1465506182,True,0,0,0,0,False,True,False,False,,,
+23471665,"{'steamid': '76561198049656568', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 200, 'playtime_last_two_weeks': 0, 'playtime_at_review': 200, 'last_played': 1465494977}",english,"Nice game, fresh appoach to tetris blocks and great music.",1465494955,1465494955,True,1,0,0,0,False,False,False,False,,,
+23455321,"{'steamid': '76561198061681418', 'num_games_owned': 1058, 'num_reviews': 1, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1465325272}",polish,Nice graphics and soundtrack. Tetris redefined. Worth a try.,1465407648,1465407648,True,0,0,0,0,False,False,False,False,,,
+23454773,"{'steamid': '76561198041993925', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1464903011}",polish,"For me? Awsome, when i play that game i  feel like i back to my first games at Atari 130XE. That music, logic games, arcade - I have a really good time with Matris and i waiting for more updates and addons :)",1465405282,1465405282,True,0,0,0,0,False,False,False,False,,,
+23444191,"{'steamid': '76561198072716475', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1465344235}",english,"Fun puzzle game. Looks like tetris a little but actually it is somethign different :) Lets say tetris reinvented?
+Might be a bomb. Seems its leveled up pretty good and everything runs smooth. I like puzzle games so this one was cool for me.",1465345250,1465345250,True,1,0,0,0,False,False,False,False,,,
+23441762,"{'steamid': '76561197963386033', 'num_games_owned': 1326, 'num_reviews': 29, 'playtime_forever': 333, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1467038904}",english,"Nice soundtrack, nice gameplay. Just play it for couple of minutes and chill.",1465332744,1465332744,True,3,0,0.52173912525177002,0,False,False,False,False,,,
+23440900,"{'steamid': '76561198010564977', 'num_games_owned': 39, 'num_reviews': 1, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1465328501}",polish,"Great, relaxing game. Awesome electronic music used",1465329139,1465329139,True,0,1,0,0,False,False,False,False,,,
+23439810,"{'steamid': '76561197973401164', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1470054483}",english,"Very nice, a new look at the good old Tetris. Very addictive. Super atmospheric music",1465325149,1465325149,True,2,1,0,0,False,False,False,False,,,
+23439637,"{'steamid': '76561198062639331', 'num_games_owned': 330, 'num_reviews': 6, 'playtime_forever': 100, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1466080099}",english,Nice game if you just want to chill. Great music.,1465324559,1465324559,True,0,0,0,0,False,False,False,False,,,
+23438579,"{'steamid': '76561197984786912', 'num_games_owned': 225, 'num_reviews': 3, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1464946135}",english,"And just when I thought that there ain't no puzzle game/arcade game that could teach the old dog some new tricks...
+
+Matris is a dynamic puzzle game that bears resemblance to Lumines and Tetris. The player task is to fill the map/matrix with tretromino-like blocks, provided by the AI. What sounds easy to learn, seems difficult to master - and that learning curve is the main motor for neverending fun of Matris. Lots of different modifications and built-in level editor asures the player that no matter how much he'd play, there's still an awful lot to discover.
+
+Definitely recomended for all Lumines and Tetris enthusiasts, but also everybody that likes to challenge themselves!",1465320694,1465320694,True,3,0,0.502395749092102051,0,False,False,False,False,,,
+23438181,"{'steamid': '76561198094157654', 'num_games_owned': 100, 'num_reviews': 13, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1504354492}",polish,"Nice game, very relaxing. Great music",1465319327,1465319327,True,0,0,0,0,False,False,False,False,,,
+23438002,"{'steamid': '76561198090174038', 'num_games_owned': 141, 'num_reviews': 2, 'playtime_forever': 3068, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1704119715}",polish,"Gierka ciekawa, super pomysł. Naprawdę interesująca oprawa graficzna i muzyczna. Polecam dla relaksu.",1465318651,1465318651,True,0,0,0,0,False,False,False,False,,,
+23437689,"{'steamid': '76561198081205892', 'num_games_owned': 88, 'num_reviews': 1, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1465316359}",english,"Fun to play puzzle game, with well fitted soundtrack, cool modes and [b]level creator[/b].
+[u]Overall worth playing.[/u]",1465317445,1465317445,True,2,0,0,0,False,False,False,False,,,
+23437555,"{'steamid': '76561197974834665', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 278, 'playtime_last_two_weeks': 0, 'playtime_at_review': 278, 'last_played': 1465316334}",english,"Definitely worth playing! It's The game is really relaxing, you can easily chill out playing it after work. yet it can be really challenging. The game mechanics are simple but fun and there are many diverse game modes so you will not get bored. I really like this game and so will you.",1465316930,1465316930,True,4,0,0.523809552192687988,0,False,False,False,False,,,
+23437294,"{'steamid': '76561198080819661', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 251, 'last_played': 1465321154}",english,"Easy to play and relaxing puzzle game. Plenty of levels (20 + level editor). 
+Awesome music. Gamepad support is a nice touch.",1465315937,1465315937,True,2,0,0,0,False,False,False,False,,,
+23437146,"{'steamid': '76561198201580009', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1465315241}",english,"If you like Tetris games, it is something for you.",1465315401,1465315401,True,2,0,0.541984736919403076,0,False,False,False,False,,,
+23437128,"{'steamid': '76561198005760430', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 255, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1488230608}",polish,Very relaxing and interesting game. Higly reccommend :),1465315363,1465315363,True,0,0,0,0,False,False,False,False,,,
+23437030,"{'steamid': '76561197998125507', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 133, 'playtime_last_two_weeks': 0, 'playtime_at_review': 133, 'last_played': 1466781168}",english,"Great game and highly addictive. I play in it, if i have some free time. Sophisticated, nice music. Recommend.",1465314974,1465314974,True,0,0,0,0,False,False,False,False,,,
+23436966,"{'steamid': '76561197992809849', 'num_games_owned': 1003, 'num_reviews': 4, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1491742459}",english,Good when you don't have time. Good for everyone. And it has really good music.,1465314723,1465314723,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+23436738,"{'steamid': '76561198150480369', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1546096885}",english,"This game is awesome!
+Yes, i play this game 10 minutes and, it's new type of game!
+This game like tetris.
+I really like this game :)",1465313817,1465313817,True,0,0,0,0,False,False,False,False,,,
+23436524,"{'steamid': '76561198065795452', 'num_games_owned': 143, 'num_reviews': 2, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1465312771}",english,"Game is simple, but fun. I would strongly reccomend to have it. In my opinion 9/10 becausecontrols are quite unusual, but still, great game",1465312900,1465312900,True,0,0,0,0,False,False,False,False,,,
+23436474,"{'steamid': '76561198020330731', 'num_games_owned': 280, 'num_reviews': 14, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1501419821}",english,"It's like Tetris, but much harder. Take my upvote :)",1465312649,1465312649,True,0,0,0,0,False,False,False,False,,,
+23408880,"{'steamid': '76561198059852742', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1465163913}",english,"Very relaxing game. Good to chill out after a long, hard day.",1465164118,1465164118,True,0,0,0,0,False,False,False,False,,,
+23403743,"{'steamid': '76561198152006059', 'num_games_owned': 344, 'num_reviews': 30, 'playtime_forever': 1082, 'playtime_last_two_weeks': 0, 'playtime_at_review': 243, 'last_played': 1478110491}",english,"This game is showing two things (or just one, who cares): Tetris is immortal AND it could be inspiration for something fresh and unique. If you like logical game with simple rules, buy it.",1465145862,1465145862,True,0,0,0,0,False,False,False,False,,,
+23378077,"{'steamid': '76561197974213506', 'num_games_owned': 687, 'num_reviews': 11, 'playtime_forever': 233, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1465209769}",english,The game where everybody will find something for himself. The game looks easy but it's quite requiring. Words of appreciation for the nice music!,1465039193,1465039193,True,2,0,0.490098357200622559,0,False,False,False,False,,,
+23377830,"{'steamid': '76561198033652241', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1466087422}",english,"Quite complicated at the beginning, but I enjoy it so far.",1465038052,1465038052,True,0,0,0,0,False,True,False,False,,,
+23376874,"{'steamid': '76561198146332699', 'num_games_owned': 128, 'num_reviews': 2, 'playtime_forever': 969, 'playtime_last_two_weeks': 0, 'playtime_at_review': 111, 'last_played': 1515597412}",polish,"Cool game, great for relax after work",1465033684,1465033684,True,2,0,0.54703831672668457,0,False,True,False,False,,,
+23369371,"{'steamid': '76561198103128386', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 253, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1465648580}",english,I recommend this game to anyone who likes strategy games. This game had four modes of game which give you more hours of gameplay.,1464992873,1464992873,True,0,0,0,0,False,False,False,False,,,
+23367167,"{'steamid': '76561198095292094', 'num_games_owned': 0, 'num_reviews': 144, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1464982971}",polish,"Dobry zabijacz czasu i muzyka wpada w ucho. Nie jestem fanem tego typu gier, ale widać, że autor się napracował.",1464983200,1481295319,True,0,1,0,0,False,True,False,False,,,
+23366298,"{'steamid': '76561198008587483', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1464981432}",english,"Instead of playing Witcher 3 I'm just clicking blocks. Very addictive, like good old one tetris :)",1464979362,1464979362,True,5,2,0.496508359909057617,0,False,False,False,False,,,
+23365049,"{'steamid': '76561198049812571', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1467392812}",polish,Polecam,1464974375,1464974375,True,0,0,0,0,False,False,False,False,,,
+23362189,"{'steamid': '76561198021778988', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1464964802}",english,"If u are looking for a game which u can play after a hard day, just to relax its perfect. Its pretty rewarding when u finish level with 100%",1464965472,1464965472,True,2,0,0.517645359039306641,0,False,True,False,False,,,
+23361913,"{'steamid': '76561198027928870', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1464964230}",polish,Bardzo przyjemna gra :) Polecam :),1464964253,1464964253,True,3,0,0.566929101943969727,0,False,False,False,False,,,
+23356454,"{'steamid': '76561198022106240', 'num_games_owned': 652, 'num_reviews': 4, 'playtime_forever': 762, 'playtime_last_two_weeks': 0, 'playtime_at_review': 681, 'last_played': 1538377185}",english,"Relaxing, easy-to-play game. Nice if you just want to sit back and chill. Plenty of gamemodes, rather interesting concept overall.",1464934010,1464934010,True,13,0,0.695185005664825439,0,True,False,False,False,,,

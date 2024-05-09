@@ -1,0 +1,754 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+157969661,"{'steamid': '76561198844282465', 'num_games_owned': 1575, 'num_reviews': 4684, 'playtime_forever': 106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 106, 'last_played': 1679066262}",russian,☀️,1707537310,1707537310,True,0,0,0,0,True,False,False,True,,,
+156325867,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 216, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1657335264}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1705700271,1705700271,True,1,1,0.453900724649429321,0,True,False,False,True,,,
+155876189,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 235, 'playtime_last_two_weeks': 0, 'playtime_at_review': 235, 'last_played': 1689084509}",english,bad game,1705139801,1705139801,False,0,0,0,0,True,False,False,True,,,
+153330645,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1680004092}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702243791,1702243791,True,0,0,0,0,True,False,False,True,,,
+149748071,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 176, 'playtime_last_two_weeks': 0, 'playtime_at_review': 176, 'last_played': 1699431923}",english,"Adventures On The Polluted Islands is a 2D top down twin stick shooter with some adventure game elements.  The premise is fun, while the implementation is garbage.  The idea is that you control a crab on a tropical island that's unfortunately been polluted with some radioactive barrels.  You have to build shelters (by carrying leaves around) and do other little adventure quests to help other crabs on the island.  It's almost a shame that the implementation is so bad (and that the developer has apparently engaged in some unethical activity). 
+
+This game has been translated from some other language into English... badly.  If this was done through Google Translate, Google Translate should feel ashamed of itself.  Regardless, the language in this game is broken and will put off a lot of gamers.
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+A choice was made to use obsolete, decades old retro pixel ""art"" as a substitute for contemporary PC graphics.  It's unclear if this is due to lack of budget or talent, regardless, the overall visual quality of the game is extremely low as a result.
+
+There's no option to change the resolution and no useful graphics tweaks.  There's no way to ensure this is running at the native resolution of your display.  There's no guarantee this game will look right on any PC as a result of this hamfisted design decision.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers, or gamers using AZERTY or other international keyboard layouts.  
+
+Some of the defects in the game can be attributed to the choice of using the GameMaker Studio construction kit/toolset.  This is a very poor quality toolset favoured by amateur developers as it's cheap and requires little in the way of development skill, but unfortunately has very limited capabilities.  Just as you can't make a silk purse out of a sows ear, you can't make a great video game if you use a terrible engine.  GameMaker Studio is most commonly used to make retro pixel shovelware and cash grabs.
+
+A strong argument can be made that construction kits like GameMaker Studio should never be used to make games for profit, as the ""developer"", Uncle Frost Team has done here.  These construction kits are intended to teach people some of the basic principles of game development, and to make small demos to pass around with friends.  They're not intended to replace to actual work of real, professional game developers.  So it's inappropriate when amateurs try to use these for profit, without any actual, real game development effort taking place.  This doesn't result in products that have any real meaningful value for gamers.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a very healthy spike in player counts for the game.  But this only appears around the same time that trading cards were applied to the game... so this is just card idlers getting their cards and moving on.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+[b][quote][url=https://www.forbes.com/sites/erikkain/2017/01/18/steam-takes-down-art-of-stealth-after-developer-posts-fake-reviews/?sh=750e13e12354]Warning: Review Manipulation![/url][/quote][/b]This game features a small number of fake positive reviews from accounts known to be in the business of review manipulation/paid reviews.  They're all written in either Russian or broken English, appear at almost exactly the same time, very shortly after the game launched on Steam, all have a direct Steam purchase of the game, and the accounts are used consistently to write fake reviews for asset flips and other cash grabs/scams.  The ""Positive"" review score on this game should be disregarded due to this blatant, unethical review manipulation.  This is done to deceive and scam gamers into paying for a bad product.
+
+Adventures On The Polluted Islands is relatively cheap at $3 USD, but it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, and the questionable ethical nature of the developer and/or their associates (as outlined above), this is impossible to recommend.
+",1699432237,1699432237,False,3,2,0.225512847304344177,0,False,False,False,True,,,
+147598128,"{'steamid': '76561198078887697', 'num_games_owned': 1806, 'num_reviews': 675, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1696383446}",english,"slow-moving and unsettling, this one isn't worth a play.",1696383488,1696383488,False,0,0,0,0,False,False,False,True,,,
+143433993,"{'steamid': '76561199103943433', 'num_games_owned': 176, 'num_reviews': 65, 'playtime_forever': 180, 'playtime_last_two_weeks': 0, 'playtime_at_review': 180, 'last_played': 1691056576}",english,"3/10
+a litte bit boring",1691212916,1691224242,False,0,0,0,0,True,False,False,True,,,
+140525226,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1687370004}",spanish,"──────────────█────────█
+ ─────────────█─────────█
+ ────────────█───────────█
+ ───────────█──────█──────█
+ ────────────███─█████─███
+ ───────────────███████
+ ██────────────█████████────────────██
+ ─██───────────█████████───────────█
+ ───█──────────█████████─────────██
+ ────███────────███████────────███
+ ──────███───────██_███──────████
+ ─────────███──█_██████_█──████
+ ────────────██████_███████
+ ──────────────█████████
+ ────██████████_████████_███████████
+ █████─────────████_█████─────────████
+ ───────────────███████
+ ────────────────█████
+ ────────────█████████████
+ ─────────███──█████████──███
+ ───────███───█████_█████────██
+ ──────██─────███████████─────██
+ ────██───────██_█████_███──────██
+ ───█─────────███████████────────█
+ ───█──────────████_█████────────█
+ ───█───────────████████─────────█
+ ───█────────────██████──────────█
+ ───█─────────────████───────────█
+ ───█──────────────██────────────█
+ ───█────────────────────────────█
+",1687478012,1687478012,True,0,0,0,0,True,False,False,True,,,
+138511502,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 185, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1495980544}",russian,нет,1684445673,1684445673,False,2,0,0.538055419921875,0,False,False,False,True,,,
+138197115,"{'steamid': '76561199410568291', 'num_games_owned': 1014, 'num_reviews': 1, 'playtime_forever': 244, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1683952271}",english,cool,1683918417,1683918417,True,0,0,0,0,True,False,False,True,,,
+135735663,"{'steamid': '76561198201246082', 'num_games_owned': 3232, 'num_reviews': 1500, 'playtime_forever': 282, 'playtime_last_two_weeks': 0, 'playtime_at_review': 282, 'last_played': 1667459576}",turkish,"""Adventures On The Polluted Islands"" hayatta kalma ve macera oyunudur. Oyuncular, çevre kirliliği ile mücadele eden bir karakteri yönetirler ve adalarda yaşayan hayvanları kurtarmaya çalışırlar.
+
+Oyunda, oyuncular adalarda dolaşarak kaynakları toplar, hayvanları kurtarırlar ve çeşitli görevleri tamamlarlar. Aynı zamanda, oyuncuların karakteri açlık, susuzluk ve yorgunluk gibi faktörlere karşı da mücadele etmelidir.
+
+Görsel olarak, ""Adventures On The Polluted Islands"" sade bir çizgi film tarzında tasarlanmıştır. Oyunun müzikleri ise huzurlu bir atmosfer yaratmaya çalışmaktadır.
+
+Oyun, hayatta kalma oyunlarını sevenler için ilginç bir seçenek olabilir. Ancak, bazı oyuncular için oyunun yavaş tempolu olması ve sınırlı içerikleri nedeniyle tekrar oynanabilirliği düşük olabilir.",1680179282,1680179282,True,0,0,0,0,True,False,False,True,,,
+135634796,"{'steamid': '76561198431164174', 'num_games_owned': 0, 'num_reviews': 239, 'playtime_forever': 783, 'playtime_last_two_weeks': 0, 'playtime_at_review': 783, 'last_played': 1652362712}",russian,Adventures On The Polluted Islands,1680038733,1680038733,True,1,0,0.50127875804901123,0,True,False,False,True,,,
+135257581,"{'steamid': '76561199104677416', 'num_games_owned': 1004, 'num_reviews': 493, 'playtime_forever': 209, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1679598989}",turkish,Bu şekilde kart kasabileceğiniz oyunları arıyorsanız hesabımdaki incelemelere göz atabilirsiniz,1679601528,1679601528,True,0,0,0,0,True,False,False,True,,,
+133707879,"{'steamid': '76561198204542880', 'num_games_owned': 1911, 'num_reviews': 199, 'playtime_forever': 258, 'playtime_last_two_weeks': 0, 'playtime_at_review': 258, 'last_played': 1677045916}",spanish,"⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⠟⠫⢻⣿⣿⣿⣿⢟⣩⡍⣙⠛⢛⣿⣿⣿⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⡿⢿⣿
+⣿⠤⠄⠄⠙⢿⣿⣿⣿⡿⠿⠛⠛⢛⣧⣿⠇⠄⠂⠄⠄⠄⠘⣿⣿⣿⣿⠁⠄⢻
+⣿⣿⣿⣿⣶⣄⣾⣿⢟⣼⠒⢲⡔⣺⣿⣧⠄⠄⣠⠤⢤⡀⠄⠟⠉⣠⣤⣤⣤⣾
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣀⣬⣵⣿⣿⣿⣶⡤⠙⠄⠘⠃⠄⣴⣾⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢻⠿⢿⣿⣿⠿⠋⠁⠄⠂⠉⠒⢘⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡿⣡⣷⣶⣤⣤⣀⡀⠄⠄⠄⠄⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⣸⣿⣿⣿⣿⣿⣿⣿⣷⣦⣰⠄⠄⠄⠄⢾⠿⢿⣿⣿⣿⣿
+⣿⡿⠋⣡⣾⣿⣿⣿⡟⠉⠉⠈⠉⠉⠉⠉⠉⠄⠄⠄⠑⠄⠄⠐⡇⠄⠈⠙⠛⠋
+⠋⠄⣾⣿⣿⣿⣿⡿⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⡇⠄⠄⠄⠄⠄
+⠄⢸⣿⣿⣿⣿⣿⣯⠄⢠⡀⠄⠄⠄⠄⠄⠄⠄⠄⣀⠄⠄⠄⠄⠁⠄⠄⠄⠄⠄
+⠁⢸⣿⣿⣿⣿⣿⣯⣧⣬⣿⣤⣐⣂⣄⣀⣠⡴⠖⠈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠈⠈⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣽⣉⡉⠉⠈⠁⠄⠁⠄⠄⠄⠄⡂⠄⠄⠄⠄⠄
+⠄⠄⠙⣿⣿⠿⣿⣿⣿⣿⣷⡤⠈⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠠⠔⠄⠄⠄⠄⠄
+⠄⠄⠄⡈⢿⣷⣿⣿⢿⣿⣿⣷⡦⢤⡀⠄⠄⠄⠄⠄⠄⢐⣠⡿⠁⠄⠄⠄⠄⠄",1677459266,1677459266,False,1,0,0.523809552192687988,0,True,False,False,True,,,
+125576871,"{'steamid': '76561197974836738', 'num_games_owned': 0, 'num_reviews': 150, 'playtime_forever': 255, 'playtime_last_two_weeks': 0, 'playtime_at_review': 138, 'last_played': 1669174519}",english,"Fun game! Relatively short, and the design reminded me of something from the 90s (which I want more of).  My only complaint is that the game could use achievements :)",1668613632,1668613632,True,0,0,0,0,True,False,False,True,,,
+121778019,"{'steamid': '76561198155780151', 'num_games_owned': 3378, 'num_reviews': 227, 'playtime_forever': 233, 'playtime_last_two_weeks': 0, 'playtime_at_review': 233, 'last_played': 1662366153}",thai,"รีวิว Adventures On The Polluted Islands
+
+เกมผจญภัยขนาดสั้น กราฟิก Gameboy Advance ว่าด้วยเกาะแห่งหนึ่ง ได้ถูกเครื่องบินทิ้งถังที่เต็มไปด้วยสารกัมมันตภาพรังสี ทำให้ทั้งเกาะเต็มไปด้วยสารพิษ และสัตว์ทะเลแถวนั้นแปรสภาพกลายเป็นซอมบี้ เรารับบทเป็นปูที่จะต้องหาที่อยู่ใหม่ให้กับสัตว์ทะเลที่เหลือรอดตัวอื่นๆ แต่เนื้อเรื่องยังไม่จบแค่นั้น เพราะเกาะที่เหล่าปูได้ย้ายเข้ามาตั้งรกรากใหม่นั้น ได้มีจอมปีศาจที่ถูกกักขังอยู่ในวิหาร และถูกปลดปล่อยด้วยน้ำมือของพระเอก เขาจึงต้องต่อสู้กับจอมปีศาจไปด้วย เพื่อปกป้องชาวเมืองและรับผิดชอบกับสิ่งที่ตัวเองทำ
+
+เป้าหมายหลักๆในเกม ส่วนมากจะเป็นการรับเควสต์จากปูตัวอื่นๆ อย่างเช่น หาท่อนไม้หรือก้อนหินให้ครบตามที่กำหนด เพื่อแลกกับของที่สามารถเปิดทางไปต่อได้ ระหว่างทางก็จะเจอสัตว์ทะเลกลายพันธุ์ให้สู้ ซึ่งจะฟื้นขึ้นมาเรื่อยๆ ท้ายด่านก็จะมีบอสให้สู้ ซึ่งไม่ค่อยยากซักเท่าไหร่ เพราะในฉากจะมีกองไฟซึ่งช่วยเพิ่มพลังชีวิตเต็ม ถ้าเข้าไปใกล้ ดังนั้นเกมจึงเล่นไม่ค่อยยาก ใช้เวลาแค่ 1-2 ชั่วโมง ก็สามารถเล่นจนจบได้แล้ว
+--------------------------------------------------------------
+คำบอกใบ้ในเกมนั้นถือว่าค่อนข้างชัดเจน ถ้าตั้งใจอ่านดีๆ แต่จะเขียนไกด์ไว้ให้แล้วกันว่า ตรงไหนบ้างที่สามารถพลาดได้ ยกตัวอย่างเช่น 
+
+- ด่านที่ 2 ให้เอาท่อนไม้ทั้ง 4 ไปวางไว้ตรงแท่นบูชาที่กระจัดกระจายอยู่ตามฉาก(ซึ่งดูเหมือนกับโต๊ะ) จะสามารถอัญเชิญบอสที่เต็มไปด้วยบาเรียกระดูกขวางกัน ทำให้โจมตีไม่โดน วิธีแก้คือ ให้เราขว้างกระดูกใส่ไปที่บาเรียเรื่อยๆจนกว่ามันจะแตก และหลังจากนั้นก็จะสู้ง่ายขึ้นแล้ว
+- ด่านที่ 3 พอเอาท่อนไม้ไปแลกเป็นคบเพลิงเสร็จ ให้ขึ้นไปที่หน้าวิหาร แล้วเลี้ยวไปทางซ้ายบนสุด วิ่งจุดคบเพลิงไปตามทางเรื่อยๆจนกว่าจะถึงรูปปั้น ซึ่งคบเพลิงจะอยู่ได้แค่ 4 วินาทีแล้วดับไป วิ่งให้เร็วที่สุดก็จะผ่านไปได้
+- ด่านที่ 3 ไปทางขวาบนสุด แนะนำให้ไปที่สุดท้าย เพราะเกมจะเซฟจุดนั้นได้แค่ครั้งเดียว จะมีหมอกมรณะที่วิ่งแบบตายตัว ถ้าเข้าไปชนจังๆ มีสิทธิ์ตายลูกเดียว แนะนำให้ซ่อนในหลืบที่ปลอดภัย พอไปถึงรูปปั้นนก จะมีพัซเซิลที่ให้หันหน้ารูปปั้นทั้งสามเข้าหารูปปั้นตัวนั้น ให้เริ่มจากขวาไปซ้ายก็จะสามารถคว้าคัมภีร์เพื่อเอาไปเปิดประตูใหญ่ได้
+- ด่านที่ 4 หลังจากที่เราเอาบูมเมอแรงปาใส่บอสใหญ่จนเลือดเหลือแค่ 25% บอสจะเป็นอมตะ ให้เราวิ่งเป็นวงกลม ""ติดขอบสี่เหลี่ยม"" ไปเรื่อยๆ จะเจอป้อมปืน ให้กด F เพื่อทำให้แสงเลเซอร์ทำงาน มีอยู่ 3 จุด ล่าง,ขวา,บน ซึ่งถ้าทำสำเร็จ เกมก็จะจบในทันที
+--------------------------------------------------------------",1662370041,1662383443,True,0,0,0,0,True,False,False,True,,,
+121756561,"{'steamid': '76561198237676960', 'num_games_owned': 5411, 'num_reviews': 2874, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1662326703}",turkish,"Arkadaşlar lütfen grubuma katılıp küratör sayfamı takip eder misiniz? Destek olan herkese Teşekkürler...
+Grup : https://steamcommunity.com/groups/aras1
+Küratör : https://store.steampowered.com/curator/42046177/
+İnceleme :
+oyun bi yengeç olarak başladığımız adada geçiyor sıkıcı açıkcası eğlenceli değil o yüzden tavsiye etmeyeceğim",1662326862,1662326862,False,0,0,0,0,True,False,False,True,,,
+121003950,"{'steamid': '76561198193401203', 'num_games_owned': 2230, 'num_reviews': 97, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1646431826}",turkish,Basitçe beş para etmez oyun.,1661097962,1661097962,False,0,0,0,0,True,False,False,False,,,
+117681304,"{'steamid': '76561198190434617', 'num_games_owned': 2970, 'num_reviews': 358, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1656277884}",english,"Adventures On The Polluted Islands
+
+10/10",1656277577,1656277577,True,0,0,0,0,True,False,False,False,,,
+117428371,"{'steamid': '76561198083413093', 'num_games_owned': 3787, 'num_reviews': 2801, 'playtime_forever': 285, 'playtime_last_two_weeks': 0, 'playtime_at_review': 285, 'last_played': 1649706276}",turkish,"░░░░░░░░░░░████
+░░░░░░░░░░░█░░█
+░░░░░░░░░░█░░░█
+░░░░░░░░░█░░░░█
+██████▄▄█░░░░░███▄
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░
+░░░░░░░░░░░░▀▀",1655933164,1655933164,True,0,0,0.469798654317855835,0,True,False,False,False,,,
+115312334,"{'steamid': '76561198870075913', 'num_games_owned': 1234, 'num_reviews': 124, 'playtime_forever': 81, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1655624209}",english,"since nobody will read the reviews, i’ll say in this review i’m gay and i love crossdressing as a femboy",1652295806,1700764845,True,0,0,0.382932126522064209,0,True,False,False,True,,,
+110029928,"{'steamid': '76561199219902846', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 2182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2182, 'last_played': 1644548969}",schinese,意外之喜，音乐好听，难度对我来说偏难,1644636290,1644636290,True,0,0,0,0,False,False,False,False,,,
+107724127,"{'steamid': '76561198053693001', 'num_games_owned': 0, 'num_reviews': 154, 'playtime_forever': 105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1630588480}",russian,"данную игры я покупал за копейки, но не как за 79 рублей.
+
+мой вам совет, не покупайте на подобий таких игр, подкоптите денег и купите одно нормальную игру, которая принесет  вам удовольствие, нежили покупать 10 шт игр не понятно каких 
+
+я в неё даже не играл, запустил лишбы  выбить карты 
+
+прочти мои предыдущие обзоры",1641810860,1641810860,False,7,0,0.591873586177825928,0,True,False,False,False,,,
+107102575,"{'steamid': '76561199158292051', 'num_games_owned': 2792, 'num_reviews': 1619, 'playtime_forever': 298, 'playtime_last_two_weeks': 0, 'playtime_at_review': 298, 'last_played': 1641089276}",schinese,+1,1641089278,1641089278,True,0,0,0,0,True,False,False,False,,,
+106341156,"{'steamid': '76561198153107069', 'num_games_owned': 0, 'num_reviews': 74, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1640254201}",english,"Just boring, maybe it`s good to pin down your kids for a couple of hours. If you have any, which I don`t.",1640248130,1640248130,False,1,0,0.517045438289642334,0,True,False,False,False,,,
+102470821,"{'steamid': '76561198825459467', 'num_games_owned': 3198, 'num_reviews': 603, 'playtime_forever': 238, 'playtime_last_two_weeks': 0, 'playtime_at_review': 238, 'last_played': 1636439587}",english,Recommended for game farming,1636439558,1636439558,True,2,0,0.486431479454040527,0,True,False,False,False,,,
+102234292,"{'steamid': '76561198129553852', 'num_games_owned': 1017, 'num_reviews': 273, 'playtime_forever': 7176, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1096, 'last_played': 1680557080}",russian,"Приключение Мr crab, кидался бы еще деньгами ...",1636070837,1636070837,True,3,0,0.565217375755310059,0,False,False,False,False,,,
+99844739,"{'steamid': '76561198032649576', 'num_games_owned': 0, 'num_reviews': 688, 'playtime_forever': 309, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1632491607}",english,"Pluses and minuses .
++It's not expensive.
+Nice bosses.
+Four interesting islands.
+There are cards.
++-Very short but cheap. An hour or an hour and a half.
+No achievements.
+-On the second level they could put a coconut at the beginning.
+Lots of quests to carry.
+There is a lizard on the cards I have not met such.
+If you delete the game, the save is automatically deleted.
+
+Not a bad game is cheap and short has the potential for more.",1632415197,1632415321,True,1,0,0.442675173282623291,0,True,False,False,False,,,
+99397567,"{'steamid': '76561198796851430', 'num_games_owned': 927, 'num_reviews': 3719, 'playtime_forever': 6115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6115, 'last_played': 1646787724}",schinese,"首先从游戏的整体画面和音效来看表现相当平庸。游戏画面缺乏细节和质感，岛屿的污染状况没有得到有效的视觉呈现，使得游戏世界显得单调而缺乏吸引力。同时游戏的音效也显得单调乏味，背景音乐和环境音效缺乏变化，无法为玩家营造出沉浸式的冒险氛围。
+
+其次游戏的剧情设计过于简单且缺乏深度。玩家的冒险之旅似乎只是为了探索这个被污染的岛屿，而缺乏引人入胜的故事线索和角色设定。这使得游戏过程变得单调乏味，玩家很难从中获得深刻的情感体验。
+
+在玩法方面同样令人失望。游戏的任务设计缺乏创意和挑战性，大多数任务都是简单的寻找物品或解决简单的谜题。这种单调的玩法使得游戏过程变得枯燥无味，玩家难以保持长时间的兴趣。
+
+此外游戏的操作体验也存在问题。游戏的控制不够流畅，反应速度较慢，这使得玩家在探索岛屿和完成任务时感到困扰。同时游戏的界面设计也不够友好，一些功能按钮的位置不够直观，增加了玩家的操作难度。
+
+最后从游戏的价值和性价比来看也显得不够出色。与同类冒险游戏相比，这款游戏在画面、音效、剧情和玩法等方面都缺乏明显的优势，而价格却相对较高，这使得它的性价比相对较低。
+
+综上所述，在画面音效、剧情设计、玩法以及操作体验等方面都存在令人失望的问题。如果你正在寻找一款具有深度和吸引力的冒险游戏，那么这款游戏可能不是你的最佳选择。建议开发者在未来的版本中，对游戏进行更深入的开发和优化，以提升玩家的游戏体验。",1631718884,1711285351,False,0,0,0,0,True,False,False,False,,,
+98346356,"{'steamid': '76561198033910034', 'num_games_owned': 3900, 'num_reviews': 555, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1630100182}",english,"Recommended but must be taken with a grain of salt.
+
+I'm quite surprised how much I enjoyed playing a crab adventure. The world has interesting connections with pollution, ancient tribal culture and life on tropical islands. The graphics and sound are similar to the 16bit era, so keep that in mind. The gameplay can be repetitive and there are a lot of fetch quest type of back and forth tedium. The combat was decent and the boss fights pretty neat, but nothing groundbreaking. There are some technical issues (crashed once when I died) and the save system is annoying. If you can get past that, then this is a neat little two hour adventure for a low price.",1630100502,1630100502,True,0,0,0,0,False,False,False,False,,,
+96350050,"{'steamid': '76561198156231045', 'num_games_owned': 0, 'num_reviews': 323, 'playtime_forever': 217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 217, 'last_played': 1627221233}",portuguese,"Um Siri está uma ilha de chernobyl onde tudo está poluido, ele vive aventuras de diversas formas com estratégias diferentes, o problema é que a meio do jogo bugou o mapa e não voltou ao normal, não consegui resolver e acabou o jogo para mim.",1627221374,1639687279,False,0,0,0,0,True,False,False,False,,,
+92792722,"{'steamid': '76561198033374332', 'num_games_owned': 1282, 'num_reviews': 264, 'playtime_forever': 209, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1608978700}",russian,"Это какое-то маленькое недоразумение. Казалось бы причем тут краб? Откуда у него бумеранг? Чего ему вообще не сидится у себя в песке, может от этой радиации он через годок-другой станет Мистером Крабсом, откроет Красти Краб и будет спокойно доживать старость, купаясь в денежках....
+
+Но игра не об этом. На деле это очередная ""студенческая выпускная работа"" без смысла и души.",1622289562,1622289562,False,9,1,0.59908527135848999,0,False,True,False,False,,,
+92231870,"{'steamid': '76561198147814505', 'num_games_owned': 1834, 'num_reviews': 74, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1507481984}",english,You play as a crab what more do you want?,1621381653,1621381653,True,0,0,0,0,False,False,False,False,,,
+90852180,"{'steamid': '76561198410555928', 'num_games_owned': 1498, 'num_reviews': 22, 'playtime_forever': 273, 'playtime_last_two_weeks': 0, 'playtime_at_review': 273, 'last_played': 1619028392}",spanish,"
+⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀ ⣀⣀⣤⣤⣤⣀⡀
+⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀
+⠀⠀⠀⠀⠑⢄⣠⠾⠁⣀⣄⡈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣆ ta bueno
+⠀⠀⠀⠀⢀⡀⠁⠀⠀⠈⠙⠛⠂⠈⣿⣿⣿⣿⣿⠿⡿⢿⣆
+⠀⠀⠀⢀⡾⣁⣀⠀⠴⠂⠙⣗⡀⠀⢻⣿⣿⠭⢤⣴⣦⣤⣹⠀⠀⠀⢀⢴⣶⣆
+⠀⠀⢀⣾⣿⣿⣿⣷⣮⣽⣾⣿⣥⣴⣿⣿⡿⢂⠔⢚⡿⢿⣿⣦⣴⣾⠸⣼⡿
+⠀⢀⡞⠁⠙⠻⠿⠟⠉⠀⠛⢹⣿⣿⣿⣿⣿⣌⢤⣼⣿⣾⣿⡟⠉
+⠀⣾⣷⣶⠇⠀⠀⣤⣄⣀⡀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇compralo
+⠀⠉⠈⠉⠀⠀⢦⡈⢻⣿⣿⣿⣶⣶⣶⣶⣤⣽⡹⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠉⠲⣽⡻⢿⣿⣿⣿⣿⣿⣿⣷⣜⣿⣿⣿⡇
+⠀⠀ ⠀⠀⠀⠀⠀⢸⣿⣿⣷⣶⣮⣭⣽⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⣀⣀⣈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿",1619287144,1619287144,True,0,0,0,0,True,False,False,False,,,
+90846099,"{'steamid': '76561197983267187', 'num_games_owned': 5317, 'num_reviews': 888, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1619279738}",english,It gets old after 5 minutes.,1619279804,1619279804,False,3,0,0.549071609973907471,0,True,False,False,False,,,
+84958085,"{'steamid': '76561198043135631', 'num_games_owned': 0, 'num_reviews': 2248, 'playtime_forever': 366, 'playtime_last_two_weeks': 0, 'playtime_at_review': 366, 'last_played': 1498641995}",english,"A very unpolished piece of repetitiveness. 
+They could get away with it, if it was free.
+However: It costs 2.40€ to play this trash.
+And this absolutely isn't worth that much.
+I enjoyed the aesthetic, but that's about it.
+The design is alright, the game looks good.
+But the gameplay really isn't good enough.
+You can browse better games for cheaper.
+Steam is literally full of them, so go ahead.
+I have to give this game a negative review.",1611032747,1611032747,False,6,0,0.579529941082000732,0,False,False,False,False,,,
+83231329,"{'steamid': '76561198194518970', 'num_games_owned': 7176, 'num_reviews': 941, 'playtime_forever': 221, 'playtime_last_two_weeks': 0, 'playtime_at_review': 221, 'last_played': 1609013393}",spanish,"No he tenido ningún problema al iniciarlo, pero es muy desde el inicio.",1609013479,1609013479,False,0,1,0.302236557006835938,0,False,False,False,False,,,
+78281982,"{'steamid': '76561198199974983', 'num_games_owned': 3222, 'num_reviews': 348, 'playtime_forever': 164, 'playtime_last_two_weeks': 0, 'playtime_at_review': 164, 'last_played': 1493196429}",schinese,"[url=https://store.steampowered.com/curator/27443950-%25E5%258F%25AF%25E7%2588%25B1%25E5%25B0%258F%25E8%2583%2596/] [h1]点击关注我的鉴赏家 [/h1] [/url]
+污染岛大冒险，俯视角射击解密喜加一。玩家控制一只螃蟹探索被污染的海岛。无中文，主题是环保，游戏流程很短，攻略可以参考评论区，像素风格画风。可以作为益智单机小游戏来玩。JUST PLAY IT !",1603884297,1603884297,True,0,0,0,0,False,False,False,False,,,
+76124910,"{'steamid': '76561198305303806', 'num_games_owned': 681, 'num_reviews': 160, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1600357099}",thai,"คำถามแรกที่เราเล่นเกมนี้ไปได้ 5 นาที คือ""ตูซื้อเกมนี้มาทำไมว่ะ"" เล่นเป็นปูปาขยะได้แค่ 5 นาทีก็รู้สึกว่า เกมมันไม่ค่อยสนุกจริงๆ",1600357225,1600357225,False,0,0,0,0,False,False,False,False,,,
+70835864,"{'steamid': '76561198053229942', 'num_games_owned': 1399, 'num_reviews': 1091, 'playtime_forever': 123, 'playtime_last_two_weeks': 0, 'playtime_at_review': 123, 'last_played': 1496136958}",english,Repetitive simple garbage.,1592240831,1592240831,False,3,0,0.489399582147598267,0,False,False,False,False,,,
+67827965,"{'steamid': '76561198073504340', 'num_games_owned': 341, 'num_reviews': 62, 'playtime_forever': 544, 'playtime_last_two_weeks': 0, 'playtime_at_review': 544, 'last_played': 1586440452}",english,"This is a game and it feels like a game and it plays like a game. Everything you need in a game is here but it feels like everything is underdeveloped. I like the art style because I am sucker for pixel art and vibrant color but some things just look ugly including the UI. I can see a game like this done better by the same developer.
+
+Here is the 3in1 review:
+https://youtu.be/gPN_RNC4_a8",1587575552,1587575552,False,4,1,0.505275547504425049,0,True,False,False,False,,,
+67331118,"{'steamid': '76561198130516505', 'num_games_owned': 0, 'num_reviews': 324, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1586874770}",english,"[b]Adventures On The Polluted Islands[/b]
+
+[u]Summary:[/u]
+
+Take control of a tiny crab armed with only a boomerang to defend itself, and explore the islands, solve puzzles and defeat enemies to progress.
+
+[u]Pros:[/u]
+
+-The story is decent, and is half the reason for playing the game.
+-It's cheap, and gives you a few hours of enjoyment out of it.
+-It has trading cards.
+
+[u]Cons:[/u]
+
+-Comes across as repetitive during play, as you mostly doing the same thing over and need to backtrack quite a bit.
+
+[b]Overall, it's worth it on a sale and you can't find anything else to play.
+6/10[/b]",1586911218,1586911218,True,4,0,0.583877503871917725,0,False,False,False,False,,,
+64488251,"{'steamid': '76561198367633118', 'num_games_owned': 35, 'num_reviews': 5, 'playtime_forever': 11015, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11015, 'last_played': 1583301610}",schinese,nice,1583303303,1583303303,True,0,0,0,0,False,False,False,False,,,
+62781316,"{'steamid': '76561198231235044', 'num_games_owned': 0, 'num_reviews': 310, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1580497259}",english,"Everything are good
+
+but the game all about REPETITIVENESS",1580547772,1580547772,False,3,0,0.476512253284454346,0,True,False,False,False,,,
+62439545,"{'steamid': '76561198047137354', 'num_games_owned': 496, 'num_reviews': 153, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1580034450}",english,dont waste even 1c on this crap,1580034497,1580034497,False,1,0,0.463382631540298462,0,False,False,False,False,,,
+62266335,"{'steamid': '76561198061657440', 'num_games_owned': 0, 'num_reviews': 450, 'playtime_forever': 542, 'playtime_last_two_weeks': 0, 'playtime_at_review': 542, 'last_played': 1579767419}",turkish,"Askeri bir helikopterin, radyoaktif atıklarını atması üzerine cehenneme dönen adada, yaşama mücadelesi veren bir yengeci oynadığımız bir oyun. İşleri fırlattığımız bumerangla çözüyoruz. Ufak çaplı bir crafting mekanizması da var. Fakat çok beğendiğim bir oyun olduğunu söyleyemem. Ortalama bir hikaye ve tek düzeliği ile kısa sürede sıkıcı oluyor. 
+
+10/4",1579767773,1579767773,False,3,1,0.560439586639404297,0,False,False,False,False,,,
+61338258,"{'steamid': '76561198127470822', 'num_games_owned': 0, 'num_reviews': 175, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1574281174}",english,"It's an ok game, the gameplay is a bit lackluster and repetitive and lacks any explanations to the story.",1578208868,1578208868,False,5,0,0.563329517841339111,0,False,False,False,False,,,
+60902464,"{'steamid': '76561198202529859', 'num_games_owned': 1686, 'num_reviews': 2354, 'playtime_forever': 174, 'playtime_last_two_weeks': 0, 'playtime_at_review': 174, 'last_played': 1577700023}",english,Nice game,1577701729,1577701729,True,0,0,0,0,False,False,False,False,,,
+60236854,"{'steamid': '76561197994852122', 'num_games_owned': 42, 'num_reviews': 10, 'playtime_forever': 6961, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1619233993}",english,"A mixture of sandboxes with a quest. This game is not for one hour, you can sit here for hours, as the game has an open world, many quests and freedom of action. You will play as a crab, you will have a boomerang weapon with which you can not only defend against enemies, but also get useful resources, including food for restoring health. Although the game has the makings of a sandbox, it is still built on a certain plot, which must be followed to successfully complete the game. On the island you will find many heroes, both friends and enemies, so friends will need to help, for this they will give you certain resources. 10",1576931041,1576931041,True,0,0,0,0,False,False,False,False,,,
+60162373,"{'steamid': '76561198273611410', 'num_games_owned': 954, 'num_reviews': 35, 'playtime_forever': 342, 'playtime_last_two_weeks': 0, 'playtime_at_review': 342, 'last_played': 1576835425}",schinese,通关了，不错的小游戏,1576835562,1576835562,True,0,0,0,0,False,False,False,False,,,
+59049890,"{'steamid': '76561198443503041', 'num_games_owned': 83, 'num_reviews': 8, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1575310320}",russian,"В Доте ты Рак ,а тут ты Краб,но все равно ты членистоногое))
+
+Игра интересная с головоломками и добротным сюжетом,жаль что короткая  геймплея ели ели на 2 часа...",1575310479,1575310479,True,0,0,0,0,True,False,False,False,,,
+57825540,"{'steamid': '76561198127768459', 'num_games_owned': 0, 'num_reviews': 65, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1496950738}",italian,Impegnativo ma divertente,1574693080,1574693080,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+57284672,"{'steamid': '76561198799030828', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1514969124}",czech,a crab gta,1573909278,1573909278,True,0,0,0,0,False,False,False,False,,,
+55149005,"{'steamid': '76561198928795908', 'num_games_owned': 2366, 'num_reviews': 123, 'playtime_forever': 104, 'playtime_last_two_weeks': 0, 'playtime_at_review': 104, 'last_played': 1567154928}",english,"85/100
+visuals are cute
+you get to be a crab
+game is fun
+no bugs on my run
+simple story",1568692437,1568692437,True,0,0,0,0,False,False,False,False,,,
+55054965,"{'steamid': '76561197961060825', 'num_games_owned': 418, 'num_reviews': 21, 'playtime_forever': 1460, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1236, 'last_played': 1568378475}",english,Good Game,1568154004,1568154004,True,0,0,0,0,False,False,False,False,,,
+54741988,"{'steamid': '76561198160468371', 'num_games_owned': 1004, 'num_reviews': 361, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1566438658}",brazilian,"Você joga na carapaça de um caranguejo que vive em sociedade junto a outros da mesma espécie. Na trama, lixo tóxico é descartado na ilha e você se vê motivado a resolver essa situação, bem como ajudar aos demais caranguejos e animais que a habitam, realizando tarefas (quests) em sua maioria de procurar por algum item ou personagem e levar de volta ao solicitante. 
+
+O chato deste jogo é que essas tarefas são demasiadamente arrastadas, onde perde-se muito tempo procurando pelas coisas, passando por locais que já visitou inúmeras vezes. Combinado este fator junto a falta de informações das tarefas, temos algo que em algum momento se tornará maçante e nem um pouco empolgante. Entretanto bom jogo para trabalhar a questão ambiental, sobretudo com crianças e adolescentes. 
+
+Como dito acima, para trabalhar com crianças sozinhas ou em grupos, ele é uma boa opção, caso contrário, será desestimulante. Não possui opções de controle ou áudio, a música apresentada é amiudada.
+
+| [b]Valor pago:[/b] R$1,25",1566438641,1654920029,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+54740584,"{'steamid': '76561198031313794', 'num_games_owned': 8531, 'num_reviews': 3393, 'playtime_forever': 508, 'playtime_last_two_weeks': 0, 'playtime_at_review': 508, 'last_played': 1566428865}",russian,"[h1]Описание:[/h1]
+Жизнь краба в виде аркадного квеста от отечественного разработчика. Даже удивительно как такая хорошая игра попала к столь низкосортному издателю, где на каждую игру плеваться хочется, но эта игра хороша... На наш остров, где жил наш главный герой с другими крабами и наслаждался размеренной жизнью падают бочки с токсичными материалами. Нужно спасаться и искать новый дом... А для этого нужно построить плот... А для этого нужна древесина... А для этого нужно найти дерево и распилить его... А для этого нужно найти топор... А для этого нужно выполнить квест где нужно принести кучу листьев... А для этого нужно оббегать весь остров чтобы выполнить три квеста, где нужно принести кое что другое, чтобы получить один листик... Я думаю идея понятна? Ну а по пути пока мы ходим нам попадаются враги, которых мы мочим бумерангом. В игре есть сюжет, но он не закончен и обрывается на - продолжение следует... Естевственно никакого продолжение не последовало. При всей своей простоте и необходимости бегать туда сюда у игры есть харизма... Ламповая графика, музыка, окружение, боссы все это создает какую-то атмосферу, что даже не хочется ругаться на разработчика, за то что 90% игрового времени я тупо бегал туда сюда и носил что-то... Мне понравилось и я бы хотел увидеть продолжение. Рекомендую.
+
+[h1]Оценка: 6/10[/h1]
+
+[h1]Послесловие:[/h1]
+Если вам понравился этот обзор добро пожаловать в группу
+http://steamcommunity.com/groups/uojer - тут вы сможете увидеть рекомендованные мною игры, другие обзоры, а также просто пообщаться в хорошей компании",1566429327,1566429327,True,5,0,0.549270153045654297,0,False,False,False,False,,,
+54658155,"{'steamid': '76561198155304372', 'num_games_owned': 311, 'num_reviews': 2, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1566020213}",schinese,第一关找到海盗帽子后，，旁边的箱子里是海绵宝宝= =,1566019883,1566019883,True,0,0,0,0,False,False,False,False,,,
+54560961,"{'steamid': '76561198366453666', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1509617987}",schinese,我觉得OK，很硬。,1565498866,1565498866,True,0,0,0,0,False,False,False,False,,,
+54343450,"{'steamid': '76561198205967249', 'num_games_owned': 625, 'num_reviews': 47, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1564335874}",english,Too difficult,1564335940,1564335940,False,1,1,0.4418468177318573,0,False,False,False,False,,,
+54033846,"{'steamid': '76561198098656146', 'num_games_owned': 0, 'num_reviews': 70, 'playtime_forever': 207, 'playtime_last_two_weeks': 0, 'playtime_at_review': 207, 'last_played': 1562850091}",japanese,"＋カニゲーとして絶妙
+
+＋小さなクエストを一つずつクリアしていく達成感
+
+＋ツインスティックタイプの小気味良い戦闘
+
+＋南国調のBGM
+
+＋のんびりした移動スピードが逆にクセになる
+
+－正しい手順でも進行しない戦闘やパズルがあった
+（その場合ローディングし直してもう一度やってみるとよい）
+
+－ゲームパッド非対応
+
+良作カニゲーです。
+冗談でもなんでもなく楽しい、癒されるゲームでした。
+もっとボリュームがあり、GBA辺りでリリースされていたら
+最高だったなぁと思います。
+どうぞ試しに遊んでみて下さい。おすすめです。
+
+このメーカーのゲームはMerger3Dを除いて
+みな良かったですね。
+新作のSinnerというFPSも楽しみです。
+
+僕はオカヤドカリ飼ってます。かわいいですよ。",1562852255,1590236446,True,5,0,0.570196390151977539,0,True,False,False,False,,,
+51407683,"{'steamid': '76561198194680793', 'num_games_owned': 3045, 'num_reviews': 1947, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1561224949}",russian,"Ну что же, перед вами простенький пиксельный квест, с видом сверху, где главный герой милый краб. Жил не тужил крабик на своём островке, но злобные люди решили сделать его дом местом хранения радиоактивных отходов. Естественно, нашего героя не устроил такой ход событий, и он решает взять правосудие в свои руки.
+
+Геймплей прост. Исследуете острова, выполняете квесты, основная задача которых найти и принести различные предметы. Для защиты у вас есть бумеранг, которым можете как отбиваться от враждебных форм жизни, так и для добычи пропитания. Заниматься исследованием территорий вы будите не на одном и не на двух островах, а на целом архипелаге островов. Территории обширны, и по мере прохождения будут становиться доступными.
+
+Визуал в игре красив, хоть графика и пиксельная. Всё выполнено в ярких и красочных тонах, да ещё и с анимированным окружающим миром. Музыка приятная и спокойная, не раздражающая слух.
+
+В общем, игру рекомендую, но скорее для тех, у кого есть дети помладше. Ведь в игре нет жестокости, только поучительный сюжет. При чём локализована она на русский язык полностью. Но и это не всё. Понравилась реализация с пасхалками, отсылающими к известным мультсериалам. Дополнительный стимул для детишек подольше позалипать в игре, чтобы найти все секреты с пасхалками.",1561311289,1561311289,True,12,0,0.580038666725158691,0,False,False,False,False,,,
+50910486,"{'steamid': '76561198073818055', 'num_games_owned': 654, 'num_reviews': 9, 'playtime_forever': 126, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1559172671}",english,"On a tiny little island in the ocean called polluted There's a mixed-up group of creatures who are really quite horrific. Throwing whatever random crap that was to be found or could be grabbed, Re-invented in the bowels of a lab. Spliced! They have all been spliced; Half baked and diced And ... POLLuted by some crazy doctor who likes the taste of green wastte bins. his name? Dr adventures. he lives in a helicopter with no russian captions:and lives on this island. but worst of all i give robert all of his stones back, and what does he give me? a palm leaf",1559054597,1559054660,True,3,0,0.563492059707641602,5,False,False,False,False,,,
+50785301,"{'steamid': '76561198333703955', 'num_games_owned': 2226, 'num_reviews': 274, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1617727587}",schinese,傻逼游戏不知道想要表达什么,1558625618,1558625618,False,1,1,0.5,0,False,False,False,False,,,
+50571979,"{'steamid': '76561198066202521', 'num_games_owned': 3403, 'num_reviews': 683, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 222, 'last_played': 1538323285}",brazilian,"[h1][b]Adventures On The Polluted Islands[/b][/h1]
+Comprei esse jogo em um bundle, e apesar dos seus bugs posso dizer que me diverti bastante.
+
+[h1]História, Gráficos e Jogabilidade[/h1]
+[b]História: 6/10[/b]
+Você controla um caranguejo que está em uma ilha que se tornou um depósito de lixo radioativo. Durante o jogo você irá encontrar outros caranguejos que que são os habitantes da ilha. A primeira missão é tranquila, você consegue passar com facilidade, porém daí em diante o jogo se torna mais difícil, pois não tem uma explicação para as missões, na terceira fase tem um puzzle do vento, e simplesmente não há uma pista do que se tem que fazer, e daí pra frente é sempre assim, você é quem tem que descobrir.
+ [b]Gráficos: 8/10[/b]
+Gosto bastante do visual de AOTPI, a temática é bem legal, com um visual pixelado dá uma certa atmosfera de jogos retrô, os personagens, os inimigos e o design geral da ilha são bem legais e elaborados, a temática é diferente e bem criativa.
+[b]Jogabilidade: 4/10[/b]
+O jogo possui uma jogabilidade bem ruim, primeiro não dá pra alterar os controles do jogo, como disse a primeira fase é fácil de avançar, mas o problema começa na segunda, o chefe da segunda fase é terrível, pois primeiro não conseguia atravessar a barreira que protegia o chefe de jeito nenhum e depois ele passou a morrer assim que nascia, depois de um tempo consegui passar, não me lembro bem como foi pois já faz algum tempo que joguei. Mas depois nas missões seguintes perdi muito tempo rodando pela fase, lugares que já havia passado, tentando descobrir o que fazer, pois o jogo não te dá uma forma de encontrar o que fazer.
+
+[h1]Considerações Finais:[/h1]
+Zerei o jogo, ou seja, não é impossível, mas prepare-se para alguns bugs chatos e ficar voltando atrás. Porém mesmo com esses defeitos o jogo é bem divertido, uma experiência diferente e criativa que vale a pena passar por cima dos defeitos.
+
+[b]Nota final: [u]6/10[/u][/b]",1557491861,1571838304,True,3,0,0.565217375755310059,0,False,False,False,False,,,
+49711558,"{'steamid': '76561198088775500', 'num_games_owned': 3186, 'num_reviews': 281, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 135, 'last_played': 1553232398}",english,"★★★☆☆
+Welcome to Adventures On The Polluted Islands, or should I say ""That game where you play a game as a crab with a boomerang"" because damn that's a weird and unique concept right there XD.
+
+Okay, I really enjoyed this game and it gave me 2.3 hours worth of content which is really good for the base price of this game, as such I would definitely recommend getting this if you are up for a different topdown experience. 
+
+The game has multiple upgrades available for your weapon and the game has ""side missions"" which or reward you with nothing or something you need to progress forward, the game also consists of a few puzzles and backtracking but seeing as the islands aren't THAT big it isn't really an issue.
+
+Now to go a bit further into detail with my experiences with the game, I played through the first island with ease and experienced my first real issue when I got to the second islands boss battle as ... well ... it was bugged, firstly I couldn't get it to spawn as it would instantly die and I had no idea what to do then. I eventually figured out it died instantly because I had a item laying where he spawns, okay so I moved that then got it to spawn correctly only to find I can't hurt it or break the barrier, I eventually went right up to the barrier and spammed the axe and it broke, yay me, the battle progressed and I went to the next island.
+
+Now here is where it gets annoying as the third island has a wind puzzle which you need to solve but with no real clues as to how, I tried multiple combinations and looking online but it was impossible to find a guide as no one has even made a playthrough of the game. After finally figuring out the combination everything fell into place and I continued through the rest of the game with ease and enjoyed the final boss battle. 
+
+So as a summary, the game is fun but lacks a proper explanation as to what to do at some points and due to the minority of player that had/has interest in the title no one has made a walkthrough or guide for the game meaning a lot of people would get stuck and even give up on the game at those points. I still had fun with the game when I wasn't frustrated at not knowing what to do though so I rate this game a 3/5 ! Definitely worth the Steam price.",1553337039,1553337039,True,6,0,0.62579047679901123,0,False,False,False,False,,,
+48092400,"{'steamid': '76561198117512794', 'num_games_owned': 1424, 'num_reviews': 556, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1498038897}",english,"For a 2$ game it's good. It's not something amazing,but let's be real,nobody expects that from a crab game. It's one of those games that's good if you want to relax and waste some time.",1546597059,1546597059,True,0,0,0,0,False,False,False,False,,,
+45919402,"{'steamid': '76561198121398682', 'num_games_owned': 19753, 'num_reviews': 1577, 'playtime_forever': 217, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1626410982}",english,"Cute little crab RPG. Mainly fetch quests, embellished with a cool story though. not sure why he has a boomerang...
+https://www.youtube.com/watch?v=H5Cp73tdxj8",1542747679,1542747679,True,4,0,0.55753558874130249,0,False,False,False,False,,,
+45181928,"{'steamid': '76561198063117447', 'num_games_owned': 4841, 'num_reviews': 1362, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1537632159}",schinese,顺手好评,1539041150,1539041150,True,0,0,0,0,False,False,False,False,,,
+44733530,"{'steamid': '76561198117689758', 'num_games_owned': 1258, 'num_reviews': 420, 'playtime_forever': 219, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1496278631}",english,good game,1536955502,1536955502,True,0,0,0.4828377366065979,0,False,False,False,False,,,
+44238958,"{'steamid': '76561198100944707', 'num_games_owned': 403, 'num_reviews': 10, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1534524990}",english,"Meh. Not enough explanation, plus it's not possible to remap keys, which is always a no-no. Plus the controls feel sluggish. The game could be kinda fun, maybe, but it's just not worth it with all the negative points.",1534629335,1534629335,False,3,0,0.510782837867736816,0,False,False,False,False,,,
+43744936,"{'steamid': '76561197970625492', 'num_games_owned': 594, 'num_reviews': 121, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1532552659}",english,crap! crabs 'n stuff,1532553133,1532553133,True,2,3,0.502600252628326416,0,False,True,False,False,,,
+43661997,"{'steamid': '76561198172925593', 'num_games_owned': 14023, 'num_reviews': 4533, 'playtime_forever': 485, 'playtime_last_two_weeks': 0, 'playtime_at_review': 449, 'last_played': 1532181192}",schinese,"大闸蟹勇闯辐射岛
+动作+解密元素的游戏，游戏流程还是挺需要自己挖掘的，尤其很多任务内容主要出现在对话中，万一错过了感觉就只能靠猜了
+操作体挺简单的，四个键控制移动，左键攻击，右键丢出身上背着的道具
+游戏存档点在叶子覆盖的房间内，初期需要完成任务后才能解锁
+回血第一章靠椰子，就是攻击后会产生CD转圈的地方，有时候椰子掉下来后没有杂碎，你可以拾取后砸到石头上再走上去食用；后期则需要回答篝火旁
+没有小地图，所以刚玩的时候挺绕的，会迷路，不过还好多走走就熟悉了
+
+第一章帮助三只螃蟹找对应的东西：2只小螃蟹、几块小石头、一个椰子，各奖励一片叶子，加上原本地基旁的叶子，正好搭建基地
+然后回到那只被困在绿色辐射液体中间的螃蟹那里进行BOSS战，击杀后带着木头回到木筏那里进行修理完成章节
+经过一个漂流小游戏后来到第二章
+第二章开始先去森林里一个石洞里的祭坛上拿斧头，然后回到河边去砍一块长方形的木头，带着掉落的木头返回拿斧子的祭坛那里激活祭坛，此时石洞右下方的地方解锁
+背着斧头继续往里走，和一只NPC螃蟹对话后激活任务，穿过发射箭矢的陷阱，先往下走砍掉木块拿木头，然后激活4个篝火后触发BOSS
+每个篝火需要一块木头，分别是左上箭矢陷阱后、左下砍掉的大型木块后、BOSS下方滚石陷阱后，以及BOSS前的那个篝火需要最后点燃，注意多存档，宁愿跑远点存完档在继续
+激活祭坛的很简单，躲在篝火一侧不停攻击即可，击杀BOSS后回答木筏边即可竟然下一章
+第三章前仍然有个小的过场场景，往上走就行
+第三章开始，先去右下角接总的开启神庙任务，然后去左下角、左中那里接剩余的任务
+第一步去找巨大椰子（不是树上掉的那种），位置在哪里有些忘记了，好像是右上角神庙前吧
+可以先把这个wind祭坛激活掉，不用背着椰子进去，解密方法和第二章石头陷阱类似，跟着黑风走，看到凹进去的地方就躲一会儿
+到达终点后按着下面的3个方向激活祭坛
+↗   ↖
+   ↑
+原路返回带着你找到的巨大椰子给左下角NPC，获得3片叶子奖励
+带着其中2片叶子去给左中的巫医，兑换斧头
+来到左下 Water祭坛，使用斧头砍掉长方形木头，获得4个木头外加激活祭坛
+带着其中2个木头来到给你斧头的巫医处交还2个木头、还有一个木头交给左下角任务NPC，得到一个火炬
+带着火炬去左上角fire祭坛，使用篝火点燃火炬后立刻前往下一个篝火，连续接力到祭坛门口的2个篝火，激活祭坛
+最后带着前面任务剩下的一片叶子、一块木头，然后再顺便捡一块石头来到右下角的earth祭坛，按照3个石台上的轮廓放入对应物品
+激活最后的祭坛后，把得到的石头去放入神庙门口的4个圆形平台上，开启神庙激活BOSS蜘蛛
+回到地图左下方的木筏来到最终BOSS战地图
+BOSS三个阶段，第一阶段就是绕着不停打，反正你绕不到它正面的，也不用纠结，但不要在它屁股正后面就行了，不然会被屁熏着，不过这BOSS简单在于在左面有个篝火回血
+第二阶段出现4个旋涡会召唤小怪，仍然不停绕着打+消灭小怪+篝火回血
+等到BOSS红血过后进入第三阶段，BOSS会射出4道光纤，这阶段BOSS不会掉血，你需要去开启上下右的三个激光即可
+杀完BOSS后游戏就没了
+
+游戏总体还是有些难度的，需要仔细看对话，操作上大概第二章的箭矢陷阱处会有卡主，不过其实只要一直往前跑就行了。。一般来说血能撑过去的，过了后立刻回血+存档，满血再往回走
+价格不算贵，大概自己摸索的话2、3个小时的游戏时间",1532181697,1532181697,True,5,0,0.584644436836242676,1,False,False,False,False,,,
+42402984,"{'steamid': '76561198262531378', 'num_games_owned': 1492, 'num_reviews': 23, 'playtime_forever': 310, 'playtime_last_two_weeks': 0, 'playtime_at_review': 310, 'last_played': 1527906419}",schinese,UFC ZK WQS ZG,1527766861,1527766861,True,0,0,0,0,False,False,False,False,,,
+42073642,"{'steamid': '76561197970602587', 'num_games_owned': 6364, 'num_reviews': 3660, 'playtime_forever': 113, 'playtime_last_two_weeks': 0, 'playtime_at_review': 113, 'last_played': 1526270625}",english,"https://youtu.be/wBBgQiEcZiA
+
+Weak quest design is only worsened by the slow movement speed and lack of information provided to players.  Large amount of time is spend back tracking over the same areas over and over.",1526512837,1526512837,False,0,0,0,0,False,False,False,False,,,
+41984006,"{'steamid': '76561198237500856', 'num_games_owned': 1333, 'num_reviews': 124, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1496496371}",russian,10 говно игр из 10,1526065026,1526065026,True,0,0,0.462962955236434937,0,False,False,False,False,,,
+41982048,"{'steamid': '76561198186109237', 'num_games_owned': 2231, 'num_reviews': 57, 'playtime_forever': 78, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1499955316}",schinese,慈善包里的加一游戏，音乐不错，游戏画面简单，一只螃蟹的操作，休闲小游戏。,1526058005,1526058005,True,0,0,0,0,False,False,False,False,,,
+41621032,"{'steamid': '76561198108133817', 'num_games_owned': 657, 'num_reviews': 10, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1573063155}",english,"Really cool and fun game! 
+The puzzles are thorough but not long enough to annoy, and the combat feels really nice!",1524387088,1524387088,True,0,1,0,0,True,False,False,False,,,
+41574923,"{'steamid': '76561198041949592', 'num_games_owned': 0, 'num_reviews': 605, 'playtime_forever': 123, 'playtime_last_two_weeks': 0, 'playtime_at_review': 123, 'last_played': 1524163596}",english,"Hey everyone and this is my review about the game!
+
+This is a top-view adventure game.
+
+
+[h1]Interface/Menu/Settings[/h1]
+
+[b]Video Settings information.[/b]
+
+[list]
+    [*]There is only windowed mode or fullscreen available.
+    [*]The screen resolution size is small and you can't change this.
+[/list]
+
+[b]Volume Settings Information.[/b]
+
+[list]
+    [*]None.
+[/list]
+
+[b]Miscellaneous Information.[/b]
+
+
+[list]
+    [*]There is only english or russian language available.
+    [*]There is a controls layout available and it's not possible to change this.
+[/list]
+
+[h1]About the game.[/h1]
+
+You are playing as a crab who is rebuilding the place, helping other crab survivors, finding resources to build shelters and finishing enemies with your boomerang. You do not walk like a crab, so that means he is able to walk forward and backward instead of sideways. Your crab is able to carry things and the biggest the object the slower you will walk. You can also heal yourself by hitting coconuts trees and picking up the coconuts. Throw them against rocks and walk over the coconut to be healed. Around the beach you will find quests, completing them gives you a reward. The main issue what you will encounter is that your character is only able to carry one item at a time, which will make the game very slow paced at times. Saving could be problematic in the begging as you need to build up the shelter in order to have a save station, otherwise the only way you are able to save the game is by completing a quest.
+
+[b]Ingame Information.[/b]
+
+
+[list]
+    [*]There is an ingame tutorial.
+    [*]Decent soundtrack.
+    [*]Calm game.
+    [*]Alright Graphics.
+    [*]Game could be very slow paced.
+    [*]Has quests.
+[/list]
+
+
+[b]Miscellaneous Information.[/b]
+
+
+[list]
+    [*]Games are only saved if you have completed a quest/mission. OR after you build a shelter.
+[/list]
+
+[h1]Other things.[/h1]
+
+While the game is nice and calming at times. The game is probaly a bit TOO CALM as it is slow paced. The game is around  3 bucks and is at a reasonable price. The game is enjoyable but not recommended to do at one sitting.
+
+-------------------
+
+
+[quote] Reviews are always uploaded if i have at least played for 2 hours or more. Unless the game is really garbage and doesn't deserve the 2H limit.[/quote]
+
+I Give this game a 6/10",1524160579,1524160579,True,0,0,0,0,False,False,False,False,,,
+40990673,"{'steamid': '76561198403834448', 'num_games_owned': 1198, 'num_reviews': 70, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 226, 'last_played': 1521157410}",schinese,不玩不亏，玩了也不亏。,1521800260,1521800260,True,0,0,0,0,False,False,False,False,,,
+40858602,"{'steamid': '76561198321265455', 'num_games_owned': 5377, 'num_reviews': 1252, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 134, 'last_played': 1521435153}",schinese,慈善包喜加一默认好评系列,1521238022,1521238022,True,0,0,0,0,False,False,False,False,,,
+40382368,"{'steamid': '76561198098283318', 'num_games_owned': 1470, 'num_reviews': 125, 'playtime_forever': 103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 103, 'last_played': 1519550195}",russian,"Неплохая игра, чтобы скоротать пару часов. Играть в принципе интересно и не особо сложно. Есть пасхалки.",1519550482,1519550482,True,0,0,0,0,False,False,False,False,,,
+39841471,"{'steamid': '76561198405972617', 'num_games_owned': 120, 'num_reviews': 17, 'playtime_forever': 293, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1517852685}",schinese,挂卡游戏里算不错的了。,1517747349,1517747349,True,0,1,0,0,False,False,False,False,,,
+39639549,"{'steamid': '76561198041188086', 'num_games_owned': 579, 'num_reviews': 51, 'playtime_forever': 367, 'playtime_last_two_weeks': 0, 'playtime_at_review': 367, 'last_played': 1498824875}",english,good,1517005873,1517005873,True,1,0,0.429691076278686523,0,False,False,False,False,,,
+39394965,"{'steamid': '76561198053667514', 'num_games_owned': 629, 'num_reviews': 324, 'playtime_forever': 73, 'playtime_last_two_weeks': 0, 'playtime_at_review': 73, 'last_played': 1516123390}",german,"[h1]Pros:[/h1]
+- Der Soundtrack ist völlig in Ordnung
+- Viele gute Ansätze
+- Steuerung ist recht angenehm
+- Kleine nette Rätsel
+
+[h1]Cons:[/h1]
+- Keine Minimap vorhanden, was zu sinnlosem Herumirren führt
+- Unterdurchschnittliche Pixel-Grafik
+- Die Quest Log ist keine Hilfe
+- Viel zu einfach (kaum eine Herausforderung)
+- Die Geschichte ist zu lückenhaft und unausgeführt
+- Keine Einstellunsgmöglichkeiten
+- Sehr niedrige Grafikauflösung (verzerrt das Steam-Overlay)
+- Schwache Preis/Leistung
+- Gameplay besteht aus vielem Backtracking
+- Viel zu repetitiv
+
+[h1]Fazit:[/h1]
+Adventures On The Polluted Islands ist ein anfangs überzeugendes Adventure-Spielchen, das aber leider ganz schnell versagt. Gemeint ist das repetitive Backtracking, das zusammen mit gameplayarmen Herumirren, zu verwirrten Gedankengängen führt. Hole das und as und bringe das zu demjenigen. Und derjenige gibt dir auch etwas, das man dann auch zu jemanden bringen soll. Das stellt für mich kein Gameplay dar. Suchquests werden im Allgemeinen sehr schnell träge und repetitiv, weshalb man nicht mit einer Suchquest anfangen sollte... So leider nicht genießbar!",1516124372,1516124372,False,6,0,0.622222244739532471,0,False,False,False,False,,,
+39131369,"{'steamid': '76561198104414729', 'num_games_owned': 1369, 'num_reviews': 35, 'playtime_forever': 170, 'playtime_last_two_weeks': 0, 'playtime_at_review': 156, 'last_played': 1537648555}",brazilian,"A good short game, with a good art, some mystery and generic missions. It is fun to explore the island and find out what will come next.
+
+Um bom jogo curto, com uma boa arte, algum misterio e missões genericas. É divertido explorar a ilha e descobrir o que virá depois.",1515273193,1524542070,True,1,0,0.505637466907501221,0,False,False,False,False,,,
+39091885,"{'steamid': '76561198247090518', 'num_games_owned': 224, 'num_reviews': 31, 'playtime_forever': 190, 'playtime_last_two_weeks': 0, 'playtime_at_review': 190, 'last_played': 1493753169}",spanish,"---{Gráficos}--- 
+☐ Obra maestra
+☐ Hermoso
+☐ Bueno
+☑ Decente (Pixel Art)
+☐ Malo
+☐ Horrible
+☐ Paint.exe
+
+---{Gameplay}--- 
+☐ Vas a jugar 24/7
+☐ Le vas a echar muuuuchas horas
+☐ Excelente
+☐ Muy bueno
+☐ Bueno
+☐ Nada especial
+☑ Meh
+☐ Malo
+☐ Solo... no lo hagas
+
+---{Audio}--- 
+☐ 0rgasmo auditivo
+☐ Muy bueno
+☐ Bueno
+☐ Decente
+☑ No tan mal
+☐ Malo
+☐ Violacion auditiva
+
+---{Audiencia}---  (Si te gusta no le hagas caso a la audiencia, es una recomendación)
+☐ Niños
+☐ Adolescentes
+☐ Adultos
+☑ Todos
+
+---{Requerimientos de PC}--- 
+☐ Si enciende ya vale
+☑ Potato
+☐ Mínimo
+☐ Decente
+☐ Rápido
+☐ Niño rico
+☐ Preguntale a la NASA si tienen una PC de sobra
+
+---{Dificultad}--- 
+☐ No se trata de dificultad
+☐ Solo presiona algunos botones
+☐ Fácil
+☑ No tan difícil 
+☐ Fácil de aprender / Difícil de dominar
+☐ No tan fácil
+☐ Difícil
+☐ Dark Souls
+☐ Juego para chinos
+
+---{Grind}--- 
+☐ Nada
+☐ Solo si te preocupas por leaderboards/ranks
+☐ No es necesario progresar.
+☑ Un poco grind a veces
+☐ Nivel promedio de grind
+☐ Demasiado grind
+☐ Locura
+
+---{Historia}--- 
+☐ No tiene
+☐ Algo es algo, supongo
+☑ Promedio
+☐ Buena
+☐ Encantador
+☐ Te hará llorar o sonreir un montón
+
+---{Tiempo de juego}--- 
+☐ Muy corto (menos de 2 horas)
+☑ Corto (2 - 8 horas)
+☐ Tiempo de juego medio (de 8 a 12 horas)
+☐ Largo (más de 12 horas)
+☐ Muy Largo (de 50 horas en adelante)
+☐ Lo que le quieras dedicar  
+
+---{Modo individual}---
+☑ Sí
+☐ No
+
+---{Modo online}---
+☐ Sí
+☑ No
+
+---{Precio}--- 
+☐ Solo compralo
+☐ Vale la pena
+☑ Espera a la oferta
+☐ Si te hace ilusión, sí
+☐ No recomendado
+☐ No tires dinero a la basura
+☐ Free to Play
+
+---{Bugs}--- 
+☑ No he vivido ninguno
+☐ Bugs menores
+☐ Varios bugs 
+☐ Puede volverse molesto 
+
+Un juego entretenido para un ratillo, si lo puedes encontrar un poco más barato muy recomendado",1515176063,1533041785,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+38585622,"{'steamid': '76561198325152295', 'num_games_owned': 459, 'num_reviews': 1, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'last_played': 1513821731}",russian,good!,1514047023,1514047023,True,0,0,0.461538463830947876,0,False,False,False,False,,,
+38551261,"{'steamid': '76561198002474484', 'num_games_owned': 2358, 'num_reviews': 10, 'playtime_forever': 194, 'playtime_last_two_weeks': 0, 'playtime_at_review': 194, 'last_played': 1615592089}",english,"A decent little rpg/puzzler, I got on sale/bundle.. like for less then $1 - at that price, I recommend.  At $3.. no way.
+
+The good - nice clean graphics, simple mechanics, interesting storyline. sort of.
+
+The bad - repetative, the one item at a time inventory .
+
+The need to carry multiple copies of items, over the same track, one at a time.. seemingly endless times.. 
+So you have to either make 100 trips or slow stip while throwing items to keep them with you.",1513979400,1513979400,True,3,0,0.541984736919403076,0,False,False,False,False,,,
+35936334,"{'steamid': '76561198098487288', 'num_games_owned': 0, 'num_reviews': 171, 'playtime_forever': 245, 'playtime_last_two_weeks': 0, 'playtime_at_review': 245, 'last_played': 1508733645}",schinese,"包里给的，环保主题的小游戏，意外的很好玩，打了一个多小时就通关了。
+总的来说音乐OK，游戏性OK，BOSS设计挺不错的，画面差点，只要能接受这种画质的，都推荐玩一玩，很复古的RPG。
+第一关主要是收集，这个阶段有个人要拿帽子的任务我没做完就坐竹筏走了，后面也不影响。
+第二关难度增加，主要是通过捡木头来点燃各个位置的火台子，不过也很简单，能回血的地方很多，而且可以打怪掉一种面具，拿了之后怪就都不打你了。
+第三关就很烦了，总体难度下降，变成了解密，打开寺庙在四个角拿道具，这个接了任务别急着做，要先去右下路去接任务，之后回到村里通过任务获得一系列的道具，我是按照左下右下左上右上的顺序过的，右上那个旋风右点难度，死两次习惯就好了，右上树里还能看到几个墓碑，能拿到个撬棍，不知道干什么的。把4个卷轴拿回中间后到中间台子上出发剧情，看到最终BOSS，对话后回到村里竹筏去怼他。
+最终BOSS造型挺酷炫的，就是弱了点，旁边还有回血点，最后激光的时候要去上下右开机关。
+—————————————————
+低价可以入的游戏，经典复古型，这种小游戏就不评分了。",1508727461,1508727461,True,3,0,0.568627476692199707,0,False,False,False,False,,,
+35719965,"{'steamid': '76561198141639066', 'num_games_owned': 747, 'num_reviews': 112, 'playtime_forever': 606, 'playtime_last_two_weeks': 0, 'playtime_at_review': 606, 'last_played': 1508029869}",schinese,螃蟹可以前走，还可以发飞镖，造房子造木筏。,1507991435,1507991435,True,0,0,0,0,False,False,False,False,,,
+35653405,"{'steamid': '76561198088539595', 'num_games_owned': 1326, 'num_reviews': 22, 'playtime_forever': 346, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1503265195}",schinese,"喜加一，看评价说游戏还不错，但是我打不开，错误窗口挂卡，省钱省电。
+于是送上好评。",1507788502,1507788502,True,1,1,0.484818816184997559,0,False,False,False,False,,,
+35571768,"{'steamid': '76561198143112790', 'num_games_owned': 325, 'num_reviews': 418, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 124, 'last_played': 1502829071}",french,Nul,1507466757,1507466757,False,0,0,0.462184876203536987,0,False,True,False,False,,,
+35278608,"{'steamid': '76561198383929305', 'num_games_owned': 2620, 'num_reviews': 48, 'playtime_forever': 195, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1506812169}",schinese,-,1506648259,1506648259,False,0,0,0.47413790225982666,0,False,False,False,False,,,
+34987287,"{'steamid': '76561198072646282', 'num_games_owned': 347, 'num_reviews': 124, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1505535160}",spanish,"No puedo jugar en Windows 10
+Error: ""Invalid floating point operation""
+
+I cant play in Windows 10
+Error: ""Invalid floating point operation""",1505535263,1505535263,False,1,1,0.490866214036941528,0,False,False,False,False,,,
+34725732,"{'steamid': '76561198262959303', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 230, 'playtime_last_two_weeks': 0, 'playtime_at_review': 230, 'last_played': 1504317580}",schinese,开场的cg不错，环境保护主题，操纵一只横着走的螃蟹,1504490757,1504490757,True,0,0,0,0,False,False,False,False,,,
+34650749,"{'steamid': '76561198011965365', 'num_games_owned': 2442, 'num_reviews': 2092, 'playtime_forever': 227, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1508919695}",english,Deff worth getting when its on sale. Great little rpg game! Level designs were nice with a nice little concept and the action gets kinda intense at times.,1504238114,1504238114,True,8,0,0.623849213123321533,0,False,True,False,False,,,
+34547535,"{'steamid': '76561198323990570', 'num_games_owned': 77, 'num_reviews': 2, 'playtime_forever': 164, 'playtime_last_two_weeks': 0, 'playtime_at_review': 164, 'last_played': 1503985956}",schinese,6666666,1503908345,1503908345,True,0,0,0,0,False,True,False,False,,,
+34473955,"{'steamid': '76561198214481915', 'num_games_owned': 433, 'num_reviews': 43, 'playtime_forever': 183, 'playtime_last_two_weeks': 0, 'playtime_at_review': 183, 'last_played': 1503577067}",schinese,挂卡喜加一，礼貌好评,1503638064,1503638064,True,0,0,0,0,False,False,False,False,,,
+34334503,"{'steamid': '76561198348927998', 'num_games_owned': 102, 'num_reviews': 12, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1502248911}",schinese,喜加一  如果有中文那就更好了,1503082573,1503082573,True,0,0,0,0,False,False,False,False,,,
+34321183,"{'steamid': '76561198115597977', 'num_games_owned': 722, 'num_reviews': 35, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1503114185}",schinese,好玩 ~~~~~~~,1503032740,1503032740,True,0,0,0,0,False,False,False,False,,,
+34298955,"{'steamid': '76561198163799602', 'num_games_owned': 80, 'num_reviews': 30, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1502266040}",schinese,还可以,1502939619,1502939619,True,0,0,0,0,False,False,False,False,,,
+34282737,"{'steamid': '76561198276038726', 'num_games_owned': 187, 'num_reviews': 19, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1502834979}",schinese,还有什么比喜加一然后挂卡更舒服的吗？没有的话还不给好评！（ 滑稽 ）,1502912246,1502912246,True,0,1,0,0,False,True,False,False,,,
+34265653,"{'steamid': '76561198119782159', 'num_games_owned': 1895, 'num_reviews': 100, 'playtime_forever': 102, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1502908719}",english,"Love this game, in ways it's like a hidden object game.  Explore, kill enemies, find stuff to make other crabs happy.  Play again.",1502837876,1502837876,True,6,0,0.552490413188934326,1,False,False,False,False,,,
+34119628,"{'steamid': '76561198376410894', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1502253015}",schinese,"本来看到图标（一圈红围着一个辐射标志，一开始还以为那圈红是肠子的说）对游戏的质量没报什么希望，结果进入之后发现还不错，除了没中文使游戏体验下降了之外。
+—————————————————
++不错的音乐
++环境保护主题
++飞镖可以用来扔到两个会反弹的物体之间会形成一个小陷阱（不知道有意还是无意）
++地图一开始以为只有一个岛，后来发现可以坐船
++危险切入的很突然，第一次碰到的时候意外的很有趣
+-没有中文
+-有些任务指示不明确
+-到了第二个岛难度大幅度上升，而且每次死了都要从存档点重新来，过于重复的经历使后期无聊
+—————————————————
+适合打包或打折，最好能5元以下入手
+",1502263439,1502263439,True,1,1,0.502487540245056152,0,False,False,False,False,,,
+34058026,"{'steamid': '76561198315256098', 'num_games_owned': 688, 'num_reviews': 37, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 170, 'last_played': 1502019651}",spanish,Horrible...,1502018497,1502018497,False,2,1,0.525547444820404053,0,False,True,False,False,,,
+33659938,"{'steamid': '76561198382609244', 'num_games_owned': 446, 'num_reviews': 27, 'playtime_forever': 7179, 'playtime_last_two_weeks': 0, 'playtime_at_review': 438, 'last_played': 1516451806}",spanish,"Muy divertido, me trae muy buenos recuerdos de los juegos antiguos.
+
+Entre tantos juegos similares este destaca bastante, no será el mejor pero a mí me ha engachado mucho. Lo único negativo es el precio, pero en oferta se consigue bien de precio.",1500499970,1500499970,True,9,0,0.621190130710601807,0,False,False,False,False,,,
+33595111,"{'steamid': '76561198264238376', 'num_games_owned': 2800, 'num_reviews': 124, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1500242302}",schinese,"我一开始以为这是一个休闲游戏，在教程里 玩的很high，结果教程一完，难度吓到我了。
+优点是操作简单易上手。
+缺点是有的命令描述很暧昧，可能卡关，以及难度激增让人不适应。",1500242235,1500242235,True,1,0,0.502487540245056152,0,False,False,False,False,,,
+33298409,"{'steamid': '76561198173887826', 'num_games_owned': 609, 'num_reviews': 55, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1495947239}",brazilian,"Game bem legal, mas a historia é muito simples, recomendo pra quem quer fazer insignia. 5/10.",1499309122,1499309122,True,0,0,0,0,False,False,False,False,,,
+33251763,"{'steamid': '76561198028096483', 'num_games_owned': 359, 'num_reviews': 75, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1499208170}",english,"This has to be the best crab game, that I've ever played. Would totally crab again. 
+
+11/10",1499208456,1499208790,True,4,3,0.470623493194580078,0,False,True,False,False,,,
+33246509,"{'steamid': '76561198402754296', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1499198833}",english,"Small game that can keep you busy for few hours, for a small price, it is woth the buy.",1499199090,1499199090,True,1,0,0.467625916004180908,0,False,False,False,False,,,
+33043951,"{'steamid': '76561198003007536', 'num_games_owned': 1307, 'num_reviews': 20, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1498837504}",english,Not worth buying.,1498837627,1498837627,False,0,0,0.322697699069976807,0,False,False,False,False,,,
+33014605,"{'steamid': '76561197996181221', 'num_games_owned': 3589, 'num_reviews': 28, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 45, 'last_played': 1499209031}",russian,"Чертовски привязчивая медитативная игрушка, с олдскульной графикой времен 8-битных приставок и бедненькой музыкой",1498778528,1498778528,True,0,0,0.435636132955551147,0,False,False,False,False,,,
+32907449,"{'steamid': '76561198066346696', 'num_games_owned': 2239, 'num_reviews': 1253, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1505592105}",russian,"Краб бегает и кидается бумерангом во врагов и вообще много чем ещё кидается, достаточно только подобрать.
+В плане визуального/музыкального/звукового и т.д. всё сделано с добротным качеством.
+Выполняет банальные задания по типу ""найди и принеси"", притом делать их можно в любом порядке, свободно перемещаясь по всей карте.
+Различные постройки делаются по сюжету, т.е. фактически это автоматический крафт.
+Имеются пасхалки, связанные со всякими мультяшными героями.
+Для детей отличная игра, несмотря на однообразие с задачками в виде тасканий предметов.",1498619359,1498619359,True,8,0,0.62380373477935791,0,False,False,False,False,,,
+32892397,"{'steamid': '76561198165474826', 'num_games_owned': 2321, 'num_reviews': 220, 'playtime_forever': 201, 'playtime_last_two_weeks': 0, 'playtime_at_review': 201, 'last_played': 1498599395}",english,"Adventure On Polluted Islands 
+
+Adventure On Polluted Islands is a wonderful and unique top down adventure game with resource gathering. I can honestly say I have not played anything like it before.  The story behind the game really makes you want to keep playing. I found the boss battle most enjoyable with intense music and a decent challenge reaching a boss and beating it makes you feel like a king crab. One thing I want to point out is the controls are not only smooth, but walking around as a crab in a top down just feels so right, walking sideways never made so much sense in a game. The graphics were Ok but the color combinations is what really makes the world pop. All around a good game, I was so impressed by the uniqueness of this one. I can say its priceless. Good thing its not and only three bucks. If you are looking for a generic tried and true game style, this may not be for you. If you are an avid gamer, have played many different genres, and looking for something unparalleled . I can easily recommend this game for you.",1498600806,1498600806,True,10,0,0.573412835597991943,0,False,False,False,False,,,
+32833916,"{'steamid': '76561198006563527', 'num_games_owned': 3471, 'num_reviews': 909, 'playtime_forever': 869, 'playtime_last_two_weeks': 0, 'playtime_at_review': 283, 'last_played': 1556483679}",german,"Adventures On The Polluted Islands ist ein 2D Actionspiel in dem man eine Krabbe steuert auf einer verseuchten Insel, wir sammeln Zeug ein, werfen Zeug, töten andere Krabben, essen Kokosnüsse. Das Spiel ist nicht sonderlich hübsch (höflich ausgedrückt), die Musik ist unerträglich, die Story völlig wirr, die Steuerung so lala und es macht einfach keinerlei Sinn. 
+
+https://www.youtube.com/watch?v=GrGJ-E8qO9c",1498517856,1498517856,False,3,0,0.569559693336486816,0,False,False,False,False,,,
+32512326,"{'steamid': '76561198094321628', 'num_games_owned': 1225, 'num_reviews': 1004, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1497745438}",english,i dont like it,1497721179,1497721179,False,0,0,0.226756706833839417,0,False,False,False,False,,,
+32499909,"{'steamid': '76561198027420227', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 138, 'playtime_last_two_weeks': 0, 'playtime_at_review': 138, 'last_played': 1497695517}",russian,на х-у-ю я вертел такие игры и тех кто их делает ! даже с игры выйти невозможно !,1497694573,1497694573,False,0,2,0.47413790225982666,0,False,False,False,False,,,
+32491994,"{'steamid': '76561198143880021', 'num_games_owned': 0, 'num_reviews': 182, 'playtime_forever': 255, 'playtime_last_two_weeks': 0, 'playtime_at_review': 254, 'last_played': 1592603824}",spanish,"Bonito y divertido, el arte es interesante y la jugabilidad es bastante buena, se vuelve dificil pronto. Recomendado realmente.",1497666995,1497666995,True,0,0,0,0,False,False,False,False,,,
+32451435,"{'steamid': '76561198190912821', 'num_games_owned': 1213, 'num_reviews': 26, 'playtime_forever': 230, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1499422926}",english,This game is extremely boring and not much fun.,1497557440,1497557440,False,1,0,0.411579787731170654,0,False,False,False,False,,,
+32413356,"{'steamid': '76561197993587085', 'num_games_owned': 0, 'num_reviews': 63, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1497468650}",polish,"Pomysł na grę jest fajny, jesteś krabem na radioaktywnej wyspie i musisz się tam odnaleźć. Niestety wykonanie już nie jest takie piękne. Gra to takie troche połączenie przygodówki i survivalu przy czym w żadnej z kategorii nie jest dobra.
+
+Plusy:
+-Pomysł
+-Piłki nawiązujące do cast away :D
+
+Minusy
+-Niedopracowane dropy kokosów, które spadają w miejsca z których nie da się ich podnieść przez co leczenie trwa dłuzej niż powinno
+-NUDA, niesamowicie szybko łapiąca monotonia, słaby system walki z bumerangiem. ((SPOILER)) kilka pierwszych questów, zbuduj szalas(dla jednego kraba znajdz dzieci, drugiemu znajdz kamienie, trzeciemu kokosa, wszystkie te rzeczy są rozrzucone po wyspie chodzi tylko o to zeby sie przejsc i je znalezc), znajdz kapelusz dla szkieleta, zbuduj tratwe (nużąca walka z bossem), plyniesz na druga wyspe i od nowa, rozpal ognisko, do czego potrzebujesz drewna, do czego potrzebujesz toporka...",1497456701,1497456701,False,0,0,0,0,False,False,False,False,,,
+32368473,"{'steamid': '76561198394797951', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1497284760}",english,The graphics...,1497284827,1497284827,False,0,0,0.246520489454269409,0,False,False,False,False,,,
+32325845,"{'steamid': '76561198187790927', 'num_games_owned': 590, 'num_reviews': 4, 'playtime_forever': 142, 'playtime_last_two_weeks': 0, 'playtime_at_review': 142, 'last_played': 1497388763}",english,hHopelessness. Total waste of time,1497123518,1497123518,False,0,0,0.290509551763534546,0,False,False,False,False,,,
+32242312,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 10337, 'playtime_last_two_weeks': 0, 'playtime_at_review': 416, 'last_played': 1498291226}",romanian,Very nice game,1496854575,1496854575,True,0,0,0.366598755121231079,0,False,False,False,False,,,
+32103214,"{'steamid': '76561198099691620', 'num_games_owned': 1269, 'num_reviews': 131, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 61, 'last_played': 1496346721}",brazilian,"Chato. demora muito pra resolver as quests. sem mapa. som repetitivo e chato. é até bonitinho. 9 minutos já me cansei, não vou jogar nunca mais. talvez seja bom pra criança.",1496308706,1496308706,False,0,0,0,0,False,False,False,False,,,
+32086089,"{'steamid': '76561198127808613', 'num_games_owned': 145, 'num_reviews': 311, 'playtime_forever': 179, 'playtime_last_two_weeks': 0, 'playtime_at_review': 150, 'last_played': 1495862974}",schinese,"+1,挂卡，没有中文，我没有玩，礼节性好评",1496238877,1496238877,True,1,0,0.414263069629669189,0,False,False,False,False,,,
+32036989,"{'steamid': '76561198105592478', 'num_games_owned': 1117, 'num_reviews': 1354, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1496043729}",russian,Норм.,1496043770,1496043770,True,0,0,0.458461552858352661,0,False,False,False,False,,,
+32030197,"{'steamid': '76561198199898429', 'num_games_owned': 1010, 'num_reviews': 193, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1570641742}",english,"Zombie crab rpg... cant say ive ever tried that before
+-DoItAll on Youtube",1496009486,1496827066,True,2,0,0.354887992143630981,0,False,False,False,False,,,
+30496078,"{'steamid': '76561198115643373', 'num_games_owned': 2384, 'num_reviews': 79, 'playtime_forever': 134, 'playtime_last_two_weeks': 0, 'playtime_at_review': 134, 'last_played': 1488576974}",english,"Adventures on the Polluted Islands is a throwback game perhaps better left thrown away. It feels unfinished, is monotonous in its game mechanic, and arguably only for kids who don’t mind killing times via endless rinse, wash, repeat. Even Sebastian the Crab wouldn’t like this boomerang yielding adventure.",1489434306,1489434306,True,11,0,0.404323399066925049,2,False,False,False,False,,,
+30249547,"{'steamid': '76561197994002775', 'num_games_owned': 6538, 'num_reviews': 1438, 'playtime_forever': 174, 'playtime_last_two_weeks': 0, 'playtime_at_review': 174, 'last_played': 1487624124}",english,"You are a crab on a polluted island, its faith and the faith of the surviving creatures left depends on you
+You have to free the other crabs and in order to do that you have to look around and find the items that  are needed to save the other crabs
+It's not without dangers, same goes for rewards, i found a skelleton pointing to a way where i found a treasure
+
+https://www.youtube.com/watch?v=L7daZq8QdfI",1488320831,1488320831,True,13,1,0.510035037994384766,0,False,False,False,False,,,
+30148226,"{'steamid': '76561198009564384', 'num_games_owned': 1197, 'num_reviews': 344, 'playtime_forever': 125, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1575740580}",russian,"Простенькая, красочная игра с хорошим геймплеем и приятной на слух музыкой!",1487963514,1487963514,True,5,0,0.487346082925796509,0,True,False,False,False,,,
+30074902,"{'steamid': '76561198100388140', 'num_games_owned': 0, 'num_reviews': 845, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1487525741}",russian,"Игра периодически вылетает и фпс падает, если играть в оконном режиме. Казалось бы, зачем фпс в такой небогатой графикой игре? Всё просто - передвижение краба завязано на фпс, 60фпс - 100% скорость передвижения, 30фпс - 15%. Иной раз, с такой скоростью ползти до нужного места приходится по 10 минут.
+Есть претензия и к квестам. Управляемый краб не умеет ничего делать, кроме как таскать на себе вещи, соответенно все задания сводятся к ""Мне надо 4 штуковины, надо бы облазить все уголки карты и принести по одной штуке обратно"".",1487667059,1487667543,False,4,0,0.513933777809143066,3,True,False,False,False,,,
+30013746,"{'steamid': '76561198294963474', 'num_games_owned': 0, 'num_reviews': 141, 'playtime_forever': 181, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1487369553}",russian,"Вы постоянно клацаете клешнями в катках КС:ГО и Доте? Вас называют долбанным раком, который только может крабить в MMORPG? Что же, после долгих поисков вы наткнулись на истинно ваш продукт. Здесь вы сможете вдоволь наточить свои клешни, выполняя разнообразные задания и отыскивая многочисленные пасхалки. Игра хоть и имеет ""приставочную"" графику, однако смотрится все равно очень даже неплохо.  Конечно, с топовыми приключенческими играми она посоревноваться не сможет, однако она универсальна тем, что подходит для всех возрастов.
+Из плюсов стоит выделить:
+- наличие русской локализации;
+- наличие коллекционных карточек;
+- открытый мир;
+-  хорошая цена.
+К минусам могу отнести только отсутствие ачивок, которые еще более бы разнообразили игру.
+Хорошая покупка для пополнения своей коллекции.",1487437567,1487437567,True,2,1,0,0,True,False,False,False,,,
+30013450,"{'steamid': '76561198044469409', 'num_games_owned': 0, 'num_reviews': 345, 'playtime_forever': 105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1487364935}",russian,"Adventures On The Polluted Islands -  это приключенческая игра, где главным героем выступает одна из лучших закусок к пиву, а точнее -краб. Только пустить его на закуску будет не так просто, ведь у него имеется бумеранг.
+В основном вся наша задача сводится к выполнению квестов, по котором мы должны найти и принести на своем горбу какой-либо предмет. Однако наступают и моменты. когда маленькому крабику приходиться расчехлять свой бумеранг и показывать, что он не только деликатес, но еще и неплохой боец.
+Игра радует наличием русской локализации, коллекционных карточек, а так же, хоть и олдскульной, но от этого не менее красивой графикой и рисовкой. Пасхалки добавляют еще больше интереса к игре, однако если бы были достижения - было бы наверное  еще веселее. Игра идеально подойдет как взрослым, так и детям.",1487436944,1487436944,True,3,0,0.50354611873626709,0,True,False,False,False,,,
+30008031,"{'steamid': '76561198284737282', 'num_games_owned': 2346, 'num_reviews': 214, 'playtime_forever': 349, 'playtime_last_two_weeks': 0, 'playtime_at_review': 134, 'last_played': 1487404111}",russian,"Этот симпатяга - краб сразу привлек мое внимание. Люблю приключенческие игры где надо искать предметы, выполнять задания, исследовать местность.
+
+Особенно порадовало, что в игре открытый мир. Никаких лабиринтов и загружаемых уровней. Огромный океан с островами.
+Графика хоть и пиксельная, но в игре много интерактивных элементов. Краб может поднимать кучу вещей, не считая квестовых. Может хватать камни, ракушки, кокосовые орехи и т.д.
+
+Управление удобное и простое. Двигаемся на клавиатуре, целимся мышкой. Крабик очень забавно двигается, перебирая маленькими ножками и размахивая клешнями. К тому же он может за себя постоять! Он может убивать врагов бумерангом. Так что тут мы будем не только тягать предметы, но и воевать!
+
+Порадовало наличие русского языка, коллекционные карточки, маленький размер (200 MB) и адекватная цена.
+
+Игра получилась интересная и аркадная. Большое приключение маленького краба! Всем любителям классических Action&Adventure рекомендую!",1487422606,1487422606,True,10,0,0.478528738021850586,0,True,False,False,False,,,
+30007243,"{'steamid': '76561198272374716', 'num_games_owned': 13029, 'num_reviews': 3562, 'playtime_forever': 407, 'playtime_last_two_weeks': 0, 'playtime_at_review': 407, 'last_played': 1487426475}",russian,"[h1] «Adventures On The Polluted Islands» [/h1]
+Приключения маленького краба. На родной остров главного героя злобные людишки скидывают радиоактивные отходы. Нашему крабу придется искать себе новый дом!
+
+Наш краб умеет переносить различные предметы. Поднимаем вещичку и несем в определенное место или отдаем игровому персонажу для получения предмета, необходимого для прохождения игры.
+Для защиты от врагов краб использует свое любимое оружие - бумеранг. Для пополнения здоровья можно сбивать с пальм кокосы и разбивать их об камни.
+Нам предстоит играть на большой, открытой карте. Починив плот краб сможет перебраться на другие острова.
+
+Графика сделана в олдскульной, пиксельной манере. Картинка симпатичная, много анимированных деталей: заросли колышутся на ветру, морские волны набегают на берег белой пеной и т.д. Картинка и звуки радуют, только русский шрифт смотрится кривовато. Текстов в игре не много, поэтому это не сильно напрягает.
+
+«Adventures On The Polluted Islands» мне напомнила любимую серию приключенческих игр про «Dizzy», но не с подгружаемыми комнатами, а с большим открытым миром островов, на который мы смотрим с высоты и управляем крабом, а не яйцеголовым «Dizzy».
+
+Увлекательная игра для любителей приключений. Особенно рекомендую игру детям.  Простое управление, русская локализация, отсутствие крови и поучительный сюжет на тему охраны окружающей среды отлично подойдет для воспитания подрастающего поколения.
+
+Геймплей:
+https://www.youtube.com/watch?v=my0B1heepew
+
+[u] Вы можете почитать другие отзывы и подписаться на наших кураторов. Добро пожаловать! [/u] 
+[url=http://store.steampowered.com/curator/25737869/] 5 minutes of game [/url]
+",1487420259,1487420259,True,39,0,0.724043726921081543,0,True,False,False,False,,,
+30002873,"{'steamid': '76561198061066803', 'num_games_owned': 3431, 'num_reviews': 277, 'playtime_forever': 110, 'playtime_last_two_weeks': 0, 'playtime_at_review': 110, 'last_played': 1487369818}",russian,"Не знаю почему в Adventures On The Polluted Islands главным героем выбран именно краб, но факт остается фактом. В последнее время поднабили оскоминку разработчики, которые в своих играх используют пиксельную графику, с этой аркадой все наоборот, здесь все к месту, как внешне, так и в игровом качестве, так как в игре присутсвуют элементы песочницы. За свои деньги, более чем интересный продукт.",1487405716,1487405716,True,2,0,0.412240535020828247,0,True,False,False,False,,,
+30002857,"{'steamid': '76561198016096893', 'num_games_owned': 11947, 'num_reviews': 1422, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1487415985}",russian,"Смесь песочницы с квестом. Данная игра не на один час прохождения, здесь можно сидеть часами, так как игра имеет открытый мир, множество квестов и свободу действий. Вы будите играть за краба, у вас будет оружие - бумеранг с помощью которого вы не только сможете защищатся от врагов, но еще и добывать полезные ресурсы, в том числе еду для востановления здоровья. Хоть игра и имеет задатки песочницы, но она все равно постороена на определенном сюжете, которому нужно следовать для успешного прохождения игры. На острове вы найдете множество героев, как друзей, так и врагов, так вот друзьям нужно будет момогать, за это они вам дадут те или инные ресурсы.
+
+Графика в игре пиксельная, максимально приближенная к играм из 90х и приставки ""SEGA"", игра имеет русскую локализацию, что очень порадовало меня как русскоязычного игрока, тем более, что в игре очень много текста.
+
+Игра будет по нраву больше любителям квестов, так как элементов песочницы реализовано меньше, а вот квестов в данном продукте предостаточно.",1487405629,1487405629,True,7,0,0.418993711471557617,0,True,False,False,False,,,

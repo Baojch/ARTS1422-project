@@ -1,0 +1,676 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+156976546,"{'steamid': '76561199213434295', 'num_games_owned': 24, 'num_reviews': 16, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1705844676}",russian,"коты лучше людей.
+купила ради смайликов",1706381289,1706381289,True,0,0,0,0,True,False,False,True,,,
+155385373,"{'steamid': '76561198035910552', 'num_games_owned': 255, 'num_reviews': 3, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 124, 'last_played': 1704544265}",english,Best game ever,1704544526,1704544526,True,1,0,0,0,True,False,False,True,,,
+154277092,"{'steamid': '76561198069980355', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1703404448}",english,"Certainly one of the games of all time 
+
+Rover is most assuredly a cat, the best cat",1703404609,1703404609,True,2,0,0.523809552192687988,0,True,False,False,True,,,
+154003931,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 72, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1691940864}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1703088132,1703088132,True,1,0,0.444444417953491211,0,True,False,False,True,,,
+153969380,"{'steamid': '76561198399980160', 'num_games_owned': 157, 'num_reviews': 53, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1545698054}",english,get the game now,1703041316,1703041316,True,3,0,0.545454561710357666,0,False,False,False,True,,,
+151795202,"{'steamid': '76561198031223198', 'num_games_owned': 0, 'num_reviews': 88, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1700903084}",english,"[url=https://jannekeparrish.com/reviews/cat-president] Full review [/url]
+
+[url=https://store.steampowered.com/curator/44626948-Loons/] My curator page [/url]
+
+Cat President is a political dating sim set in a world where politicians have been replaced by cats. You play as the campaign manager of one of six presidential campaigns, each headed by its own cat-nidate and with its own nuances and storyline. Each of the cats is his own distinct person, and each tells his own story of his journey through the political process. 
+
+Classifying Cat President purely as a dating sim is a bit misleading. Unlike other dating sims, the player doesn’t get the option of shopping around or flirting with multiple potential partners. Once they’ve made their choice, they stick with that particular storyline until its conclusion. Within a particular storyline choice, the gameplay is fairly linear, consisting of a few binary choices that determine which of three endings the story will have, but do very little in terms of branching narratives. More than anything, it’s a visual novel about human-cat romance during a presidential campaign. 
+
+The strength of Cat President lies in its writing and its ability to weave humour and political satire into a genuinely sweet story. Its writing and dialogue are keenly aware of the absurdity of its premise, both in the sense of cat politicians, and the ins and outs of politics as a whole. The game constantly pokes fun at the political process, but masks it criticisms and commentary behind pictures of cute cats. Commentary on xenophobia and racism in immigration policy, for example, become more palatable to discuss when the one doing the discussing is a dog wearing cat ears and insisting he’s legally a cat. The role of PACs and dark money become more entertaining to consider when their source is a sneering picture of one of the devs. Cat President, in reframing politics through an inherently absurd lens, is able to shed a new light on the accepted absurdity of democracy itself.
+
+Cat President is clearly a product of the 2016 presidential elections. Some cats and political supporters strongly represent certain parties and politicians. It’s in the ideals Cat President holds and the perspective it offers on the inherent absurdity of democracy, though, that I find it more interesting. The world has changed since 2016. It’s become more cynical, more authoritarian, and less interested in good faith political discourse. In many ways, Cat President reflects this ethos, through satirical dialogue about fire hydrants and chew toys, but also in the very premise of its world. It’s a game that both faithfully believes in democracy, and sees its current incarnation for the farce that it is. It’s a surprisingly insightful and sincere game for a dating sim of cat politicians. 
+
+#roverdefinitecat",1700911538,1700911538,True,1,0,0,0,True,False,False,True,,,
+150682855,"{'steamid': '76561198391216132', 'num_games_owned': 238, 'num_reviews': 4, 'playtime_forever': 109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 109, 'last_played': 1700600584}",english,"This game is absolutely hilarious. I am not even mad with the click of the mouse with the dialogue. there is multiple endings and I find them all to be quite funny and around the same story line. It really is fun to pick and choose the responses of the characters. This game play is a bit long and tedious but it really is an enjoyable game, at least for me.",1700600744,1700600744,True,1,0,0,0,True,False,False,True,,,
+147331350,"{'steamid': '76561199481307767', 'num_games_owned': 43, 'num_reviews': 13, 'playtime_forever': 300, 'playtime_last_two_weeks': 0, 'playtime_at_review': 272, 'last_played': 1696129183}",brazilian,vote cats for president!!!,1696051908,1696051908,True,0,0,0,0,True,False,False,True,,,
+144888594,"{'steamid': '76561199404429187', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1693027263}",english,kale,1692834973,1692834973,True,1,0,0,0,False,False,False,True,,,
+144029297,"{'steamid': '76561198324063988', 'num_games_owned': 92, 'num_reviews': 9, 'playtime_forever': 439, 'playtime_last_two_weeks': 0, 'playtime_at_review': 439, 'last_played': 1691870800}",english,"Having played all of the routes and looking at the bonus content, all I have to say is that this game beats any triple A game to a bloody pulp. Far more better than what most triple A studios are putting out today. This game has changed my life. Kale for president.",1691870898,1691870898,True,2,0,0,0,True,False,False,True,,,
+143950505,"{'steamid': '76561199428632077', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1475, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1691946508}",english,"super funny, worth the $3 i spent on it",1691808388,1691808388,True,2,0,0,0,True,False,False,True,,,
+143908451,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 109, 'last_played': 1691771927}",spanish,"───────────────────────────────────────
+───▐▀▄───────▄▀▌───▄▄▄▄▄▄▄─────────────
+───▌▒▒▀▄▄▄▄▄▀▒▒▐▄▀▀▒██▒██▒▀▀▄──────────
+──▐▒▒▒▒▀▒▀▒▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄────────
+──▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▒▒▒▒▒▒▒▒▒▒▒▒▀▄──────
+▀█▒▒▒█▌▒▒█▒▒▐█▒▒▒▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─────
+▀▌▒▒▒▒▒▒▀▒▀▒▒▒▒▒▒▀▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐───▄▄
+▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌▄█▒█
+▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒█▀─
+▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▀───
+▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌────
+─▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐─────
+─▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌─────
+──▌▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐──────
+──▐▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▌──────
+────▀▄▄▀▀▀▀▀▄▄▀▀▀▀▀▀▀▄▄▀▀▀▀▀▄▄▀────────
+",1691771937,1691771937,True,2,0,0.545454561710357666,0,True,False,False,True,,,
+143798193,"{'steamid': '76561198278974658', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 277, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1691705496}",english,Game of the year,1691693762,1691693762,True,1,0,0,0,False,False,False,True,,,
+143795379,"{'steamid': '76561199144250141', 'num_games_owned': 420, 'num_reviews': 38, 'playtime_forever': 143, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1691693722}",english,I really cant believe that Rover secret is that [spoiler] he is a dog [spoiler],1691690441,1691693797,True,2,1,0,0,True,False,False,True,,,
+142447284,"{'steamid': '76561198118989258', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1497829176}",english,Beautiful.,1689827484,1689827484,True,2,0,0.523809552192687988,0,True,False,False,True,,,
+141193734,"{'steamid': '76561199094309447', 'num_games_owned': 101, 'num_reviews': 74, 'playtime_forever': 1971, 'playtime_last_two_weeks': 0, 'playtime_at_review': 665, 'last_played': 1705776335}",english,"After I let my cat play this game, she became the president.😳",1688365820,1688365820,True,1,0,0,0,True,False,False,True,,,
+140902232,"{'steamid': '76561198318882856', 'num_games_owned': 145, 'num_reviews': 146, 'playtime_forever': 428, 'playtime_last_two_weeks': 0, 'playtime_at_review': 325, 'last_played': 1689692469}",english,We are all cats,1688042365,1688042365,True,1,0,0,0,True,False,False,True,,,
+140041661,"{'steamid': '76561198042389511', 'num_games_owned': 88, 'num_reviews': 4, 'playtime_forever': 196, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1686820984}",english,"I picked up this game because cats, and was very pleasantly surprised! 
+I am not the one for visual novels, and the choices often made me question how much the Player Character lived under a rock, but it was funny and endearing. 
+
+I would recommend this if you want something that doesn't take itself too seriously while being incredibly absurd at times.
+
+[strike] Kale 4 President [/strike]",1686740604,1686740604,True,1,0,0,0,True,False,False,True,,,
+139898815,"{'steamid': '76561198164752366', 'num_games_owned': 658, 'num_reviews': 14, 'playtime_forever': 247, 'playtime_last_two_weeks': 0, 'playtime_at_review': 247, 'last_played': 1654481013}",english,"This is one of those games that if I recommend it to a friend they say ""What??""
+One of my favorite comedic visual novels. Don't take anything seriously and just enjoy yourself.",1686500150,1686500150,True,1,0,0,0,True,False,False,True,,,
+138434791,"{'steamid': '76561198138137838', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 196, 'playtime_last_two_weeks': 0, 'playtime_at_review': 196, 'last_played': 1657005289}",english,"Me, my girlfriend, and my cat play this game, and we all approve of it heartily. This game is played best if you have someone to help you give funny voices to all of the characters. 
+
+I feel like I have to warn you that there is a, in my opinion, very cringy romance angle between a human and a cat. It does not go very far in my experience and it doesn't cross any boundaries I guess... but if that is too much for you, take it into consideration. 
+
+Other than that, this game is witty, funny, scandalous, and full of cute cats.",1684331061,1684331061,True,2,0,0.523809552192687988,0,True,False,False,True,,,
+136373541,"{'steamid': '76561199122374289', 'num_games_owned': 21, 'num_reviews': 9, 'playtime_forever': 110, 'playtime_last_two_weeks': 0, 'playtime_at_review': 110, 'last_played': 1680990917}",english,I like cats but whats with all the politics? snooze fest.,1680991017,1680991017,False,0,0,0,0,False,False,False,True,,,
+135872589,"{'steamid': '76561198291350034', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 416, 'playtime_last_two_weeks': 0, 'playtime_at_review': 230, 'last_played': 1680372340}",english,"Super fun game, with loads of plot twists! We had a blast playing Rover´s story!
+
+One thing I´m missing is a little bit more interaction among the president candidates, I feel the plot might focus too much on just the candidate that you choose. However I´m only saying that because I had several people voice acting with me :D luckily there were enough secondary characters for everyone to participate! 
+I genuinely enjoyed the game to the fullest and it will be a recurring game on stream! 
+",1680349858,1680349858,True,1,0,0,0,True,False,False,True,,,
+135271640,"{'steamid': '76561198354188156', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 567, 'playtime_last_two_weeks': 0, 'playtime_at_review': 567, 'last_played': 1677202192}",english,"I really enjoyed this game! The writing was funny and the characters were pretty cute. Any game with cats is a good game. This game is kind of strange but in a weirdly charming way. The story does get pretty wild and out there at times, but that just makes the game all the more enjoyable.",1679617689,1679617689,True,1,0,0,0,True,False,False,True,,,
+133086466,"{'steamid': '76561199462332745', 'num_games_owned': 128, 'num_reviews': 13, 'playtime_forever': 293, 'playtime_last_two_weeks': 0, 'playtime_at_review': 188, 'last_played': 1678551393}",english,bomb,1676711744,1676711744,True,1,1,0,0,True,False,False,True,,,
+131347885,"{'steamid': '76561198314974211', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 693, 'playtime_last_two_weeks': 0, 'playtime_at_review': 406, 'last_played': 1674646391}",english,Cute cats! <3,1674403748,1674403748,True,1,0,0,0,True,False,False,True,,,
+127317251,"{'steamid': '76561198169907023', 'num_games_owned': 670, 'num_reviews': 30, 'playtime_forever': 483, 'playtime_last_two_weeks': 0, 'playtime_at_review': 482, 'last_played': 1669656517}",english,"*SLAPS STICKER ON YOU*
+Vote for DJ Nibbles now!! DJ Nibbles will rock the White House and legalize catnip for all!!!",1669596704,1669596704,True,1,1,0,0,True,False,False,True,,,
+124270463,"{'steamid': '76561199417435910', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 259, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1670108343}",english,This is a game for cat perverts.,1666527306,1666527306,False,0,1,0,0,True,False,False,True,,,
+122010352,"{'steamid': '76561198097409250', 'num_games_owned': 0, 'num_reviews': 94, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 208, 'last_played': 1660798501}",english,Absolutely hilarious and still highly politically relevant! So charming!  Definitely a laugh out loud experience! MEOWVELOUS!,1662781011,1662781011,True,3,0,0.541284441947937012,0,True,False,False,True,,,
+121914191,"{'steamid': '76561198064100907', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 307, 'playtime_last_two_weeks': 0, 'playtime_at_review': 307, 'last_played': 1616730056}",english,i wish cats were real,1662614641,1662614641,True,1,0,0,0,False,False,False,True,,,
+121303719,"{'steamid': '76561198273949946', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 491, 'playtime_last_two_weeks': 0, 'playtime_at_review': 397, 'last_played': 1666657118}",english,"This game is good. If you like absurd/offbeat humor, cats, and replayability, you should get this game. 
+
+Did I mention that it has cats? 
+
+It has lots of cats.",1661581313,1661581313,True,2,0,0,0,False,False,False,True,,,
+120514480,"{'steamid': '76561198185487321', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 354, 'playtime_last_two_weeks': 0, 'playtime_at_review': 354, 'last_played': 1660230773}",english,"I went through one story in this game.  I am a streamer on Twitch and I streamed it live.  I will say that my chat enjoyed the game and we got a lot of laughs with it!  
+
+It is nice that you can play it more than once and have a different outcome.
+
+There was a problem where my VOD was muted in one place for just one song.  In Twitch, we are not allowed to play copyrighted music on stream.  I contacted the developer about the muted song.  They were not aware it had become copyrighted.  They said they were going to replace it with something else.  Still, it is better as a livestreamer not to have to worry about the music in a game.
+
+In this story we streamed, I would say the first half of it was great.  We were laughing.  Some of the people in chat were participating in the choices and that made it fun.
+
+In the second half of the game, I found I was offended by some of the non-family friendly references.  I am a family friendly streamer and this is important to me.  I found myself skipping part of the story because I didn't think it was appropriate for my viewers.  However, that is just me.  It is something that I am very strict about on my channel.
+
+Overall, I enjoyed the game.  Not sure I would do another playthrough though.
+
+",1660333143,1660333143,True,1,0,0,0,True,False,False,False,,,
+120363095,"{'steamid': '76561198168937223', 'num_games_owned': 211, 'num_reviews': 49, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1660089440}",english,"It´s just a lovely Dating Sim like game. 
+It got a touch of politics but overall its just a satire cat game.
+Really had my fun playing it and will definitely play the other endings when i cat some spare time
+
+
+---{ Graphics }---
+☐ You forget what reality is
+☐ Beautiful
+☐ Good
+☐ Decent
+☑ Bad
+☐ Don‘t look too long at it
+☐ MS-DOS
+
+---{ Gameplay }---
+☐ Very good
+☐ Good
+☑ It's just gameplay
+☐ Mehh
+☐ Watch paint dry instead
+☐ Just don't
+
+---{ Audio }---
+☐ Eargasm
+☐ Very good
+☐ Good
+☑ Not too bad
+☐ Bad
+☐ I'm now deaf
+
+---{ Audience }---
+☐ Kids
+☑ Teens
+☑ Adults
+☐ Grandma
+
+---{ PC Requirements }---
+☑ Check if you can run paint
+☐ Potato
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
+---{ Difficulty }---
+☑ Just press 'W'
+☐ Easy
+☐ Easy to learn / Hard to master
+☐ Significant brain usage
+☐ Difficult
+☐ Dark Souls
+
+---{ Grind }---
+☑ Nothing to grind
+☐ Only if u care about leaderboards/ranks
+☐ Isn't necessary to progress
+☐ Average grind level
+☐ Too much grind
+☐ You'll need a second life for grinding
+
+---{ Story }---
+☐ No Story
+☐ Some lore
+☐ Average
+☐ Good
+☑ Lovely
+☐ It'll replace your life
+
+---{ Game Time }---
+☐ Long enough for a cup of coffee
+☑ Short
+☐ Average
+☐ Long
+☐ To infinity and beyond
+
+---{ Price }---
+☐ It's free!
+☐ Worth the price
+☐ If it's on sale
+☑ If u have some spare money left
+☐ Not recommended
+☐ You could also just burn your money
+
+---{ Bugs }---
+☑ Never heard of
+☐ Minor bugs
+☐ Can get annoying
+☐ ARK: Survival Evolved
+☐ The game itself is a big terrarium for bugs
+
+---{ ? / 10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☑ 7
+☐ 8
+☐ 9
+☐ 10",1660089654,1660089654,True,2,0,0,0,True,False,False,False,,,
+119446523,"{'steamid': '76561197993278576', 'num_games_owned': 2265, 'num_reviews': 9, 'playtime_forever': 990, 'playtime_last_two_weeks': 0, 'playtime_at_review': 774, 'last_played': 1707966372}",english,I played this game on stream and hamed the heck out of it. It may be my communities favorite thing that I have played.,1658761416,1658761416,True,1,0,0,0,True,False,False,False,,,
+119121965,"{'steamid': '76561198176793585', 'num_games_owned': 183, 'num_reviews': 130, 'playtime_forever': 467, 'playtime_last_two_weeks': 0, 'playtime_at_review': 467, 'last_played': 1657635080}",english,"Oh no, so where do I start...
+It's honestly an entertaining game and has its funny moments and dialogues, if you can look past the dating part. Prior to purchasing it I somehow didn't realize that dating those cats was not optional, and while for example Hatoful Boyfriend (the game where you date high school pigeons) feels so hilariously parodical absurd in itself that it just cannot be taken seriously, this game, on the other hand, uh...I'm sorry, it seems (not only borderline) zoophilic. While the writers tried to somehow scramble how it's actually not into their lore, reading these cringe dialogues frankly made me feel SO WRONG AND UNCOMFORTABLE that I'm honestly surprised not more reviews, other than the polish one, pointed it out. It's sad, because if not for the dating stuff, which overshadows the good parts and actually made me feel physically sick, this game would've just been fun and nothing else. I'll try to get this and the second part refunded, but it probably won't work because of too much play time and bundle purchase.",1658302362,1658302362,False,1,1,0.48598131537437439,0,True,False,False,False,,,
+118461280,"{'steamid': '76561198166854237', 'num_games_owned': 0, 'num_reviews': 34, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1679603163}",english,"Funny story, bought on sale for a few cents, but definitilay not worth 9 bucks if you dont really really really like cats",1657299812,1657299812,True,0,0,0,0,True,False,False,False,,,
+118357515,"{'steamid': '76561198843246399', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 269, 'playtime_last_two_weeks': 0, 'playtime_at_review': 111, 'last_played': 1706884969}",turkish,harcadığım en iyi 4 TL,1657154761,1657154761,True,0,0,0,0,True,False,False,False,,,
+113882353,"{'steamid': '76561198809009707', 'num_games_owned': 151, 'num_reviews': 7, 'playtime_forever': 629, 'playtime_last_two_weeks': 0, 'playtime_at_review': 424, 'last_played': 1650181569}",english,"Doctor Nom Nom's bad ending:
+⢿⣿⣿⣿⣭⠹⠛⠛⠛⢿⣿⣿⣿⣿⡿⣿⠷⠶⠿⢻⣿⣛⣦⣙⠻⣿
+⣿⣿⢿⣿⠏⠀⠀⡀⠀⠈⣿⢛⣽⣜⠯⣽⠀⠀⠀⠀⠙⢿⣷⣻⡀⢿
+⠐⠛⢿⣾⣖⣤⡀⠀⢀⡰⠿⢷⣶⣿⡇⠻⣖⣒⣒⣶⣿⣿⡟⢙⣶⣮
+⣤⠀⠀⠛⠻⠗⠿⠿⣯⡆⣿⣛⣿⡿⠿⠮⡶⠼⠟⠙⠊⠁⠀⠸⢣⣿
+⣿⣷⡀⠀⠀⠀⠀⠠⠭⣍⡉⢩⣥⡤⠥⣤⡶⣒⠀⠀⠀⠀⠀⢰⣿⣿
+⣿⣿⡽⡄⠀⠀⠀⢿⣿⣆⣿⣧⢡⣾⣿⡇⣾⣿⡇⠀⠀⠀⠀⣿⡇⠃
+⣿⣿⣷⣻⣆⢄⠀⠈⠉⠉⠛⠛⠘⠛⠛⠛⠙⠛⠁⠀⠀⠀⠀⣿⡇⢸
+⢞⣿⣿⣷⣝⣷⣝⠦⡀⠀⠀⠀⠀⠀⠀⠀⡀⢀⠀⠀⠀⠀⠀⠛⣿⠈
+⣦⡑⠛⣟⢿⡿⣿⣷⣝⢧⡀⠀⠀⣶⣸⡇⣿⢸⣧⠀⠀⠀⠀⢸⡿⡆
+⣿⣿⣷⣮⣭⣍⡛⠻⢿⣷⠿⣶⣶⣬⣬⣁⣉⣀⣀⣁⡤⢴⣺⣾⣽⡇",1650011876,1650011876,True,1,0,0,0,False,False,False,False,,,
+112767784,"{'steamid': '76561198796215064', 'num_games_owned': 199, 'num_reviews': 30, 'playtime_forever': 139, 'playtime_last_two_weeks': 0, 'playtime_at_review': 139, 'last_played': 1637995735}",english,"its a dating sim
+
+oh theres also cats and politics and you can get sexually harassed by a cat!",1648157018,1648157018,True,1,2,0,0,True,False,False,False,,,
+112583816,"{'steamid': '76561198053732542', 'num_games_owned': 629, 'num_reviews': 22, 'playtime_forever': 309, 'playtime_last_two_weeks': 0, 'playtime_at_review': 309, 'last_played': 1647846933}",english,"This was a fun game! Ever wanted to help with a Cat presidency campaign and a visual novel game dating game? Well look no further than Cat Purresident! It's a good place for your feline fix. Has three endings for each cat. So fyn so far. only played through it twice, but enjoyed it all.",1647851209,1647851209,True,5,0,0.537695586681365967,0,True,False,False,False,,,
+112075788,"{'steamid': '76561197979612943', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 224, 'playtime_last_two_weeks': 0, 'playtime_at_review': 224, 'last_played': 1641084959}",english,Cats,1647131074,1647131074,True,3,1,0.540069699287414551,0,True,False,False,False,,,
+111410003,"{'steamid': '76561199186442703', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 882, 'playtime_last_two_weeks': 0, 'playtime_at_review': 697, 'last_played': 1665248494}",english,"very nice, its a cool consept and great execution",1646261254,1646261254,True,1,0,0,0,True,False,False,False,,,
+108336159,"{'steamid': '76561198129227544', 'num_games_owned': 0, 'num_reviews': 171, 'playtime_forever': 267, 'playtime_last_two_weeks': 0, 'playtime_at_review': 267, 'last_played': 1642604149}",english,"Cats make everything better
+　 　　/ﾞﾐヽ､,,___,,／ﾞヽ
+　 　　i ノ　　 川　 ｀ヽ'
+　 　　/　｀　O　 ． O i､
+　 　彡,　　 ミ(_,人_)彡ミ
+∩, 　/　ヽ､,　　 　　　ノ
+丶ニ|　　　　 '""''''''''""´　ﾉ
+　　　∪⌒∪""￣￣￣∪
+
+Now seriously, this is a visual novel about the president election between cats, of course you should play it!",1642609772,1642609772,True,6,0,0.594438016414642334,0,True,False,False,False,,,
+107926408,"{'steamid': '76561199066246445', 'num_games_owned': 1541, 'num_reviews': 263, 'playtime_forever': 127, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1640905870}",spanish,"tremendos cromos!
+pidiendo reembolso :3",1642087894,1642087894,True,3,0,0.541666686534881592,0,True,False,False,False,,,
+107564851,"{'steamid': '76561198437957931', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 201, 'last_played': 1642793018}",english,"i liked when there was a president.
+
+In all seriousness, the Cat President Series is a goofy one I recommend.
+My first route was with Dr. Nom Noms, and I fell in love with how funny and corny this game is.
+The series has moments of humor, utter cringe, and all, wrapped in the great bow of democracy.",1641611669,1655678507,True,0,0,0,0,True,False,False,False,,,
+106506429,"{'steamid': '76561198121691706', 'num_games_owned': 132, 'num_reviews': 65, 'playtime_forever': 818, 'playtime_last_two_weeks': 0, 'playtime_at_review': 325, 'last_played': 1652531810}",english,I mean.. The world would be a better place if it was run by the cats!,1640451174,1640451174,True,6,1,0.57126152515411377,0,False,False,False,False,,,
+106490558,"{'steamid': '76561199183911743', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1637793331}",english,Great game,1640435813,1640435813,True,1,0,0,0,True,False,False,False,,,
+106369704,"{'steamid': '76561198025493102', 'num_games_owned': 0, 'num_reviews': 73, 'playtime_forever': 850, 'playtime_last_two_weeks': 0, 'playtime_at_review': 836, 'last_played': 1640282895}",english,"
+
+  Dr. Nom-Noms/King Meow Meow Meow 2024!!!!!!",1640282313,1640282313,True,4,0,0.545454561710357666,0,False,False,False,False,,,
+106060191,"{'steamid': '76561198085586199', 'num_games_owned': 718, 'num_reviews': 46, 'playtime_forever': 881, 'playtime_last_two_weeks': 0, 'playtime_at_review': 881, 'last_played': 1639858228}",english,"Cringe.
+
+Vote for KALE.",1639859008,1639859008,True,7,1,0.580419540405273438,0,True,False,False,False,,,
+104252843,"{'steamid': '76561198153595958', 'num_games_owned': 1908, 'num_reviews': 143, 'playtime_forever': 148, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1637982142}",spanish,Cats,1637980003,1637980003,True,1,0,0.523809552192687988,0,False,False,False,False,,,
+101985455,"{'steamid': '76561199119072446', 'num_games_owned': 100, 'num_reviews': 57, 'playtime_forever': 375, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1648176531}",english,kale,1635709029,1635709029,True,8,0,0.583333313465118408,0,False,True,False,False,,,
+101980838,"{'steamid': '76561198028173982', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1635794025}",polish,"mega dziwna gra......
+kupiłam ją na wyprzedaży za niecałe 6 zł, i nie jest nawet tyle warta !
+grafika (zapewne specjalnie) ... zresztą co ja pisze o grafice ! to jakby sześciolatek zrobił swoją pierwsza grę. postacie to powycinane w paincie ""kopiuj-wklej""
+fabuła dość prosta i inna niż wszystkie - ot stajemy się rzez przypadek managerem kota- kandydata na prezydenta i mamy pomóc mu w zwycięstwie. nasza postać jest jednak totalnym tłukiem ... na początku może to i urocze, jednak każda kolejna wpadka tylko zaczyna irytować. po prostu nasza postać to skończony matoł .....
+pomimo tgo, że jestem kociarą odpycha mnie możliwość powstania związku jako relacji partnerskiej z kotem ..... no nie 1 ja rozumiem, że można kochać koty do szaleństwa, ale bez jakiejś zoofilii ..... a nie tworzyć związek kocio-ludzki ....",1635704625,1635704625,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+101802916,"{'steamid': '76561198343507974', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1624720921}",english,"Excellent game. I've only played one path so far, but it already entertained enough to warrant this positive review. Love the different personalities of all the cats. Love the quirkiness that shines throughout the storyline. Love the length and amount of chapters and routes. Pleasantly surprised, for sure.",1635499527,1679737541,True,1,0,0,0,True,False,False,False,,,
+98126734,"{'steamid': '76561198347284926', 'num_games_owned': 352, 'num_reviews': 16, 'playtime_forever': 427, 'playtime_last_two_weeks': 0, 'playtime_at_review': 427, 'last_played': 1626974917}",english,A very fun game with lots of funny and witty dialogue. Recommended for anyone who likes cats and a good time. Although it is a bit pricey,1629773928,1629773928,True,1,0,0,0,True,False,False,False,,,
+97536948,"{'steamid': '76561198388954762', 'num_games_owned': 0, 'num_reviews': 204, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1532778438}",dutch,UGH i hate cats,1628931838,1628931838,False,0,0,0,0,False,False,False,False,,,
+97013207,"{'steamid': '76561198997316983', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 878, 'playtime_last_two_weeks': 0, 'playtime_at_review': 878, 'last_played': 1624345098}",english,"If you enjoyed playing Hatoful Boyfriend and love cats, then this game is perfect for you. It pokes fun at modern politics without being crude or biased which I think is something we need more of in this high political climate. The dialogue and stories are also very funny and witty.",1628204577,1628204577,True,2,0,0,0,True,False,False,False,,,
+94152807,"{'steamid': '76561198353255687', 'num_games_owned': 182, 'num_reviews': 8, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1689748818}",english,yes,1624347181,1624347181,True,8,0,0.591836750507354736,0,True,False,False,False,,,
+87443226,"{'steamid': '76561198080089757', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 456, 'playtime_last_two_weeks': 0, 'playtime_at_review': 438, 'last_played': 1614362539}",english,"Is this a deep and intellectual game that will challenge your mind? No
+
+Is it a fun game where the developers went all in embracing the lunacy of their central concept? Yes
+
+If you want a visual novel that is a bit silly, not overly challenging and has lots of pictures of cats, this is the game for you. Six very different storylines, some being parodies of real-world political characters. You won't have to stretch your brain much, but you can definitely have an enjoyably surreal time with this game. 
+
+If you don't like the idea of playing a game with lots of pictures of cats (with the occasional picture of dogs) then you are clearly some sort of monster. :-)",1614293347,1614293347,True,4,0,0.525862038135528564,0,True,False,False,False,,,
+85379839,"{'steamid': '76561198370758300', 'num_games_owned': 58, 'num_reviews': 5, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1594120296}",english,"A cat flirted with me.
+10/10",1611663225,1611663225,True,6,4,0.545454561710357666,0,True,False,False,False,,,
+85072991,"{'steamid': '76561198810158080', 'num_games_owned': 507, 'num_reviews': 80, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1620906512}",english,this game is good if your a fan of politcal sims,1611211791,1611212070,True,5,0,0.5,0,True,False,False,False,,,
+84702346,"{'steamid': '76561198137753087', 'num_games_owned': 0, 'num_reviews': 86, 'playtime_forever': 24935, 'playtime_last_two_weeks': 0, 'playtime_at_review': 637, 'last_played': 1628634094}",english,i liked the bit with the cat,1610674725,1610674725,True,6,6,0.560293138027191162,1,True,False,False,False,,,
+84629176,"{'steamid': '76561198857666282', 'num_games_owned': 0, 'num_reviews': 55, 'playtime_forever': 445, 'playtime_last_two_weeks': 0, 'playtime_at_review': 149, 'last_played': 1682520047}",english,"Lovable politicians! Right, this is a crazy fantasy, put thinking aside and enjoy witty writing and cute characters.",1610564319,1610564319,True,3,0,0.523809552192687988,0,True,False,False,False,,,
+82270385,"{'steamid': '76561198800965012', 'num_games_owned': 0, 'num_reviews': 190, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1607298844}",english,"Fun and silly game, with plenty of puns. Would recommend it if you like cats and want a not-so-serious visual novel.
+So far, I've only done Kale's route. Can't wait to try out the others!",1607867772,1607867772,True,6,0,0.569378018379211426,0,True,False,False,False,,,
+80811344,"{'steamid': '76561198203996376', 'num_games_owned': 39, 'num_reviews': 6, 'playtime_forever': 559, 'playtime_last_two_weeks': 0, 'playtime_at_review': 428, 'last_played': 1699665807}",english,"I'm not sure what I was expecting when I bought this game, but it's super cute and cringey at the same time. Probably one of my favorite visual novels",1606552184,1606552184,True,5,0,0.554077684879302979,0,True,False,False,False,,,
+80005515,"{'steamid': '76561197971072701', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1617557876}",english,I would rather cats be president after the 2020 election :),1606344053,1606344053,True,3,3,0.519841313362121582,0,False,False,False,False,,,
+78798464,"{'steamid': '76561198219322907', 'num_games_owned': 129, 'num_reviews': 5, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1604629908}",russian,VOTE FOR KALE,1604629332,1604629332,True,2,0,0.48474574089050293,0,True,False,False,False,,,
+74814375,"{'steamid': '76561198311977101', 'num_games_owned': 477, 'num_reviews': 127, 'playtime_forever': 766, 'playtime_last_two_weeks': 0, 'playtime_at_review': 766, 'last_played': 1598208892}",english,As a Cat Person I loved this game!!!,1598237335,1598237335,True,7,1,0.584158420562744141,0,True,False,False,False,,,
+73134285,"{'steamid': '76561198105216665', 'num_games_owned': 83, 'num_reviews': 3, 'playtime_forever': 284, 'playtime_last_two_weeks': 0, 'playtime_at_review': 284, 'last_played': 1595382124}",english,I WOULD DIE FOR DJ NIBBLES!! <3 <3,1595457588,1595457588,True,14,0,0.653884828090667725,0,True,False,False,False,,,
+72645553,"{'steamid': '76561198061241392', 'num_games_owned': 1636, 'num_reviews': 248, 'playtime_forever': 736, 'playtime_last_two_weeks': 0, 'playtime_at_review': 736, 'last_played': 1594682012}",english,"+
+Very funny.
+Educational.
+Multiple endings.
+
+-
+No sound options to turn down background music.
+Human/cat romance is a little creepy.",1594682750,1594682750,True,2,1,0.518518567085266113,0,True,False,False,False,,,
+72189042,"{'steamid': '76561198089970188', 'num_games_owned': 206, 'num_reviews': 10, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1594070550}",english,"Never have I felt more empowered than when playing this masterpiece. Anyone who lives on this earth should play this game and explore both the game and their selves. This game evokes such deep emotion within me I can't possibly hope to explain it with words. Buy this game when it's not on sale to show Oh, a Rock! Studios how deeply we care for these characters and this style of story.",1594070949,1594070949,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+72153524,"{'steamid': '76561198370248262', 'num_games_owned': 169, 'num_reviews': 17, 'playtime_forever': 144, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1633793561}",english,the game is great!,1594031446,1594031446,True,1,0,0,0,True,False,False,False,,,
+71894882,"{'steamid': '76561198067696243', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 296, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1596255191}",english,"Frankly I'm a big fan of this game. I've yet to play every single route, but what I have gone through I have enjoyed. The characters are exceptionally lovable. It had me laughing out loud very often; the dialogue is almost always very clever and fun, even if the game itself is relatively simplistic (also, pay attention to that backgrounds for another chuckle).
+
+It wasn't difficult to guess some of the plot twists, but that didn't make the execution any less fun! I still found myself taken by surprise enough that it balanced that out well, if that's something you would be concerned about.
+
+I was NOT expecting this to kind of take a turn into a dating sim, but it's all very tongue-in-cheek and doesn't take itself too seriously, in that aspect or otherwise. It was amusing and cute. I did find myself saying several times, ""YOU CANNOT DATE A CAT."", but it was all very funny and had me in giggle fits. And not to worry, there was not anything inappropriate in regard to that part of the story.
+
+I'm not particularly interested in politics in general, but when the actual political terms and ins and outs of actual campaigning were discussed, it wasn't dry and boring. I think it was navigated well.
+
+My only real problem with this game is that there seems to be a little bit of trouble with the achievements unlocking; there were a few that I should have gotten but they weren't triggered somehow, so that was a bit frustrating. However this does not take away from the game itself.
+
+All in all if you're looking for a not too serious fun and silly experience, and want to say ""aww"", with CATS, then I highly recommend this game.",1593712752,1593712752,True,1,0,0,9,True,False,False,False,,1593736423.0,"Hey!! If you remember which achievements weren't working, I can look into it and try to figure out what happened!"
+71467252,"{'steamid': '76561197999162473', 'num_games_owned': 448, 'num_reviews': 142, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1593243030}",english,"In general cat president is just a poorly done visual novel. The humor is nonexistent. I don't know why I thought this ""game"" was going to have any sort of simulation elements, I am an idiot. The developers would have done a better job by adding in aspects where you actually manage the campaign where decisions effect the polling numbers. From what I did see it's pretty railroad-y.",1593243184,1593243184,False,1,0,0.370552927255630493,0,True,False,False,False,,,
+62807259,"{'steamid': '76561198109466146', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 577, 'playtime_last_two_weeks': 0, 'playtime_at_review': 560, 'last_played': 1580579900}",english,cant wait for sequel and spinoff dog prime minister44,1580578779,1580578779,True,1,0,0,0,True,False,False,False,,,
+62475629,"{'steamid': '76561198048861933', 'num_games_owned': 736, 'num_reviews': 41, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1474225279}",english,vanaheimr 4.0,1580073745,1580073745,True,0,0,0.47413790225982666,0,True,False,False,False,,,
+60869544,"{'steamid': '76561198286976300', 'num_games_owned': 0, 'num_reviews': 80, 'playtime_forever': 389, 'playtime_last_two_weeks': 0, 'playtime_at_review': 218, 'last_played': 1579114698}",english,This game has just the right amount of self aware humor and story to keep you engaged and entertained. All the cats are cute and I adore this game. There's nothing else to say as I have no complains. What you see is what you get. Definitely recommend it!,1577658430,1577658430,True,2,0,0.523809552192687988,0,True,False,False,False,,,
+60718711,"{'steamid': '76561198165212393', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 653, 'playtime_last_two_weeks': 0, 'playtime_at_review': 633, 'last_played': 1578240937}",english,A really fun and enjoyable experience.,1577500680,1577500680,True,1,0,0,0,True,False,False,False,,,
+57161490,"{'steamid': '76561198889562085', 'num_games_owned': 1627, 'num_reviews': 1204, 'playtime_forever': 298, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1633619476}",tchinese,貓咪就是萌,1573741542,1573741542,True,0,0,0,0,False,False,False,False,,,
+56044427,"{'steamid': '76561198084622747', 'num_games_owned': 170, 'num_reviews': 114, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 127, 'last_played': 1576560445}",english,"This is a very cool story game that is casual and easy to play.   There are lots of replay options.  There are 6 main characters to choose from, and selecting different speech options in the story results in some very different endings.  
+
+Taken in context with today's political environment, you will see a few digs at our state of affairs here in the USA.  The game is all fun and humor though, they never lecture or lean too far in any political direction.  Great job hitting the issues, and having some fun with it!
+
+And a love story between a Human and a Cat?  Including uh, ""kids""?  Kinda weird, but in a world where cats have replaced humans in all government positions, I'll not quibble with such obvious Genius!  
+
+I logged a little over 2 hours in my first play-through.  Looking forward to seeing the other endings!
+
+10/10  Highly recommend!",1572545829,1572545829,True,5,0,0.588925659656524658,0,True,False,False,False,,,
+54774411,"{'steamid': '76561198118374258', 'num_games_owned': 280, 'num_reviews': 40, 'playtime_forever': 268, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1593067136}",english,Meow meow meow meow meow meow,1566613982,1566613982,True,5,1,0.586286664009094238,0,False,False,False,False,,,
+54484784,"{'steamid': '76561198041810417', 'num_games_owned': 0, 'num_reviews': 42, 'playtime_forever': 148, 'playtime_last_two_weeks': 0, 'playtime_at_review': 148, 'last_played': 1527101814}",english,"It has its good points, but I can't say I had a ""wow"" feeling from reading it. I wish I could have pick an informational option for my review because it had its cute moments and its good points, but if you are looking for deep heart pulling wretch stories, this is not one of them. I got to be honest here. 
+
+It has been awhile since I last played cat president and from what I can remember it was a bit silly. It is a story where the main character becomes the campaign manager for one of the cats running for president of the United States, and eventually falls in love. 
+
+Although the words “girlfriend/boyfriend” are used towards their developing relationship the term, in reality, it is used loosely. This relationship tends to mimic the affection one normally has towards one of their pets, notwithstanding the unsettling words of “girlfriend/boyfriend.”
+
+Therefore, the term is actually meant to be taken with light-hearted humor than a serious one and it does tend to do a good job delivery that perspective. I do not normally read these kind of stories as the age dynamic seems to be focused towards an age group much younger than I. However, I did find the story, at times, entertaining and dare I say it? Refreshing from the serious dark humor ones I am more used to reading. 
+
+The age dynamics that is the focus for Cat President, I suspect, is for a younger audience under the age of 12. I only say this base on the level of my reading and subjects I was into at that age, so my perspective might be a bit bias, but I think it should not be too much different from anyone else. 
+
+I don't think a younger audience are very much interested in politics, but in reality, the story does not broach the subject as much as one might think. The crazy dynamics existing in the current world are more complex and ruthless than the light-hearted humor of Cat President. However, it is a way to gently introduce that world to those beginning to learn. In particular, it shows how we can shape another one’s perception towards our candidate leaders and the way we can twist truth and falsehoods for our own agenda. 
+
+In this way, Cat President was interesting for it did introduce complex problems in the gentlest way possible.
+
+I give this review a thumbs-up with the understanding that it is meant for a younger audience. Otherwise, mature teenagers and young adults would probably feel frustrated and should look elsewhere.",1565096781,1565127593,True,2,0,0.547014415264129639,0,False,True,False,False,,,
+54363630,"{'steamid': '76561198258264764', 'num_games_owned': 181, 'num_reviews': 12, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1561760324}",english,12/10 would play over and over while naked and listening to death grips,1564440581,1564440581,True,0,1,0,0,False,True,False,False,,,
+54316043,"{'steamid': '76561198245493260', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1562719177}",english,"Meh
+
+I expect more from a game titles ""Cat President""
+
+-Needs more Cats
+-Needs More Cat Nip
+-Needs Less Humans
+-More Tail
+-Less Human Words
+-More Cats
+-Oval Office Cat Calls
+
+1/10 Would not run for President again.
+
+https://www.youtube.com/watch?v=IHYeAJ9EUgY",1564204711,1564204711,False,0,3,0.430107533931732178,0,True,False,False,False,,,
+53433528,"{'steamid': '76561198363822495', 'num_games_owned': 112, 'num_reviews': 4, 'playtime_forever': 205, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1657974941}",english,loving this game so far.... the cats are so cute and im currently going the kale route. my only problem with it is that there isnt an options menu so i can mute the music but not the cat meows :(,1562193310,1562193310,True,3,0,0.545454561710357666,0,True,False,False,False,,,
+51202736,"{'steamid': '76561198128535425', 'num_games_owned': 5914, 'num_reviews': 147, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1575928331}",english,"( Thumbless Review )
+
+Silly, short cat-dating game, yet still neat to forget (if not forgive... :/ ) human-madness. 
+
+Do not buy, unless you really needs this but bundled or during sales.",1560421801,1560423577,True,0,0,0,0,False,False,False,False,,,
+49875577,"{'steamid': '76561198004313984', 'num_games_owned': 648, 'num_reviews': 110, 'playtime_forever': 154, 'playtime_last_two_weeks': 0, 'playtime_at_review': 154, 'last_played': 1552074586}",english,"Cat President-A More Purrfect Union is a casual independent visual novel both developed and published by Oh, a Rock! Studios. In this title you take on the role of Abigail, an outgoing single out of work twenty something, who gets invited to a political debate by her best friend Lindsey. Through a series of unfortunate events at said debate, Abigail surprisingly becomes the campaign manager for one of the six political candidates vying for the presidency of the United States. Did I mention that all of the candidates are cats? Yep you heard me correctly I said CATS! Perhaps I should explain? Years prior humans deemed themselves too corruptible and unfit for politics so they banned themselves from it and chose to hand governing over to duly elected talking felines...WHAT!?!? The outrageous premise of this visual novel was more than enough to make me quickly pick up a copy for perusal. How will Abigail and her furry candidate do as they seek the highest office in the land...the choices are up to you? 
+ 
+[h1]PRESENTATION[/h1]
+
+This visual novels presentation is very unique in that most V.N.'s, at least most of the titles that I've read, have some form of hand drawn or C.G. artwork but there is no artwork whatsoever in Cat President-A More Purrfect Union. The entire novel uses real life photographs of people, places and the most adorable cats that you could ever hope to see...especially DJ Nibbles! That's saying something considering the fact that I'm a dog person. I found this to be a rather refreshing take on this art based genre and really enjoyed the direction in which the developer chose to present their very unique story. Also, there are some ambient sound effects included that really help with immersion as the story progresses. As the campaign manager you get to pick one of six different cat candidates to support during the political race. Add to that a number of choices that you'll have to make over the course of the narrative and this visual novel puts forth a very impressive presentation in my opinion. On a rather hilarious sidenote, one of the ""cat candidates"" is actually a dog pretending to be a cat but no one seems to notice which is quite funny. There's also a cat with a bad hairdo and a boisterous attitude that closely resembles a real life U.S. political candidate. Cute cat photographs, alot of side-splitting humor and a story that manages very well to keep your interest makes for a wonderful presentation for this very odd story.
+
+[h1]CONCLUSION[/h1]
+
+This was definitely one of the more funny and light hearted visual novels that I've read so far on Steam and not because of the completely ludicrous storyline but more for the developers hilarious sense of humor and satire of the United States political scene as well as the cat candidate that I chose to support during the presidential campaign. The V.N. can be enjoyed by anyone whether you're into politics or not so if you're not a fan of politics PLEASE don't let that deter you from trying this highly entertaining title. As far as options go, there are a number of Steam Achievements to hunt down and Steam Trading Cards to collect. In conclusion, with it's over the top story, humorous situations and cute kitty cats, Cat President-A More Purrfect Union makes for a fascinating read and is HIGHLY RECOMMENDED to visual novel, political and cat fans one and all.",1554042077,1554042077,True,20,5,0.691014230251312256,0,True,False,False,False,,,
+49686738,"{'steamid': '76561198158196956', 'num_games_owned': 3737, 'num_reviews': 189, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1549525298}",english,"In a different reality, United States of America abolished human presidents, replacing them with cats! That’s right, those cute and adorable fuzzy animals are in charge for the last 20 years. To everyone’s surprise, the country is better than ever, but it’s 2016, and once again it’s election time. Can you choose the best cat president from all the possible candidates?!
+
+Developed and published by [i]Oh, a Rock! Studios[/i] (creators of the recent [b]The Pizza Delivery Boy Who Saved the World[/b]) [b]Cat President ~A More Purrfect Union~[/b] it’s their very first title, and we can safely say they started with the right foot, or should I say, the right paw?
+
+Players take on the life of a young woman whose life is somehow slowing drifting away… College is another long lost battle, and considering she’s not the smartest cookie, it’s no surprise, however, her dedication and perseverance make up for it. After a walk in a park with a friend, our protagonist is invited to watch a live presidential national debate. She reluctantly accepts, which will change her life forever!
+
+Cats are running for the presidency, and the battle is fierce. Which one will you support? Listen to the selected candidates, their goals, and ideas for the continuous progression of America. Join their fight, or will you sabotage it? Either way, the election is on, and you play as the campaign manager!
+
+As in every Visual Novel, the narrative is by far the most important detail, and just because the whole concept for [b]Cat President ~A More Purrfect Union~[/b] is as hilarious as it can, doesn’t mean there isn’t a value in its writing. Surely it’s a comedy intended game, and its own funny concept delivers the most amusing narrative you can probably find on Steam! The whole interaction between the main character with the events is just surprisingly hilarious, and the placement of circumstances is most of the times unexpected. One thing is guaranteed though, you’ll giggle all the way through this swift adventure, with quite the amount of surprises waiting for you.
+
+There are quite the choices to be made in this journey, with interactive elements and decisions that reflect long and short term events. Interaction with each candidate displays a different set of developments, as each cat has a distinct personality, and their approach to win the election will take players through different routes.
+
+With multiple endings, there’s also an extra romantic tie associated within the narrative, which is quite the surprise, considering the involvement of humans with cats, then again, they are running the White House, so why not go full on with this? Amusing as it may seem, the dialogue, direction is far away from being absurd, and delivers a stable line of concrete meaning within the storyline.
+
+Would be a shame to have such an incredible concept fulfilled with nonsense, thankfully, it’s not the case. Part of what makes everything come together is how the world portrayed in the game seems already used to this, and throughout the campaign, players will face social media such as Catstergram, political polls, and other events that are well established in this new order.
+
+Visually, the game uses real photographic imagery for both, renders and backgrounds. Most renders are cats, that is, for each of the 6 candidates. Every other character you may or may not encounter are also real actors. There aren’t many renders for candidates, even though the developer team used pictures, it’s not particularly easy to portray a cat with different facial expressions, but there’s still plenty of variations to go with. As for backgrounds, you’ll never feel bored, with dedicated scenes per each situation, which only adds to its well driven flow.
+
+Presentation is somehow simple, with an interface that doesn’t try to be pretentious, and at the same time, does not stain the whole concept with weird text font, which we can always appreciate. It’s still simple and effective. Performance is a plus+ for this one, since it uses photographic images, the quality upscales considerably much better, meaning if you play at 1440p or 4K, the quality will be really good, and yes, I’m looking at all of you who play Visual Novels in the large Screen TV!
+
+A fantastic well portrayed offside reality storyline, with an interesting concept filled with humour and fun characteristic moments. There are no references to the real 2016 election, and It’s entirely a fictional story. It’s also worth being mentioned, that it’s not a parody of any sorts, it’s a real, unique story of its own.
+
+If you like Visual Novels, that have a certain level of interactivity, funny moments and unexpected narrative directions, but still some common sense in it, this is by far the best bet. With a pleasant soundtrack, plenty of cute cats and a sweet romantic outcome included. Far-fetched, yet, in a good way!",1553227236,1553227236,True,13,0,0.650955259799957275,2,False,True,False,False,,,
+49241154,"{'steamid': '76561198231656648', 'num_games_owned': 0, 'num_reviews': 82, 'playtime_forever': 2803, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2803, 'last_played': 1547971735}",english,"Honestly I enjoyed Cat President to an extreme degree. I will not deny a good portion of this was due to my love of cats, the presence of cats, and the deep understanding of cats. Just to be thorough, one more, Cats. Also cat puns. There can never be too many cat puns. The different routes honestly do not take more than a few hours to complete, but that honestly works well. In a way it helps keep the story on track without meandering too much, or getting too silly (or at least any sillier than it already is.). Due to it's briefness, I honestly found it a good game to play when I was short on time, or merely feeling lazy, and needed to relax. It will warm your heart, even if I found certain aspects of the Main Character's relationships to be concerning, it is best not to think too hard about it. This is a silly game, and should not be taken too seriously. Enter with a light heart, an you will leave with one full of contentment. 
+
+Just remember kids, don't do Catnip. Not even once.",1551160079,1551160079,True,5,0,0.580624699592590332,0,False,False,False,False,,,
+49128899,"{'steamid': '76561198022802873', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 560, 'playtime_last_two_weeks': 0, 'playtime_at_review': 414, 'last_played': 1600186755}",english,"Great dating sim, great characters and fun story! Love cats? get it and please stream it to your friends and voice act!",1550706410,1550706410,True,2,0,0.523809552192687988,0,False,True,False,False,,,
+49080793,"{'steamid': '76561198314909236', 'num_games_owned': 0, 'num_reviews': 31, 'playtime_forever': 566, 'playtime_last_two_weeks': 0, 'playtime_at_review': 566, 'last_played': 1528040477}",english,"i love thunderpaw he is very smexy, thank u to my friend who got me this for my bday, i have found my true love a'las",1550528044,1550528044,True,2,0,0.545454561710357666,0,False,True,False,False,,,
+48981996,"{'steamid': '76561198153075098', 'num_games_owned': 3074, 'num_reviews': 15, 'playtime_forever': 5998, 'playtime_last_two_weeks': 0, 'playtime_at_review': 3710, 'last_played': 1550126494}",english,I like the cats.,1550126518,1550126518,True,122,25,0.858702003955841064,6,True,False,False,False,,,
+48924097,"{'steamid': '76561198269207540', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 221, 'playtime_last_two_weeks': 0, 'playtime_at_review': 221, 'last_played': 1518713455}",english,"has cute cats and a weird storyline that kept you intrigued, adorable achievements as well",1549885733,1549885733,True,3,0,0.54356849193572998,0,False,False,False,False,,,
+46515028,"{'steamid': '76561198108265772', 'num_games_owned': 1848, 'num_reviews': 176, 'playtime_forever': 950, 'playtime_last_two_weeks': 0, 'playtime_at_review': 671, 'last_played': 1540169448}",english,"Easily my favourite visual nobel that I've played this year. Cat President gives us a hilarious and interesting tale about a future where humans are banned from being presidents due to their own corruption. As such, you choose to join one of the kitty presidential candidates' campaigns. 
+
+I really liked how despite it's silly concept and presentation, I ended up caring for every character as I played their story. I felt determined to really explore all this game has to offer! Every ending, achievement, etc, was something I wanted to work towards, and just seeing what would happen was a great reward.
+
+This game utilizes images of live actors, but it looks funny instead of cheap. While most of the actors are cats, the few humans we see usually have interesting facial expressions that convey personality. There are even cameos from the developers, but you didn't hear that from me! ;)
+
+Whether you're a cat lover, VN lover, or just looking for a good time, please check out Cat President! It's well worth your money, and when it's on sale it's a total steal!",1542950301,1542950301,True,7,0,0.606573760509490967,0,True,False,False,False,,,
+46084013,"{'steamid': '76561197993503552', 'num_games_owned': 0, 'num_reviews': 67, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1514516678}",russian,"Ни в одну визуальную новеллу я до этого не играл, но мимо «Кота-президента» пройти просто не мог.
+
+Сюжет прост: в какой-то момент люди поняли, что все политики, дорвавшись до власти, рано или поздно становятся коррупционерами. Даже президент с самыми честными глазами, через несколько лет правления почему-то начинает строить не школы и больницы для населения, а шикарные домики для себя, и своих уточек. Также у людей-президентов плохая память, и поэтому очень быстро забываются обещания вывести экономику своей страны в пятёрку лидирующих. Вместо этого в пятёрку лидирующих отчего-то выводятся близкие друзья и соратники. Ну и так далее по списку.
+
+В общем, люди-политики в этом плане слишком ненадёжны, и поэтому принимается решение, что политиками должны быть коты. Кот не будет брать откатов за строительство ненужного моста, да и сам мост строить не будет. Скорее всего, кот вообще ничего делать не будет, потому что у него лапки.
+
+Собственно, мы помогаем вести президентскую компанию одному из таких котов (кота выбираем сами). Плюс в игре есть хитрoжoпая собака, которая, замаскировавшись под кота, также пытается прийти к власти. Хитрoжoпая собака, видимо, олицетворяет коммунистическую партию.
+
+В общем, игра прекрасна. Осталось только дождаться, когда же нашу страну возглавит кот Борис, из рекламы Китекета.",1542843668,1542885974,True,8,4,0.622936666011810303,0,True,False,False,False,,,
+46061078,"{'steamid': '76561197986954467', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1646765067}",spanish,Miau,1542839260,1542839260,True,10,0,0.663779914379119873,0,True,False,False,False,,,
+45923617,"{'steamid': '76561198154105678', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 106, 'playtime_last_two_weeks': 0, 'playtime_at_review': 98, 'last_played': 1547847373}",english,"On the 7th day, god did not rest...He create Cat President ~A More Purrfect Union~. This was the final piece of all of gods creation. The ""Cherry on top"" if you will. And boy, oh boy, is it a sweet cherry. If everyone on earth had a copy of Cat President ~A More Purrfect Union~ we would see no poverty, no hunger, no war, no pain. If this had come out in 1919 we might have been able to stop Hitler. If al qaeda had been gifted a copy of this then we would still have two more towers standing. If I had known about this a mere year earlier Rebecca wouldnt have left me. This game deserves nothing less then pure worship. So I beg everyone, get on your knees and pray to your savior, Cat President ~A More Purrfect Union~",1542775336,1542775336,True,1,3,0.476190477609634399,0,True,False,False,False,,,
+44733987,"{'steamid': '76561198117689758', 'num_games_owned': 1258, 'num_reviews': 420, 'playtime_forever': 286, 'playtime_last_two_weeks': 0, 'playtime_at_review': 286, 'last_played': 1496043654}",english,good game,1536956824,1536956824,True,3,0,0.480866491794586182,0,False,False,False,False,,,
+44070796,"{'steamid': '76561198118957467', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1531422849}",english,it was cheap.. why did i waste my time on this,1533999113,1533999113,False,1,4,0.378221035003662109,0,True,False,False,False,,,
+43474469,"{'steamid': '76561198306072681', 'num_games_owned': 292, 'num_reviews': 26, 'playtime_forever': 173, 'playtime_last_two_weeks': 0, 'playtime_at_review': 172, 'last_played': 1590358110}",japanese,英語なので内容は理解できないのですがたまに猫の鳴き声がするのでそれが聞きたいためにクリックしました、んーにゃん,1531355657,1531355657,True,5,6,0.493622511625289917,0,True,False,False,False,,,
+43043171,"{'steamid': '76561198002184679', 'num_games_owned': 3159, 'num_reviews': 191, 'playtime_forever': 103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1530936352}",english,"This is indeed a visual novel, but with cats.
+
+I was hoping for a little more interaction, for example a game where you choices dictate where the story goes, but sadly that is not the case. If you choose an option that the game does not like, it basically has your character say ""I can't do that"" and then selects the other option.
+
+Your choices do, however make a difference on what ending you get. It basically boils down to if you choose enough of option 1 you get the first ending, choose enough of option 2, you will get the second ending, and if you choose a mixture of options 1 and 2, you will get the third ending. Not much to it, but that is how a visual novel works.
+
+The story itself is cute and funny (and has some nice political commentary - who could ""Thunderpaw"" be based on?) and cat lovers will.... well, love it.
+
+Purrfect? Pawsome? nah, but it aint kitty litter either.",1529948657,1529948657,True,5,0,0.54730069637298584,0,True,False,False,False,,,
+42914326,"{'steamid': '76561198120831051', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 692, 'playtime_last_two_weeks': 0, 'playtime_at_review': 341, 'last_played': 1607741529}",english,cat,1529629713,1614873577,True,5,0,0.489308744668960571,0,False,False,False,False,,,
+42691447,"{'steamid': '76561198012062994', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1499568312}",english,If only real US politics could be this charming...,1528866393,1528866393,True,5,2,0.54356849193572998,0,True,False,False,False,,,
+42647921,"{'steamid': '76561198234584076', 'num_games_owned': 641, 'num_reviews': 177, 'playtime_forever': 1006, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1006, 'last_played': 1528687813}",english,"It's a really cute parody of American elections. But this game will be intersting even for those who are absolutely not into politics. I was so excited to play it being a great cat lover. We can hear those cats purring in the game which is so relaxing and enjoyable! Unfortunately I can't say the same about barking sounds but even they helped to create a general nice atmosphere of the world ruled by cute animals because people became too corrupted.  I find it so adorable that the photos of real cats are used. DJ Nibbles looks especially cute for me!  Plus in every route there're amazing cat pictures on the walls. It was a real pleasure for my eyes to play through this novel! 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1398344812 
+The story is hilarious, it was so funny to read. There are so many cute cat puns. [i] I'm afraid I'm gonna use the word 'cute' a lot, but I can't think about cats without adding cute to them, sorry ;) [/i] My favorite word was catfriend. That moment when Thunderpaw was looking at cute pictures of people on the net was so amusing. 
+
+ All candidates (love options as well) are adorable! Every route contains 10 chapters with three endings each - bad, normal and good. What I liked a lot, when you reach a good ending, the other two endings are unlocked automatically, so there's no need to replay a route again. It's the first time I come across anything like this and it's really nice! Speaking of different endings, it was astonishing for me but the most enjoyable thing in this game, although in a twisted way, was bad endings! In general, the game is light, relaxing and funny. But once you reach bad endings... They were unexpectedly painful, it really hurt, I was so impressed! 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1392579330 
+Once you finish all routes, the bonus will be unlocked with more details. It was so interesting to read about devs, their original ideas of endings, titles. They used not only photos of real cats but photos of them as well. It's kinda cute! It makes you more involved when you see the people working on the game, learn some behind-the scenes information. 
+
+Despite everything I loved in this game, I still don't know if I recommend it or not. Cats have always been a part of my life. I love them unconditionally. I remember when I first saw an otome game where pets turned into humans. I found that idea as the best possible for me. But here we romance actual cats and this is too [strike] disgusting [/strike] disturbing. Those cats were going to undergo the surgery to turn into humans but before it we still read about dates, kissing... In one ending MC even had two kittens and one baby O_o. That's too weird. 
+
+Also, there are no options in this game. So, for example, you can't turn off music. I can't say it was bad, but sometimes I take a break without quitting a game if it's not going to be for long. I may drink a cup of tea while watching anime and then come back to playing but not in this case. :( 
+
+And finally what I disliked most is the main character. I started playing the game with the most good-looking cat for me. That was Dr. Nom-Noms and everything was just purrfect! Then I noticed that in different routes the MC's personality varies. And I found it a great thing! But soon in some routes, practically in half of them, MC became so ditzy, so obnoxious. I was so irritated, annoyed and quite often even ashamed. For me the main character IS me, when I start reading, I dive into a story, merging with the main character. So why, WHY did you make her so dumb, devs? I was irritated so much that I actually stopped playing for a while to calm myself down. But then I thought that it's not just my personal perception. She IS stupid, it is stated by her best friend, parents and her teacher. So it means she was depicted that way intentionally. It was later proved in bonus. I sincerely don't get it! What was the appeal of creating her that silly?!:(( It influenced the whole story! 
+
+So, cute cats and a funny story on the one hand and an irritatingly dumb MC on the other. I am not even sure which is more weighty. After some mulling I guess I'll make this review positive. Cats always win! I must miss something and there's a meaning in creating a really silly MC which I don't get, but the game could be so much better,  in my opinion!
+
+[table]
+[tr]
+[th]Find more in a [url=https://steamcommunity.com/groups/readingnook] Reading Nook [/url][/th]
+[/tr]
+[/table]",1528702379,1563837279,True,15,1,0.625172913074493408,0,False,True,False,False,,,
+42580717,"{'steamid': '76561198223306388', 'num_games_owned': 187, 'num_reviews': 7, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1495404552}",english,"A very cute little dating sim! Each route is fairly short, funny, and you'll probably find yourself surprised at how much the characters grow on you. It'd make a cute gift for a friend, or just something to brighten your day.",1528474564,1528474564,True,4,0,0.519774019718170166,0,True,False,False,False,,,
+42460851,"{'steamid': '76561198258304011', 'num_games_owned': 12343, 'num_reviews': 68, 'playtime_forever': 364, 'playtime_last_two_weeks': 0, 'playtime_at_review': 364, 'last_played': 1527995873}",english,"A nice visual novel about cats.
+
+ + Cats
+
+ This game is Purrfect indeed, I recommend it.",1527995954,1527995954,True,7,0,0.538665890693664551,0,False,True,False,False,,,
+41915379,"{'steamid': '76561198310279027', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 652, 'playtime_last_two_weeks': 0, 'playtime_at_review': 633, 'last_played': 1603783101}",english,0/10 can't date Banders. other than that good game just that tiny little bug that has been BUGging me,1525755536,1525755536,False,3,1,0.434814006090164185,2,True,False,False,False,,,
+41794709,"{'steamid': '76561198026321085', 'num_games_owned': 4097, 'num_reviews': 225, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 236, 'last_played': 1525007508}",russian,"Cat President ~A More Purrfect Union~ - визуальная новелла про котов, баллотирующихся в президенты.
+
+Для адекватного восприятия сюжета и чтения требуется хорошее знание английского языка. Если ваш уровень английского языка на начальном уровне или вовсе отсутствует, рекомендуется проходить мимо данной игры.
+
+Людям в правительстве больше не доверяют и полностью в них разочаровались, поэтому было принято на месте президента странны выбирать четырехлапого пушистика. Представьте стандартную хорошую визуальную новеллу. Теперь представьте, что вместо японских школьниц или девушек, у вас шесть кошек. Все имеют различный набор характера, качеств и целей. А ваша роль вместо ухажера, это быть менеджером президентской кампании одного из котов. 
+
+По канону, имеем развитие сюжета зависящее от ваших выборов и предпочтений. Каждый ваш выбор также имеет несколько различных концовок, все они разные и запомнятся по своему.
+
+Хорошая визуальная новелла в своем уникальном сеттинге. Отлично подойдет как и любителям жанра, так и любителям кошек. При наличии хорошего знания английского языка, рекомендуем!",1525181160,1525181160,True,11,2,0.536829650402069092,0,False,False,False,False,,,
+41757849,"{'steamid': '76561198111084847', 'num_games_owned': 363, 'num_reviews': 4, 'playtime_forever': 377, 'playtime_last_two_weeks': 0, 'playtime_at_review': 377, 'last_played': 1524886201}",english,"[b]I recieved this game for free on my Steam curator page [url=https://steamcommunity.com/groups/catscatscatslove]Cats, Cats, Cats!![/url] but getting it for free did not affect my opinion of the game.[/b]
+
+I really loved this game. It is genuinely funny, has good writing and makes a lot of good points about the way the government works in the US. As someone from the UK, it's not a process I'm overly familiar with so it was nice to get a little more insight. Of course, due to the nature of the game some things were changed for the world building aspect but it was still interesting.
+
+Each candidate has a different personality and the things they must do for their campaign to be a success vary. There are weaknesses that need to be crushed, debates to be won and plenty of scandals! As the campaign manager, you've got to make the right choices or your campaign will fail! Or worse-- your love life could take a nosedive!
+
+What I found particularly wonderful about this game though, is how each route made you want to cheer for the cat you'd chosen. Having played through them all, I can't really decide who I'd want most as the president or as my lover. The choices are all great!",1525017390,1525017523,True,4,0,0.52702707052230835,0,False,True,False,False,,,
+41703170,"{'steamid': '76561197999899413', 'num_games_owned': 5069, 'num_reviews': 344, 'playtime_forever': 324, 'playtime_last_two_weeks': 0, 'playtime_at_review': 324, 'last_played': 1524628282}",english,"[url=http://store.steampowered.com/curator/32482033/]Crim's Humble Opinion Curator[/url]
+
+A hilarious political farce visual novel portraying the interesting situation of America choosing to ban humans from politics due to the corruption. Do you love cats? Because that's the second best choice to humans to run the government in this world. You have six different characters to choose from which all have three different endings. 
+
+There are several great things that you will enjoy with this visual novel. The paths are intelligently intertwined. You may find see character A drop out of the race for some reason during character B's path; but not figure out why until you play character A's path. The characters are diverse and there isn't much repeating dialogue. The start dialogue is about the only thing that will repeat and you can easily skip it. Another interesting feature I enjoyed is if you unlock the good ending, you automatically unlock the bad ending and normal ending. 
+
+The best thing about this game is the cute characters and the hilarious dialogue. I thought it may be possible that the humor would not be as strong for someone who doesn't understand American government; but it does a pretty decent job. There are a few times where it may delve into it a bit heavier much like World End Economica does with economics; so be prepared for a little bit of political information. The politics fanfare music fits the tone of the game as well. 
+
+About one of my only gripes with this game is that at times the choices were a bit to easy. This isn't bad, but it sets this visual novel up as really casual. At a decision you essentially have the obvious correct choice and the obvious incorrect choice; aside from choices that don't affect the route. If it does involve the path; you will hear a noise if you made the ""correct"" decision. If you didn't make the correct decision, than you can either continue on or just scroll back through the text and make the other decision. 
+
+[h1]Pros[/h1]
++Cute characters
++A fair amount of ""different"" content, including bonus content
++Great humor
++Paths have cross path references
+
+[h1]Mix?[/h1]
+~Political understanding may be hit and miss
+
+[h1]Cons[/h1]
+-Decisions may be a bit casual for visual novel standards
+
+In the end there is a great amount of content in this visual novel. If you enjoy cats or political humor this is a great play. There is around 5 to 6 hours of reading to be done here so you're getting a nice amount of story. The characters and interesting and fun. I can easily recommend this title, so check it out.",1524763731,1606847993,True,20,0,0.665345549583435059,0,False,True,False,False,,,
+41565552,"{'steamid': '76561198153343002', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 155, 'playtime_last_two_weeks': 0, 'playtime_at_review': 155, 'last_played': 1524190548}",english,"i love this game.   i love cats.  my favorite cats in this game are Dr Nom Nom, Kale and Frisky.  I didnt really like the mean Thunderjaws.  i recommend this awesome game to anyone 9.5/10",1524113476,1524113476,True,3,0,0,0,True,False,False,False,,,
+40728160,"{'steamid': '76561198092412714', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 208, 'playtime_last_two_weeks': 0, 'playtime_at_review': 128, 'last_played': 1548022720}",english,"So this cat hired me to run his presidential campaign but all I want is to bone him.
+
+And I won't stop until I do.
+
+That's what this game does to you.
+
+And I have no regrets.",1520733246,1520733246,True,6,3,0.582089543342590332,0,True,False,False,False,,,
+39574059,"{'steamid': '76561198166689447', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 372, 'playtime_last_two_weeks': 0, 'playtime_at_review': 372, 'last_played': 1517018793}",english,get this right now. dont fucking hesitate.,1516772543,1516772543,True,2,1,0,0,True,False,False,False,,,
+39399726,"{'steamid': '76561198406037361', 'num_games_owned': 71, 'num_reviews': 24, 'playtime_forever': 522, 'playtime_last_two_weeks': 0, 'playtime_at_review': 418, 'last_played': 1517698419}",english,Its a really funny game ! And plot twists omg...,1516138738,1516138738,True,2,0,0,0,True,False,False,False,,,
+38833292,"{'steamid': '76561198143628479', 'num_games_owned': 428, 'num_reviews': 28, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 177, 'last_played': 1593862286}",english,My kitten is named DJ nibbles because of this,1514579806,1514579806,True,2,4,0,0,True,False,False,False,,,
+38226620,"{'steamid': '76561198085653287', 'num_games_owned': 346, 'num_reviews': 76, 'playtime_forever': 119, 'playtime_last_two_weeks': 0, 'playtime_at_review': 58, 'last_played': 1519190205}",english,This is a very good.  I almost wanted to cry a few times.,1512961319,1512961319,True,5,1,0.55092853307723999,0,True,False,False,False,,,
+37855270,"{'steamid': '76561198056791538', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 84, 'last_played': 1524098647}",english,"Do you like cats?
+Do you like humor?
+Do you like politics? 
+Okay, well... nevermind the politics. There's cats. Also this is a world where the politicians have been replaced with cats so even the politics is much more fun. There's plenty of romance, and no inappropriate groping. Really the best of all worlds. 
+
+It's a visual novel where you get to pick your favorite cat, kitten or ... Rover... and get them into the White House where they belong. It's a fun, well put together game by a small studio and deserves a play. Go Team Kale!",1511849316,1511849316,True,3,1,0.508928596973419189,0,False,False,False,False,,,
+37392177,"{'steamid': '76561198081182151', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 443, 'playtime_last_two_weeks': 0, 'playtime_at_review': 443, 'last_played': 1499267312}",english,This is a fun little game with an admittedly silly premise. I think I got my money's worth. Make America Thunderpaw!,1511548278,1511548278,True,4,0,0.531914889812469482,0,True,False,False,False,,,
+37266567,"{'steamid': '76561198182980546', 'num_games_owned': 0, 'num_reviews': 40, 'playtime_forever': 259, 'playtime_last_two_weeks': 0, 'playtime_at_review': 239, 'last_played': 1546805385}",english,Good Story(s).,1511500045,1511500045,True,3,0,0.508928596973419189,0,True,False,False,False,,,
+37034417,"{'steamid': '76561198036022873', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1568745427}",english,"Cat President, Cat President, Cat President, Cat President oops sorry I did not see you there, this game is a wonderful piece of Cat President, Cat President, Cat President opps sorry again I do not know what went over me but this game YOU SHOULD BUY AT ALL COSTS YOU MUST THIS IS A AMAZING GAME AND WORTH THE TIME AND EFFORT Cat President, Cat President, Cat President, Cat President...",1511438223,1511438223,True,1,2,0.509018003940582275,0,True,False,False,False,,,
+34323263,"{'steamid': '76561197983019703', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 2733, 'playtime_last_two_weeks': 0, 'playtime_at_review': 386, 'last_played': 1695003242}",english,"this game is fun and funny in a world of taking cats only cats can run for presdent 
+and you have to help one to become the next presdent is must for cat lovers
+and those who like to play funny games",1503043159,1503043159,True,2,0,0,0,True,False,False,False,,,
+32957005,"{'steamid': '76561197971289550', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 164, 'playtime_last_two_weeks': 0, 'playtime_at_review': 164, 'last_played': 1498765264}",english,"Lizzy is a hottie, can I have her phone number?",1498682177,1498682177,True,0,1,0.483293533325195313,0,True,False,False,False,,,
+32917434,"{'steamid': '76561198066900945', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 777, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1511484548}",english,"I bought this game because I thought it looked cute. A game in which cats run for president seems really cute and nice. Little did I know it would do to me. Needless to say, I definitely am shooketh. My reactions to this game have been fairly extreme, but that is because I was not expecting anything this game through at me, and of course my friends think it is funny to watch me suffer through it.
+
+
+It was not what I was expecting, but worth every penny.
+
+
+I feel so bad for Kale :,(",1498634689,1498634689,True,4,1,0.548872172832489014,0,True,False,False,False,,,
+32807718,"{'steamid': '76561198124835313', 'num_games_owned': 198, 'num_reviews': 13, 'playtime_forever': 182, 'playtime_last_two_weeks': 0, 'playtime_at_review': 182, 'last_played': 1498455339}",thai,"เกมนี้เราจะสวมบทเป็นเลขา ที่ผลักดันให้แมวเป็นประธานาธิปดีของประเทศให้ได้
+เกมเป็นแบบตอบคำถาม พร้อมบทสนทนแบบกาว ๆ และมุกตลกแบบฝรั่ง
+",1498469751,1498469751,True,1,1,0,0,True,False,False,False,,,
+32792443,"{'steamid': '76561198040835910', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 392, 'playtime_last_two_weeks': 0, 'playtime_at_review': 353, 'last_played': 1497527461}",english,"Although slightly dated due to its satirical representation of the 2016 US election, CPAMPU is a great sendup of visual novels.  And hey, cats can become president.",1498432257,1498432257,True,3,3,0.52407371997833252,0,False,False,False,False,,,
+32380285,"{'steamid': '76561198282359711', 'num_games_owned': 99, 'num_reviews': 37, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1495584577}",english,"I was expecting more of a tycoon kindo of game and was sort of dissapointed that it was a rpg aimed for 13 year old girls.
+
+*Edit* lol i probably should of read the desctription tho! oh well $10 dollars down the drain.
+*sigh* why?
+
+*Another Edit* it really wasnt even interactive so it wouldnt really clasify as an RPG (NVM)",1497326521,1513407503,False,4,3,0.276554286479949951,1,True,False,False,False,,,
+30825265,"{'steamid': '76561198067439095', 'num_games_owned': 292, 'num_reviews': 1, 'playtime_forever': 554, 'playtime_last_two_weeks': 0, 'playtime_at_review': 502, 'last_played': 1498587075}",english,"A short but sweet cat dating sim. Not as heavy as Hatoful Boyfriend, but a good chuckle for anyone who enjoys political satire. A+ would date cats again.",1490842015,1490842015,True,10,0,0.624047696590423584,0,False,False,False,False,,,
+30284095,"{'steamid': '76561198061514868', 'num_games_owned': 1598, 'num_reviews': 244, 'playtime_forever': 261, 'playtime_last_two_weeks': 0, 'playtime_at_review': 261, 'last_played': 1488492288}",russian,"[h1]Люди слишком ненадежны, поэтому к политике отныне допущены только кошки! [/h1]
+
+Cat President - типичная визуальная новелла с весьма оригинальным сеттингом. Нам предстоит стать менеджером президентской компании одного из шести котиков-кандидатов. Каждый из них наделен собственным набором личностных качеств, прямо как настоящие люди. Среди качеств есть характер, цели, антураж в выступлениях перед широкой публикой и другие. По этой причине каждая из сюжетных компаний, имеющих по 3 концовки, обладает собственным колоритом и запоминается чем-то своим. 
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=767034617
+[b]Если другие новеллы разбавлены кисками, то в этой только кошки.[/b]
+
+К сожалению, на интересном антураже и идейном исполнении плюсы «Котика-Президента» заканчиваются. Новелла перенасыщена англоязычным текстом, читать который спустя ~час становится просто утомительно и банально надоедает. Большого простора для выбора, кроме основной развилки, также не предоставляется, а визуальное наполнение игры выполнено исключительно статичными картинками. Нередко встречающиеся черные экраны так вовсе вгоняют в уныние. Ах да, без знания английского на хорошем уровне здесь делать вообще нечего.
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=783163064
+Сопровождается чтение текста тремя повторяющимися композициями. К счастью, они меняются в зависимости от ситуации, что создает небольшую динамику. Впрочем, изменить громкость звука, как и все остальные параметры игры, вам все равно не удастся. Меню настроек просто-напросто отсутствует. Привычного интерфейса из новелл вы здесь также не встретите, приходится сохраняться через меню паузы в правом углу экрана. 
+Лайфхак: чтобы растянуть окно с игрой во весь экран, просто потяните за его край ;)
+
+У игры очень много недостатков, исправлять которые никто уже не станет, а единственное её достоинство заключается в необычном сеттинге. Если бы была возможность поставить игре оценку точно между пальцами «вверх» и «вниз», я бы так и сделал. 
+http://steamcommunity.com/sharedfiles/filedetails/?id=841864014",1488487394,1488487447,False,23,4,0.589205443859100342,0,False,True,False,False,,,
+29710138,"{'steamid': '76561198042563346', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 97, 'playtime_last_two_weeks': 0, 'playtime_at_review': 97, 'last_played': 1486173664}",english,"This game made me question my feelings on bestiality. 
+cat/10, would cat again.",1486270138,1486270138,True,3,2,0.362472802400588989,0,True,False,False,False,,,
+29306089,"{'steamid': '76561198239211146', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 314, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1698965141}",english,This Game was amazing. I had so much fun rooting for my pick Kale. This game is worth all of the $9 you have to pay for it. If you are a Cat Lover buy this right now.,1484608306,1588506913,True,5,3,0.453332841396331787,0,True,False,False,False,,,
+28882585,"{'steamid': '76561198032583404', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1014, 'playtime_last_two_weeks': 0, 'playtime_at_review': 909, 'last_played': 1490656502}",english,"This game is really funny, and for people who like cats, a must. Cat romance - lol. I helped 3 cats so far, but I fear thunderpaw a little. Would prefer a male char for his story.",1483220041,1483220041,True,6,0,0.499812662601470947,3,True,False,False,False,,,
+28522573,"{'steamid': '76561198087834803', 'num_games_owned': 0, 'num_reviews': 228, 'playtime_forever': 438, 'playtime_last_two_weeks': 0, 'playtime_at_review': 367, 'last_played': 1530862418}",english,"Tries to be [i]Catoful Boyfriend,[/i] but doesn't quite get there. A big part of why [i]Hatoful Boyfriend[/i] works so well is that it starts with a one-note joke, but gradually reveals a complex story structure and lore, ending with a (probably well-spoiled by now) plot twist and genre shift. [i]Cat President[/i] starts with a one-note joke and never strays far from it, so if you don't find the idea of talking cat politicians inherently funny, it'll get old really fast.
+
+It's a visual novel with no gameplay, and the choice structure is very simple (pick a cat, make some choices along a linear plot and have a sound effect tell you if you chose correctly, then reach one of three endings based on how many correct choices you made). Your choices basically don't affect anything but the ending, so replaying involves skipping a lot of text, and the correct choice indicator should have been optional, because although it takes some of the frustration out of finding the good endings, it takes some of the fun out of it, too.
+
+Characters and lore are inconsistent from one route to the next, which feels like an intentional decision by the writer to just go with whatever's funnier in context, so I don't think it's a bad thing. And while I understand the desire to not make the game feel too partisan or dated, the game's political satire feels vague and weak instead.
+
+All that said, I still found [i]Cat President[/i] an amusing read with many hilarious one-liners and a fair amount of content for the price (6 routes at 1 hour each, as a fast reader). Not as good as it could have been, but if you're a visual novel fan and the premise makes you chuckle, it's certainly worth checking out on sale.
+
+[spoiler]Just make sure you play it with headphones if you have cats or they will go crazy.[/spoiler]",1482387204,1482387204,True,30,1,0.715374648571014404,0,False,False,False,False,,,
+28133853,"{'steamid': '76561197960272710', 'num_games_owned': 0, 'num_reviews': 50, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1473046501}",english,"While entertaining as a spoof, the novelty wore off after around 15-20 minutes for me.  The game play is as simplistic as it can possibly get.  The humor is bright and lively, sometimes even nuanced - but it tends to get more and more canned feeling later in the game.  I can't recommend this game, unless it is deep in sale territory.  It is worth around 30 minutes of entertainment if a point and click comedy game is your thing.  Don't expect much.",1480662634,1480662634,False,6,0,0.530822813510894775,0,True,False,False,False,,,
+26861947,"{'steamid': '76561198073620622', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 111, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1484128961}",german,I liek cates.,1479933012,1479933012,True,10,6,0.535655677318572998,3,False,False,False,False,,,
+26750331,"{'steamid': '76561198040830522', 'num_games_owned': 1142, 'num_reviews': 69, 'playtime_forever': 649, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1514183749}",english,"Very interesting game, If I was an american I shure would vote Frisky ;)",1479838412,1479838412,True,3,1,0.490649253129959106,0,True,False,False,False,,,
+26482880,"{'steamid': '76561198102304008', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1478562574}",english,The  Purrfect game!,1478570855,1478570855,True,4,2,0.391790091991424561,0,True,False,False,False,,,
+26422885,"{'steamid': '76561198204218484', 'num_games_owned': 380, 'num_reviews': 95, 'playtime_forever': 391, 'playtime_last_two_weeks': 0, 'playtime_at_review': 391, 'last_played': 1479868440}",english,"Beat this game and it was great. Buy this now. Also Rover is best cat beacuse dog racism is too rampent, except for every other storyline where there is no dog racism.",1478292289,1519692608,True,10,6,0.545540034770965576,0,True,False,False,False,,,
+26159256,"{'steamid': '76561198060099997', 'num_games_owned': 75, 'num_reviews': 8, 'playtime_forever': 251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 166, 'last_played': 1566260735}",english,"A funny take on the 2016 election, with cats. Genius! Overall, the game does a good job at parodying the election, and it enjoyable with lots of replay value.",1477124973,1477124973,True,5,0,0.462949872016906738,0,True,False,False,False,,,
+26061780,"{'steamid': '76561198137812506', 'num_games_owned': 142, 'num_reviews': 19, 'playtime_forever': 568, 'playtime_last_two_weeks': 0, 'playtime_at_review': 418, 'last_played': 1533337147}",english,is aight,1476590588,1589339265,True,8,1,0.497062832117080688,0,True,False,False,False,,,
+25594063,"{'steamid': '76561198256503123', 'num_games_owned': 210, 'num_reviews': 3, 'playtime_forever': 88, 'playtime_last_two_weeks': 0, 'playtime_at_review': 88, 'last_played': 1474151510}",english,"Original Review posted at Respawning.co.uk! (http://respawning.co.uk/pc/cat-president-review/)
+
+Cat President – A More Purrfect Union is a pure gem of a game; this enthralling Visual Novel puts you in the shoes of yourself, running alongside one of six complex Purresidential Candidates; Frisky, the perverted, woman-loving houn-…Uh…Feline; Thunderpaw, the Trump-inspired, racist candidate whom has a mass legion of catty, racist followers; DJ Nibbles, the innocent, pure candidate that has ambitions for Purresidency; Dr Nom Noms, a candidate that never intended to become a candidate; Kale, the beaten dark…Uh…Cat candidate (I can’t really use dark horse here can I?); and, finally, Rover, a purebreed cat that simply wants equality for all and is totally not hiding some sort of secret at all, no, not at all. Pinky promise. Swear on my life.
+
+After witnessing a rather heated debate between the six candidates, you get hired by whichever one you choose, and follow them in their journey into Purresidency…On your way you’ll experience love…Betrayal…Racism…Sabotage…And much, much more.
+
+Let me say this right off the bat, and address the elephant in the room; yes, yes you can romance each and every one of the candidates. Yes, it’s odd, and yes, it’s bizarre, but hey – It just enhances the feel of the game; the game throws you into a world of witty dialogue, well-crafted plot threads and interesting characters; and I’m not even being sarcastic there! The game legitimately has some amazing characters, and despite the ridiculous plot and dimwitted main character, I was on the edge of my seat at each revelation.
+
+Each campaign will set you back around 90 minutes each to finish the 10 Chapters in each candidate’s campaign, meaning you’ll get around 540 minutes, or 9 hours of gameplay, if you get the best endings on your first attempt. The dialogue alone makes up for the time invested, especially if you’re voicing each of the characters with friends, just go in open minded and have fun!
+
+For my playthrough, I followed Rover’s campaign, and, whilst I won’t disclose spoilers in this review, I was shocked at some twists and turns when the cat was let out the bag; the main reveal of the story left me barking mad, especially since I hadn’t even had a single bone thrown my way – The way that certain characters and candidates pussiefoot around certain situations truly left an impact on me.
+
+For me, Cat President is just a whole lot of dumb fun; the game isn’t visually pleasing, nor is it technical in any leaps or bounds, but my god do I love it – This game is definitely one to keep out of the litter box, and should be set atop the scratching posts of fame for just how much fun you can have with it after a few drinks with some purrfect company.
+
+I would rate Cat President a 7/10.
+
+Want the hard facts, bare truths and freshes gaming news? Check out more at Respawning.co.uk!",1474319793,1474320242,True,3,0,0.509090900421142578,0,False,True,False,False,,,
+25456181,"{'steamid': '76561198131340987', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 628, 'playtime_last_two_weeks': 0, 'playtime_at_review': 541, 'last_played': 1511644894}",english,"A fun, light hearted game.  Though Cat President is not as polished as Hatoful Boyfriend, it's a similar gaming experience.  A very solid product, considering the small window of time the devs had to complete this game!
+
+You don't have to be heavily following politics to be entertained by the dialogue.  You do have to be a fan of parodies and of cats.  Then, you're set for a pleasant ride & a lot of laughs.",1473570436,1473570518,True,6,1,0.513755738735198975,0,True,False,False,False,,,
+25451693,"{'steamid': '76561198096473380', 'num_games_owned': 3957, 'num_reviews': 110, 'playtime_forever': 240, 'playtime_last_two_weeks': 0, 'playtime_at_review': 240, 'last_played': 1473545825}",english,NEKOPARA Vol. 3,1473545311,1473545311,True,1,15,0.445000439882278442,0,True,False,False,False,,,
+25407115,"{'steamid': '76561197987848832', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1538603339}",english,KALE FOR PRESIDENT OR DIE,1473317299,1473317299,True,2,1,0.453144878149032593,0,True,False,False,False,,,
+25293313,"{'steamid': '76561198325349853', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 152, 'last_played': 1696820191}",english,"I loved this game, I honestly was very skeptical about it due to the price but, my love for cats got the best of me and I'm glad it did. First of all I like its goofy style, It's not ment to look like the best game in the world making it baddly hilarious. I reccomened playing it with a friend for more laughs.",1472764540,1472764540,True,2,0,0,0,True,False,False,False,,,
+25279742,"{'steamid': '76561198094325736', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 213, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1472700519}",english,"I quite reccomend this game, as someone who enjoys playing visual novels from time to time. The writing was surprisingly funny and provided good quality entertainment as I was going through it. Apt timing with the election coming up too. The only caveat is that some people find the price tag of 8.99 a little too high -- it could probably sell more dropped down a dollar or two, but I at least thought it was worth it once I played through the routes.",1472702445,1472702445,True,2,0,0,0,True,False,False,False,,,
+25262411,"{'steamid': '76561198144339096', 'num_games_owned': 233, 'num_reviews': 10, 'playtime_forever': 189, 'playtime_last_two_weeks': 0, 'playtime_at_review': 172, 'last_played': 1528859646}",english,Amazing Game and a amazing story,1472618878,1472618878,True,1,0,0.44219505786895752,0,True,False,False,False,,,
+25200493,"{'steamid': '76561198045882100', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 155, 'playtime_last_two_weeks': 0, 'playtime_at_review': 155, 'last_played': 1472261293}",english,"Don't get this if you want a 'serious' visual novel, it's just a cute parody that makes for good streaming material. Made me chuckle multiple times. I'd say give it a shot once the price goes down and see what you think.",1472371454,1472371454,True,21,2,0.625900745391845703,0,True,False,False,False,,,
+25167763,"{'steamid': '76561198003460818', 'num_games_owned': 1182, 'num_reviews': 16, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 104, 'last_played': 1492578838}",english,"TL;DR: This game was fun but all the free assets don't make it worth the current price.
+
+This game was pretty fun and I enjoyed it a lot. I only played one route so far, I got Kale's good route, but I do plan on going back and trying the other routes. Not sure if this was worth the current cost though ($8.09 on a sale, but full price is $8.99). The reason I feel this is because this was made using Ren'Py.
+
+Now, for those of you unfamiliar with the engine or game dev in general, Ren'Py is a really nice Python engine for making visual novel games. Most visual novels you've probably tried or will try are written in this. The reason for this being it has all the features of regular visual novels already built in. It's free, you can download it yourself and play around with it, but the main thing with it is it makes visual novel making so much easier that all the programming is pretty much done. All you really need to focus on is the writing, art, and sound, because Ren'Py is set so that you just have to assign the assets to variables and then use them in a kind of movie script.
+
+There's nothing wrong at all with using this engine, it's really ncie and convinient, but the problem is the assets using for the game. Most of them are free assets found online. So really when you pay for the game you're really paying for the script writing.
+
+Again, this isn't me saying this game is bad at all, and I can more than understand why a game dev would feel their game deserves to be priced the way it is. I don't know how much money was actually spent behind the scenes on this game, so maybe I'm wrong about some things. But to me, it definitely feels the price is a bit too high.
+
+Some have compared this game to Hatoful Boyfriend, and I can definitely agree on the resemblance since it's a funny concept visual novel and the birds in that seem like free or cheap assets as well, but that game has lots of assets that were made by the devs as well. In fact the birds even have human personas drawn by the devs. Meanwhile, this game doesn't seem to have any assets that are the actual dev's own creation. In the credits of this game, almost all images are attributed to Flickr.
+
+But again, I have no problem paying for writing and a fun experience. I don't regret this purchase at all, in fact I'm going to be playing it more for all the routes. I just don't think the current price is fair is all. Despite this, I don't feel this game was a rip off like others think. I think any dev has the right to charge whatever they want for their game and that if any buyer doesn't like what they got, just refund it. It's the dev's job to make the player not want to refund it, but also too many people buy visual novels these days and are disappointed when they find out it's not exactly a ""game"" game. That's not the dev's fault.
+
+ALSO one last thing, why isn't there an options menu? I want to adjust music volumes but there doesn't seem to be a way to do so. I know Ren'Py has a built in settings option, so why disable it?
+
+In conclusion, this game was fun and I hope you give it a chance, but if you don't agree with the price I understand. VOTE FOR KALE!",1472240398,1472240502,True,12,0,0.622731983661651611,0,True,False,False,False,,,
+25167459,"{'steamid': '76561198047407114', 'num_games_owned': 313, 'num_reviews': 3, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1472055270}",english,"This game is stupidly fun
+highly highly recommend 
+
+for those who want to see some of the game before buying i did a video on the start of it
+https://www.youtube.com/watch?v=C8VwbhGaZno",1472239319,1472239319,True,0,1,0.472640752792358398,0,True,False,False,False,,,
+25166697,"{'steamid': '76561198046231915', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1472321447}",english,Rover is a dog!!,1472236497,1472236497,True,4,5,0.512717843055725098,2,False,True,False,False,,,
+25152789,"{'steamid': '76561198044694564', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1472169696}",english,"I received this game for free in exchange for a review. I'm an avid fan of visual novels, dating sims, and cats, so I was imediately interested in Cat President. The concept of the game reminded me of hatoful boyfriend, another visual novel in which you date birds instead of people. So this was like that, but with cats instead of birds. 
+
+I just completed Frisky's Route and got the Normal Ending. The route probably took close to 2 hours to complete, so given that there are 6 dateable guys, err cats... and a dog... lol, this game will take about 12-15 hours for most people to complete. I think there are ""better"" endings than the one I got, so I will have to replay Frisky's route again sometime, as well as spend time playing the other routes in the game.
+
+I was pleasantly surprised by the quality of the writing in this game. I wasn't really expecting much, to be honest, but the characters are strangely relateable in an odd way. They have human qualities, human flaws, that not only can one see in our political candidates right now, but also probably in their friends and romantic partners. 
+
+The game is light hearted and silly, but it still has some deep or insightful moments as well as moments of drama and intrigue. While it didn't move me to cry, it did move me to laughter many times, and it held my attention long enough to complete the route in one sitting.
+
+My only real critique or complaint was against the art. If this had hand drawn, more anime-ified artwork, I think it would appeal more to its target audience, which is women like me who love visual novels. Too bad they couldn't have funded some cute anime kitty artwork for the game, but the ""stock photos"" are not bad. Cats, especially real life ones, are cute! But they needed more poses/expressions for each of the characters, to help show their emotions more! Also one of the candidates is supposed to be a kitten, but they used a stock photo of a full grown cat? It would've been cute to have a kitten candidate lol.",1472171513,1472171513,True,6,0,0.580451309680938721,0,False,True,False,False,,,
+25133437,"{'steamid': '76561198072349096', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1472058526}",english,"Really funny and awesome graphic novel!
+*Warning* Lots of puns...
+https://www.youtube.com/watch?v=pGPGhdoVXX0
+Here's also my full playthrough of the game! Enjoy! But play the game yourself first! :)
+
+Stay Rad Everybody!!
+/RadiCarl",1472136448,1472136448,True,1,0,0.378565400838851929,0,True,False,False,False,,,
+25113913,"{'steamid': '76561198322622376', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1472049737}",english,"==Cat President Feedback==
+-Rover has my vote.
+-So much of this game is text-- I really wish it properly animated the dialogue. You know-- reveal the sentences character by character.
+-With multiple characters on screen, it can be challenging to tell who’s talking. I wish they would highlight as they talk. When one cat says “That over there is thunderpaw”, I have no idea which of the other two cats he’s talking about,
+-Some sound effects during speech would be nice. For example, have a “meow” occur with new lines. As it is, there is no audio indication that someone is talking. I like how the Shantae / Zelda series handle this-- you often get a tiny voice clip when a conversation starts, such that you know you’re talking with someone, and know what their voice sounds like.
+-Starting the game, I assumed I was a cat, named myself “PussyPants”, then found out I was a human two scenes later. Gotta make that more clear from the get-go.
+-Kale and the Dr (the two cats in the hallway) look similar. It’s practically a guarantee they will be confused with one another.
+-Seeing as Lizzy’s a human actor, and is probably more receptive to pose suggestions than cats would be, it would have been nice to get different stills from her. As it is, she has this odd “stare-longingly-into-your-soul” still, which feels out of place in a few scenes.
+-A shame you don’t get to actually listen to the candidate’s responses in the initial debate. As we’ve seen from this IRL presidential election cycle, it can be tremendously entertaining.
+-Moving quickly through the dialogue, I would often get to a set of question responses, only to have forgotten what the question was. Please keep the question at the bottom of the screen.
+",1472049999,1472049999,False,76,11,0.544876575469970703,4,True,False,False,False,,,
+25107360,"{'steamid': '76561197970883414', 'num_games_owned': 0, 'num_reviews': 63, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1472021225}",english,"I have an orange tabby on my chair here that has snuggled with me as I found my way into the soft, fluffy heart* behind Thunderpaw's harsh yet also fluffy exterior. Fear not, reader: even Thunderpaw's story features enough other characters that you will not be thoroughly deprived of cute cats, chuckles, and some thoughts slightly deeper than Jack Handy's. The presentation is lowest budget but the writing's not bad - I suspect some of the other character choices are more fun and justify the price when added together.
+
+*I'm assuming his heart would be fluffy if only because, my God, have you seen how much these things shed this time of year? Hair so omnipresent that you WILL believe two objects can exist in the same place at the same time until separated with a good brush.",1472022243,1472022243,True,7,6,0.542370140552520752,0,True,False,False,False,,,
+25107052,"{'steamid': '76561198044374740', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 76, 'playtime_last_two_weeks': 0, 'playtime_at_review': 76, 'last_played': 1472020349}",english,Got sexually harrased by a cat 10/10 would play again.,1472020519,1472020519,True,15,50,0.406130820512771606,0,True,False,False,False,,,
+25106276,"{'steamid': '76561198095957139', 'num_games_owned': 706, 'num_reviews': 4, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1472448675}",english,"VOTE FOR KALE!
+
+11/10",1472015714,1472015714,True,8,5,0.335559487342834473,0,True,False,False,False,,,
+25106121,"{'steamid': '76561198058105007', 'num_games_owned': 1724, 'num_reviews': 13, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 61, 'last_played': 1479240514}",english,"I really like cats.
+
+Dr. Nom-Noms is the true route.",1472014762,1472014762,True,12,5,0.512858808040618896,0,True,False,False,False,,,
+25104328,"{'steamid': '76561198040757002', 'num_games_owned': 897, 'num_reviews': 96, 'playtime_forever': 397, 'playtime_last_two_weeks': 0, 'playtime_at_review': 397, 'last_played': 1472071533}",english,"If you're looking for a serious dating sim, then you're going to be disappointed.
+If you're looking for a weird adventure along the lines of Hatoful Boyfriend or Hustle Cat, you'll probably love this.
+I decided to go DJ Nibbles' route and got the good ending.
+There were several times where I was caught off guard and spit out my drink laughing (not going to spoil them, but I'll say they involved a strange man with a flag tattoo and a podium)
+If you're looking for a generic anime looking dating game, once again, you'll probably be let down. If you're looking for comedy and a fun story, you'll like this. I also recommend playing with friends so you can give each of the characters different voices- this would be really fun for a letsplay video.
+The only thing I feel a little let down by is the lack of achievements- which would be perfect for this game :/
+UPDATE: I've played through every route and the bonus content- I'm tied between Kale and DJ Nibbles as best president
+my biggest complaint now is [spoiler]WHERE IS THE BANDERS ROUTE? I'M WAITING ON MY BANDERS DLC, CHOP CHOP[/spoiler]",1472004874,1472071697,True,71,12,0.726213932037353516,11,True,False,False,False,,,
+25101623,"{'steamid': '76561197983004221', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 150, 'playtime_last_two_weeks': 0, 'playtime_at_review': 119, 'last_played': 1476933723}",english,Best $8 ever.  Dr. Nom Noms FTW.,1471992849,1471992849,True,12,9,0.335556209087371826,0,True,False,False,False,,,
+25099976,"{'steamid': '76561198064146232', 'num_games_owned': 437, 'num_reviews': 16, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1471987801}",english,"What the fuck
+
+Vote for Kale",1471987832,1471987832,True,20,15,0.346750348806381226,0,True,False,False,False,,,

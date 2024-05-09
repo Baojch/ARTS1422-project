@@ -1,0 +1,13 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+117650095,"{'steamid': '76561198277602008', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1656247035}",english,Multiplayer doesn't work,1656247000,1656247000,False,1,0,0.525862038135528564,0,True,False,False,False,,,
+30400365,"{'steamid': '76561198063500766', 'num_games_owned': 616, 'num_reviews': 9, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1488941485}",english,"Save yourself $9.99 and Stick with the demo!
+
+The full game is buggy as heck and unplayable in its current state. I have W7 x64 Ultimate. i5 4670K OC @ 4.4ghz. GTX 1070 FTW. 16GB RAM. 500GB Samsung SSD. No problems with any VR games with my VIVE.
+
+When you try to play against AI, the game bugs out. Framerate drops. Nonstop stuttering. Flashes of white across the screen. And the blank SteamVR background, chaperone, and VIVE controller will randomly appear and disappear during play.
+
+When you switch it to practice mode, the game runs smooth as silk. 
+
+To top it off, it seems the developer isn't around so expect seldom updates if any.",1489019589,1489019589,False,5,0,0.617257356643676758,2,True,False,True,False,,,
+24480216,"{'steamid': '76561198067196219', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1522596715}",german,Still in early stage but beer pong fun,1469283585,1469283585,True,1,0,0.459705114364624023,0,True,False,True,False,,,
+24417675,"{'steamid': '76561198094534940', 'num_games_owned': 0, 'num_reviews': 53, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1468977031}",english,must buy,1468977052,1468977052,True,6,8,0.209916442632675171,0,False,False,True,False,,,

@@ -1,0 +1,543 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+161047733,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 245, 'playtime_last_two_weeks': 0, 'playtime_at_review': 245, 'last_played': 1710999799}",english,"""Lost in Paradise"" is a mobile app that's been dumped on Steam as if it was a real PC game (it's not)... it's a cash grab from greedy mobile devs.  This mobile app is an unusual screen tapping iPad game where the developers seem to have tried to do something a little different with the visuals... the character models and backgrounds are all (somewhat heavily manipulated) photographs and short video clips.  This technique could really work and deliver some pretty cool looking visuals if done right.   This was not done right.  It looks blurry, fuzzy, and clunky, a byproduct of low quality source pictures, and low resolution delivery.
+
+Poor visuals aside, the gameplay itself is on par... really low quality puzzle solving 2D adventure game stuff.  You'd be much better off playing a remastered Monkey Island or Kings Quest game if you're looking for nostalgia. 
+
+The mobile app is very very short and can be finished in under an hour.  I'm not advocating anyone should do this (I certainly didn't, as you can see), it wouldn't be right, but it's possible to buy the game, finish and refund in less than the 2 hour refund window on Steam.  That aside, developers have at least some responsibility to provide enough content to make a game last more than 2 hours if they're serious about providing something of value to gamers.  There's less content here than some free game demos.
+
+From a technical perspective, as a mobile app, this doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+There's no option to change the resolution and no useful graphics tweaks.  There's no way to ensure this is running at the native resolution of your display.  There's no guarantee this game will look right on any PC as a result of this hamfisted design decision.
+
+Because this is a mobile app, it carries a number of deliberate design deficiencies.  Compromises were made to cater to the iPhones that the mobile app was designed for.  These are unfortunate handicaps and limitations that PC gamers shouldn't be forced to accept, but it's evident that PC was an afterthought for the iPhone developers who are to blame for this.  The mobile app is deficient as a result of these choices, and would have been so much better without the handicaps that designing games for mobile phones forces upon a game.  Once more, mobile devs have made gaming worse for everyone.  I didn't spend thousands on building a gaming rig just so I could pretend it's an iPhone.
+
+Some of the defects in the mobile app can be attributed to the choice of using the video game library/engine, 3D GameStudio.  It's rarely used, because it's arguably worse than construction kits like GameMaker Studio, RPGMaker and Clickteam Fusion, but it's also much harder to work with.  Despite this, 3D GameStudio has very limited capabilities, which go some way to explaining the poor quality of the mobile app.  Just as you can't make a silk purse out of a sows ear, you can't make a great video game if you use a terrible engine.
+
+These technical defects push this mobile app below acceptable standards for any modern PC game.
+
+You don't have to take my word about how bad the mobile app is, we can measure the interest in a game by how much people bothered to play it.  ""Lost in Paradise"" has achievements, and they show us a very clear picture that the mobile app absolutely failed to capture any interest from gamers.  The most commonly and easily attained achievement is for finishing the first simple ""puzzle"" in the game within 60 seconds, trivial to achieve, but less than 5 percent of players bothered to get that far before uninstalling the mobile app.  That's a tiny, tiny proportion of gamers who even bothered with this.  Ouch.
+
+Reviewing SteamDB to check how popular this mobile app was with players reveals a surprise... there's a very healthy spike in player counts for the mobile app.  But this only happened once, and isn't consistent with the achievement stats, that show less than 5 percent of players bothered playing the mobile app for any reasonable amount of time.  How is it possible for this mobile app to have so many concurrent players who didn't bother engaging with this mobile app?  Trading cards.  People will use card idling software to collect the cards and sell them, but this won't trigger any achievements in-game.
+
+That tells us people only really bought this mobile app for trading cards, and that's a damning indictment of the woeful quality.  A closer look at the numbers shows the mobile app just has a couple of players every week running up the mobile app and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many mobile apps like this, with little merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+So, should you buy this mobile app?
+
+Once more we see greedy mobile devs trying to scam PC gamers. On Steam, this is $3 USD, on app stores, it's $2 USD. Mobile devs must learn PC gamers are not here to be gouged, and can't be expected to pay a premium for a cheap mobile app just because it's been lazily dumped on Steam.  This is unacceptable disrespect for PC gamers.  Because this is a mobile app, is priced to insult and gouge PC gamers, and because of the other defects, it's impossible to recommend.
+
+Just who do they think we are?",1711000890,1711000890,False,3,1,0.533661723136901855,0,True,False,False,True,,,
+159360373,"{'steamid': '76561198068102627', 'num_games_owned': 0, 'num_reviews': 148, 'playtime_forever': 452, 'playtime_last_two_weeks': 0, 'playtime_at_review': 433, 'last_played': 1709342824}",english,"Not as bad as people make it out to be.
+Sure, it's almost 10 years old and outdated, but the artstyle is actually quite nice, and you can play through it quickly, with hints if needed. The puzzles are a welcome change, but can be annoying on hard difficulty, like the coconut swapper puzzle i was not able to finish. The story is the same on easy, but with easier puzzles and more clues.",1708995507,1708995507,True,0,0,0,0,False,False,False,True,,,
+157574204,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1705774867}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1707052172,1707052172,True,1,0,0.47413790225982666,0,True,False,False,True,,,
+153703196,"{'steamid': '76561198132995625', 'num_games_owned': 1414, 'num_reviews': 754, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1702669190}",german,"[h1] Lost in Paradise [/h1]
+Adventure from 2015.
+
+Immerse yourself in a lost paradise that hides a deep secret behind its pristine shores. (Developer)
+
+A point & click survival game with really good graphics for the time. A story that is really boring. This is very difficult to read. Everything in cursive.
+The individual cards are almost empty in terms of content. This isn't necessarily a bad thing, but without using your eyes to help you find almost nothing unless it's lying around in plain sight.
+
+Very repressive gameplay. Which isn't necessarily a bad thing per se. However, the implementation in the game leads to frustration and constant pointless running back and forth.
+
+There is also a help function that can be used throughout the game. However, it will help you little or not at all. As an example, you should light a fire. Finding the fireplace was no problem; Finding dry branches is not difficult either. Flint can also be found. So work on the flint with a stone that you can find. Great, now I have tees and a knife. Edit the wooden branches, great now I have arrows. But I need something that I can use as Tinder. There is nothing lying around on any of the cards, using the eye of course. So use the help, it says “read up” on a piece of paper that you found. Yes, and there you will find exactly what you have already done and are looking for. A great help without any benefit.
+I've been to a number of Caribbean islands, large and small. Finding brushwood for a fire isn't a problem at all, actually.
+No matter, just think your part.
+
+There are a lot of negative reviews, no guide, no video for the game. I absolutely do not recommend this game and will add a negative review. The reason is simple.
+Totally messed up gameplay.
+ 
+My group and my archive with over 5,950 reviews here: https://steamcommunity.com/groups/hoi4deu
+
+👑 Powered by HoI 4 Deu Curators group in German / English 👑⠀⠀⠀[list][*][url=https://store.steampowered.com/curator/30388691/] Follow Main group [/url][*] [url=https://store.steampowered.com/curator/40282064/] Follow Second group [/url][*] [url=https://store.steampowered.com/curator/44688798/] Follow Third group [/url][/list]
+and discover more reviews from me.
+
+
+
+[h1] Lost in Paradise [/h1]
+Abenteuer von 2015.
+
+Tauchen Sie ein in ein verlorenes Paradies, das ein tiefes Geheimnis hinter seinen unberührten Ufern versteckt. ( Entwickler)
+
+Ein Point & Klick Überlebensspiel mit für die damalige Zeit wirklich guter Grafik. Einer Geschichte die echt öde ist. Diese ist sehr schlecht lesbar. Alles in Schreibschrift.
+Die einzelnen Karten sind fast leer vom Inhalt her. Das ist nicht unbedingt schlecht, jedoch ohne die Nutzung des Auges als Hilfe findest du beinahe nix, es sei denn es liegt offen herum. 
+
+Sehr repressiver Spielablauf. Was per se ja auch nicht unbedingt schlecht ist. Jedoch führt die Umsetzung im Game zu Frust und ständigen sinnlosen hin und her laufen.
+
+Es gibt auch eine Hilfefunktion, die im ganzen Spiel nutzbar ist. Jedoch hilft sie dir nur wenig bis gar nicht. Als Beispiel, Du sollst ein Feuer machen. Die Feuerstelle zu finden, kein Problem; trokene Äste finden, auch nicht schwer. Feuerstein lässt sich auch finden. Also den Feuerstein bearbeiten mit einem Stein den du auch finden kannst. Toll nun hab ich Abschläge und ein Messer. Die Holzäste Bearbeiten, Prima nun hab ich Pfeile. Aber ich brauche etwas das ich als Zunder Nutzen kann. Es liegt auf keiner der Karten was rum, mit Nutzung des Auges natürlich. Also die Hilfe Nutzen, dort steht ""lese nach"" auf einem Zettel den du gefunden hast. Ja und da steht dann genau das was du schon gemacht hast und auch suchst. Eine gandiose Hilfe ohne Nutzen.
+Ich war schon auf etlichen Karibik Inseln, großen und kleinen. Reisig zu finden für ein Feuer ist gar kein Problem, eigentlich. 
+Na egal, denkt euch einfach euren Teil dazu.
+
+Es gibt eine Menge negativ Reviews, keine Guide, kein Video zum Game. Ich Empfehle dieses Spiel absolut nicht und füge noch ein negativ Review hinzu. Der Grund ist einfach. 
+Total vermurkstes Gameplay.
+ 
+Meine Gruppe und mein Archiv mit über 5.950 Reviews hier: https://steamcommunity.com/groups/hoi4deu 
+
+👑 Powered by HoI 4 Deu Curators group in German / English 👑⠀⠀⠀[list][*][url=https://store.steampowered.com/curator/30388691/] Follow Main group [/url][*] [url=https://store.steampowered.com/curator/40282064/] Follow Second group [/url][*] [url=https://store.steampowered.com/curator/44688798/] Follow Third group [/url][/list] 
+and discover more reviews from me.",1702721696,1702721696,False,27,2,0.769358217716217041,19,True,False,False,True,,,
+152182332,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 112, 'playtime_last_two_weeks': 0, 'playtime_at_review': 112, 'last_played': 1700935604}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1701063526,1701063526,True,2,0,0.462511271238327026,0,True,False,False,True,,,
+143397450,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 212, 'last_played': 1527183221}",russian,нет,1691165565,1691165565,False,0,0,0,0,False,False,False,True,,,
+129952404,"{'steamid': '76561198394087703', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 169, 'playtime_last_two_weeks': 0, 'playtime_at_review': 169, 'last_played': 1672675583}",english,"Very, very slow and tedious gameplay with a truly dull and uninspiring protagonist. Half the game is simply spent waiting while he moves around. Even with the ability to jump to locations with the map this is still a major problem. The puzzles are the same old tile games and puzzles that we see in so many average games. 
+
+A game without joy or fizz. Yesterdays stale flat beer. Uninstalled unfinished out of sheer boredom.",1672676075,1672676075,False,0,0,0,0,True,False,False,True,,,
+128714016,"{'steamid': '76561198042317098', 'num_games_owned': 0, 'num_reviews': 852, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1671267890}",english,2/10,1671267905,1671267905,False,0,0,0,0,False,False,False,True,,,
+119249388,"{'steamid': '76561198030516476', 'num_games_owned': 5534, 'num_reviews': 465, 'playtime_forever': 439, 'playtime_last_two_weeks': 0, 'playtime_at_review': 439, 'last_played': 1658427795}",french,"Je ne vais pas y aller par quatre chemins : c'est un grand non pour moi, je n'ai pas du tout envie de recommander ""Lost in paradise"".
+
+L'histoire n'est pas des plus intéressante, l'introduction se résume à des écrits en caractères manuscrits pas toujours simples à lire. Le personnage est rigide, moche et limite robotique dans sa démarche et ses actions.
+
+Graphiquement il n'y a rien d'époustouflant, l'environnement me semble être conçu avec des photos de paysages (libres de droit), la musique quand à elle est relaxante et colle bien au jeu.
+
+Au niveau des énigmes, rien de bien transcendant ou corsé, cela me fais penser à celles de mauvais jeux d'objets cachés (genre bigfish et j'en passe...) elles se résument le plus souvent à reconstituer une image avec des pièces de puzzles et ce le plus rapidement possible si l'on souhaite obtenir les succès qui y sont liés.
+
+Au niveau des interactions, il suffit de collecter quelques objets pour les utiliser ensuite afin de crafter des objets (couteau, corde, allumer un feu....) tout coule de sens et rien ou presque ne viendra vous bloquer ou vous demander de longues réflexions.
+Certaines actions ont clairement été faites pour tablette ou téléphone tactile et ça ne fonctionne pas tellement bien sur pc (ex : pour lancer une corde sur le rivage d'en face, il faudra faire glisser le curseur comme avec le doigt sur un écran tactile).
+
+Le plus gros du problème avec ce jeu est que vu que l'environnement se décline en photos de paysages, on ne sais pas où cliquer pour faire avancer notre personnage, on ne sais pas non plus (par exemple dans la forêt) où peuvent se trouver les objets potentiellement cliquables. 
+Fort heureusement il est possible de dévoiler tous les points nécessitant une interaction en cliquant sur l'oeil en haut à gauche mais de ce fait tout y est trop simple et il n'y a rien d'amusant à devoir constamment appuyer sur cet oeil pour progresser.
+
+De surcroît, des bugs sont à déplorer, je suis restée coincée 2 ou 3 fois sans pouvoir cliquer nulle part, ni même quitter le jeu, (cela s'est produit une fois le didacticiel terminé, impossible d'en sortir, j'ai du quitter avec alt+F4) et plusieurs fois après les puzzles.
+
+Vu le manque de difficulté, le jeu se termine en un petit peu plus d'1h si l'on prend notre temps. 
+Il aurait fallut plusieurs parties pour débloquer tous les succès (jouer en mode facile, puis jouer en mode difficile). 
+J'ai joué 2 fois à ce jeu, mais à la fin de ma première partie aucun succès ne s'est débloqué. Pensant que je n'avais pas été assez rapide, j'ai joué une seconde fois (facile de rusher quand on l'a déjà parcouru) ce qui m'a pris une vingtaine de minutes seulement, à aucun moment je n'ai utilisé le bouton d'aide, ce qui aurait du au moins m'octroyer ce succès, mais pareil pas de succès en vue.
+Il me semble qu'une mise à jour avait été faite en 2019, ceci expliquant cela.... j'en déduis que celle-ci a certainement corrompu les succès.
+
+En conclusion, mis à part sa musique zen et relaxante, sa traduction en de nombreuses langues, et son faible prix, ce jeu me semble avoir été développé par une équipe d'amateurs, et en vue d'être utilisé par des appareils mobiles.
+Cela donne un produit final très médiocre que je ne recommande pas aux passionnés de jeux d'aventure en point and clic.
+
+
+
+[code][h1]Visitez mes différentes pages de curation :[/h1]
+
+[url=https://store.steampowered.com/curator/39126590/][b]ClicK Story[/b][/url]---> jeux d'aventure Point and Click
+[url=https://store.steampowered.com/curator/39072619/][b]Indépendance Games[/b][/url]---> jeux indépendants
+[url=https://store.steampowered.com/curator/40017787/][b]AnxioGames[/b][/url]---> l'horreur absolue
+
+Si l'une d'entre elles vous intéresse n'oubliez pas de cliquer sur le bouton [b]SUIVRE[/b]
+[b]Bonne lecture et bon amusement à toutes et à tous[/b][/code]
+",1658482173,1658482173,False,8,1,0.616055846214294434,0,False,False,False,False,,,
+117676095,"{'steamid': '76561199020636551', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 282, 'playtime_last_two_weeks': 0, 'playtime_at_review': 282, 'last_played': 1656271758}",german,"Ein Bug-Spoiler: Hier die Diamanten Ersatz-ablauf: Blau statt Lila+Grün+Rot+Türkis+Gelb*Rosa= Open the Dimension Gate!!
+
+Diese Adventur ist voll cool und sehr zu empfehlen!! Leider etwas zu kurz aber Vielleicht spendieren die Macher nen 2.Teil?? Währe zu wünschen nach abruppen End..............!??
+Übri: Viel Besser als Myst+co.!! :-))",1656272336,1656272336,True,0,0,0,0,True,False,False,False,,,
+95303318,"{'steamid': '76561198239946858', 'num_games_owned': 267, 'num_reviews': 5, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1625715461}",english,"This is a review for Lost in Paradise a engaging puzzle game.
+
+You begin your journey shipwrecked on a uncharted island with no other signs of life, You explore the beaches and try to find ways to escape this lost paradise. As you explore you can tell someone has been here before you and has set up complex puzzles that hinder your escape but with careful thinking and a high IQ anyone can over come these difficult obstacles I myself finished this game within 2 hours (faster than the usual) The gameplay is a well thought out but simple design which adds some replayability. The game also includes a audio slider and several different languages. The lore I never bothered reading through, There is lore though and I'm sure it's well written. Our protagonist is full of life and has state of the art animations, He has many flaws just like all of us but has some redeemable traits but many concerning ones too, He tends to take his anger out on animals which I think he needs to seriously see a therapist for before it leads to anything serious but I would recommend this game to anyone who has a desire to learn and improve on yourself this game does just that. This is the conclusion to my review I hope you all find it helpful and thanks for reading, Goodbye :)",1625718224,1625718339,True,2,0,0.547325074672698975,0,False,False,False,False,,,
+94397326,"{'steamid': '76561198308628242', 'num_games_owned': 2811, 'num_reviews': 950, 'playtime_forever': 428, 'playtime_last_two_weeks': 0, 'playtime_at_review': 390, 'last_played': 1624700492}",brazilian,Análise.,1624697631,1624697631,True,5,0,0.411747455596923828,0,True,False,False,False,,,
+70975878,"{'steamid': '76561198850833943', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 259, 'playtime_last_two_weeks': 0, 'playtime_at_review': 259, 'last_played': 1592479602}",french,"Petit jeu simple et sympa, agréable à jouer.",1592479695,1592479695,True,0,0,0,0,True,False,False,False,,,
+60420236,"{'steamid': '76561198059754051', 'num_games_owned': 1385, 'num_reviews': 282, 'playtime_forever': 275, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1577144977}",english,"What's with all the hate out there? I had a great time with this game. Are my standards that low or what? Cause I think this is a great time-filler, with some clever puzzles and nice scenery. Besides, it doesn't cost a fortune.",1577141913,1577141913,True,4,0,0.542233526706695557,0,True,False,False,False,,,
+56104128,"{'steamid': '76561198994629491', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1588161685}",english,"Beautiful, relaxing, and interesting, a fun indie puzzle adventure considering it's short length and low price. 
+
+The game art has an indie feel but the 2.5d graphics are pretty in their own right and the water effects especially are quite relaxing. 
+
+Most of the gameplay is retro point and click adventure style scene by scene exploration, like the old Sierra and LucasArts games. It has some item combination puzzles similar to such games but with a survival theme and storyline eg: make a fishing rod, campfire etc. There are also a number of mini-puzzles scattered throughout the game in the form of locked gates and chests, which are the kind you'd usually find in hidden object games, like jigsaws, tile swaps, rotating water pipes etc.  
+
+The puzzles aren't bad  and the item combinations are fun and mostly intuitive or hinted by the in game notes. Some are a little tricky, but the hot spot ""eye"" button and the hints / puzzle skip system keeps things moving along nicely. There is also an achievement to unlock if the game is completed without hints. Speaking of which, the achievements and trading cards integration is a nice bonus if you are a collector. 
+
+Overall this doesn't seem like it's trying to be a large AAA style game, seems like a fun small team adventure game from an indie studio. A very good first effort from them with a lot of charm, look forward to playing more!",1572588709,1572588709,True,4,0,0.529392361640930176,0,True,False,False,False,,,
+55243830,"{'steamid': '76561198131516091', 'num_games_owned': 2712, 'num_reviews': 201, 'playtime_forever': 360, 'playtime_last_two_weeks': 0, 'playtime_at_review': 360, 'last_played': 1569231933}",koreana,"저처럼 아무 생각이 없는 유사인간이 아닌 다음에야, 지루하고 내용없고 깊이도 없는 이딴 물건을 게임으로 즐기실 순 없을 거 같습니다.
+
+공짜로 플레이한다 해도 전혀 즐겁지 않을 터이니, 이거 할 시간에 야옹이 동영상이나 보시는 걸 강력추천드리는 바입니다.",1569232134,1569232134,False,3,2,0.551752209663391113,0,True,False,False,False,,,
+55238668,"{'steamid': '76561198122310894', 'num_games_owned': 0, 'num_reviews': 103, 'playtime_forever': 364, 'playtime_last_two_weeks': 0, 'playtime_at_review': 364, 'last_played': 1449859333}",russian,"Удивило, что спустя долгое время после выхода игры и моего прохождения (11 дек. 2015 г.) вышло обновление Graphics Overhaul / Remastering (20 сент. 2019 г.)
+Возможно как-нибудь перепройду...",1569188826,1569189008,True,2,0,0.550066173076629639,0,True,False,False,False,,,
+55238603,"{'steamid': '76561197974092119', 'num_games_owned': 2075, 'num_reviews': 4551, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1575308177}",polish,"NIE
+✂---✂---✂---✂---✂---✂---✂---✂---✂---✂---✂---✂---
+Zastanwiasz się dlaczego jedne słowo w recnezji ? zapraszam tutaj
+https://steamcommunity.com/groups/agaimyfani/discussions/0/1638662230362126317/
+
+Pisze rónież normlane pełno prawne recnezje więc jeśli Szukasz więcej recnezji lub zastnawiesz się czemu tyle błedów ? Zapraszam do obserowania i przecyztania opisu na mojej grupie kuratora https://store.steampowered.com/curator/7690491-Aga-i-my/
+
+",1569188480,1569188480,False,2,0,0.125662267208099365,0,False,True,False,False,,,
+52025311,"{'steamid': '76561198095276235', 'num_games_owned': 627, 'num_reviews': 20, 'playtime_forever': 707, 'playtime_last_two_weeks': 0, 'playtime_at_review': 540, 'last_played': 1569521570}",schinese,我卡在了专家难度的拼图了，我拼完了所有我所知晓的碎片，甚至截图到PS里调整亮度对比度都无法知晓还有哪里不对，我难道瞎了吗？,1561822193,1561822193,False,0,0,0,0,False,False,False,False,,1569206996.0,您可以将屏幕截图通过电子邮件发送至contact@elev8games.com或在论坛中发布吗？ 我会帮助解决。
+50245940,"{'steamid': '76561197988281569', 'num_games_owned': 0, 'num_reviews': 357, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1555829763}",english,sucks,1555829860,1555829860,False,0,0,0.372719734907150269,0,True,False,False,False,,,
+46310126,"{'steamid': '76561198850422610', 'num_games_owned': 178, 'num_reviews': 2, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1537034049}",english,Very fun game,1542894691,1542894691,True,1,0,0.377835839986801147,0,False,False,False,False,,,
+46214821,"{'steamid': '76561198817351282', 'num_games_owned': 270, 'num_reviews': 2, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1537034030}",english,Very fun game,1542876355,1542876355,True,1,0,0.39407917857170105,0,False,False,False,False,,,
+45395516,"{'steamid': '76561198260695967', 'num_games_owned': 45, 'num_reviews': 9, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1449503899}",polish,no jako staly bywalec jako koneser sztuki gier komputerowych uwazam ze gra ta zasluguje na liczne pochwaly ze strony takich znawcow jak ja,1540234864,1540234864,False,0,0,0.456014364957809448,0,False,False,False,False,,,
+45028419,"{'steamid': '76561198027286434', 'num_games_owned': 1715, 'num_reviews': 1363, 'playtime_forever': 214, 'playtime_last_two_weeks': 0, 'playtime_at_review': 214, 'last_played': 1538335345}",russian,"[i][b]Выглядит все весьма отталкивающе, но в целом квест сам по себе неплох[/b][/i]",1538336111,1538336111,True,14,1,0.655154585838317871,0,False,False,False,False,,,
+43343909,"{'steamid': '76561198139300962', 'num_games_owned': 309, 'num_reviews': 3, 'playtime_forever': 657, 'playtime_last_two_weeks': 0, 'playtime_at_review': 638, 'last_played': 1546246361}",japanese,"全実績解除、両難易度で記録更新したのでレビューを。
+と言ってもほとんど他の人が書いてくれてるのでわたしが補足したい部分だけを。
+
+良い点
+・Steamランキング対応してるのでTAする楽しみがあった。
+・きちんと内容の理解できる翻訳だった。
+・ヒント、パズルスキップがあるから完全に詰むことはない。（内容の理解には時間がかかるけども
+・Windows９８くらいのゲームを思いださせるグラフィック。
+・ファストトラベルができる（おかげで歩くのが遅いがそこまで気にならない
+
+悪い点
+・特定の操作で詰む、クラッシュする場面がいくつかある。
+　（ゲームリセット時、ファストトラベル関連など。
+・クリア後に表示されるタイムとSteamランキングに乗る記録が異なる
+　（スキップやヒントの使用で加算+数十秒の謎追加
+・思ったよりクソゲーしてない
+
+総評としてルート構築とかで９時間は遊んでるので私はだいぶ満足しています。
+
+追記
+　Play ストアにて同名のゲームを確認したので、これ移植版ですね。
+　一応買ってみたけど中身も同じでした。",1530859993,1543021680,True,8,1,0.626394927501678467,0,False,True,False,False,,,
+43010927,"{'steamid': '76561198062959059', 'num_games_owned': 0, 'num_reviews': 273, 'playtime_forever': 115, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1529860907}",russian,Имя ей - уродство.,1529860889,1529860889,False,1,1,0.476510077714920044,0,True,False,False,False,,,
+42480609,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 242, 'playtime_last_two_weeks': 0, 'playtime_at_review': 242, 'last_played': 1527967859}",romanian,Very nice game,1528070221,1528070221,True,1,0,0.431632965803146362,0,False,False,False,False,,,
+41846886,"{'steamid': '76561198833698694', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 184, 'playtime_last_two_weeks': 0, 'playtime_at_review': 184, 'last_played': 1525450859}",japanese,"鞭を打つだけがゲームではない。
+そんな当たり前のことを思い出させてくれたのがこのゲームです。
+
+謎解き脱出ゲームって、とにかく「解けるもんなら」みたいに難しく、おまけに巧妙に細かく「見つけられるもんなら」とでも言いたげな工程が作られがちで、そりゃ作る側の心情としてはそうなるのもわかるんですけど。でも、できるだけ解けない謎を作ろうと努力するのは謎解きバトルする頭脳自慢か、犯罪者くらいであるべきで。だってこれはゲーム。楽しくなくちゃなんの意味もない。そして謎は、解けなくちゃ楽しくないんです。
+
+たしかにゲームの作り自体はとにかく簡単で、操作キャラの男性を気持ちよく動かせるわけでも、このゲーム用にとこだわって作られた背景や音楽があるわけでもない。でも、とにかく優しい。このゲームはクリアするために作られている。
+群を抜いてたくましい竿があるわけでも、指使いが格段に上手いわけでも、連射の体力に優れているわけでもない。でも圧倒的に気持ちの良い人っているじゃないですか。この作者は、ゲームの本質だけでなく情事の本質をも悟っているのではないでしょうか。
+いやとにかくサポートが手厚い。アイテムなんかちゃんと順番に組み合わせていかないと機能してくれない脱出ゲーもあるのに、このゲームでは「この二つを組み合わせるには、まだ何か足りなくない？○○しなきゃね」って言ってくれます。アイテム同士の組み合わせがどんな結果を生み出すかの全権を製作者が握ってる中、この声掛けは優しすぎて「もうちょっと激しく」とおねだりしたくなる程でしょう。まるで作者が隣に座ってプレイを見守っているかのような口調が、どこか温もりを感じさせます。なるほどここは楽園なのかもしれません。プレイキャラの男性はずっと無表情で、ここへ来る前ずっとシコってたのかと思うほどでしたが。
+
+謎解きですが、パズル面では特に難しいことはありません。アイテムの組み合わせと使用方法がちょいちょい詰まるかなくらいです。ただ、それらのヒントは作中で丁寧に解説されているうえ、ヒントボタンなるものの存在で完全に詰まる前に先へと進めていけます。さらに前述したような声掛けが入ってくるので、誰でも同じくらいの時間でクリアできるのではないでしょうか？
+これならフリーの脱出ゲーに慣れ親しんでる人でなくとも、簡単にプレーできるでしょう。私もゲームをしていて、久しぶりにイライラモヤモヤストレスフリーでクリアまでいけました。人によってはloadingが多少ストレスになるかもくらいですね。まあ多少焦らされた方が気持ち良くなるってもんですよね。
+
+操作性やグラフィック等画面を見た時の安っぽさ以外はとてもよかったです。ストーリーに関して言うなら(ストーリーというほどのストーリーはないけど)骸骨に対してちょっとそっけなくなるのが残念でした。
+私は英語のまま進めちゃいましたが、ある程度しっかりした訳の日本語でプレイできるみたいですね。確認してみたら、日記が悲惨なことになってました笑　テキストレイアウトが完全に手抜きなのが発覚しましたが、それでもかなりの種類の言語を翻訳ソフトそのままでないものにしている点でどっこいだと思います。
+
+暇潰し、というよりは優しいゲームに温かくもてなされたい時に最適なゲームだと思います。精神的に疲れ、それでもゲームがしていたいって人にオススメです。
+
+それでは。",1525442158,1525442191,True,5,2,0.583333313465118408,0,False,False,False,False,,,
+41730632,"{'steamid': '76561198034168703', 'num_games_owned': 3339, 'num_reviews': 317, 'playtime_forever': 253, 'playtime_last_two_weeks': 0, 'playtime_at_review': 253, 'last_played': 1463520019}",russian,"Добротный квест с головоломками, хоть и сделан по устаревшим технологиям.(графен не три Дэ)
+Не напрягает непроходимыми локациями и поддерживает в тоже время интерес.",1524902036,1524902036,True,4,0,0.573070645332336426,0,False,False,False,False,,,
+41617895,"{'steamid': '76561198115146732', 'num_games_owned': 0, 'num_reviews': 46, 'playtime_forever': 118, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1508418893}",thai,それはとても楽しいです。,1524372166,1524372166,True,1,0,0,0,False,False,False,False,,,
+41394834,"{'steamid': '76561198141775948', 'num_games_owned': 1709, 'num_reviews': 323, 'playtime_forever': 173, 'playtime_last_two_weeks': 0, 'playtime_at_review': 173, 'last_played': 1523349946}",japanese,"アイテム合成多めのポイントクリックADVゲーム。
+機械翻訳ではない日本語有り。
+何種類かのパズルゲームがあるが量は少ない。2時間くらいでクリア可能。
+上級のパズルの背景で一部わかりづらいのがあって苦戦した。
+フルスクリーンモードしかないので、日誌等の文字がめちゃくちゃ大きい。
+内容自体はそこまで悪くないが、オススメかと言われれば微妙な所。",1523354504,1523354504,True,1,0,0,0,False,False,False,False,,,
+40372633,"{'steamid': '76561198211390004', 'num_games_owned': 1259, 'num_reviews': 188, 'playtime_forever': 235, 'playtime_last_two_weeks': 0, 'playtime_at_review': 175, 'last_played': 1604236333}",german,"Müll. Langweilige Grafik, dumme Schieberätsel und sich ständig wiederholende Dudelmusik. Zu diesem Spiel gibt es nichts positives zu schreiben. Dann auch noch ein Bug in einem Rätsel, wo ein Bambusrohr an der falschen Stelle erscheint, und somit das Rätsel fast unmöglich macht. Zeitverschwendung.",1519518240,1519518240,False,3,1,0.552238762378692627,0,True,False,False,False,,,
+39262232,"{'steamid': '76561198010258298', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 196, 'playtime_last_two_weeks': 0, 'playtime_at_review': 196, 'last_played': 1515693931}",japanese,"改行が苦手な中村へ捧ぐ
+
+遭難した船員が無人島パズル生活を繰り広げる冒険活劇。
+数多のグラデーションを合わせて、この島の本当の姿を見極めろ！
+最後に現れる巨大な八本足の海洋生物が守っている黄金とは一体…
+
+・良かった点
+切れ端は合わせやすかった
+オプションがサウンドとミュージックしかなくて潔い
+翻訳が敬語で話しかけてきて、同じ年齢とわかると詰め寄ってくる人みたいに急に馴れ馴れしくなった
+
+・悪かった点
+タコとの戦闘中に落ちた、でもオートセーブがありがたかった
+日本語の改行が雑
+ウィンドウモードにならない",1515695229,1515695229,True,3,0,0.54356849193572998,0,True,False,False,False,,,
+38683879,"{'steamid': '76561198093939741', 'num_games_owned': 0, 'num_reviews': 183, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 218, 'last_played': 1485837229}",thai,"ถือว่าเป็นเกมส์คุ้มค่าในราคา ณ ที่ซื้อไว้ เล่นสนุก เล่นเพลิน
+ใช้เวลาเพลิดเพลินไปกับเกมส์นี้ โดยรวมแล้วถือว่าเป็นเกมส์ที่ดี
+",1514263615,1514263615,True,1,0,0,0,False,False,False,False,,,
+35776438,"{'steamid': '76561198089299679', 'num_games_owned': 7216, 'num_reviews': 392, 'playtime_forever': 446, 'playtime_last_two_weeks': 0, 'playtime_at_review': 351, 'last_played': 1508478951}",english,"First generation RPG Puzzle game made in 2015?? Well, Game is quite playable and easy to finish and solve in just under one hour. 
+
+Nothing special good or special bad in graphics or sound and only very little story is this story. All you have to do is just find object, mix object, use object. So there is really nothing to recommend about this tiny little game. Difficulty is nearly none-existent and there are nothing that you will find expressive at all. Achievements are all quite easy to get. Just play it though it without hint and hit final boss 2 times in a row.
+
+2 problem that’s for me that would made me thumb this game down.
+1.	Bugs. For such a small game still some graphic glitch remain. After you solve a puzzle and clear it the value was not reset even after you click reset the game. So after you finish on easy and if you continue on hard right away. There will be some funky picture for your puzzle. (Can be solve by restart the game.)
+2.	Note and Hint are in some exotic hand written style that’s really hard to read for me. Yes… I can go another language and it would been better but from the list of language given the only was good for me is English and that really made this game a lot more difficult.
+
+4/10… not recommended for most people to play unless you really have nothing left in your library and you got 1 or 2 hour to burn.
+",1508172559,1508172559,False,8,1,0.654670059680938721,0,False,False,False,False,,,
+35114914,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 407, 'playtime_last_two_weeks': 0, 'playtime_at_review': 407, 'last_played': 1506031592}",english,"Tags: Adventure - P&C - Point & Click
+Additional Tags: Delete Local Content & Remove from Library
+
+TLDR: Amateur, unengaging and uneven in quality.
+
+This is a pretty dry experience. No humor, pretty bland and serious tone. You are shipwrecked and must find clues to survive. The mish mash of failed particles effects, occasional lighting effects, the photo assets mixed in with the occasional mspaint asset (e.g. pirate flag in the mountains), the rather bland piano track. The main character looks kind of strange. There is nothing really good here. You pick up objects at random, get your progression stonewalled for arbitrary reasons, and have to solve the occasional puzzle or slidey-tile minigame.",1506031723,1507237500,False,1,0,0.508196711540222168,0,False,False,False,False,,,
+33783054,"{'steamid': '76561198112298633', 'num_games_owned': 0, 'num_reviews': 99, 'playtime_forever': 1014, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1014, 'last_played': 1499080302}",english,"INDIE TRASH
+YOU'RE BETTER OFF PLAYING A PROPER PS1/PS2/NES GAME THAN WASTING YOUR TIME ON THIS TRASH
+0/10 SHAME ON THE GAME DEV",1500975884,1500975884,False,3,0,0.432580620050430298,0,False,False,False,False,,,
+33568137,"{'steamid': '76561198155231900', 'num_games_owned': 51, 'num_reviews': 4, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1500150888}",french,jeu nul sans amusement...,1500151008,1500151008,False,1,0,0,0,False,True,False,False,,,
+32000107,"{'steamid': '76561198126899980', 'num_games_owned': 0, 'num_reviews': 106, 'playtime_forever': 279, 'playtime_last_two_weeks': 0, 'playtime_at_review': 279, 'last_played': 1491046562}",japanese,"学生がArtifex Mundiのアドベンチャーをお手本に、ゲームを作ってみました・・・って感じの完成度。
+
+パズルもArtifex Mundiと同じ形式だったりして、パズルくらいはオリジナリティーを出そうよ？と思ってしまう。
+サバイバルといっても大した内容ではなく、このゲームをやったからと言って、無人島で生存できるような知識は全く学べないw
+写真も音楽もフリー素材だしなぁ... 適当な写真が見つからなかったのか、無人島なのに明らかに人の手が入った写真とか使ってある。
+ここまでショボいと、逆にほのぼのするよぉ。
+
+面白いかというと特に面白いわけでもなく、暇潰しになるかどうか？ってとこ。しかし、よくあるまともなゲームになっていないような地雷ゲーはないので、生暖かい目で見守りたいw
+凄いのは、このクォリティーにも関わらず、日本語化されているところだ！",1495901653,1495901983,True,0,0,0.441898524761199951,0,False,False,False,False,,,
+31996174,"{'steamid': '76561198202419918', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 135, 'last_played': 1495887580}",english,"not bad.
+
+Was bored and tried the game, found myself realy thining hard about what should I do",1495889665,1495889665,True,4,0,0.443804681301116943,0,False,False,False,False,,,
+31687631,"{'steamid': '76561197997740965', 'num_games_owned': 8003, 'num_reviews': 2015, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 122, 'last_played': 1494525537}",russian,"Всем привет, я тут прошел Lost in Paradise и решил написать про игру пару слов. Игрушка корявая, анимация окружения и гг странная, сюжет довольно глупенький, но! Но игру я пробежал на 2 часа, она просто не успела мне надоесть, эти пару часов я провел в глупом, но забавном приключении. 
+ Главный герой перемещается по карте крайне медленно, неуклюже, но разработчик сразу просек про неповоротливость персонажа, наградив нас с вами картой, которая сразу же может нас перенести в любую точку. 
+ Сюжет я спойлерить не буду, но просто было забавно наблюдать, как на одном маленьком острове уместился пляж, огромное озеро, горы, степь, пустыня, снежная местность...ну это дичь. Логики и *вау* эффекта игра не несет, но она мне досталась в бандле, она содержала карточки, которые успели выпасть за прохождение игры, так что глупо ставить отрицательный отзыв. 
+ Если игра вам досталась за гроши, то можно пару часов и залипнуть. Покупать же за полную цену я не стал бы советовать.",1494526062,1494526365,True,10,0,0.568999350070953369,0,False,False,False,False,,,
+30798703,"{'steamid': '76561198034530531', 'num_games_owned': 4365, 'num_reviews': 236, 'playtime_forever': 310, 'playtime_last_two_weeks': 0, 'playtime_at_review': 176, 'last_played': 1546354172}",english,"A simple yet enjoyable chilled out puzzle point'n'click, you're a shipwrecked pirate exploring an island locking for clues as to what happened and a way off of the island, crafting a few things to solve puzzles. It is only a couple of hours and it's not graphically amazing so pay accordingly.",1490725287,1490725287,True,3,14,0.340493083000183105,0,False,False,False,False,,,
+30513012,"{'steamid': '76561198138233394', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 420, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1652086621}",french,impossible de lançer ce jeu mais decompte de temps de jeu éffectué !!!,1489519509,1489519509,False,2,0,0.518518567085266113,0,True,False,False,False,,,
+30512467,"{'steamid': '76561198118158956', 'num_games_owned': 0, 'num_reviews': 54, 'playtime_forever': 932, 'playtime_last_two_weeks': 0, 'playtime_at_review': 572, 'last_played': 1698350418}",german,"[b] Lost in Paradise [/b]
+
+So nach fast 9h in dem Spiel (was für dieses Spiel sehr hoch ist) schreib ich auch mal einen Review. Lost in Paradise ist ein eher unbekanntes Spiel aber dennoch Spielwürdig. In diesem Spiel muss man eine Insel erkuden, und Rätsel lösen. Ich werde auf folgende Punkte in diesem Review eingehen: Einleitung, Grafik, Positives, Negatives, Zusammenfassung
+
+[h1] Einleitung [/h1]
+
+Nach einem Sturm auf hoher See sind wir an Land einer geheimnissen Insel gespült worden. Doch diese Insel ist keine normale Insel, sie ist wie ein Paradies. Nur sind wir Verloren im Paradies und müssen aber müssen irgendwie versuchen wieder weg zu kommen. 
+
+[h1] Grafik [/h1]
+
+Das mit der Grafik ist eine zweischneidige Klinge. Einserseits ist sie schön gemacht. Andererseits ist das Spiel nicht so modern, weswegen die schönen Hintergründe ziemlich verpixelt aussehen. Aber für so eine Art Spiel reicht es völlig aus.
+
+[h1] Positives [/h1]
+
++ schöne Atmosphäre
++ viele Rätsel
++ schöne Landschaften
++ verschiedene Schwierigkeitsstufen
++ gute Story
+
+[h1] Negatives [/h1]
+
+- in 2h durchgespielt
+- Preis
+
+[h1] Zusammenfassung [/h1]
+
+Troz des Preises für diese 2h Spielspaß ist es ein gelungenes Spiel. Die Grafik ist ganz okay, eben nur bisschen verpixelt. Die Atmosphäre ist sehr schön. Die Story ist gut und logisch und mit den verschiedenen Rätseln und Landschaften wird das Spiel nie langweilig. Von mir eine Kaufempfehlung. Wenn euch der Review weitergeholfen hat, folgt doch unserem [url=http://steamcommunity.com/groups/-German_Gamer_Community-#curation] Reviewprogramm [/url]",1489517521,1527977228,True,8,1,0.506944596767425537,0,True,False,False,False,,,
+29880460,"{'steamid': '76561198139489213', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 105, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1486180428}",english,"Very short, easy game; finished it in less than 1 1/2 hours.  Weird graphics, a picture with an animated character that really did not match at all.",1486926428,1486926428,False,1,0,0.499267935752868652,0,True,False,False,False,,,
+25816007,"{'steamid': '76561197967685936', 'num_games_owned': 1981, 'num_reviews': 757, 'playtime_forever': 236, 'playtime_last_two_weeks': 0, 'playtime_at_review': 236, 'last_played': 1448799576}",english,Cannot recommend this game. Nothing fun here for me.,1475396600,1475396600,False,0,0,0.366168022155761719,0,False,False,False,False,,,
+24827464,"{'steamid': '76561198109323439', 'num_games_owned': 451, 'num_reviews': 230, 'playtime_forever': 552, 'playtime_last_two_weeks': 0, 'playtime_at_review': 300, 'last_played': 1471178203}",italian,"Questo gioco è stato una piacevole sorpresa, mi ha colpito il titolo direi: “Persi in paradiso “rievoca una voglia di esplorare un’isola deserta e di cercare di sopravvivere con quel poco che troviamo, pensavo a una grafica stile cartoni, classica; invece vi troverete davanti a scenari bellissimi, sembrano cartoline, il mare azzurro con la sabbia fine è solo l’inizio, man mano che esplorate camminerete ,nei boschi ,in riva al lago dove le acque sono trasparenti e riflettono il paesaggio, grotte con cascate, e non solo addirittura, montagne e paesaggi innevati, dove lo sguardo si perde a vista d’occhio. Come longevità non ha una trama lunga, ma potete iniziare in modalità facile e poi rigiocarlo in difficile per chi vuole ottenere tutti gli obiettivi; Gli enigmi sono facili da superare piccoli mini-giochi, niente che vi farà innervosire, l’unica cosa che mi è sembrata una cosa strana in questa avventura è che vi troverete ad  esplorare questi incantevoli posti con un avatar in puro stile retrò, questo omino piatto in 2d, abbastanza rigido nei movimenti, ciò stona un pochino con tutto quello che ci circonda, magari potevano lavorarci un pochino di più  su questo. Nell’ insieme se non avete tante pretese è un gioco carino , vale la pena provarlo solo per godersi gli scenari, mettetelo in lista se è scontato vale la pena acchiapparlo subito al volo!!!",1470928186,1470928186,True,23,7,0.736534297466278076,0,False,False,False,False,,,
+24714044,"{'steamid': '76561198119063179', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 216, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1469434917}",english,ther eare much better games that are free,1470342550,1470342550,False,1,0,0.472841858863830566,0,False,False,False,False,,,
+24497991,"{'steamid': '76561198214807255', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 519, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1589310144}",french,Le jeu ne demarre pas. Il ne s'affiche pas en entier. Mise à jour ou travaille à refaire?,1469362630,1469362630,False,0,0,0,0,True,False,False,False,,,
+23301712,"{'steamid': '76561198237253412', 'num_games_owned': 1096, 'num_reviews': 214, 'playtime_forever': 308, 'playtime_last_two_weeks': 0, 'playtime_at_review': 307, 'last_played': 1573937189}",brazilian,"Jogabilidade _ 7/10
+Gráfico _ 6/10
+Áudio _ 7/10
+On-line _ Não
+Off-line _ Sim
+Níveis _ 2
+Conquistas _ 11
+Cartas colecionáveis _ 5
+Gênero: Point And Click
+DLC _ 0
+
+Obs.: Adorei o jogo.
+
+Muito bom para explorar e boa jogabilidade.",1464661721,1609087491,True,1,1,0,0,True,False,False,False,,,
+22893752,"{'steamid': '76561198286673734', 'num_games_owned': 0, 'num_reviews': 57, 'playtime_forever': 196, 'playtime_last_two_weeks': 0, 'playtime_at_review': 196, 'last_played': 1462878403}",spanish,"Lo peor que he visto, es como jugar en modo MSDOS, aburrido, lento y prehistòrico. Traducción pésima",1462879034,1462879034,False,0,0,0,0,True,False,False,False,,,
+22085152,"{'steamid': '76561198157562101', 'num_games_owned': 33, 'num_reviews': 2, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1452700208}",polish,"Słabe, słaba grafika, gunwo",1459087496,1459087496,False,1,0,0.507859766483306885,0,False,False,False,False,,,
+21439027,"{'steamid': '76561198011965365', 'num_games_owned': 2442, 'num_reviews': 2092, 'playtime_forever': 264, 'playtime_last_two_weeks': 0, 'playtime_at_review': 264, 'last_played': 1456480939}",english,"The game is so broken, I obtained all of the achievements just for starting the game.",1456381557,1456381557,False,2,2,0.455621808767318726,0,False,False,False,False,,,
+21252208,"{'steamid': '76561198110705737', 'num_games_owned': 390, 'num_reviews': 201, 'playtime_forever': 219, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1451684880}",spanish,3/10,1455629613,1455629613,False,0,0,0,0,False,False,False,False,,,
+21245856,"{'steamid': '76561198115158556', 'num_games_owned': 1402, 'num_reviews': 392, 'playtime_forever': 258, 'playtime_last_two_weeks': 0, 'playtime_at_review': 258, 'last_played': 1455679748}",english,"3.6/10 - More frustration than satisfaction
+
+This game had some cool/basic casual puzzles, but it wasn't enough to make this game a winner. You look at the price tag and see only $3; but that's for 40 minutes of painful gameplay. That's equivalent to spending $50 on a premium title with a long and captivating campaign. <-- No Brainer
+
+The 25 locations remind me of static browser images mixed with some well-done water work from the developer, and a robotic character that awkwardly moves about the map.
+
+The game really lacks the polish or excitement to charge this premium price. The worst part without a doubt is the navigation and item finding; without the help of the hint you can't determine what items are clickable or where to go. This is extremely frustrating and causes you to click the screen a ton without success. 
+
+Should have been free or like $0.27; but don't buy it.
+
+[code][h1] Accidently Reviewed[/h1]
+Was this review helpful or maybe even not helpful? Either way join this group for more. Free Keys and Reviews weekly!
+[url=http://steamcommunity.com/groups/Accidently] Steam Group: AccidentlyReviewed[/url][/code]",1455599476,1455599514,False,8,0,0.601835787296295166,0,False,False,False,False,,,
+21207802,"{'steamid': '76561198051802003', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 370, 'playtime_last_two_weeks': 0, 'playtime_at_review': 213, 'last_played': 1562096913}",english,"Written in 2016. 
+
+Wow, seriously wow. I feel bad for the other bad reviews I wrote because this... I can't even explain how bad this is. 
+
+Positives:
++ 2 playthroughs = all achievements. If you don't lose your sanity. 
++ nice landscapes in the background.
++ relaxing music and the sound was okay too. 
+
+Negatives: 
+- Worst animations I've ever seen. 
+- Story? You are a sailor, ship got broken, you find yourself on that island and explore it. Apparently you don't have a name, the island has no name. Eduardo has a name but we never find out who he is or what happened to him.
+- Only 5-6 puzzles in total. 
+- One puzzle took me 15 minutes on hard mode because 9 tiles had the same color. Go figure...
+- A huge ""what the hell was that?"" moment after the game. Who put the flags on the mountain? Many unanswered questions.
+- Truly the worst animations I've ever seen. (Again!) The character walking through the forest appears too big or too small. 
+- Total realistic ending - I lost my sanity after that.
+- I don't even know the price of that ""game"". Must have picked it up in a bundle or bought for 20 Cents. It's not worth more that 20 Cents. Including the trading cards.
+- Epic logic. Put bird into crab cage, put its feet in glue so the bird flies to its nest and gets you the stuff that's in it. 
+- German translation was more than poor. Just stop. 
+
+Being a """"""developer"""""" from India doesn't excuse this poor shit of a ""game"". Please stop making ""games"" forever! Never touch a computer again! You are the disgrace of all existing developers!
+
+The developer is called Elev8 and tells us right under its logo ""Elevating gaming to the next level"".
+If that is the next level of gaming, I'll set all my computers on fire and start playing board games again. Probably the better idea anyways. 
+
+Edit 5 minutes after I wrote that review: 
+I forgot to mention the crashes and graphic errors. Games crashes when attempting to ""fast travel"" with the map or random at changing locations.",1455460815,1455461112,False,0,0,0,0,False,False,False,False,,,
+21183436,"{'steamid': '76561198196734214', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1455303904}",polish,co za sraka,1455382197,1455382197,False,0,0,0.472222238779067993,0,False,False,False,False,,,
+20926507,"{'steamid': '76561198043379472', 'num_games_owned': 1159, 'num_reviews': 25, 'playtime_forever': 220, 'playtime_last_two_weeks': 0, 'playtime_at_review': 137, 'last_played': 1669861516}",russian,"Хороший, добротный квест. Пускай в нем нет кучи различных головоломок (по-сути их всего три плюс комбинирование предметов),  небольшая  продолжительность (~ 3-4 часа),  нет сногшибательного ГРАФОНИЯ, запоминающейся музыки. Это НИКАК не портит впечатление от игры. 
+Как по мне, одна из лучших  игр по соотношению цена\качества.",1454481486,1454481486,True,2,0,0.520201981067657471,0,False,False,False,False,,,
+20766685,"{'steamid': '76561198115098766', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1453817077}",english,"This is a piece of crap. I can't even get it to play because all of the buttons are not framed right. I have to click much lower than the actual button for it to work. I was like : ""Meh I can deal with that, I'll try anyways"" but then I got stuck on a text screen and there is no way to click on the arrow meant to turn the page. If this game was free, I STILL WOULDNT RECOMMEND IT, its a piece of thrash and the coding is utter garbage. Don't waste 25cents on this it's not worth it. I had to ctrl+alt+delete to exit the game, so it says a shitload.",1453817100,1453817100,False,1,0,0.478347510099411011,0,False,False,False,False,,,
+20559702,"{'steamid': '76561198052933734', 'num_games_owned': 4633, 'num_reviews': 571, 'playtime_forever': 287, 'playtime_last_two_weeks': 0, 'playtime_at_review': 287, 'last_played': 1450131011}",japanese,"[h1]◆ ショボい[/h1]
+難破船の乗客だったおっさんが､流れ着いた無人島からの脱出を試みる
+ポイントクリックゲーム｡パッと見､フラッシュ黎明期の作品かと
+見紛うばかりのショボいグラフィックだが､
+これでも2015年に作られたゲームである｡
+
+[h1]◆ 日本語対応なのが救い[/h1]
+操作に使うのはマウスのみ｡日本語完全対応で
+作中でのヒントも豊富なので､ゲームとしては簡単｡
+最悪､アイテムを総当りで組み合わせれば何とかなる｡
+先にノーマル､二周目でハードという手順で､
+3,4時間もあれば全実績解除可能｡
+
+[h1]◆ やはりグラフィックも大事[/h1]
+トレカ・実績・日本語対応でお手頃価格と文句無しなのだが､
+グラフィック面の手抜きっぷりがアレなので値段相応という評価｡
+ただ､ゲームとして面白くないわけではなく､日本語のみならず
+多言語に対応して頑張ってるし､おっさんの語り口が妙に優しくて
+無駄に癒やされたし､あとロボコップみたいな歩き方が笑えるので
+まぁおすすめに一票｡気の迷いで買いたくなったらセール時を推奨｡",1452947088,1452947088,True,16,4,0.582323014736175537,0,False,False,False,False,,,
+20510214,"{'steamid': '76561197976840028', 'num_games_owned': 0, 'num_reviews': 491, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 171, 'last_played': 1446986240}",portuguese,bom jogo,1452712524,1452712524,True,1,0,0.466926097869873047,0,False,False,False,False,,,
+20069964,"{'steamid': '76561198117209727', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1451395561}",polish,"nie polecam 1/10
+",1451400111,1451400111,False,0,0,0,0,False,False,False,False,,,
+19976932,"{'steamid': '76561198065008328', 'num_games_owned': 628, 'num_reviews': 11, 'playtime_forever': 86, 'playtime_last_two_weeks': 0, 'playtime_at_review': 86, 'last_played': 1451168667}",french,"Je suis tombée sur ce jeu par hasard dans ma bibliothèque, je me suis juste dis ""Chouette, un jeu d'énigmes"". J'ai rapidement déchantée.
+Premièrement c'est moche, réellement. A un point où j'en suis venue à me dire que sur Paint, entre deux dossiers au boulot, y'avait moyen de faire mieux.
+Deuxièmement c'est vide. Un jeu sans interactions me dérange pas, mais quand tu cumules une imagerie dégueulasse, un son plus que passable et un scénario complétement absent, c'est un peu trop pour le même jeu.
+
+Fini après 1h30 (Et encore, en faisant très lentement) et étrange goût de Windows 95 au bord des lèvres, je ne le recommande pas. 
+",1451169743,1451169743,False,3,1,0.54356849193572998,0,False,False,False,False,,,
+19973884,"{'steamid': '76561198066471731', 'num_games_owned': 170, 'num_reviews': 19, 'playtime_forever': 231, 'playtime_last_two_weeks': 0, 'playtime_at_review': 231, 'last_played': 1451211202}",tchinese,bad,1451163778,1451163778,False,0,0,0,0,False,False,False,False,,,
+19844847,"{'steamid': '76561198066353407', 'num_games_owned': 432, 'num_reviews': 5, 'playtime_forever': 184, 'playtime_last_two_weeks': 0, 'playtime_at_review': 181, 'last_played': 1448664879}",german,"Ponit n Click Spiel
+
+Rätsel sind am Anfang leicht, jedoch ändert sich der Schwierigkeitsgrad bis zum Ende. 
+
++Einfallsreiche Rätsel
++Denkvermögen gefordert
++macht Spass, zu spielen
++als Gelegenheitsspiel geeignet
+
+-Grafik (jedoch nicht relevant für Spielspass)
+-eine meiner Meinung nach zu kurze Story
+
+7/10",1450799026,1450799026,True,2,0,0.428849905729293823,0,False,False,False,False,,,
+19828930,"{'steamid': '76561197963927864', 'num_games_owned': 0, 'num_reviews': 184, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 204, 'last_played': 1450723642}",japanese,"カジュアルなアドベンチャーゲーム
+まったりとリラックスして遊べる感じ
+地味なパズルが楽しい
+日本語有り
+
+難易度は簡単と難しいだけ
+難しいにするとスライドパズルが結構難しい
+3.4時間で全実績解除できました",1450724269,1450724269,True,9,0,0.597223579883575439,0,False,False,False,False,,,
+19743153,"{'steamid': '76561198018893258', 'num_games_owned': 3719, 'num_reviews': 744, 'playtime_forever': 245, 'playtime_last_two_weeks': 0, 'playtime_at_review': 245, 'last_played': 1450240822}",japanese,"ポイントクリックアドベンチャーゲーム。
+バミューダ海域で難破した船の船員が無人島からの脱出を目指すとともにお宝を見つけるのが目的だ。
+ローポリゴンの操作キャラと実写背景というPS1やWin95初期のインタラクティブゲームと称したゲームにありそうな雰囲気が感じられる。ゲーム自体はごく普通のポイントクリックアドベンチャーで2時間もあればクリアできるボリュームだが、暇つぶし程度に遊ぶには十分遊べるゲームだと思う。",1450340457,1450340457,True,2,0,0.5071868896484375,0,False,False,False,False,,,
+19721807,"{'steamid': '76561198025802559', 'num_games_owned': 2409, 'num_reviews': 166, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 78, 'last_played': 1450226034}",english,"Oh boy, I love this game, but it is terrible. It is like a teleport to times of windows 98 with all of its ambient funk. It is calming, and nerve-wrecking at the same time, some puzzles are simple and some idiotic (f.ex. cage puzzle, how the f##k would I throw the f###g cage up to the air to catch a magpie?!). And the ending was quite disappointing.
+
+Still I recomend Lost in Paradise for all those who want to feel year 2001 again.",1450226615,1450226615,False,1,0,0.486815422773361206,0,False,False,False,False,,,
+19690771,"{'steamid': '76561198154757644', 'num_games_owned': 0, 'num_reviews': 60, 'playtime_forever': 183, 'playtime_last_two_weeks': 0, 'playtime_at_review': 183, 'last_played': 1450083235}",english,"A lovely relaxing experience.
+
+When I picked this title up I really didn't know what to expect. It's not reviewed on any of the main adventure games websites and there aren't many reviews on Steam.
+
+When I started it up I was asked whether I wanted to play it on Easy or Hard. I chose Easy as I didn't want to get stuck and it appears that the actual adventure gameplay is the same. The Hard difficulty level just affects the complexity of some sliders / picture puzzles.
+
+On beginning the game itself, the introduction was very simple with just a few paragraphs in a diary to read about how my character got to the island. I thought at this point that it was a little too simple and lame. The story itself is quite bare bones, but it holds interest for the duration.
+
+What I really liked about this game was the wonderful ambient, relaxing music. It's from Cyan Music and it really fitted the solitary exploration and puzzling of the game well. Other sounds in the game are the natural sounds of nature. There is no voice acting as there is nobody at all to speak to and this does not detract at all from the experience.
+
+The graphics are simple but very effective, from snow scenes that give you a sense of the cold to plenty of water scenes and lush jungle / rainforest.
+
+The interface is very user friendly.  Combining objects couldn't be simpler and the whole game is very intuitive. Hot spots do need careful searching though, though again there is help in the form of an eye icon that lights up all hotspots.
+
+I completed the game in 2 and a half hours and did not use any of the available hints. It could be completed faster with the help of the built in hint system, but where's the fun in that?
+
+I am not interested in Steam achievements, but for those that seek out 100% success, this game should be very straightforward in 2 playthroughs at each difficulty setting.
+
+I can recommend this game for a peaceful two to three hours experience.",1450082266,1450082293,True,7,0,0.589705824851989746,0,False,False,False,False,,,
+19494404,"{'steamid': '76561198012029331', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 250, 'playtime_last_two_weeks': 0, 'playtime_at_review': 182, 'last_played': 1490764821}",russian,"Мне игра очень понравилась, хорошее музыкальное сопровождение. Где-то можно с первого взгляда подумать, что все на столько сложно, но на деле все оказалось легко. Игра проходиться на одном дыхании. 9/10",1449299811,1449299811,True,3,0,0.422321826219558716,0,False,False,False,False,,,
+19439264,"{'steamid': '76561198018625414', 'num_games_owned': 3829, 'num_reviews': 1257, 'playtime_forever': 210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1448976634}",japanese,"クリアしたのでレビューします
+漂着した島からの脱出パズルアドベンチャーゲーム
+難易度は2種類簡単か難しいかの2択
+カード付、日本語訳対応、実績あり
+
+・良かった所
+普通にプレイできる翻訳
+拾ったアイテムの組み合わせで新しい物が作れる
+
+・良くなかった所
+背景、物探し（？）の場面がほとんど実写というか写真素材
+音楽も多分素材（別のアドベンチャーゲームで聴いたことあるやつでした）
+翻訳はありがたいけど改行が無いので画面が文字だらけ
+主人公の移動がもっさりしてる
+物凄くボリュームがない
+謎解きっぽいけど謎解きが簡単すぎてびっくりする
+スワイプを多用させられる（が難しくない）
+
+良くないところのほうが目についたので項目が多すぎですが
+あっさりゲーをプレイしたい時にはいいと思います
+実績を全解除するにはヒント無しで両方のモードをクリアすればOK
+プレイ時間も簡単な方で1.5時間程度だったので息抜き程度でなら遊べると思います
+
+[code]
+Steamキュレーターで紹介しました
+「3D酔いでもゲームがしたい」
+日本語でレビューしています
+https://store.steampowered.com/curator/41056472/
+[/code]",1449070981,1636306745,True,10,1,0.599311172962188721,0,False,False,False,False,,,
+19409599,"{'steamid': '76561198219586659', 'num_games_owned': 32, 'num_reviews': 1, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1447605297}",turkish,Saçma Sapan Bir Şey Oyun Bile Sayılmaz,1448967133,1448967133,False,0,0,0,0,False,False,False,False,,,
+19374827,"{'steamid': '76561198019410179', 'num_games_owned': 177, 'num_reviews': 37, 'playtime_forever': 139, 'playtime_last_two_weeks': 0, 'playtime_at_review': 139, 'last_played': 1448830764}",english,"Just finished the game, not very long when you have it in easy. Puzzles we're good, not to diffcult, didn't hurt my brain at least lol Even though using the hints a threw times the hints could of been better, most just said a little then ""try looking in diary"". Graphics arent to shabby. Good for the price.",1448832090,1448832090,True,7,0,0.552274644374847412,0,False,False,False,False,,,
+19160695,"{'steamid': '76561197995337998', 'num_games_owned': 5469, 'num_reviews': 106, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 128, 'last_played': 1447902106}",japanese,"難易度が二つあって、簡単なほうで2時間ちょっとでクリア。
+翻訳精度が高めで、何が書かれているかわからないというところはなかったと思います。
+拾ったアイテムを組み合わせたりして新しいアイテムを作り、
+作ったアイテムで先に進むという点はユニークと言えるかもしれません。
+現在の水準からすると、グラフィックはお世辞にも素晴らしいとはいえないけれど、
+音楽が非常によくあっていて、丁寧な翻訳によるストーリー？もなかなかですし、
+トータルとしては悪くないゲームだなと感じます。",1447950349,1447950839,True,3,0,0.530075192451477051,0,False,False,False,False,,,
+19154590,"{'steamid': '76561198068300301', 'num_games_owned': 519, 'num_reviews': 12, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1447907485}",english,"Played this game with some friends. We are all really bright folks, but golly this game had me. Unfortunately this game also made me look like a fool, and the bloody frog... if you get it early on you'll know what I'm talking about. I got this in a pack of 10 random steam keys. 90% worth it, this game can keep my two hours. 
+
+save me",1447909149,1447909149,True,11,3,0.553472816944122314,0,False,False,False,False,,,
+19037895,"{'steamid': '76561198065734019', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 102, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1480617890}",english,"I will change my opinion if my issue is fixed.
+I started the game and the resolution was to big. After a click it seemed to adjust to my resolution, but then I can't click on the buttons. I have to click, in my case, a centimeter bellow the actual button, for the game to detect my action.",1447356156,1447356156,False,8,1,0.517571330070495605,0,False,False,False,False,,,
+19008386,"{'steamid': '76561198206726309', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1447233554}",english,"Opened the game
+
+thought it looked like it was put together in GIMP and MS Paint. ok still willing to give it a try
+
+began a new game
+
+was greeted by stock photos of boats and beaches. nice
+
+shitty story, skip skip skip
+
+GAME BEGINS
+
+SEE CHARACTER STANDING THERE AND PANIC, TRYING TO FIGURE OUT HOW TO EXIT THE GAME
+
+ACCIDENTALLY CAUSED CHARACTER TO MOVE. MORE PANIC
+
+EXIT BUTTON DID NOT WORK AT FIRST AND PANICKED SOME MORE, WONDERING IF THIS WAS TO BE MY NEW REALITY
+
+exit button worked 
+
+save yourself don't play this game",1447233772,1447233772,False,1,9,0.197631850838661194,0,False,False,False,False,,,
+18706833,"{'steamid': '76561198051452780', 'num_games_owned': 608, 'num_reviews': 15, 'playtime_forever': 280, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1445926348}",spanish,"Un poco castrante la verdad; Juego corto y una historia muy vacía, eso sin mencionar el hecho de que la parte del realismo en el juego deja mucho que desear, pero vamos que estoy diciendo es un clásico point & Click que te da unas buenas 2 horas o hasta 3 dependiendo que tan bueno seas con los rompecabezas.
+Mi recomendacion, juegalo en dificil y no uses pistas, eso te hará un poco mas largo el juego y al menos le encontraras lo divertido. 7/10",1445924996,1445924996,True,7,0,0.588779807090759277,2,False,False,False,False,,,
+18052113,"{'steamid': '76561198011894568', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1496238725}",french,le jeu le plus poris que l'on puisse trouvez il est pas cher mais c'est encore trop pour bien faire on devrais nous payer pour y jouer,1442372717,1442372717,False,2,1,0.499013811349868774,0,True,False,False,False,,,
+17711534,"{'steamid': '76561197996746944', 'num_games_owned': 520, 'num_reviews': 40, 'playtime_forever': 134, 'playtime_last_two_weeks': 0, 'playtime_at_review': 134, 'last_played': 1440521009}",japanese,"パズル簡単じゃーんとか思ってたら色合わせできなくて30分かかりました。
+クリアタイム2時間20分　返金できず！！　日本語なのでぜひあそんでみてね。オパスコア52点",1440521106,1440521106,True,5,1,0.343143582344055176,0,False,False,False,False,,,
+17628917,"{'steamid': '76561198020761514', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 168, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1457567524}",english,"Just finished this game after just shy of 2hrs, it's not a long game. However, for the money I wasn't expecting alot. I found it fun, not taxing on the brain, simple point and click, but be warned the UI isn't exactly friendly. It can also be a bit glitchy. I used the eye icon alot to see where I could interact with the scene, but overall I think this is a decent enough casual game, although it does feel a little like a school project.  
+
+For the couple of quid I spent I don't feel ripped off, and the time I spent playing was fun. Good as a time fiiller. 
+",1440076224,1440076224,True,39,4,0.691219508647918701,0,True,False,False,False,,,
+17627979,"{'steamid': '76561198013658567', 'num_games_owned': 3716, 'num_reviews': 420, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 151, 'last_played': 1440362171}",german,Was ist das? Mehr alls zum Titelbildschirm kommt man einfach nicht.,1440070853,1440070853,False,2,0,0.330026030540466309,0,True,False,False,False,,1440167846.0,"Hallo, wir haben die Schwierigkeit Auswahlmenü verbessert. Das ""Weitermachen"" ist jetzt Taste in den Vordergrund, mit blauer Farbe und Raum für den vollständigen Wortlaut. Bitte aktualisieren Wenn Sie in der Lage, auch weiterhin dank sind."

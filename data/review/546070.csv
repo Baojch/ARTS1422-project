@@ -1,0 +1,554 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+159994524,"{'steamid': '76561198321122128', 'num_games_owned': 1042, 'num_reviews': 555, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 153, 'last_played': 1709752504}",english,"Nice
+Flower Design 5/10
+Heisen",1709759070,1709759070,True,3,3,0.541266977787017822,0,True,False,False,True,,,
+159871428,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1705775960}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1709593701,1709593701,True,2,1,0.525658845901489258,0,True,False,False,True,,,
+157251476,"{'steamid': '76561198068046234', 'num_games_owned': 1201, 'num_reviews': 96, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1706700570}",english,"Controls are so confusing and lacks content, needs more and better music/sound fx",1706700747,1706700747,False,1,0,0.516129076480865479,0,False,False,False,True,,,
+153969915,"{'steamid': '76561198025137402', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1703041548}",english,"It was confusing and hard to figure out the menus and controls. I didn't care for the options of vases or flowers either and couldn't figure out what was going on with the money, or what to do to unlock things. I really like the concept though, and had been looking for a flower arranging game. 
+
+",1703042013,1703042013,False,0,0,0,0,True,False,False,True,,,
+150498513,"{'steamid': '76561198237676960', 'num_games_owned': 5411, 'num_reviews': 2874, 'playtime_forever': 147, 'playtime_last_two_weeks': 0, 'playtime_at_review': 147, 'last_played': 1700497092}",turkish,kendi yaratıcılığızla çiçek yetiştirme,1700497127,1700497127,True,1,1,0.515151500701904297,0,True,False,False,True,,,
+149638985,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 135, 'last_played': 1699261659}",english,"Flower Design is not a game.  This is a simple application that lets you place low poly/minimalist ""flowers"" into a pot.  It's not a very useful software application, but that's all it is. 
+
+For those unfamiliar with what actually makes something a game, a ""game loop"" describes the interaction and feedback a gamer has when playing a game.  Tetris, for example, has a game loop where a random block appears, the gamer interacts with the block to position it, and then the game decides if that finishes a row or not, increases the players score if any rows were completed, then gives the gamer another block to position.  Counter-Strike has a game loop where a player seeks another player, tests their skill against that player by shooting them or being shot, the computer rewards the player if they win, and then if the player survives, they repeat that loop.  There's no loop here, no true interactive feedback.  It simply is not a game, it cannot be ""played"".
+
+This has misleadingly been launched in the ""Games"" section of Steam instead of the ""Software"" section. This is a common mistake for developers who are new to Steam, or don't understand the difference between games and software which isn't a game.  It seems this software published incorrectly as a game is simply lack of experience/knowledge of the correct process.
+
+Here's a link for the process to publish non-game software on Steam:
+
+[url=https://help.steampowered.com/en/wizard/HelpWithPublishing?issueid=925]Steam Developer Help With Software Publishing[/url]
+
+It's unfortunate this process was not known about/followed, resulting in a software application being published in the wrong place.
+
+Publishing things which aren't games on Steam in the Games section as games is misleading to gamers and somewhat harmful, because it pollutes the Steam marketplace and takes away visibility and market exposure for genuine game developers who do the right thing and make games for gamers.
+
+There are no gameplay loops in this software, no ""gameplay"", no meaningful game like interaction. It's a software application and as such has no merits as a video game for gamers. Because of this, I cannot recommend this non-game software as a game to gamers.",1699262107,1699262107,False,3,2,0.245456427335739136,0,False,False,False,True,,,
+148911329,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 204, 'last_played': 1691431692}",english,bad game,1698328102,1698328102,False,0,0,0.39682537317276001,0,True,False,False,True,,,
+148481721,"{'steamid': '76561199229029019', 'num_games_owned': 4540, 'num_reviews': 77, 'playtime_forever': 188, 'playtime_last_two_weeks': 0, 'playtime_at_review': 186, 'last_played': 1697715129}",english,"The graphics in Flower Design are a major disappointment. The visuals are unappealing, which is a significant drawback for a game that should rely heavily on its aesthetic appeal. Additionally, the absence of a tutorial leaves the player struggling to grasp the mechanics and the controls of the game right from the start.
+The gameplay itself is centered around a repetitive task of purchasing unattractive pots and plants, combining them in compositions that are less than pleasing to the eye, and ultimately selling them for in-game currency. This monotonous and mechanical experience lacks depth, leaving players feeling unengaged and unsatisfied. Those seeking a more immersive and rewarding gameplay experience will be sorely disappointed.
+What's even more disheartening is that Flower Design is not even offered as a free game. Its major selling point seems to be Steam cards drop.",1697714949,1697714949,False,1,0,0.523809552192687988,0,True,False,False,True,,,
+147981836,"{'steamid': '76561198266604137', 'num_games_owned': 1966, 'num_reviews': 132, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1696952922}",koreana,꽃을 판매해서 돈을 벌고 새로운 꽃을 구매해서 또 파는 게임. 모든 꽃을 해금하면 도전과제 100% 가능.,1696953186,1696953186,True,0,0,0,0,False,False,False,True,,,
+141016397,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1688176846}",spanish,"....(░(¯`:´¯)░)
+...(░(¯ `·.\|/.·´¯)░)
+.(░(¯ `·.(█).·´¯)░░(¯`:´¯)░)
+...(░(_.·´/|\`·._)(¯ `·.\|/.·´¯)░)
+......(░(_.:._).░(¯ `·.(█).·´¯)░)
+.....(░(¯`:´¯)░)...(░(¯`:´¯)░)
+.(░(¯ `·.\|/.·´¯)░░(¯ `·.\|/.·´¯)░)
+(░(¯ `·.(█).·´¯)░(¯ `·.(█).·´¯)░)
+.(░(_.·´/|\`·._)░░(_.·´/|\`·._)░)
+....(░(_.:._)░)...(░░(_.:._)░)
+......(♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥)
+..........(░░░░░░░░░░)
+...........(░░░░░░░░░)
+.......(۩۩۩۩۩۩۩۩۩۩۩۩۩۩۩)",1688177048,1688177048,True,0,0,0,0,True,False,False,True,,,
+138271017,"{'steamid': '76561198809069972', 'num_games_owned': 1414, 'num_reviews': 35, 'playtime_forever': 344, 'playtime_last_two_weeks': 0, 'playtime_at_review': 344, 'last_played': 1684036568}",schinese,"喜加一评测（成就解锁不刁难玩家，就默认好评，有卡牌就更好了）
+游戏性几乎没有，就是一个插花模拟器。
+成就解锁的话，选好盆然后选好花插上去卖掉得点数来买花，每种花一个成就。",1684036909,1684036909,True,1,0,0.527559041976928711,0,False,False,False,True,,,
+137356162,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 278, 'playtime_last_two_weeks': 0, 'playtime_at_review': 278, 'last_played': 1652052561}",russian,нет,1682573479,1682573479,False,3,0,0.545000672340393066,0,True,False,False,True,,,
+132343065,"{'steamid': '76561199168736795', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1678653718}",english,"I was very excited to find a creative, artistic, ""game"" as I'm a creative, artistic, person. But I found this so irritating and annoying to work with that I had to give up.
+
+My first shock of annoyance came when I realized you have to buy the flowers/pots with points that you get from selling your arrangements. No where did I see any mention of this. You can't just while away the hours creating what you want because you might not have enough shopping points.
+
+There are no directions, tutorials, guides, etc. and many things I simply could not, and have not, figure out. Sometimes I get options on the sides to adjust my flowers/pots, other times they are not there and I do not know why nor how to get them back. I've tried clicking on everything to no avail.
+
+The garden is a mystery to me. I am unsure what to do there, how to decorate it, etc.
+
+I couldn't even figure out how to exit the game for the first few plays! (you have to go into the garden and hit ESC).
+
+Instead of a nice relaxing game I was irritated and annoyed. Love the concept, but it really needs directions and a zen mode so you can just create without all the buying/selling.",1675725572,1675725572,False,0,0,0,0,True,False,False,True,,,
+130765104,"{'steamid': '76561199017859969', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 81, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1673621144}",english,"I really like this game. It takes a hot minute to understand the controls properly but once i did i loved playing around with flower combinations and selling them to use more plants. The only part i found i couldn't acclimatise to was the Garden section, which was very difficult to move around in, and complicated to build anything. But for the low price of the game (£1.59 at time of reviewing) i found the flower arranging section a bunch of fun.",1673622175,1673622175,True,0,0,0,0,True,False,False,True,,,
+128024772,"{'steamid': '76561198183668182', 'num_games_owned': 118, 'num_reviews': 12, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 79, 'last_played': 1531967055}",english,yea,1670313632,1670313632,True,0,0,0,0,True,False,False,True,,,
+124864834,"{'steamid': '76561198809107407', 'num_games_owned': 2148, 'num_reviews': 338, 'playtime_forever': 264, 'playtime_last_two_weeks': 0, 'playtime_at_review': 264, 'last_played': 1667451082}",schinese,"[h1]
+┏📌
+　100%🏆Achievements
+[/h1]
+[i]　　　　　　　　　　　by 2022.11.03
+[/i]
+[h1]
+　　　　　　　　　　　　┛
+[/h1]",1667451097,1667451097,True,0,0,0,0,False,False,False,True,,,
+122317231,"{'steamid': '76561198296397468', 'num_games_owned': 1483, 'num_reviews': 672, 'playtime_forever': 197, 'playtime_last_two_weeks': 0, 'playtime_at_review': 187, 'last_played': 1663325851}",schinese,插花游戏，不过看上去根本算不上一个游戏，买了所有的花就全成就了，也毫无美感可言。如果后续能加入更多花的种类及花盆的花，倒也不失为一个无聊的打发时间的软件……给不到好评，但比起我最近玩过的几个游戏而言似乎也不是那么太差,1663326070,1663326070,True,0,0,0,0,False,False,False,True,,,
+115109582,"{'steamid': '76561198428702035', 'num_games_owned': 1705, 'num_reviews': 664, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1651190031}",latam,"Lindo juego para hacer arreglos florales, los controles no son tan intuitivos, por lo que recomiendo mucho mas que compren Flower Design 2 que esta al mismo precio y presenta mejoras.
+El mismo dev también tiene ""Tree Bonsai"" en donde podemos criar un bonsái y cortarlo dándole forma. Todo muy chill y económico.",1651948956,1651964897,True,2,0,0.54356849193572998,0,True,False,False,False,,,
+114205079,"{'steamid': '76561199086098585', 'num_games_owned': 0, 'num_reviews': 214, 'playtime_forever': 320, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1650544992}",german,"[h3]Flower Design[/h3]
+
+...ist ein Simulator, in dem man sich Blumen und die Töpfe dazu gestalten kann, wie man möchte. Die Idee ist nicht schlecht, die Ausführung hat mir aber nicht so gut gefallen. - zwar kann man mit Geduld und Fantasie sicher schöne Kreationen schaffen, aber ob das mit dieser Sim am Ende wirklich toll aussieht wage ich zu bezweifeln, denn die Ergebnisse dürften sich von Bildern aus professionellen Programmen doch erheblich unterscheiden. Zugute halte ich, dass es eine Simulation ist und eben kein Grafikprogramm.
+
+Man beginnt mit 3 Punkten. Den ersten Topf und die erste Pflanze kosten beide noch keine Punkte - andere ""Modelle"" dann schon, und um die mit Punkten kaufen zu können, muss man seine Kreationen wieder für Punkte verkaufen, je doller und üppiger desto mehr Punkte gibt es dann dafür. Man kann die Ergebnisse zwar speichern, mir gingen sie aber dann doch irgendwie verloren. Ich wollte jetzt aber auch nicht unbedingt wissen, ob es an mir oder am Programm lag.
+
+Die Grundmodelle der Blumen und Töpfe sind begrenzt, dafür kann man aber mit einem einfachen Menü Formen, Farben, Größe und noch einiges andere stufenlos einstellen. Für jemanden der Spaß daran hat, ist das eine nette Sache, nur mir selbst hat es leider nicht so gefallen.
+
+Für 100%-Sammler kann ich es schon empfehlen, ich selbst habe gerade mal 25 Minuten dafür gebraucht, aber als Simulation rate ich lieber davon ab.",1650509634,1670773219,False,15,2,0.686281502246856689,0,True,False,False,False,,,
+111891356,"{'steamid': '76561198167079222', 'num_games_owned': 2548, 'num_reviews': 590, 'playtime_forever': 234, 'playtime_last_two_weeks': 0, 'playtime_at_review': 234, 'last_played': 1646873263}",english,"Easy 100% in 10 minutes. The gameplay is alright and designing my flowers is actually kinda fun. The reason I'm not giving it a positive review is because there need to be more options, and when it loads my flowers it lags super hard dropping to 3 FPS.",1646874836,1646874836,False,0,0,0,0,True,False,False,False,,,
+110933891,"{'steamid': '76561198136397211', 'num_games_owned': 10788, 'num_reviews': 395, 'playtime_forever': 259, 'playtime_last_two_weeks': 0, 'playtime_at_review': 259, 'last_played': 1645762089}",schinese,一花一世界，一树一菩提,1645762292,1645762292,True,4,0,0.336881697177886963,0,False,False,False,False,,,
+99911993,"{'steamid': '76561198309300239', 'num_games_owned': 353, 'num_reviews': 43, 'playtime_forever': 113, 'playtime_last_two_weeks': 0, 'playtime_at_review': 113, 'last_played': 1593844212}",english,"This game is an absolute piece of trash. Don't get me wrong, the concept isn't bad, but rather the execution. In a world where every schmuck that puts her game on Steam actually thinks through what she is gonna make and assesses the studio's development capacity, Flower Design could potentially be an amazing video game. Picture this: a AAA quality flower arranging simulator with top of the line graphics and thousands of real-world (and fictional) flora to choose from. Players could arrange flowers in a variety of different patterns from across world history. Players can share the designs and compete with others. Every species of flora would have curated scientific and cultural information regarding it. Florists from Amsterdam to Zanzibar would find a game that truly expresses the intricacies of their profession, perfectly packaged for the sedentary middle-aged white guys who form the bulk of game sales. Unfortunately we don't live in that world, and so, as it stands, Flower Design irreducibly sucks. 
+Actually, the only redeeming thing about this game is that it is relatively easy to 100% (for those that want to bulk out their perfect game score). Otherwise, this things should be fed to street-dogs in Ghana.",1632533477,1632533477,False,1,0,0.47826087474822998,1,True,False,False,False,,1632822880.0,"It took me a long time to realize that many friends may indeed not be used to things that are too stylized. But on the other hand, thinking about computer images as pure simulations is sometimes a bit of a toddler, especially when there are few such elements. I think I can understand the problem of ""default material"" like freehand ink painting; I actually really like the special feeling presented by this direct geometric configuration. I have made several games without material. If it has a material, it is actually not very good-looking, and it often requires many elements to set off so that it does not appear to be fake because of a little flaw (see the uncanny valley theory). On the other hand, I really don’t like to learn other people’s LOWPOLY style. I hope to find a certain kind of computer graphics as a style in the most direct way of presentation.
+If you still find it difficult to accept this style, I will gradually consider doing it on other levels in future games, and I won’t worry about it anymore, but I personally really like to do something on this level of modeling.
+Hope you understand! Thanks!"
+94346417,"{'steamid': '76561198217318681', 'num_games_owned': 0, 'num_reviews': 1730, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1624639492}",german,"This game is just for 5 minutes interesting but that's it. 
+unfortunately boring game.
+you can change a lot of things like colours, size, thickness wideness and more.
+no options menu.
+music is relaxing good.
+this game is even in offer expensive.
+all achievements work.",1624637267,1624637267,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+93740898,"{'steamid': '76561197969062133', 'num_games_owned': 2114, 'num_reviews': 1251, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1623621325}",english,"A minimalist game of arranging flowers. You select your pot, your flower, and can change the dimensions, but because this is a minimalist game nothing is explained to you whatsoever, and while I could figure out some aspects of the controls and game enough of it was confusing that I threw in the towel.",1623681951,1623681951,False,3,0,0.565217375755310059,0,True,False,False,False,,,
+90416622,"{'steamid': '76561198006804970', 'num_games_owned': 675, 'num_reviews': 98, 'playtime_forever': 323, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1618614385}",english,"If you want to pad your achievements then this is very quick and easy, but as a game its not great.
+Needs much better UI+controls, and some sort of objective or reason to play. If it had those it could make a decent minigame in some larger project.",1618595863,1618595863,False,0,0,0.47413790225982666,0,True,False,False,False,,,
+83878862,"{'steamid': '76561198272084841', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1609652409}",spanish,Una garcha pero buenos cromos,1609652501,1609652501,True,1,2,0.516129076480865479,0,False,False,False,False,,,
+83216814,"{'steamid': '76561198880019497', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1608759649}",polish,"Okropna. Wszystko jest mega toporne, niewygodne, bardzo nieestetyczne. Prawie pozbawiła mnie miłości do florystyki",1609002419,1609002842,False,3,0,0.565217375755310059,0,True,False,False,False,,,
+78665107,"{'steamid': '76561198150569140', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1604518249}",english,"I feel like I'm a botanist
+
+this game has no tutorials, no manuals or in-game guides, but still very relaxing",1604425639,1604425639,True,0,0,0,0,True,False,False,False,,,
+77370044,"{'steamid': '76561198096742168', 'num_games_owned': 0, 'num_reviews': 208, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1602380146}",english,"Part # 25? of ~69 in my ""How many games can I get for under $5"" review series.
+It's been a long time since I kept up with this series, but it's coming back around.
+
+This game is for people who want to make something gorgeous. It's not up to the standards of a floral designer, nor is it up to the standards of your average gamer. But it's relaxing and easy to play. I immediately found myself trying to figure out how to make concepts that I already had planned out. 
+
+The points system and game progression? Useless.
+There game's art? Cute, and simple.
+Soundtrack? Not annoying.
+
+Overall I would recommend this for people who liked Viridi, even though it's not as good. I'd like to spend more time on this game in the future, just hanging out making bouquets of flowers. A good wind down from the crazy games I'm used to.
+
+I got this game on sale, and so should you.",1602380640,1610205287,True,1,0,0.522293031215667725,0,False,False,False,False,,,
+76398354,"{'steamid': '76561198014926595', 'num_games_owned': 775, 'num_reviews': 967, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1600401409}",english,"(Got this game for free thanks to the developer's submission to OMEGA Trade - G.  Thanks!)
+
+[h1]For a game about designing, that's exactly what this lacks...[/h1]
+
+[i]Flower Design[/i] is a sandbox game created by the developer of [i]Plankton[/i] and [i]Jellyfish[/i] where you design flower arrangements...unfortunately, the developer has decided NOT to explain everything and to leave it up to you to figure out.  You can't tell what's locked, what's unlocked, and what you can use free of charge.
+
+There is no point in actually arranging the flowers aside from your own pictures.  All that appears to matter is that you have enough flowers in your vase to amass a maximum of about 15-25 points per vase.  Achievement-wise, all you need to do is use each flower at least once...nothing to it.  There's also a ""Garden"" mode, which I have no idea what to do in it...so I'm guessing it was a rushed project.
+
+Can I honestly recommend [i]Flower Design[/i]?  Not at all unless you just want to take pictures of your custom flower arrangements...though I think the real deal would probably be more fun.  Achievements are easy and the replayability is low.  You should be done in less than 30 minutes with this one.
+
+1/10  Cute, but the scope is too low.  Needs more polishing...or rather more design.",1600809222,1600809222,False,3,0,0.546859979629516602,0,False,False,False,False,,,
+76009831,"{'steamid': '76561198413884135', 'num_games_owned': 0, 'num_reviews': 127, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1600164162}",english,"This was a very disappointing copy of Viridi (another flower game). The flowers here were dull (some looked like road-side flowers to me), the vase designs were limited, background images looked horrible, the UI was equally bad...
+
+[i]The only positive thing about this game is[/i] - many things are customizable. So I guess if you are willing to put in time and effort to change every single detail, I guess it would look decent. I guess this game isn't for me. 
+
+[b]100% Achievement?[/b] Yes, takes about 10-15 mins. 
+[b]Children Friendly?[/b] Yes",1600162337,1600162379,False,4,0,0.564685523509979248,3,True,False,False,False,,,
+75074122,"{'steamid': '76561198113953843', 'num_games_owned': 1152, 'num_reviews': 597, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1598646389}",english,Good game if u like flowers,1598646417,1598646417,True,1,1,0.467163562774658203,3,True,False,False,False,,,
+69147714,"{'steamid': '76561198323475044', 'num_games_owned': 0, 'num_reviews': 39, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1589505084}",english, Piece of trash made in 2 min with about the same gameplay length. Good for nothing.,1589503129,1589503129,False,3,0,0.490363985300064087,0,True,False,False,False,,,
+65077777,"{'steamid': '76561198818725208', 'num_games_owned': 445, 'num_reviews': 70, 'playtime_forever': 446, 'playtime_last_two_weeks': 0, 'playtime_at_review': 432, 'last_played': 1590501526}",schinese,没有任何游戏性可言,1584267142,1590501565,False,1,0,0.509981870651245117,0,False,False,False,False,,,
+62483345,"{'steamid': '76561198271098611', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 459, 'playtime_last_two_weeks': 0, 'playtime_at_review': 424, 'last_played': 1602541465}",english,nice,1580085750,1580085750,True,0,0,0.459241300821304321,0,True,False,False,False,,,
+62032419,"{'steamid': '76561198091881115', 'num_games_owned': 323, 'num_reviews': 79, 'playtime_forever': 400, 'playtime_last_two_weeks': 0, 'playtime_at_review': 257, 'last_played': 1588810227}",turkish,"Keyifli,rahatlatıcı.Arka planda müziğinizi açın gerisi yaratıcılığınıza kalmış.Oyunu çözmesi biraz vaktinizi alıyor.Ben de deneyerek buldum tahmin ediyorum ki hala farketmediğim şeyler vardır ayrıntı çok fazla.",1579357274,1579357274,True,1,0,0.52173912525177002,0,True,False,False,False,,,
+60358585,"{'steamid': '76561198834599587', 'num_games_owned': 427, 'num_reviews': 35, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1577066307}",english,"No tutorial and lacking in options makes this a little clunky and how the designs turn out aren't so great (or maybe I'm just not doing good since I'm lacking in tutorials). Really bored with this game, not recommended even at the sale price.",1577066383,1577066383,False,1,0,0.480758160352706909,0,True,False,False,False,,,
+58836632,"{'steamid': '76561198320786102', 'num_games_owned': 0, 'num_reviews': 403, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1575171411}",schinese,游戏AI之简陋，操作之尴尬令人无语。。。就这游戏2块钱都不值，上去啥都没有就弄搞得莫名其妙，退款了，游戏大坑。,1575171496,1575171496,False,1,0,0.509981870651245117,0,True,False,False,False,,,
+57522087,"{'steamid': '76561198889562085', 'num_games_owned': 1627, 'num_reviews': 1204, 'playtime_forever': 328, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1646579254}",tchinese,good game,1574245162,1574245162,True,0,0,0,0,False,False,False,False,,,
+55903625,"{'steamid': '76561198013146396', 'num_games_owned': 1655, 'num_reviews': 2129, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1572445645}",russian,Случайно купил этот мусор вместо того самого Flowers))),1572445666,1572445666,False,1,0,0.442028999328613281,0,False,False,False,False,,,
+54987808,"{'steamid': '76561198382609244', 'num_games_owned': 446, 'num_reviews': 27, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1567700730}",spanish,"Básicamente te permite crear flores y arreglos florales muy elaborados, puede ser muy relajante y a pesar de su simpleza se pasa bien con las florecillas, si bien puede parecer un juego aburrido desde fuera, una vez que estás dentro te posee el espíritu del coletas de bricomanía y acabas teniendo un bonito jardín de petunias.",1567778095,1567778095,True,5,3,0.579710125923156738,0,False,False,False,False,,,
+54795543,"{'steamid': '76561198030858802', 'num_games_owned': 0, 'num_reviews': 70, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1566726977}",english,"Simply didn't work.
+
+I think the concept is great but none of the menu's as shown in the video preview appeared when I loaded the game.  All I could do was scroll in and out and manipulate a block into different shapes by clicking and dragging my mouse.  I saw a flower once.  Not sure how or why it appeared, but then then I had to cntrl/alt/del to exit the game.  I could scroll in and out, change the orientation of the flower, but nothing else.  Escape did not bring up a menu, nor did any other key on my keyboard.
+
+This is one of those instances I would really like steam to have an alternative to thumbs up/thumbs down, so that feedback could be given to the developer about what isn't working without having to give a rating.   I think this probably would have been a great niche game for those times when I just want to totally relax, but it doesn't work without the menu's.",1566729744,1566729744,False,3,0,0.533568918704986572,0,False,False,False,False,,,
+54264378,"{'steamid': '76561198022179607', 'num_games_owned': 4160, 'num_reviews': 1170, 'playtime_forever': 362, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1571719144}",french,good game,1563945631,1563945631,True,0,0,0,0,False,False,False,False,,,
+52614705,"{'steamid': '76561198016707580', 'num_games_owned': 785, 'num_reviews': 21, 'playtime_forever': 285, 'playtime_last_two_weeks': 0, 'playtime_at_review': 285, 'last_played': 1561337306}",english,Good choice for achievement hunters and completionists.,1561929620,1561929620,True,1,0,0.492223381996154785,0,False,True,False,False,,,
+50927454,"{'steamid': '76561197974092119', 'num_games_owned': 2075, 'num_reviews': 4551, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1565532451}",polish," [h1]꧁ FLORYSTKI BEDOM ZACHYWCENI꧂ [/h1] 
+ale gracze nie 
+
+[h1]Fabuła[/h1] 
+nie ma 
+
+[h1]GRAFIKA[/h1] 
+widac
+
+[h1]Muzyka[/h1] 
+jest 
+
+[h1]Rozgrywka[/h1] 
+modlesz się kwaikti wazoy i wytszko i tka się paczysz co stworzyłes
+
+[h1]Podsumuwjąć[/h1] 
+ja raczej szukam gier a nie symulatorw robenia łdnych kwiatkó nie wima jak wy uwazacie
+
+✂---✂---✂---✂---✂---✂---✂---✂---✂---✂---✂---✂--- 
+
+Szukasz więcej recnezji lub zastnawiesz się czemu tyle błedów ? Zapraszam do obserowania i przecyztania opisu na mojej grupie kuratora https://store.steampowered.com/curator/7690491-Aga-i-my/",1559131579,1559131579,False,3,0,0.146149396896362305,0,False,True,False,False,,,
+50852279,"{'steamid': '76561198170176537', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1559013264}",japanese,"生け花の体をした実績解除ゲーム
+操作性も悪いしあんまり面白くないです。",1558846321,1559013313,False,0,0,0.471014469861984253,0,True,False,False,False,,,
+50274128,"{'steamid': '76561198353669870', 'num_games_owned': 249, 'num_reviews': 48, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1539191877}",english,"It's more like a sandbox than a game, but if you like designing things you'll definitely enjoy it.",1555970545,1555970545,True,2,0,0.547682762145996094,0,True,False,False,False,,,
+50230693,"{'steamid': '76561198010621112', 'num_games_owned': 135, 'num_reviews': 60, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1555757799}",english,According to the price,1555758381,1555758381,True,0,0,0,0,False,False,False,False,,,
+48839580,"{'steamid': '76561198746302688', 'num_games_owned': 280, 'num_reviews': 1037, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1549607376}",schinese,本以为是有很多品种的花，自由组合的插花游戏，可实际上竟然是鼠标点点毫无美感与操作可言的无聊之作。,1549607550,1549607550,False,3,0,0.55433344841003418,0,True,False,False,False,,,
+48198430,"{'steamid': '76561198137852014', 'num_games_owned': 1568, 'num_reviews': 48, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1546999739}",schinese,为什么我的笔记本进入游戏图形都是方块？模型丢失了？？,1546999648,1546999648,False,0,0,0,0,False,False,False,False,,1550363818.0,改了一下设置 应该可以了 谢谢提醒
+47225932,"{'steamid': '76561198137285867', 'num_games_owned': 0, 'num_reviews': 2553, 'playtime_forever': 914, 'playtime_last_two_weeks': 0, 'playtime_at_review': 914, 'last_played': 1556893521}",english,6/10,1543648553,1543648553,True,0,0,0.473231345415115356,0,True,False,False,False,,,
+46046083,"{'steamid': '76561197961037332', 'num_games_owned': 3225, 'num_reviews': 2, 'playtime_forever': 224, 'playtime_last_two_weeks': 0, 'playtime_at_review': 224, 'last_played': 1516204124}",spanish,Mérvelus,1542836909,1542836909,True,0,0,0.433194577693939209,0,False,False,False,False,,,
+45882688,"{'steamid': '76561198350044526', 'num_games_owned': 103, 'num_reviews': 5, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1544445827}",russian,-_-,1542552642,1542552642,True,0,0,0.462724953889846802,0,True,False,False,False,,,
+45470735,"{'steamid': '76561198309226976', 'num_games_owned': 1107, 'num_reviews': 93, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1680971283}",hungarian,"BEST GAME.
+Jó kis időtöltés.",1540668900,1540668900,True,0,0,0,0,False,True,False,False,,,
+45267300,"{'steamid': '76561198035285721', 'num_games_owned': 5118, 'num_reviews': 1098, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1538882311}",english,"[h1]Become a flower decorator[/h1]
+Actually you can play this game both ways. First as a creative sandbox simulator to create beautiful screenshots of flowerpots. Second as an economic simulation where you have to sell as many flowerpots as possible to afford more expensive flowers. That would be part of the achievement hunting to buy each of the flower specimen.",1539528230,1539528230,True,5,0,0.582001447677612305,0,False,False,False,False,,,
+44736161,"{'steamid': '76561198117689758', 'num_games_owned': 1258, 'num_reviews': 420, 'playtime_forever': 210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 210, 'last_played': 1521946729}",english,guud game,1536966991,1536966991,True,1,0,0.473231345415115356,0,False,False,False,False,,,
+44662562,"{'steamid': '76561197999034250', 'num_games_owned': 0, 'num_reviews': 79, 'playtime_forever': 195, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1536574805}",english,So calming and stress free..I love it!,1536550006,1536550006,True,1,0,0.433685064315795898,0,True,False,False,False,,,
+44223027,"{'steamid': '76561198142329708', 'num_games_owned': 7953, 'num_reviews': 89, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1534575655}",russian,"если у вас дома кошка. то из-за неё очень сложно ещё и иметь горшечные цветы (кошки они так любят всё смахивать на пол соответсвенно: горшок падает, разбивается, земля по комнате), а что спросить с урчалки ? он же животное. так вот здесь можно спокойно заниматься своими цветочками без риска на неприятности",1534573152,1534573152,True,3,1,0.444609910249710083,0,False,False,False,False,,,
+44042300,"{'steamid': '76561198171339687', 'num_games_owned': 4711, 'num_reviews': 644, 'playtime_forever': 277, 'playtime_last_two_weeks': 0, 'playtime_at_review': 254, 'last_played': 1533903054}",french,"Encore un prétexte Unity pour produire un truc qui se prend pour un jeu.
+On a le choix entre 3 pots de fleur (dont un seul gratuit) et l’objectif est de créer des compositions florales de plus en plus élaborées, à mesure que l’on engrange des points par le biais de « ventes ». Une fois que l’on a fini de faire joujou sur les compositions, on peut s’amuser à créer son propre jardin via un outil dégueulasse et très limité.
+
+Aucune explication, des bruitages ridicules, un menu et des options immondes…bref, une catastrophe.
+On se consolera avec quelques succès rapidement collectés et des cartes Steam. Malgré tout, vous trouverez bien mieux pour dépenser vos 2 euros.",1533903614,1533903614,False,3,0,0.545887589454650879,0,False,False,False,False,,,
+43841951,"{'steamid': '76561198128460864', 'num_games_owned': 1898, 'num_reviews': 186, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1532553918}",english,"Such an simple, mayestic game.
+Use your creativity to make beautifull, colourfull or even ugly, weird flower pots.
+There are very many variables to change such as the amount of petals, size, position or even the amount of edges of the pot.
+Different flower and plant combinatons can make your pot look look like made by a professional florist.
+
+Tho its quite hard to get in to because there is no tutorial and you have to figure aut everything by yourself. But once you got it its very easy and intuitive
+
+Definitly a great game for relaxing and calming down. 
+
+Give it a try",1532983484,1532983484,True,0,0,0,0,False,True,False,False,,,
+43400195,"{'steamid': '76561198056976073', 'num_games_owned': 6040, 'num_reviews': 1653, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1531057922}",koreana,"화분을 사고, 꽃을 사서 디자인을 바꾸고 판매.
+게임 내에서 할 일은 이것밖에 없습니다. 콘텐츠가 부족해요.
+도전과제 올클을 위해서는 약간의 노가다가 필요합니다. 어렵진 않습니다.
+
+[code]
+스팀 큐레이터 : [url=store.steampowered.com/curator/44849820/]INSTALLING NOTHING[/url]
+[/code]",1531055504,1707656633,False,1,1,0.506963789463043213,0,False,False,False,False,,,
+43305322,"{'steamid': '76561198047455579', 'num_games_owned': 2682, 'num_reviews': 1289, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1530732615}",english,boring,1530734090,1530734090,False,0,0,0.386293262243270874,0,False,True,False,False,,,
+43011714,"{'steamid': '76561198045255607', 'num_games_owned': 6717, 'num_reviews': 21, 'playtime_forever': 228, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1545704525}",schinese,"[h1]感谢SteamCN鉴赏家短评活动提供的游戏[/h1] 
+
+[b]带图版本请见：[url=https://steamcn.com/t400388-1-1]https://steamcn.com/t400388-1-1[/url][/b] 
+
+[h1]TL;DR（不过希望能看一下结尾关于作者的一些信息）：[/h1]
+
+[h1]4/10[/h1]
+
+[h1]优点：[/h1]
++创意很好
+
+[h1]缺点：[/h1]
+-UI十分简陋
+-花卉和花盆的建模相当粗糙
+-失败的系统设计大大降低了游戏的可玩性（反复快速买卖十几分钟即可买齐全部花卉解锁全部成就）
+-作为一款Unity引擎游戏几乎等于没有优化（插上几十朵花以后竟然会卡得失去响应）
+-花园系统完全没有卵用，严重怀疑是作者实践自己兴趣的试验场
+-作为插花游戏花卉种类太少（十二种花，对应十二个成就，此外还有三个其实本质上没什么区别的花盆）
+-不错的创意被执行得极其糟糕
+
+第一次见到Flower Design这款游戏还是在很长时间以前，当时看了封面和简介（事实证明不看宣传片和截图是严重的错误），被其插花的主题打动了，于是加入了愿望单，正巧这次STCN的短评活动有这游戏，于是开开心心申请下来，然而打开游戏的几分钟后，满怀期待想体验插花艺术的我就知道自己对这款游戏想错了。
+
+刚打开游戏，主界面之简陋便吓到了我，然而抱着主界面这种东西说明不了什么游戏内容才是干货的心态，我还是义无反顾地进入了游戏，随后受到了更大的惊吓…
+正式进入游戏后，首先是选花和花盆，可以概括为：开局一个盆，剩下全靠扭；开局一枝花，剩下全靠买。点击盆或花切换焦点，可以分别对二者进行多项参数的调整（也可直接在物体上拖动进行调整，不过精确性要差了很多），只是这个UI简陋的让人实在无法想象这竟然是一款以插花为主题的游戏…（虽然商店页面的截图上有文字，但是游戏中实际并没有能方便添加文字的选项）而由于建模实在过于粗糙，因此开口花盆基本没法看…
+
+游戏的基本机制就是插花---卖花---买花---继续插花这样的循环，然而这个系统设计得实在是过于粗糙，经过简单测试后发现，售卖系统的价格完全取决于你插的花的数目和所插花的价值，与你为了美观所做的调整（也是插花的本来意义所在）完全没有半毛钱关系，比如简单粗暴插上一排相同高价格花卉，轻轻松松25点走起（例如每朵4点，插上7朵即可到达上限25点），游戏里最强（gui）花盆+所有花各插一朵，最后售卖所得同样为上限25点
+
+这么一个可以说是毫无意义的系统设计和激励机制，使得游戏的可玩性大大的降低，毕竟能被游戏内容吸引来的用户多半是冲着插花这一主题而来，而可供选择的花卉只有十二种，使得玩家在所有花卉种类解锁后（全部买齐只需要几分钟，可以说是成就党的福音了）便失去了游戏的乐趣（花盆有三种可供解锁，但鉴于花盆可供调整的参数，基本等同于同一个），且游戏虽可以调整包括光照和场景在内的诸多参数，但却没有给玩家一个更好的拍照系统来分享自己的作品，只能F12截图，（这个建模粗糙的程度也使得截出来的作品图毫无美感可言）
+
+游戏中还加入了一个毫无卵用的Garden系统，屏幕正下方莲花一样的东西并不是花…而是个控制面板…点开以后可以选择建筑组件，表面植被之类的材质，以及一些小装饰品，操作逻辑也是拖拽拉伸，编辑功能上提供了擦除和撤销，为了解决视角问题采用了拖拽这个控制面板进行视角变换的操作逻辑，虽然很别扭但好歹还是能用的，只是…这整个Garden系统完全让人摸不着头脑不知有何卵用，只能理解为是作者出于自己对生成艺术的兴趣而打造的试验场了。
+
+[h1]总结：[/h1]
+作为一款以插花为主题的游戏，Flower Design有着很棒的创意，本应是一款带着些许禅意，让人能放空于其中真正放松的作品，如果是单纯的提供丰富的花卉，场景，容器种类，实现更精准的目标定位，让玩家可以专著于享受插花艺术本身上，并辅以其它元素烘托气氛，例如在插花时播放恰到好处的BGM，加入一些随机事件，跳出来几句或蕴含哲理或藏着俏皮的台词之类的小彩蛋，那么也许它可以成为像Mountain一样的佳作（至少成为小众邪典233），可惜作者忽略了游戏名字里Design这个要素，而将其做成了更具德国血统的Flower Simulator，用不符合游戏主题的系统设计将这份本该有的情趣毁的一干二净，这不得不说是一件憾事。
+
+不过值得一提的是，从游戏的成品效果上能看出作者也是游戏开发的新手（仅指游戏开发这一方面），因此也许在某些方面的处理上也是心有余而力不足，最后只能拿出这样一件简陋的成品，这不免让人好奇，如果作者的技术水平有所提升，是不是能带来一款更符合我们期待与想象的作品呢？巧的是就在三天前作者新作的Steam页面刚刚上线，并且将于一个月后解锁Early Access版本，其游戏内容换成了盆景（看来作者对这类题材真是相当有爱233~），从商店页面的宣传片和截图来看，这次的效果显然要比Flower Design好的多，如果一个月后发布的成品质量能与此相符合，那还是乐意支持一发的（怎么这么像广告噗）。
+
+至于Flower Design这作，还是要客观地给个差评，如果不是入了IG的包并且HH，那么还是不推荐购买的。
+
+[h1]P.S.  附上作者的新作和其在一些相关网站的个人页面（Steam页面上的宣传截图也是作者发布在其上的艺术作品）[/h1]
+其实看了这些信息以后感觉大概能理解作者的心态，想必作者开发本作是出于自己对生成艺术的热爱，因此打造了这么一个小游戏（对作者本人来说更像是工具，里面的系统应该是为了让这工具更像游戏而加，只可惜起到了相反的作用），只是既然是面向市场，那么就不能只满足于自己的需求，而要更多考虑玩家想要的是什么，希望作者在明白这点后能做出既能让自己用着顺手又能让玩家玩的开心的工具/游戏吧。
+
+[h1]作者的新作Tree.Bonsai：[url=https://store.steampowered.com/app/875240/TreeBonsai/]Tree.Bonsai[/url][/h1]
+
+[h1]Twitter：[url=https://twitter.com/panguojun]https://twitter.com/panguojun[/url][/h1]
+看到开发商和发行商大概是作者名字后随手google的，从名字和后面Pixels主页上所标记的坐标北京看貌似是同胞？不过很长时间没更新了，前面的推文也没耐心翻，有兴趣的玩家可以自行翻阅看有没有有趣的信息
+
+[h1]Pixels主页：[url=https://pixels.com/profiles/guojun-pan.html]https://pixels.com/profiles/guojun-pan.html[/url][/h1]
+从这里能看出作者对生成艺术的着迷，如果Flower Design这作能体现出这样的效果，那质量必然会大大提升。
+
+[h1]Deviantart主页：[url=https://panguojun.deviantart.com/]https://panguojun.deviantart.com/[/url][/h1]
+可以看到游戏在Steam上的封面即为其中一副作品。",1529862647,1536217610,False,3,1,0.552087724208831787,0,False,True,False,False,,,
+42697276,"{'steamid': '76561198005456446', 'num_games_owned': 1632, 'num_reviews': 16, 'playtime_forever': 91, 'playtime_last_two_weeks': 0, 'playtime_at_review': 91, 'last_played': 1528709961}",english,"This game is more of a techdemo of an engine than it is a game. You use different plants and pots to design different flowers and that is it. There is no real gameplay which is why I won't recommend this game. The only positive is that Flower Design is an easy 100% game for a few bucks.
+Overall I do not think that the game is worth its current price",1528892361,1528892361,False,3,0,0.500949740409851074,0,False,True,False,False,,,
+41791555,"{'steamid': '76561198409876396', 'num_games_owned': 322, 'num_reviews': 12, 'playtime_forever': 1196, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1525169206}",schinese,"创意很不错，但是在游戏的整体画面来开始在是粗糙，做出来的效果和预期差的不是一点半点
+而且这UI的风格也太诡异了点...
+花园里的视角根本就不知道是什么鬼，为什么长得像小船的东西还能上天？？？",1525169377,1525169377,True,2,1,0.543624162673950195,0,False,False,False,False,,,
+41184750,"{'steamid': '76561198346637820', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1522730799}",schinese,I think this game is very boring！,1522517403,1522517403,False,2,0,0.545571267604827881,0,False,False,False,False,,,
+40844591,"{'steamid': '76561198096141929', 'num_games_owned': 743, 'num_reviews': 69, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1521437179}",schinese,"这种游戏不给差评简直天理难容...
+无聊到极点...
+毫无内容可言...",1521191010,1521191010,False,1,0,0.439828038215637207,0,True,False,False,False,,,
+40551868,"{'steamid': '76561198321430703', 'num_games_owned': 3278, 'num_reviews': 251, 'playtime_forever': 262, 'playtime_last_two_weeks': 0, 'playtime_at_review': 209, 'last_played': 1520133960}",schinese,"在steam你甚至可以学习插花
+把12种花买完就全成就了",1520134062,1520134062,True,3,0,0.534638881683349609,0,False,False,False,False,,,
+40481875,"{'steamid': '76561198287763289', 'num_games_owned': 2233, 'num_reviews': 339, 'playtime_forever': 62, 'playtime_last_two_weeks': 0, 'playtime_at_review': 62, 'last_played': 1519894202}",tchinese,"全成就+1。
+
+
+很明顯我缺少美感，所以只是來刷成就。
+用0P的花瓶插0P的花，多插幾隻賣錢。
+把每種花都買到就全成就了。
+",1519894362,1519894362,True,3,0,0.534273028373718262,0,False,False,False,False,,,
+40221025,"{'steamid': '76561198181526215', 'num_games_owned': 10867, 'num_reviews': 439, 'playtime_forever': 249, 'playtime_last_two_weeks': 0, 'playtime_at_review': 249, 'last_played': 1519039837}",schinese,"Chr_的喜加一游戏评测计划√
+
+1.建议分类：
+	游戏类型：【模拟经营/休闲】
+	游戏质量：【70/100】
+
+2.评测：
+	[strike]欢迎来到4399小花仙[/strike]  种花卖花就是全部游戏的内容，一开始玩找不到按钮，后来发现要点花盆才显示？？？游戏可以选择3种花盆，12种花，花和花盆可以自定义形状和颜色，选完可以卖了，获得点数，然后用点数解锁新花盆，花，好像还有个花园可以展示种好的盆景，全成就了就不想玩了，花和花盆种类太少了，可定制性不怎么高，我捏了半天花盆都很难看。。。
+	
+3.评分：(+好评 -差评 =中评)
+	+ 有卡
+	+ 有汉化
+	+ 有成就（全部花买一遍就解锁了）
+	= 音乐一般
+	- 游戏性一般
+
+4.总结：
+	游戏质量一般般，反正我觉着没太大意思，勉强好评吧。",1519040536,1519040536,True,4,1,0.551988482475280762,0,False,False,False,False,,,
+40148263,"{'steamid': '76561198321265455', 'num_games_owned': 5377, 'num_reviews': 1252, 'playtime_forever': 136, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1521411531}",schinese,"驰游包包，喜加一默认好评
+长见识，啥游戏都有哈哈",1518852089,1518852089,True,2,0,0.518518567085266113,0,False,False,False,False,,,
+39804806,"{'steamid': '76561198058115931', 'num_games_owned': 4434, 'num_reviews': 503, 'playtime_forever': 134, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1570298811}",english,"simple game, nothing special.
+easy 100% achievements",1517624224,1517624224,True,5,14,0.573575973510742188,0,False,False,False,False,,,
+39629506,"{'steamid': '76561198074257097', 'num_games_owned': 1349, 'num_reviews': 119, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1545543368}",english,"Work at your own pace, create pieces of art in a unique and novel medium, for under two bucks. Brought to steam by an active dev steadily improving the software with new features. A real delight to return to now and then, if only for a few minutes.",1516976895,1516976895,True,3,0,0.516587674617767334,0,True,False,False,False,,,
+39032768,"{'steamid': '76561198268537934', 'num_games_owned': 0, 'num_reviews': 243, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1515059881}",english,"This game has no tutorials. No manuals or in-game guides. 
+
+It's very hard to use. I'm completely confused with menus.
+
+The worst of all: Game menu options are pure white. And some backgrounds are white too. So I can't see any menu options in those backgrounds! That's terrible!
+
+If developers can add some tutorials and change the options design, it will be a nice game.",1515030373,1515038702,False,14,0,0.662809967994689941,3,True,False,False,False,,,
+38975089,"{'steamid': '76561197994686382', 'num_games_owned': 1219, 'num_reviews': 92, 'playtime_forever': 845, 'playtime_last_two_weeks': 0, 'playtime_at_review': 832, 'last_played': 1514687708}",hungarian,"Flower Design egy igen csak érdekes ""játék"" nevezhetnék inkább valami fajta alkotó programnak ahol saját magad tervezheted meg a virágcsokraidat, sajnos a kínálat virágok terén nem valami nagy mert van összvissz 12 választási lehetőségünk és 2 vagy 3 váza amit választhatunk alapnak, ugyanakkor a szegényes választási lehetőséghez még hozzá lett adva egy érdekes funkció amivel méretre szabhatjuk a szegényes választékot ami annyit jelent hogy csinálhatunk extra hosszú vázát vagy nagyon széles virágokat.
+
+a virág készítés mellet van még egy garden játék mód is ahol a saját képünkre alakíthatjuk a már előre elkészített kertet, csinálhatunk egy gyönyörű szép függőkertet vagy egy elhagyatott gazfészket... az ötletek határa a csillagos ég.
+
+nem vagyok oda az ilyesfajta játékokért de aki szereti elverni az idejét ilyen pepecselős programokra az biztos megtalálja a számításait itt, ezt garantálom.",1514903256,1514903256,True,5,1,0.492068558931350708,3,False,False,False,False,,,
+38658818,"{'steamid': '76561198052933734', 'num_games_owned': 4633, 'num_reviews': 571, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1516727336}",japanese,"フラワーアレンジメントシミュレーションだそうだが
+ゲーム性が皆無に等しいクソゲー｡
+
+鉢や花の購入にはそれぞれ0～100ポイントの消費が必要｡
+まずは鉢を選んで､好きな色や形に整える（融通は利かない）｡
+次に､12種の花の中から好きな物を選ぶ｡
+あとはsellを選択すると､鉢と花が消滅する代わりに
+ポイントをいくらか得られる｡以上がこのゲームの内容の全て｡
+
+実績は全種の花を買うだけだが､売却によって得られるポイントは
+微々たるもので､0ポイントの鉢・花から作らないと赤字になる｡
+いくら綺麗に花を飾っても､売る以外にできることは何もないし
+作り方に応じて売却額が変わったりするわけでもないし
+完成品の見栄えも総じてショボくてスクショ映えもしないので
+プレイ意欲をかき立てるような要素が何一つなかった｡
+
+実績対応・トレカ未対応｡日本語未対応だが問題なし｡
+内容に対して定価だと高い｡全実績解除まで10分弱｡
+発想自体はワンチャンあったと思うが､この出来で
+早期アクセスから脱してしまったので､もはやどうにもこうにも｡",1514210091,1514210091,False,22,0,0.730677962303161621,0,False,False,False,False,,,
+38509165,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 910, 'playtime_last_two_weeks': 0, 'playtime_at_review': 883, 'last_played': 1513952738}",romanian,Very nice game,1513901217,1513901217,True,0,0,0.434165716171264648,0,False,False,False,False,,,
+38302173,"{'steamid': '76561198030516476', 'num_games_owned': 5534, 'num_reviews': 465, 'playtime_forever': 113, 'playtime_last_two_weeks': 0, 'playtime_at_review': 113, 'last_played': 1513265915}",french,"Un petit jeu bac à sable, où vous jouez les fleuristes en créant vos compositions florales.
+
+Ce ""truc"" que je ne peux qualifier de jeu n'est pas fait pour moi... 
+Certain l'ont apprécié, j'ai du mal à comprendre... Je pense que c'est comme pour l'art .... ""Jouer"" à ça c'est comme s'extasier pendant 2h devant une toile où seraient peintes 2 grosses tâches d'encre et de penser que c'est magnifique, indescriptible, fabuleux...
+
+Désolée mais non, je ne trouve ça ni amusant, ni interressant, ni rien du tout. 
+
+Prenez un pot destiné à y recevoir des fleurs, déformez le pour rendre son aspect plus original mais ce avec bien du mal car l'interface et les outils qui nous sont fournis ne sont pas faciles d'utilisation. 
+Puis choisissez des brins de verdure qu'il faudra acheter (grace à des points), ou des fleurs, mettez le tout dans le pot afin de réaliser votre composition (tant bien que mal car ça ne se place pas forcément comme vous en auriez envie). Et pour finir vendez le tout pour obtenir des points et ainsi acheter d'autres variétés.
+
+Il y a un petit bonus : le jardin où vous pouvez exposer vos créations et vous promener pour les admirer et vous détendre.
+
+Franchement l'interface d'utilisation est plutôt hasardeuse, il y a pas mal de bugs de texture, et il faudra créer beaucoup de compositions pour obtenir des points et acheter les variétés plus chères.
+
+Je pourrais tout aussi bien créer ce genre de compositions florales en utilisant un logiciel de dessin, ce serait de une plus facile et plus joli et de 2 moins contraignant tout en procurant la même sensation...
+
+Je ne recommande pas ce ""logiciel"" ou ""simulateur"", ""machin truc"" qui est tout sauf un jeu amusant.
+
+
+[code]Si vous avez apprécié cette évaluation et souhaitez découvrir d'autres jeux venez suivre ma [url=https://steamcommunity.com/groups/indepgames/curation]page de curation[/url].[/code]",1513261839,1604686165,False,11,1,0.670579493045806885,0,False,False,False,False,,,
+36677789,"{'steamid': '76561198369733562', 'num_games_owned': 104, 'num_reviews': 35, 'playtime_forever': 177, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1531166800}",english,"I have been looking for a 'game' like this for a while: simple, really just virtual flower design. As a hobby a lot cheaper than working with real flowers, and very relaxing. 
+I hope the developer will continue to add different plants and pots, but the options one has now are enough to keep me entertained for the foreseeable future. 
+As others have commented as well, I think the game could be improved by replacing the 'pose' button by a click-and-drag system, so one is able to control the exact position and pose of the flowers.",1511278454,1511278454,True,2,0,0.506769835948944092,1,True,False,False,False,,,
+36086122,"{'steamid': '76561198213387188', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1509134726}",english,"Not easy to use or play, not fun, would not reccomend I wish I hadn't bought it",1509214766,1509214766,False,1,0,0.354600816965103149,0,True,False,False,False,,,
+35740674,"{'steamid': '76561198049692475', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1508054213}",english,"Best game I have played in 2017 so far. This game brings you back to the days your babushka would hit you with a leather belt if you played video games inside for too long. I remember the sweet memories of taking care of the rose flowers of my dear babushka. Sometimes she would say ''ANATOLI YOU DEBIL DIS NOT HOW YOU DO IT'' and hit me with the belt when I was playing outside too, but at least I had the comfort of my dear friends the flowers.
+Great game.",1508055409,1513292951,True,3,2,0.419531315565109253,0,True,False,False,False,,,
+35341170,"{'steamid': '76561198086960182', 'num_games_owned': 0, 'num_reviews': 20, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1506777533}",english,"I bought this game in a bundle and thought this could be an interesting discovery. I used to play Viridi and like the concept of making my own creation. 
+
+The game in itself doesn't have a lot of content, so let's make the pros and cons :
+
+Pros :  
+ - Chill game, where you can make your creation and customise them as much as you'd like
+ - Pretty and polished
+ - Achievements are easy to get
+ - You can just play five minutes when you have the time
+
+Cons : 
+ - Not a lot of content in my opinion
+ - Attribution of points arbitrary, I still haven't figured it out 
+ - Pretty short, even though you can endlessly create, it's easy to run out of objects.
+
+If you like the concept, then you should buy the game and give it a shot, though I'd personnaly buy it in a sale or a bundle.",1506783085,1506783085,True,4,0,0.556996583938598633,0,False,False,False,False,,,
+35030707,"{'steamid': '76561198383125244', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1503435966}",english,Would be a nice game if the interface was so darn hard to work with. I would like to have options to use my arrow keys to control the options. A frustrating interface ruined the experience for me.,1505674471,1505674471,False,5,0,0.495485126972198486,0,True,False,False,False,,,
+34853617,"{'steamid': '76561198140299850', 'num_games_owned': 2332, 'num_reviews': 199, 'playtime_forever': 697, 'playtime_last_two_weeks': 0, 'playtime_at_review': 372, 'last_played': 1509726375}",english,"In the brief time since FLOWER DESIGN was first released, it has blossomed into something rare. It is obvious that this DEV has a love for beauty (as well as desire to share it), and that love is what motivated him to embark on this project. But he also created something of beauty that encompasses game concepts (and even achievements now!)
+
+When FLOWER DESIGN first launches, few components of flower arraigning are available. The player has a single pot, and very few flowers and accessory plants. The player can select a background, and the related lighting and shadows. At first, I considered that this might be a detriment for appealing to the more impatient of today’s gamers. To actually REQUIRE numerous finished arrangements to be “sold” into the game, to collect game currency in order to access more pots and plants? Would players be willing to wait, and work, to produce more elaborate arrangements, after starting off with possibilities so simple and basic?
+
+But what the DEV has actually done is to give the arranger/player a valuable tool for understanding and appreciating this ancient art. A successful arrangement has nothing to do with the number of items, or the complexity of the finished project. While there may never be a “perfect” arrangement, an arrangement of a single flower, fern or leaf can as closely approach perfection as may an elaborate one, and that is the lesson this DEV very respectfully trusts the player to come to understand (if they don’t begin the game that way.)
+
+Not only is the player required to start minimally (which places the focus on the positioning, color, size and contrast between each and all items), but as players collect currency from “selling” completed arrangements, each player must decide which is to be acquired next. A pot? A flower? An accessory plant? It’s rare to see a DEV take such a risk, and presume that players wish to not only experience a “game” such as this, but to “grow” as an arranger, as does the quantity of components they have access to within the game. For a DEV to create the means for a player to produce their own artistic growth, as they do the same within the game, is quite remarkable.
+
+FLOWER DESIGN is something unusual, and in fact almost unique in computer gaming; something intended to create calm and peace, beauty and contentment. A game with no losing possible, and every attempt as a winning effort. I dare say that there will be those that may be like me; unable to create art or beauty in ANY form, that will find something creative in FLOWER DESGN that they have searched for throughout much of their lives. And for less than $2, I see no way to fail.
+
+(DISCLOSURE: Since the release of this project the DEV has become a friend. I like to think that has nothing to do with my appreciation for his game, and in fact I acquired FLOWER DESIGN through purchase, the same as most players.)",1505020361,1505020361,True,44,0,0.788800716400146484,10,False,False,False,False,,,
+34519054,"{'steamid': '76561198124597867', 'num_games_owned': 6388, 'num_reviews': 95, 'playtime_forever': 295, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1526747944}",schinese,"[h1]“十分钟全成就撒花~”[/h1]
+以下是我快速全成就的方法：
+使用0P的瓶子 不断插上0P的花 
+花越多能出售的价格越高
+解锁全成就所需的金币：[spoiler]1P+1P+2P+3P+10P+15P+20P+30P+40P+50P+20P[/spoiler]=192",1503800856,1503800856,True,17,0,0.700120151042938232,0,False,False,False,False,,,
+34078780,"{'steamid': '76561198074914402', 'num_games_owned': 398, 'num_reviews': 42, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1502104231}",schinese,设计自己的盆栽，玩法上很吸引人，很容易沉浸其中，游戏的操作体验中规中矩，不会给游玩带来不愉快的体验，可是游戏性确实不强，使内容显得有些单薄。另外出售对点数的判定有问题，确实很容易让玩家自然而然地刷起分来。总的来说，游戏艺术性强过游戏性，说是一款游戏不妨看成一款软件，千万不要太过追求点数而忘了玩这款游戏的初衷。最后，大家创作好之后，一定要记得截图TT，保存的一旦出售会永远消失的。,1502101445,1502102800,True,2,0,0.509921550750732422,0,False,False,False,False,,,
+33996741,"{'steamid': '76561198043660385', 'num_games_owned': 2934, 'num_reviews': 252, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1500271262}",russian,"Игра симпатичная, но управление не очень удобное. Бывали мелкие баги. И тут нет, в принципе, никакого смысла. Просто делаешь цветы для своего эстетического удовольствия.
+Не уверен зачем, но рекомендую попробовать.",1501778480,1501778480,True,8,0,0.551133811473846436,0,False,False,False,False,,,
+33699505,"{'steamid': '76561198063032347', 'num_games_owned': 1908, 'num_reviews': 284, 'playtime_forever': 139, 'playtime_last_two_weeks': 0, 'playtime_at_review': 139, 'last_played': 1500651651}",koreana,"생각없이하면 추천
+생각있이하면 비추천
+
+그렇다..나는 아~무 생각이없다.,..
+이미 아무것도 생각안하고 있지만 더 격렬하고
+더 적극적으로 아무것도 생각 안하고 싶다....",1500652204,1500652295,True,8,1,0.631799161434173584,0,False,False,False,False,,,
+33263494,"{'steamid': '76561198329192463', 'num_games_owned': 43, 'num_reviews': 4, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1499237767}",russian,Ну так если скучно можно поиграть,1499237829,1499237829,True,1,3,0.421049982309341431,0,True,False,False,False,,,
+33120029,"{'steamid': '76561198269060330', 'num_games_owned': 0, 'num_reviews': 71, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 128, 'last_played': 1499206733}",english,"After browsing some other shared creations in the community hub, my creations seem very, very basic. This game certainly has potential, so long as you are able to create beautiful art and creatively figure out the controls. Perhaps a short and basic tutorial would be useful to explain what each element is. My greatest frustration was simply not being able to make creations that returned more points than spent when using the more expensive plants (20+ points). So perhaps a very short tutorial outlining the points system would also be nice. This game has plenty of potential though, is beautiful to look at, and relaxing to play. Recommended if you love flowers and have a creative streak! :)",1498982660,1498982660,True,7,0,0.587218523025512695,2,True,False,False,False,,,
+32797413,"{'steamid': '76561198098195599', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1561451934}",english,"I play this game when I'm supposed to be going to bed but not ready to get off electronics yet. It's very simple, you pick flowers for a pot and can change just about all the parameters for the flowers and pot, then sell your creation when you're done; the more parameters you've edited, the more it sells for. This game works perfectly on a touch screen tablet, and is pretty relaxing, except for the fireworks sounds when you sell an arrangement.
+
+My major complaint about this game is not being able to move plants around in the pot. There's a ""pose"" button that will change their location and direction at random, but sometimes plants will just stay stubbornly clustered away from one corner of the pot. Add the ability to move plants instead of all the other edits the developer is making to this game, and get rid of the fireworks sound, and it would be perfect!",1498445158,1498445158,True,5,0,0.575902819633483887,0,True,False,False,False,,,
+32112984,"{'steamid': '76561198203643741', 'num_games_owned': 240, 'num_reviews': 50, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1496341934}",russian,Ради ачивок можно взять,1496341994,1496341994,True,1,0,0.346531927585601807,0,True,False,False,False,,,
+32100432,"{'steamid': '76561198212187579', 'num_games_owned': 98, 'num_reviews': 35, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1496353461}",english,"If you like Viridi, or plants in general, you will LOVE this game! You can create and customize flowers and flower pots, and create unique masterpieces! You will enjoy many hours of creative fun with this game. A great game for all ages, and definitly worth $2! 
+
+Overall rating: 10/10",1496293980,1496293980,True,7,7,0.571069777011871338,0,False,False,False,False,,,
+31599841,"{'steamid': '76561197973090606', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1493935688}",english,"Early review: Need to relax after bad ques, hacker infested game, victim of trolling? Pretty unique title, there aren't too many games where plants and nature are the main theme and elements of a game.  
+
+Starting out the interface I wasn't sure how to proceed, there is no tutorial or help to get you started. Natural curiousity and clicking on everything within a few minutes and you figure out how to unlock new plants and designs. I'm not sure if this is an early beta, but it's a good game so far. I've been mass clicking plants and pots to make quick money to unlock more flowers and planter pots. Look forward to really exploring how far you can push the plant designs.
+
+[u]Pro's[/u]
+- Good Music, is relaxing.
+- Plants are good, get yourself a digital green thumb.
+- Few games help you relax, this one might after you figure it out.
+- You can modify pretty much everything.
+- Developer is still adding elements & features.
+- Has achievements.
+
+[u]Con's[/u]
+- UX/UI needs a little love.
+- Lack of control - Maybe there is a way to arrange the plants in the pot, but I haven't figured it out yet.
+- Achievements maybe too simple, got all of them in less than 20 minutes.
+
+Looking forward to seeing where this game goes.",1494148613,1494148613,True,1,0,0.468904256820678711,0,False,True,False,False,,,
+31542235,"{'steamid': '76561197976757740', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1493909604}",english,it was indeedly good to play in it. i find it relaxing when you've been doing work all day long!! Hopefuly someone thinks like that too!,1493909662,1493909662,True,4,1,0.533898293972015381,0,False,False,False,False,,,
+31116782,"{'steamid': '76561198173476278', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 183, 'playtime_last_two_weeks': 0, 'playtime_at_review': 183, 'last_played': 1492039114}",english,"Waste of $2.00. Very unclear what to do, and I ussualy only play for 5 minutes at a time. I understand that I'm not much of a gardening person, but I'm looking at a gardeners point of view. Plus, certian flowers and vases are way too expensive, comparing them to the average starting amount of points ranging from 8 points to 12 points. I see much more posssible potential in this game.",1492091399,1492091399,False,6,1,0.44876331090927124,1,True,False,False,False,,,
+29823958,"{'steamid': '76561198256767942', 'num_games_owned': 46, 'num_reviews': 6, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1486734579}",koreana,"아쉬운점이 있지만 그래도 이가격에 꽃을 보니 만족한다
+앙 꽃 예쁘띠",1486734645,1486734645,True,1,1,0.512195110321044922,0,True,False,True,False,,,
+29755467,"{'steamid': '76561198079582802', 'num_games_owned': 907, 'num_reviews': 80, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1491842133}",english,"Dear Romeosoft,
+
+           I enjoy your art style, and looking into what you said I do agree I picked an unfair comparison. This is why I've changed my dislike, besides it is a peaceful game and nice to turn on from time to time to mess around with plants / pot. 
+
+Fun game, i recommend it to people that want a time killer or enjoy art. 
+
+Dev is keeping up with the game and helping people with issues (very rare that devs do this).
+
+
+I do have something that I don't like about the game though, the plants clip through the pot a lot of times, and I find myself having to change the pot a lot or I have to remove the plant, am I missing something that I can do to avoid this issue?
+
+Update: You can now drag plants so the clipping thing shouldn't be an issue anymore.",1486445382,1487297020,True,4,0,0.543883919715881348,5,True,False,True,False,,,
+29474735,"{'steamid': '76561198360965223', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 74, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1485316490}",english,"It looks cute, but it doesn't really work for me. I tried to change the color of the flowers and they disappeared. Then the game froze. Can't really get it to work.",1485312360,1485312360,False,11,2,0.615976452827453613,5,True,False,True,False,,,
+29414785,"{'steamid': '76561198065358646', 'num_games_owned': 69, 'num_reviews': 63, 'playtime_forever': 76, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1597992709}",english,"Not my cup of tea, too quiet for me. I prefered Plankton (another of the author's games) as the creatures moved around a bit. Still, it looks nice and I like that I can play it on Windows and Mac. Will check it out more and possibly update my review once I have a better idea of how it all works.
+
+My only suggestion at this time would be to add a tutorial or demo. While not complicated, it took me some time to understand how the controls worked and I am still not sure I fully understand it. I could only select one type of flower and I am not sure if there are more, I ahve to unlock them, or if I have to use the controls to change them.",1485065447,1485065447,True,9,1,0.602666914463043213,1,True,False,True,False,,,
+29405980,"{'steamid': '76561198155146718', 'num_games_owned': 0, 'num_reviews': 60, 'playtime_forever': 103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 103, 'last_played': 1485028077}",english,"Thought this might be nice for my daughter. Turns out that flower aggrangement in virtual form is intertesting. You have control of each petal, stem, colors and even the pot it is displayed in. I am simplfying the options. You can create works of art. I recommend this to anyone who likes to make art with flowers. I also recommend this to anyone who is curious about plant mutations in an asthetic way. I also recommend this to anyone who likes flowers but does not have the time or space to take care of them on there way to being thrown away. These flowers are only there when You want to see them. They require no water as they are not growing. They are hypoallergenic.",1485028655,1485028655,True,8,2,0.58722233772277832,0,True,False,True,False,,,
+29397199,"{'steamid': '76561198080424312', 'num_games_owned': 77, 'num_reviews': 26, 'playtime_forever': 82, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1484922773}",english,"Are you a creative person, or are you looking for a relaxing game?  Do you enjoy pretty flowers, or have you ever wanted to send flowers to a friend online?  If so, you should definitely pick up Flower Design.  
+
+It's beautiful and relaxing, but it's also fun to create floral arrangements, then watch them grow and see your score afterward.  As you play, you earn points to unlock new plants and bases to works with.
+
+I hope Achievements and Trading Cards will be added to further enhance the fun Flower Design provides.  It's already a very nice game at a fantastic price, and I think it makes a wonderful gift :)",1485003756,1485003756,True,17,0,0.599566996097564697,1,False,False,True,False,,,
+29365754,"{'steamid': '76561198279736998', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1498945127}",english,"I played this game with two friends watching my broadcast before we went to bed... We all had sweet dreams. ;)
+
+My recommendation: after playing a very tense zombie survival game, use golf with your friends to relax, obviously. Then play this to really forget all your problems. From now on the first thing I take at a zombie outbreak is a vase.",1484870417,1484870417,True,5,6,0.580152690410614014,0,False,False,True,False,,,
+29350477,"{'steamid': '76561198054459348', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1513930851}",english,I was gifted this game by a friend and I have to say it is a beautiful master piece. That should be treasured forever.,1484805300,1484805300,True,4,0,0.549435019493103027,0,False,False,True,False,,,
+29349889,"{'steamid': '76561198054786533', 'num_games_owned': 98, 'num_reviews': 7, 'playtime_forever': 50, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1526706089}",english,"5/5 Stars
+This game is exactly as advertised and has dramastically changed my life for the better
+I only hope that you as the reader, decide to give it a try",1484801838,1484801838,True,2,1,0.403936088085174561,0,True,False,True,False,,,
+29319680,"{'steamid': '76561198337329847', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1484670608}",german,"Das Spiel Finde ich Toll.  man kann auch schon einiges machen aber für die LangzeitMotivation sollte dann sicher immer wie mehr kommen für die paar minuten wo ich es jedenfalls gespielt habe hatte ich spass daran
+
+dazu ist es auch etwas entspannend ;D",1484670978,1484670978,True,2,0,0.53022456169128418,0,True,False,True,False,,,
+29301587,"{'steamid': '76561198170142806', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1484592275}",english,"for me personally its a little boring. theres nothing wrong with the game and i will probably continue to play it every so often but for me, its a little boring. theres nothing wrong with the game, infact for its intended audience its porbably a really good game, but personally I cant really play this for long without getting board.
+
+ its a really good game though and i would reccomend it to all who like art, flowers and creating virtual stuff.",1484592573,1484592573,True,1,0,0.492966204881668091,0,True,False,True,False,,,
+29299533,"{'steamid': '76561198060912596', 'num_games_owned': 190, 'num_reviews': 9, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1507030806}",english,More fun than No Mans Sky,1484586247,1484586247,True,3,4,0.439663738012313843,0,True,False,True,False,,,
+29292900,"{'steamid': '76561198041512403', 'num_games_owned': 1837, 'num_reviews': 2465, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1484560617}",koreana,"화분과 꽃.
+
+화분을 구매합니다. 이리저리 모양을 바꿔봅니다. 색도 바꿔보죠.
+꽃을 구매합니다. 크게도 해보고, 색도 바꿔보고.
+땅과 하늘의 색도 바꿔볼 수 있습니다.
+
+끝. 가볍게 화분과 꽃을 만들고, 이를 팔아 포인트를 얻고
+포인트로 다른 꽃과 화분을 구매하고.
+
+아쉬운 점 몇가지.
+플레이어가 꽃의 위치 선정 불가능.
+땅에 꽃 심기 불가능. 화분은 1개만 가능인 듯 보임.
+꽃을 여러개 심으려면 하나하나 사용을 눌러야함.
+단체로 그룹형식으로 묶어서 변형 불가.",1484561051,1484561051,True,1,0,0.488372087478637695,0,True,False,True,False,,,
+29290482,"{'steamid': '76561198299721823', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 223, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1487098322}",russian,"Хороший симулятор цветочков, сажайте разные цветы и выбираете красивые горшочки, продавайте их и покупайте другие цветочки и горшки, игра для души, очень расслабляет. Мне показалось мало функций, хотелось бы больше возможностей.",1484547927,1484547927,True,5,1,0.538042068481445313,0,True,False,True,False,,,
+29243075,"{'steamid': '76561198073073914', 'num_games_owned': 769, 'num_reviews': 79, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1484402599}",schinese,玩过这个游戏之后，我决定自己下载个Unity来做游戏玩,1484385940,1484385940,False,20,60,0.624721884727478027,0,True,False,True,False,,,
+29240572,"{'steamid': '76561198271784303', 'num_games_owned': 2356, 'num_reviews': 30, 'playtime_forever': 6643, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1685357101}",schinese,"在知乎看到这个问题，就等在这个游戏出来，据说10号，后来等到11号，后来又是12号，到后来的13号，真是路漫漫其修远兮
+
+这个游戏今天看到上架就已经买了，看了一下，游戏性还可以，只不过为啥没有成就系统，作为一个游戏，没有成就系统是可能减分的，现在的游戏为了吸引玩家往往会增加成就系统的，但是别弄巧成拙，譬如昨天的zup3有1700+的成就一直再被国内外的玩家吐槽
+
+还有一个就是掉卡，我在徽章那里看了一下卡牌掉落，貌似没有看到徽章合成这个选项（可能是我眼拙，没注意到），这个游戏虽然不贵，但是有了挂卡的话，可能会吸引更多玩家，有些玩家可能会3块钱买游戏然后挂卡卖了一两块钱，这样游戏的玩家应该多一点儿，销量会多一点，
+
+暂时先写这么多，以后有补充",1484374290,1484374290,True,5,0,0.529375910758972168,0,True,False,True,False,,,
+29236834,"{'steamid': '76561198115497313', 'num_games_owned': 70, 'num_reviews': 88, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1557114900}",english,"Flower Design is a relaxing artistic game that allows you to design a fully 3-D arrangement of flowers. It includes customizations for almost everything, the flowers size, pot, pose, colors, petals, and more. When you ""sell"" your arrangement it shows your plant grow from seeds with a little firework show, and you gain points to buy different flowers and pots to design your next arrangement.
+
+If you like flowers or like artistic indie games, I would recommend this. It's a very calm and relaxing game.
+
+UPDATE 2019: Flower Design now includes a new feature you can find in the menu called the garden that allows you to create a full landscape in a sandbox garden mode. You can create structures, plant flowers, grow plants, fountains, paths, stairs, color objects, and more. The UI is very original for it. The garden is very relaxing and calming and i'm glad I came back to check out this new content.",1484356440,1557114225,True,7,0,0.540374338626861572,1,False,True,False,False,,,
+29226176,"{'steamid': '76561198119862968', 'num_games_owned': 2962, 'num_reviews': 90, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1484321564}",japanese,"スクショの通り鉢に草や花を植えてデザインし、売ってポイントをもらうゲームです。
+
+ポイントを貯めていくことで新しい鉢や草花をアンロック(ポイントは消費されませんのでアンロックされたものは使い放題です)してデザインの幅を広げていく流れです。
+
+ただそれだけ。
+ただゲームがセーブされないのでポイントを０からまた貯めないといけない・・早期アクセスだから？かな
+
+人を選ぶゲームだと思いますがキレイなデザインができた時はついスクショを撮りたくなるそんなゲームです。
+
+",1484322158,1484322158,True,8,0,0.660135924816131592,0,True,False,True,False,,,
+29219436,"{'steamid': '76561198175924171', 'num_games_owned': 261, 'num_reviews': 22, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1484295711}",schinese,"对简介中的自由调节有疑问。。只可以调整特定的姿态和位置让我有点崩溃。
+花的种类不多，但是选择方式上也让人纠结，不可以用键盘快速操作，单单是鼠标操作的话，屏幕两边的选择按钮也不是很方便操作，在频换切换花朵的过程中消磨了过多的耐心。加个序号选择按钮应该不错。
+游戏性不足但是作为设计类小游戏的话又显得有些单调。但是真的很喜欢这个游戏类型。
+
+
+对简介图中的花表示佩服 [strike] 耐心很重要	[/strike]
+
+
+[spoiler] 加油，哈哈	[/spoiler]",1484295584,1484295685,True,1,0,0.528875350952148438,0,True,False,True,False,,,
+29216218,"{'steamid': '76561198141178443', 'num_games_owned': 3474, 'num_reviews': 116, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1484276542}",schinese,"这游戏如果不是朋友送的话我可能不见得给好评了……
+
+
+游戏的玩法有点像以前玩的那个制作陶器的手游，
+先用最基本的材料制作，然后出售作品，获得钱/点数，去购买高级的材料，重复……
+不过这个的游戏性明显不太强，你的选择其实基本上都是限定了的。
+而且一旦开始为了点数而刷刷刷之后，对游戏的兴趣也会骤减。
+而且对于一个模拟插花的游戏来说，点选也只能用鼠标操作我觉得是不太方便的，建议之后可以加入用方向键选择原材料。
+休闲上比不上Viridi，沙盒方面也没真正体现出来。
+
+讲道理，我为什么要写这么多，
+因为是朋友送的啊！我要认真对待！
+
+
+",1484277850,1484277850,True,35,3,0.810821652412414551,5,False,False,True,False,,,
+29215900,"{'steamid': '76561198005405827', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1484281308}",english,"Simple but relaxing :)
+
+Definately needs some more work but its early days so hoping it gets there.
+Looking forward to at least seeing some more plants to chose from with more control of placement.",1484276114,1484280675,True,3,0,0.511103808879852295,0,True,False,True,False,,,
+29214915,"{'steamid': '76561198028597250', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 18044, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1682336696}",english,It's a good game where I can make lots of pretty flowers !,1484271217,1484271217,True,13,1,0.545344054698944092,2,True,False,True,False,,,

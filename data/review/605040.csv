@@ -1,0 +1,68 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+89609166,"{'steamid': '76561198061017954', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 1844, 'playtime_last_two_weeks': 0, 'playtime_at_review': 743, 'last_played': 1619930334}",english,"En este juego solo hay waifus, fuckboys y viejos turbios. El donerball 10/10",1617423321,1617423321,True,0,1,0,0,False,False,False,False,,,
+45875036,"{'steamid': '76561197976326496', 'num_games_owned': 2527, 'num_reviews': 257, 'playtime_forever': 491, 'playtime_last_two_weeks': 0, 'playtime_at_review': 491, 'last_played': 1542422387}",japanese,"インゲームにVer.表示がないため、クリアVer.は不明。初回クリア所要時間は約7時間。ファイルサイズは約6GB。
+
+[h1]Pros:[/h1][list]
+[*]簡単なパズルを内包したダンジョン[/list]
+
+[h1]Cons:[/h1][list]
+[*]アクションパートを遊ばせるまでが長い
+[*]アクション後の硬直時間が長い(挙動が硬い)
+[*]シーンの遷移時間が長い
+[*]次に向かうべき目的を見失いやすい
+[*]セクション間が長く巻き戻りが大きいことがある[/list]
+
+[h1]ゲーム媒体ならではの表現に重きを置いて欲しかった[/h1]
+
+　本作のジャンルはストアページの記述をそのまま借りるならアクションアドベンチャーになります。小説を基に制作されています。夏の休暇に親友のAbbieと共にパリの祖父の元を訪れていたZaryaが、別の世界を訪れ、そこで魔法の力を開花させていきます。一方、巷では黒づくめのローブを着た者による誘拐事件が起きており、二つの世界とその事件の関連性が徐々に明らかとなっていきます。
+
+　開発元のRodzは[url=https://www.kickstarter.com/projects/1427819295/zarya-and-the-cursed-skull]Kickstarterに掲載された情報[/url]によるとカナダにあり、本作は処女作に該当します。Kickstarterでファンディングを募集したものの失敗しており、その後、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=739003230]Steam Greenlight[/url]を経て、現在に至ります。後述する「遊びにくさ」は作り慣れていないことが要因として考えられそうです。
+
+　Trailerを見るとアクションパートが強く印象づけられますが、ゲーム内の比率はアクションパートが3割、その他7割は移動と会話シーンになっているのが実情です。会話シーンと会話シーンの間の遷移にローディングが入り、その遷移時間も長いため、展開がとても遅く感じられます。フィールドはそこまで広くないものの、目的地までの距離に配置された干渉できるNPCの数もまばらで、誘導を補うNPCなどはおらず、何度話しかけても同じことしか返答しません。そのため無駄にウロウロと徘徊することになり、これもテンポを損なう要因になっています。3Dキャラが殆ど演技せず一本道の展開なので、分岐のない物語の文字を読むだけなら、それこそ本で読んだらいいのでは、というのが率直な感想。
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1499955597
+
+　本作の核は小説に基づいた表現を文字と映像、音楽で楽しめるか、といったところだと推察されます。先ほど辛辣な書き方をしましたが、ロード時間を除き、物語だけに注目すれば、児童向け(特に女児向け)としての体裁は保たれていると思います。映像については好みが分かれるところで、キャラクターの3Dモデルはもう少し[url=https://twitter.com/RodzGames]イラストに近付ける[/url]ことができていたら、随分印象が異なっていたのでは、と思います。またフィールドに関しても全体の画として見たときに、色合いが噛み合わなかったり、ライティングが浮き出ていたり等、統一感のないビジュアルなので、これも好みが分かれます。画が噛み合っていないように、BGMもうるさく強調してくるものが多かった印象でした。原作を知らないため、表現部分に関しての言及は私見に留めます。
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1499955477
+
+　作中のセーブは自動で行われ、任意セーブはありません。オートセーブのポイントはこまめに設けられてはいますが、どのタイミングでセーブされているのかよく分からず、セクションの冒頭でしかオートセーブされていないところでは、ライフが0になってリトライとなった際に結構巻き戻されることがあります。またゲーム再開時に次に向かう目的地を見失いがちです。というのも先の目的地へ誘導するNPCがいないことに加え、現在の目的が何なのかメニューなどから確認する術がなく、会話シーンの中で色を変えるなど特に強調しないテキストでそのまま表示されたものが最終情報であることが多いためです。
+
+　移動して会話シーンが続く受動的なアドベンチャーパートと比較してダンジョンは幾分か能動的です。簡単な謎解き要素では何度か試行錯誤する場面もありました。敵は単調な思考パターンなれど、戦闘はエリアロック型で発生するので移動できる範囲の狭さから立ち回りを求められます。敵との接触によってもダメージを受けますが、ライフ回復のハートが敵を倒したときや壊せるオブジェクトの中から適度に出現するので、ライフリソースの管理はいい按配になっていたと思います。
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1531131568
+
+　キャラクターは360度自由に走り回れるようになっており、戦闘であろうが移動であろうが常時走り回れるようになっているのは好感の持てる挙動です。ですが、盾の展開時にはそのとき向いている方向にしか展開できず、盾の向きが確定し静止するまでのあそび(猶予時間)がないのが遊びづらかったです。盾を解除したあと移動できるまでの硬直時間が長いのに、盾を張りながら向きを補正したり、展開中は移動できないなどの制約挙動がすごく前時代的に感じられました。これらはイベントミニゲームのドナーボールで特に強く感じられます。
+
+
+　980円という定価設定なれど、テンポの悪さが物語を殺してしまっています。まばらに配置されたNPCからは小説が基なのにのめり込めるだけの世界観の深さが感じられません。キャラクターの挙動もフリーランを導入しながら、モーションの遷移判定周りのパラメータ設定に甘さを感じます。ゲームならではの楽しさ、印象付けのようなところを次回作では期待したいところです。",1542521249,1542538464,False,1,0,0.525316417217254639,0,True,False,False,False,,,
+44795970,"{'steamid': '76561198011677204', 'num_games_owned': 199, 'num_reviews': 85, 'playtime_forever': 83, 'playtime_last_two_weeks': 0, 'playtime_at_review': 83, 'last_played': 1537275781}",english,I had high hopes for this game. I knew from the start that the graphics were not great but I was willing to look past it. The game seemed really cool. First issue that I had was the controlls are backwards you use the arrows to move instead of WASD and the movements were not smooth at all. very robotic and clunky. I looked past that. The game really started to go down hill when I noticed I waas 10% completed and I feel like I didn't do anything yet. All I've done was run around a city and talk to people. For an action adventure game I'd say so far it was neither. More like a magic city sim but what really killed this game for me was the pong mini game you have to play thats near impossible to win because the controlls are so clunky and weird and the AI knows where the ball is going to go before you even hit it. All around just a bad game with good ideas,1537276210,1537276210,False,4,0,0.59236520528793335,0,True,False,False,False,,,
+43031583,"{'steamid': '76561197990957801', 'num_games_owned': 2671, 'num_reviews': 20, 'playtime_forever': 450, 'playtime_last_two_weeks': 0, 'playtime_at_review': 450, 'last_played': 1590166534}",french,"Ce jeu est vraiment sympa.
+
+Les points positifs : 
+- les graphismes (très colorés)
+- les éléments de légendes, mythes et ésotérisme (pour ceux qui s'y intéressent)
+- les puzzles (quoique un peu simples à mon goût)
+- le prix
+
+Les points négatifs : 
+- la difficulté un peu trop élevée contre certains boss et au donar-ball dans le temple
+- le prix des potions 
+- la fin qui est un peu baclée à mon goût",1529922287,1529922287,True,2,0,0.512391149997711182,0,True,False,False,False,,,
+30893295,"{'steamid': '76561198076819523', 'num_games_owned': 1368, 'num_reviews': 83, 'playtime_forever': 817, 'playtime_last_two_weeks': 0, 'playtime_at_review': 817, 'last_played': 1491110775}",spanish,"Un excelente juego, con una historia bastante interesante y que atrapa, los gráficos no son nada destacables, pero sus escenarios y el ambiente que los rodea son algo memorable, tal vez el sistema de combate no es lo mejor, y los puzzles son un poco simples, pero no dejan de ser muy divertidos y amenos!
+
+Recomendable 8/10
+
+[quote][url=http://store.steampowered.com/curator/6871869/]Mentor de Steam[/url][/quote]",1491110865,1542515136,True,1,0,0.519230782985687256,0,False,True,False,False,,,
+30605274,"{'steamid': '76561198025705622', 'num_games_owned': 1203, 'num_reviews': 129, 'playtime_forever': 465, 'playtime_last_two_weeks': 0, 'playtime_at_review': 465, 'last_played': 1489943587}",english,"[h1]The story (No Spoilers)[/h1]
+
+Zarya and her best friend Abbie are spending their summer vacation in Paris with Zarya’s grandfather. When he takes her back to the village where she was born, the teen begins to notice that strange things are happening all around her...Meanwhile, in Paris, young girls are disappearing…
+
+[h1]The Pros:[/h1]
+-Nice graphics 
+-Controls feel very smooth
+-Story is very engaging, cutscenes are well done
+-The world design is very detailed
+-Great sound & music 
+
+I recommended it",1489889576,1514890960,True,4,0,0.472496956586837769,0,False,True,False,False,,,

@@ -1,0 +1,776 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+160316481,"{'steamid': '76561198967541096', 'num_games_owned': 31, 'num_reviews': 13, 'playtime_forever': 890, 'playtime_last_two_weeks': 20, 'playtime_at_review': 476, 'last_played': 1711781001}",english,gud,1710144741,1710144741,True,0,0,0,0,True,False,False,True,,,
+158763286,"{'steamid': '76561198012625277', 'num_games_owned': 196, 'num_reviews': 33, 'playtime_forever': 16, 'playtime_last_two_weeks': 1, 'playtime_at_review': 15, 'last_played': 1711609386}",koreana,"pvp만 있는 일종의 아레나 베틀 게임입니다. 봇전, 로컬 대전, 온라인 멀티가 가능한데 당연한 이야기지만 멀티는 죽었습니다. 로컬 플레이가 가능한 친구를 모으시거나 사람 북적이는 다른 멀티 대전 게임을 찾으시길 바랍니다. 흑백 시스템에 혹해 샀는데 이제와서는 비쥬얼이 별로 심미적이지도 않고, 멀티가 안되니 플레이 메카닉스로써의 실감도 불가능하네요.",1708390815,1708394376,False,0,1,0,0,True,False,False,True,,,
+142611101,"{'steamid': '76561197998735165', 'num_games_owned': 830, 'num_reviews': 41, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1690066140}",english,"Really cool game! Recommended for local multiplayer or try ""online"" via Steam Remote Play Together. 
+(I read in another review that the built-in online feature was broken, I haven't tried it nor the Steam Remote Play Togehter with this game.)
+
+The stealth mechanics are spot on and the kills feel good.
+The platforming and sword striking needs to be explained more but once you get it down it all makes sense and feels great. If you're skilled you can go from one end of the screen to the other by double jumping and dashstriking.
+
+Players:
+* Single player vs bots in Death match, Flag Capture and Challenge mode.
+* 2 -4 players in local multiplayer
+
+[h1]Game modes:[/h1]
+[b]Death match:[/b]
+First to a number of kills.
+
+[b]Flag Capture:[/b]
+One flag randomly spawns and your team needs to capture it by standing next to it and holding the flag capture button.
+The mode is played as a tug-of-war. When one team captures the flag more of the screen turns into their color, until all of the screen is lit up in one team's color after which the leading team needs to score one more capture.
+
+[b]Challenge:[/b]
+A special single player game of Flag Capture with a bunch of bots spawning in in the opposite color. The game is played until the player loses a life.
+
+[h1]Movement:[/h1]
+You can sneak by holding a button, when doing this you can be completely invisible if the background is the same as your color. You give away your position if you run, jump, strike or land.
+You can double-jump and additionally dash-strike in any direction while airborne. By doing this you can reach great heights  or jump far across the screen. Note that you can only strike once when airborne. You get the next strike when you land on ground or a wall
+You can only strike once with your sword when airborne. Touch a wall or ground to get another strike.
+
+[h1]Items[/h1]
+You keep items after death. There is no way to discard items you need to use them before you can pick up another item.
+
+[b]Smoke bombs[/b]
+These work as teleporters. Drop a smoke bomb in one place and then drop another smoke bomb to teleport to that location. You can get som sneaky kills with this one.
+
+[b]Shuriken[/b]
+Ranged weapon, throw to kill.
+
+[b]Shards[/b]
+Drop them on the ground. If an enemy steps on them their feet will bleed and leave a trail even when the players is invisible. This only affects the other team.
+
+[h1]Bugs and Suggestions:[/h1]
+[b]Bug/Oversight: Unable to play 2 players + 1 bot on each team[/b]
+When you try to play 1 white player + 1 black player and add 2 bots the bots both show up on the same team. Playing 2 players vs 2 bots works though.
+
+[b]Suggestion: Using picked up item as bait[/b]
+I know this game was released several years ago but if you would make one small adjustment I would like it to be this one.
+The game has a button for revealing the item you are holding. If you are invisible and holding the button it almost looks like a regular pickup, but it\s shinier, not animated and the wrong height. It would be awesome if you could trick an enemy to go to your location and then kill them when they arive.",1690066938,1690066995,True,0,0,0,0,False,False,False,True,,,
+140115780,"{'steamid': '76561198146195143', 'num_games_owned': 211, 'num_reviews': 16, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1686855763}",turkish,"Daha farklı bir şey bekliyordum, açık konuşmak gerekirse. Oynadığım çok kısa süre içerisinde kontrollerin çok saçma olduğu, oyunun açıklamaları da bir hayli o kadar yetersizken, çok da bir beklentiye girmemek gerekiyormuş. XXX",1686855849,1686855849,False,0,0,0,0,True,False,False,True,,,
+137538376,"{'steamid': '76561198072094217', 'num_games_owned': 707, 'num_reviews': 617, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1682844314}",english,"Only way to play this is local, the servers are down and can't find a game.",1682844365,1682844365,False,5,0,0.56511920690536499,0,False,False,False,True,,,
+131880733,"{'steamid': '76561199175566894', 'num_games_owned': 31, 'num_reviews': 20, 'playtime_forever': 488, 'playtime_last_two_weeks': 0, 'playtime_at_review': 236, 'last_played': 1683976239}",english,"multiplayer is broken, some glitches but fun with 1-3 mates",1675098328,1675765348,True,1,0,0.504132270812988281,0,False,False,False,True,,,
+105786522,"{'steamid': '76561197986070535', 'num_games_owned': 1022, 'num_reviews': 118, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1687118091}",english,"This game is so evil and so hilarious.   I normally would like to play something like this with my kiddos, but it would be instacry as dad laughs hysterically.
+
+EDIT:  years later and my kids have grown spines, they brought out some very solid flaws in this game --- it's black, and white.  So there's me and the two of them, so, do we team?  It would be nice if there was a ""Black, White, and Orange"" Bushido.   Much more, there were some things that could be fleshed out a bit beyond ""death, die, death, die.""
+
+Fun?  Still yes.  One of our go-tos (Spiderheck, Boomerang Fu, Stick Fight, Rounds, Ascention)? no.  It's so close to absolute couch greatness.",1639432665,1703811478,True,2,1,0.550034761428833008,0,True,False,False,False,,,
+101252729,"{'steamid': '76561198173174046', 'num_games_owned': 134, 'num_reviews': 63, 'playtime_forever': 172, 'playtime_last_two_weeks': 0, 'playtime_at_review': 155, 'last_played': 1677072681}",french,excellent jeu mais pas pour 13€ (Je recommanderais plus pour 3/4€),1634570616,1693838172,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+91374613,"{'steamid': '76561198876795827', 'num_games_owned': 0, 'num_reviews': 159, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1570768825}",english,"Black & White Bushido is a neat little 'hide & seek' title that is fun to play with friends. Although I do think that there are similarly-styled games out there that do the genre a little better, I had a blast playing with my buddy and certainly imagine the game would have been even more fun with a full crew of 4-players stalking about! 
+
+A (minor) complaint I have with this game is that it's easy to lose track of where your own character is. I think this could be easily remedied with a little 'player icon' that's only viewable on your screen but it's unlikely to ever get implemented as this is a mildly older title. Granted, this particular complaint exists on several of the games in this genre so it's not really anything that would take away from the overall fun. 
+
+A cool little game but definitely avoid paying the full price as there isn't really much content outside of the multiplayer experience. I'd say that this game is a great value when purchased for $1 - $3 USD. You'll likely have a solid amount of fun with it for a few hours but then not pick it up again for a while (if ever) so it's not worth spending a lot but the fun to be had *is* worth a little something-something.",1620072251,1620072251,True,1,0,0.5,0,False,False,False,False,,,
+83606411,"{'steamid': '76561198001081817', 'num_games_owned': 287, 'num_reviews': 5, 'playtime_forever': 803, 'playtime_last_two_weeks': 0, 'playtime_at_review': 716, 'last_played': 1672108211}",english,"This game is absolutely fantastic.  Take 2 minutes to learn the controls, then take the rest of the day to master killing your friends.  Not hard.  Just very, very fun.  A fantastic couch party game.  My kids and I have more fun with this than with stick fight.",1609370590,1609370590,True,1,0,0.53125,0,True,False,False,False,,,
+79697221,"{'steamid': '76561198101060546', 'num_games_owned': 322, 'num_reviews': 20, 'playtime_forever': 116, 'playtime_last_two_weeks': 0, 'playtime_at_review': 109, 'last_played': 1639865496}",english,.,1606116398,1606116398,True,0,0,0.442105263471603394,0,True,False,False,False,,,
+72061591,"{'steamid': '76561198260481405', 'num_games_owned': 202, 'num_reviews': 5, 'playtime_forever': 143, 'playtime_last_two_weeks': 0, 'playtime_at_review': 128, 'last_played': 1596957581}",schinese,可以打铁hhh,1593917044,1593917044,True,0,0,0,0,False,False,False,False,,,
+71485262,"{'steamid': '76561197973387401', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1516479401}",english,"The game is fun to play in local co-op, but quickly getting boring when it comes to solo play. I like the art style of the game and the original concept of black and white background where you can hide if your colour matches.",1593261157,1593261157,True,1,0,0.53125,0,True,False,False,False,,,
+71203167,"{'steamid': '76561198261335852', 'num_games_owned': 213, 'num_reviews': 7, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1592878091}",english,Game feels very clunky.,1592878148,1592878148,False,0,0,0.436241626739501953,0,True,False,False,False,,,
+63341904,"{'steamid': '76561198255338282', 'num_games_owned': 1479, 'num_reviews': 256, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1580040442}",english,Apart from some controller issues that happen from time to time i think this game is good.,1581432348,1581432348,True,0,0,0,0,True,False,False,False,,,
+61121787,"{'steamid': '76561198366661783', 'num_games_owned': 301, 'num_reviews': 43, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1558868565}",koreana,사람이 없는 게임,1577952963,1577952963,True,0,0,0,0,True,False,False,False,,,
+58997405,"{'steamid': '76561198295401992', 'num_games_owned': 113, 'num_reviews': 4, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1575270402}",schinese,不建议入手。两天，玩了两局，感觉已经够够的了。而且在线模式匹配了半天都没有找到玩家，这是有多冷清啊。,1575271251,1575271251,False,0,0,0,0,True,False,False,False,,,
+56383104,"{'steamid': '76561198058159844', 'num_games_owned': 1055, 'num_reviews': 276, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1577576490}",english,"It’s time to talk about one of my favourite types of game; competitive local multiplayer. I like this type of game because I don’t feel like it needs to be rigorously tested for visual and mechanical perfection. [i]Black & White Bushido[/i] is in no way perfect, with plenty of dodgy animation and complex, poorly-explained weapons, but ultimately it’s a local multiplayer game that’s easy to set up (much easier than setting up [i]Mario Kart Wii[/i] with Xbox controllers on Dolphin while everyone’s vocally expressing frustration that I somehow haven’t set it up yet), has an interesting hook that’s well-executed, and fulfils the be-all and end-all of game-assessing criteria: it’s [i]fun[/i].
+
+Best played locally and preferably with four players but still very fresh and exciting with fewer, [i]Black & White Bushido[/i] takes place in a totally black-and-white [i]Smash Bros.[/i]-style level in which the patches of black and white constantly shift. As either a black or white character, the game encourages you to hide in the patches of your chosen shade, waiting for the perfect moment to finish off other players with a single, well-timed strike. You’re only totally invisible when standing still to camouflage or holding a button to slowly move around, and appropriately dramatic splashes of dust indicate where you’re landing or leaping, so it’s not as broken as it may initially seem.
+
+In fact, it’s just really well-designed in general. It’s very much about trying to time that perfect attack to get through an enemy’s defences, and since striking enemies as they strike you just bounces you both backwards, rushing headlong into battle is a good way to get killed quickly. There’s not much really bad about [i]Black & White Bushido[/i], and unless you’re somehow still expecting games like this to have a large, competitive online multiplayer scene, this won’t disappoint. An excellent addition to the party game pantheon, but not one to go into without a few friends.",1572779197,1572866237,True,1,1,0.479815423488616943,0,True,False,False,False,,,
+56283747,"{'steamid': '76561198030894674', 'num_games_owned': 1529, 'num_reviews': 351, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1572704596}",english,Very very bad.,1572704578,1572704578,False,0,1,0.257770836353302002,0,False,False,False,False,,,
+55824493,"{'steamid': '76561198087803221', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 860, 'playtime_last_two_weeks': 0, 'playtime_at_review': 835, 'last_played': 1595096352}",english,A very fun game with a amazingly simple aesthetic. fun to play with freinds locally. Online doesn't have a huge community but if you look around you can find the Bushido B&W discord for fun match making.,1572152713,1572152713,True,0,0,0,0,True,False,False,False,,,
+55159397,"{'steamid': '76561198400959406', 'num_games_owned': 0, 'num_reviews': 71, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1561134524}",english,Really fun party game. I just wish people still played online matches,1568748951,1568748951,True,1,0,0.50445103645324707,0,False,False,False,False,,,
+54495482,"{'steamid': '76561198049148437', 'num_games_owned': 1081, 'num_reviews': 65, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1507827915}",german,(y),1565152296,1565152296,True,0,0,0,0,True,False,False,False,,,
+53631569,"{'steamid': '76561198025478781', 'num_games_owned': 377, 'num_reviews': 6, 'playtime_forever': 260, 'playtime_last_two_weeks': 0, 'playtime_at_review': 243, 'last_played': 1574410451}",english,a really interesting and fun idea to play around with,1562315710,1562315710,True,0,0,0.473186135292053223,0,True,False,False,False,,,
+53111327,"{'steamid': '76561198077656828', 'num_games_owned': 442, 'num_reviews': 5, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1561608326}",latam,"Es un juego con un buen concepto, pero con la maldicion de ser super basico.
+Tiene muy poco contenido tanto que se puede ver todo en menos de 1 hora.
+Es divertido los primeros 15 minutos y despues de eso se vuelve repetitivo",1562060503,1562060503,False,0,0,0,0,True,False,False,False,,,
+52602005,"{'steamid': '76561198242540404', 'num_games_owned': 117, 'num_reviews': 38, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1499016130}",english,"Haven't played it much, but it's a very good game.",1561927792,1561927792,True,1,0,0.496987968683242798,0,False,False,False,False,,,
+52456713,"{'steamid': '76561198171498491', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1525525697}",schinese,凉凉  联不了 卡飞,1561906601,1561906601,False,0,0,0,0,False,False,False,False,,,
+48355803,"{'steamid': '76561197981048565', 'num_games_owned': 247, 'num_reviews': 172, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 156, 'last_played': 1590162280}",english,"It's a good game that you won't get that many hours out of, but, hey, it's cheap.",1547598816,1547598816,True,1,0,0.473186135292053223,0,True,False,False,False,,,
+47833318,"{'steamid': '76561198077920947', 'num_games_owned': 0, 'num_reviews': 116, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1527869717}",tchinese,朋友同樂 讚~~,1545826493,1545826493,True,1,0,0.525862038135528564,0,True,False,False,False,,,
+47553122,"{'steamid': '76561198011937178', 'num_games_owned': 1821, 'num_reviews': 243, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1544903189}",english,"I'm going through my entire library and putting a minimum of an hour into each game and then reviewing them, here is mine for Black & White Bushido: A really great game mechanically with some really great ideas and concepts.  Unfortunately it falls into the indie pitfal of being multiplayer based.  While there is a couch co-op, my lack of friends makes that difficult to accomplish.  So naturally I would lean towards online play but the servers are deader than Jacob Marely. This is one of those times I wish I could give the game a thumbs middle.  Great if you have friends to play it with, not if you are stuck playing against bots the whole time. Oh also if you plan to buy it make sure you have a controller that works.",1544903213,1544903213,False,1,4,0.464698463678359985,1,True,False,False,False,,,
+47026329,"{'steamid': '76561198042265468', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1470648496}",english,"I selected the offline option to play, but it says internet connection required to play online. Well, I know that but Im not trying to play online.
+Could the developers correct this bug? Maybe then I can come back and write about how great the game is.",1543226005,1543226005,False,7,0,0.592494308948516846,0,True,False,False,False,,,
+45415337,"{'steamid': '76561198448362628', 'num_games_owned': 39, 'num_reviews': 4, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1540105852}",spanish,"un juego sin rumbo, tiene una buena mecanica pero aburridamente implementada, seria un juego poco descargado hasta siendo gratis :c",1540368005,1540368005,False,0,0,0.476190477609634399,0,False,False,False,False,,,
+44356100,"{'steamid': '76561198056976075', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1543706137}",english,I really like the style and idea of this game! ;),1535138712,1535138712,True,0,0,0.473186135292053223,0,True,False,False,False,,,
+44177533,"{'steamid': '76561197991043929', 'num_games_owned': 363, 'num_reviews': 42, 'playtime_forever': 235, 'playtime_last_two_weeks': 0, 'playtime_at_review': 108, 'last_played': 1639197724}",english,"My friends and I play Black & White Bushido locally in Big Picture Mode with controllers. We find it to be a fun little indie game. 
+
+Unfortunately, it is unlikely that you will be able to find someone to play in online multiplayer anymore. That seems to be the reason for the mixed reviews. 
+
+In any case, I definitely recommend the game for local co-op.",1534381791,1552924079,True,4,0,0.571987628936767578,0,True,False,False,False,,,
+43878746,"{'steamid': '76561198321265455', 'num_games_owned': 5377, 'num_reviews': 1252, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1533150938}",schinese,"慈善包喜加一默认好评系列
+快节奏练习反应的在线小网游",1533150970,1533150970,True,0,0,0,0,False,False,False,False,,,
+43779754,"{'steamid': '76561198276352714', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1523222686}",english,"the game concept is cool and it seems to resemble a good party game. the game mechanics are just too simple to make the game more fun than a flassh game, also the fun won't last longer than 30 minutes. adding to this: multiplayer works but is confusing to configure and not straight forward enough to setup.",1532706007,1532706007,False,6,0,0.545736134052276611,0,True,False,False,False,,,
+43728730,"{'steamid': '76561198029043784', 'num_games_owned': 2357, 'num_reviews': 194, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1532490051}",russian,"Не рекомендую, тем более за полную цену. Хотя задумка сама по себе неплохая, реализация хромает.
+1. Персонажей слишком хорошо видно на фоне, особенно светлого персонажа на белом фоне.
+2. Контета очень мало, геймплей примитивен и не разнообразен, за полчасика можно наиграться вдоволь.
+3. Кампании нет совсем, хотя она могла бы спасти игру.
+4. Боты совершенно бесполезны и 100% проигрывают, даже если ты просто стоишь на месте и машешь мечом.
+5. Управление на ПК сделано через Ж, управление кнопками ""."", "","", ""/"" и т.д., но геймпад не поддерживается.
+Играл на PS4 с другими игроками. Там она стоит рублей 300 и это тоже дофига за неё. Откровенно говоря, тут контента рублей на 50 максимум. За полную цену брать не стоит.",1532490461,1532490562,False,0,0,0,0,False,False,False,False,,,
+43067159,"{'steamid': '76561198057664012', 'num_games_owned': 188, 'num_reviews': 38, 'playtime_forever': 135, 'playtime_last_two_weeks': 0, 'playtime_at_review': 115, 'last_played': 1592509918}",english,"The Devs have abandoned this game, the discord is dead the devs don't respond to the disscussions page. The game is fun and something you may play at a part for example but trying to do a 4 player co-op when it doesn't register it is a piss take. Honestly don't buy this you will have fun for about an hour but then regret ever purchasing it.",1530016671,1530016671,False,7,0,0.5667915940284729,0,True,False,False,False,,,
+43029025,"{'steamid': '76561198121722557', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1529655794}",english,"Don't get this game, it's dead. Their Discord server is dead, fanbase is dead, everything is dead.",1529914570,1529914570,False,10,0,0.568570315837860107,0,True,False,False,False,,1531844572.0,"We’re aware some players are feeling frustrated by the Discord and lack of server activity, but we have not given up hope and plan to continue supporting the game. At its core Black & White Bushido will always be a great couch multiplayer to enjoy with friends or you can create a new server and bring your friends together online."
+42344660,"{'steamid': '76561198097395787', 'num_games_owned': 920, 'num_reviews': 41, 'playtime_forever': 103, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1528149172}",english,"Unfortunately I have to write a negative recommentation review for this game. Although the game itself is well made with interesting artstyle and unique feeling, reading the reviews one does not get warned that the game is actually, quite seriously dead. There's no point trying to find a game online since even the discord server of the game is dead. If you want to play it with a friend then go for it but don't expect to find a community online.",1527531876,1527531876,False,13,0,0.593987882137298584,0,False,False,False,False,,,
+42040850,"{'steamid': '76561198028190311', 'num_games_owned': 482, 'num_reviews': 55, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1526328929}",french,"un jeu de ... capture the flag/deathmatch/etc... en 2D plateforme, sur le thème du japon medieval.
+controles pas intuitifs et pas réactifs, hitbox foirée.
+graphismes... difficile à dire, ce ne sont que des silhouettes.
+et que du blanc et noir. de quoi bien te niquer les yeux en moins de 2 minutes.Les personnages n'étant pas bien grand, si vous vous amusez à régler des contrastes trop léger, vous aller en suer grave à voir ce qui ce passe. Déja que les décors sont, eux, UNIQUEMENT en noir et blanc, sur toute la surface de l'écran, je vous jure que ça défonce bien la rétine.
+idée à la con vraiment...
+Il y a des gens, comme ça, qui s'imagine faire dans l'originalité artistique mais qui, au final, nique COMPLETEMENT l'ergonomie et le confort visuel.
+Message au développeur : Tu veux la facture de mon ophtalmologue ?
+
+Nan mais les menus aussi... Tu choisis ""hors ligne"" et quand tu veux choisir ton jeu, tu te retrouves avec un ""connexion obligatoire""... Bah, ducon, si tu veux pas que je choisisse une partie de deathmatch en hors-ligne, ALORS NE LA FAIT PAS APPARAITRE EN HORS-LIGNE !!!
+
+Alors, oui, je l'ai eu gratos (et heureusement - et on comprend pourquoi il était en cadeau 'empoisonné' surprise chez Green Man Gaming), mais franchement je ne le conseille pas du tout.",1526329532,1526329747,False,0,0,0,0,False,True,False,False,,,
+41579333,"{'steamid': '76561198449225041', 'num_games_owned': 275, 'num_reviews': 94, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1523574885}",koreana,"게임 자체가 온라인기반으로 플레이 하는거라
+싱글 기능이 거의 없다고 보면된다.
+문제는 온라인으로 들어가도 사람이 없기 때문에
+13500원이라는 돈이 기본적으로 매우 아까우며 
+할인을 해도 아까운거는 마찬가지라는것이다
+",1524183950,1524183950,False,2,0,0.525403141975402832,0,True,False,False,False,,,
+41243126,"{'steamid': '76561198288915823', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1522733197}",koreana,"멀티플레이가 분명히 있는게임인데 방을 잡고 30분을 기다려도 사람이 한명도 오지않았다.
+
+게임자체는 꽤나 괜찮아보인다 사람이 많아지면 재밌게 심심풀이로 가끔씩 할듯
+
+무튼 현재는 멀티플레이가 있으나 할 수가 없는 상황이라 비추",1522733619,1522733619,False,0,0,0,0,True,False,False,False,,,
+40749417,"{'steamid': '76561198066896573', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1562644590}",english,"Online multiplayer is broken, I bought this for myself and a few friends and when we try to host a server they don't show up. Multiplayer is broken and this shouldnt be advertised as having online multiplayer. The devs refuse to even respond to my problem in the discussions.",1520795331,1520795331,False,25,0,0.669844985008239746,0,True,False,False,False,,,
+40224310,"{'steamid': '76561198145665785', 'num_games_owned': 370, 'num_reviews': 30, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1519048859}",schinese,"哼~ 
+嘛嘛~
+辣鸡游戏！
+不能跟小伙伴一起联机！
+那我们还撕什么逼！
+辣鸡！
+就算打折也不要买！
+因为连不了机！
+电脑就是弱智！
+我还不如去玩无双去割草！
+
+最后说一句！
+[spoiler][b] 大仙大仙！法力无边！[/b][/spoiler]",1519049026,1519049026,False,3,1,0.523675382137298584,6,False,False,False,False,,,
+40011862,"{'steamid': '76561197970307889', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1518383581}",english,"Game is dead. No servers. Cant tell if when creating a game if that creates a ""server"". Would only get this on sale (got it $2 on GMG) and if you have friends to play with as it looks like itd be a fun party game. Bots are way too easy so single player is basically useless.",1518383916,1518383916,True,6,2,0.600172340869903564,0,False,False,False,False,,,
+39723502,"{'steamid': '76561198212003071', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 275, 'playtime_last_two_weeks': 0, 'playtime_at_review': 275, 'last_played': 1517306432}",english,"I would love to give this game a positive review, but the devs have seemingly abandoned it and the game seems dead",1517306094,1517306094,False,4,1,0.483674377202987671,0,True,False,False,False,,,
+39689311,"{'steamid': '76561197989859778', 'num_games_owned': 1848, 'num_reviews': 228, 'playtime_forever': 104, 'playtime_last_two_weeks': 0, 'playtime_at_review': 73, 'last_played': 1546290390}",english,"Short, funny and not for the long play.
+
+If you need to settle something or just need a short match this game is great. 
+
+Just don't kill each other IRL after a match.
+",1517164400,1517164400,True,1,1,0.52173912525177002,0,True,False,False,False,,,
+39686622,"{'steamid': '76561198065192966', 'num_games_owned': 407, 'num_reviews': 13, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 105, 'last_played': 1646810465}",brazilian,Vence quem cria o server.,1517157632,1517157632,True,5,1,0.60000002384185791,2,True,False,False,False,,,
+39652421,"{'steamid': '76561198108698449', 'num_games_owned': 71, 'num_reviews': 7, 'playtime_forever': 52, 'playtime_last_two_weeks': 0, 'playtime_at_review': 52, 'last_played': 1516277247}",english,"I play the game locally with my friend, it was really great and unique but when my friends and i wanted to play online, we couldn't play multiplayer, we made lobbies and only sometimes the lobby would appear and other times the multiplayer didn't work. If you have friends locally then this is a great game but unfortunately the online multiplayer does not work properly so i don't reccomend it for online.",1517053852,1517053852,False,4,1,0.520534515380859375,0,True,False,False,False,,,
+39538919,"{'steamid': '76561198089031044', 'num_games_owned': 0, 'num_reviews': 19, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1516792167}",english,pretty cool idea but boring,1516640408,1608817582,False,1,2,0.408352673053741455,0,True,False,False,False,,,
+39471756,"{'steamid': '76561198128865489', 'num_games_owned': 82, 'num_reviews': 1, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1516276685}",english,"Not Worth it. It can be a great game to solo by yourself, but if you try to play mulitplyer it keeps crashing or doesnt connect. You cant find game with your friends. DONT BUY THIS GAME FOR MULTIPLYER on for SOLO",1516411806,1516411806,False,3,0,0.515723288059234619,0,True,False,False,False,,,
+39453433,"{'steamid': '76561198152803579', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1516346629}",schinese,游戏的创意还不错，可惜内容极其单调、不值10块钱,1516346763,1516346763,False,0,0,0.428800731897354126,0,True,False,False,False,,,
+39417578,"{'steamid': '76561198075813877', 'num_games_owned': 118, 'num_reviews': 3, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1516179455}",russian,"Игра хороша,иногда не срабатывают удары но мелочи.Но игра мертва.Онлайна 0 а так годно.",1516208834,1516208834,True,0,0,0,0,True,False,False,False,,,
+39140319,"{'steamid': '76561198183028583', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 297, 'playtime_last_two_weeks': 0, 'playtime_at_review': 250, 'last_played': 1576972929}",english,Incredible game but I have no friends,1515299176,1515299176,True,1,9,0.523809552192687988,0,True,False,False,False,,,
+38992789,"{'steamid': '76561197980061282', 'num_games_owned': 499, 'num_reviews': 3, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1514934408}",english,"Honestly we need some more samurai/ninja party games like this, because they ARE fun but they ALL have problems... 
+
+The concept of this one is 4 player semi-stealth clash battle with asian influence characters and theme. It's great I love the design and idea of this game. (They must've really wanted to stay away from ninja models to be uniqe?) 
+
+It does have an online which is a plus for sure, but the offline kind of suffers from lack of variety or real challenge in terms of difficulty. The bots are terrible so have friends or use discord groups. 
+
+The gameplay is pretty straight forward; it's 2D platforming with stealth mechanics to wide in your team's color, White or Black. There's a deathmatch, capture the flag, objectives (finish 3 specific challenges first). That's about it. You have a choice of multiple varied maps all ink based which adds to the style and theme of the game. Every character plays the same, just varied models, it's a 1-hit kill system if they touch you with their attack you're dead. Of course there's respawn. Also it has a smashbros-esqe item drop but of only a couple items to confuse or slow your foe. Unfortunately nothing really FEELS great.
+ 
+In terms of actual gameplay, I prefer Samurai Gun's mechanics, there's simply more to the combat especially when you clash and add a dedicated range weapon for everyone. Also I feel SG is just a faster game even locked at 30FPS. While BWB has intentional slow animations to make it easier to read I guess but it just looks and feels clunky. The animations and lack of extra in-game fighting mechanics makes it hard to reccomend. Maybe for those that don't play these kinds of games and having too much go on could make it confusing, but even with SG at parties everyone was pretty much on board with little complaints. 
+
+The thing is SG isn't supported anymore... Hasn't had a sale here for some time and dev has pretty much ignored it. No Online play, prolly will never come so I'd say support this title just because it has support.
+
+So with that in mind I say pick this up here or on the Nintendo Switch when that comes out and hey they might fix those problems cause they still work on their games. 
+",1514937002,1514937002,True,0,0,0,0,True,False,False,False,,,
+37875167,"{'steamid': '76561198122577317', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 75, 'last_played': 1537015114}",english,"This game is a simple but lot of fun to play with friends. It's easy to learn how to controle the characters. 
+",1511871450,1511871450,True,1,0,0.479722797870635986,0,True,False,False,False,,,
+37275953,"{'steamid': '76561198334414336', 'num_games_owned': 146, 'num_reviews': 4, 'playtime_forever': 448, 'playtime_last_two_weeks': 0, 'playtime_at_review': 130, 'last_played': 1676109147}",turkish,"Efsane bir oyun. Dış görünüşte çok basit gözüken ancak arkadaşınız varsa kesinlikle oynamanız gereken bir oyun yaklaşık 3 saat oymafim ve dur ne oluyor niye bikmiyoruz diyen bile olmadı.
+Tavsiyedir.",1511505210,1511505210,True,1,1,0.457615315914154053,0,True,False,False,False,,,
+36870999,"{'steamid': '76561198110296632', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 538, 'playtime_last_two_weeks': 0, 'playtime_at_review': 230, 'last_played': 1647635271}",brazilian,"Divertido, inclusive no multiplayer funciona muito bem, só poderia ter mais compatibilidade com controles de pc, ou opções de configuração que permitissem driblar isso.",1511396835,1511396835,True,0,0,0.455998241901397705,0,True,False,False,False,,,
+36446856,"{'steamid': '76561198266924571', 'num_games_owned': 0, 'num_reviews': 58, 'playtime_forever': 533, 'playtime_last_two_weeks': 0, 'playtime_at_review': 454, 'last_played': 1607126263}",english,I wouldn't be afraid to put this game in my top 10 favourite games of all times!,1510416053,1534163858,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+36106126,"{'steamid': '76561198149231076', 'num_games_owned': 69, 'num_reviews': 33, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1509271467}",french,"Malgrès mon temps de jeu, j'ai deja fait tout le tour. Alors voila:
+-on ne dispose que de 3 ou 4 attaques
+-il n'y a que 3 modes qui sont: tué les autres, tué avec des défis digne d'une partie de ni oui ni non, et tué encore plus.
+-au bout de 15 minutes n'importe qui se lasserai du jeu car on ne fait que... tué c'est bien vous suivez
+-meme en multi on s'ennuis (enfin des que tu arrive a trouver des parties)
+-il ne vaut tellement pas son prix (et meme en solde)
+-les maps sont variées mais sans plus
+-le concept du noir/blanc pour dissimulé les personnages pour donner l'avantage a l'autre est bien mais on voit quand meme les deux meme dans sa propre couleur",1509272292,1509272292,False,0,1,0.410534679889678955,0,True,False,False,False,,,
+35624455,"{'steamid': '76561198168535301', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1512715900}",english,"I love the concept of the game, unfortunately the online base is nearly dead (they did have a registeration for a tournament in 10 of July though). Also offline game is very very basic with only four dumb bots. As others said the devs should really enhance the AI of the bots and make a survival mode with more than 4 bots and more than 20 kills of offline players. Lastly, I would also recommend a campain mode with bigger maps with a linear (not in-depth story) of each character maybe and adding montsers as bosses or something.",1507663605,1507663666,False,5,0,0.523706555366516113,0,True,False,False,False,,,
+35535597,"{'steamid': '76561198294744762', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 79, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1474851536}",english,Slick as hell,1507357626,1507357626,True,0,0,0.455998241901397705,0,True,False,False,False,,,
+35470828,"{'steamid': '76561198202088302', 'num_games_owned': 188, 'num_reviews': 11, 'playtime_forever': 140, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1511579091}",schinese,听说可以人联机买了一份。但是游戏连不上服务器。就连离线模式都提示请先连接服务器。全程联网打击盗版。真真正正游戏五分钟连线连小时。。。。。。,1507122177,1507122177,False,3,0,0.508497714996337891,0,False,False,False,False,,,
+35281844,"{'steamid': '76561198166896236', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 489, 'playtime_last_two_weeks': 0, 'playtime_at_review': 434, 'last_played': 1691633499}",english,"The AI is slopy, but just good enough for the challenges. Since online multiplayer is dead, you need to play with friends. It keeps on being mantained, so there may be some maps to come but not in the near future, worth the sale price.",1506658297,1506658297,True,0,0,0,0,True,False,False,False,,,
+35222835,"{'steamid': '76561198075712662', 'num_games_owned': 2985, 'num_reviews': 41, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1506434699}",english,"The idea of this game is great, but unfortunately poorly executed. ""Stealth"", the essence of the game will be meaningless if you have to be exposed to your enemy as soon as you get moving. Instead of being half-transparent to both parties, while holding the button to ""blend into the environement"", you should be completely invisible to your opponents and only visible by yourself even if you are walking, jumping or gliding. That's the reasonable expectation. I know this is impossible for local multiplayer mode but it's actually what it should look like, at least for online multiplayer.
+
+I sincerely hope there could be some updates in the mechanism of the game like what I've mentioned above. Otherwise this game will most likely be worthy of its discounted price (-77%) only.",1506435887,1506435887,False,0,1,0.424749821424484253,0,True,False,False,False,,,
+35181306,"{'steamid': '76561197966680965', 'num_games_owned': 577, 'num_reviews': 10, 'playtime_forever': 96, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1506372950}",english,"This game has great potential, but needs a player base. 
+4 of us bought the game together and after a few rounds we got bored of fighting each other. No other players online =(
+However, This is a great game! The level and character designs are stylistically sound despite using only a handful of colours. Movement and Sound are well polished too, making this game really fluid. The fighting is about timing and the stealth mechanic works really well. 
+
+Replayabilty is my biggest issue from this game. 
+Definitely could use a single player campaign - perhaps a side scroller like ninja gaiden mixed with the stealth mechanic.
+Co-op campaign would be even better!
+Multiplayer could use a bigger arena with more players and a way to block incoming attacks (not attack parry).
+I'd suggest making cross platform (xbox > pc, ps4 > pc) servers otherwise this game will die shortly on pc. An auto matchmake would also help players find others to play against.
+The more promo, the more players. I only got this game because of the EGX 2017 stand and promo sale (75%).  
+
+I hope that this game gets the recognition it deserves.",1506260754,1506260754,True,0,0,0,0,False,False,False,False,,,
+35169323,"{'steamid': '76561198074125723', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1506221454}",japanese,"動画で判断するの駄目ってくらいのゲーム。
+自分は6分やって返金を決意したってぐらい。
+セールだから300円ぐらいで買ったけど、これ本来の1200円ものの値段で買ったら絶対駄目。そこまでのゲームじゃない。マジで。
+
+まずオンラインでやる相手がいて初めてこのゲームは楽しめるといっていい。
+が、全く人がいない。
+
+その部分を許せるとしてもオフラインプレイがひどすぎる。ストーリーモードはおろかbot対戦しかない。(botの強さも選べず、クソザコナメクジなので退屈な戦い)
+
+せっかくデザインがよさげなのにそれを活かした機能やモードが少ないと感じた。
+っていうか、戦闘面も駄目。攻撃キーが一つしかなく、どのキャラでもできることが限られている。ダッシュ攻撃と壁蹴り攻撃だけ使ってりゃ勝てるゲーム。基本的にキャラクターの攻撃は一撃で相手を殺せるので、即死とれないアイテムの存在意義がない。
+知り合いと買ったとしても対戦も1時間くらいで飽きるだろう。コンセプトがいいのでもう少し温めてほしかったです。",1506221859,1506221953,False,7,0,0.518655955791473389,0,True,False,False,False,,,
+35117733,"{'steamid': '76561198070051610', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 122, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1517796540}",english,"Short version: 
+
+Worth buying at 75% off, if you have friends to play it with.  Not worth full price. Don't expect to find people to play with online.
+
+Long:
+
+Black & White Bushido is a game heavily based on stealth.  You can play either Light (white ninjas) or Shadow (black ninja).  There are four character models, though (ironically for a game so heavily based on the popular idea of ninjas), none of them are in stereotypical ninja garb.  You then choose to play online or offline.  
+
+Offline, you can play either against bots or (presumably, since I've never tried it) couch two player.  The stage is small, so there's no need for split screen.  Online, you can try to find a match, but the matchmaking is extremely barebones. I play with my fiancee, and the only way we can find each other's matches is by coordinating over the phone.  There is no indication of who else is playing, even once you're in the match.  You don't see screen names, just ""Player 1.""  Also, as many other reviews have noted, there is virtually no community for this game.  If you want to play against a human, bring a friend.
+
+You will want to play against humans, too, because the bots are particularly idiotic.  Gameplay is heavily dependent on stealth.  If you break stealth, every bot will simultaneously converge on you.  I'm not a particularly good gamer, but my kill-death ratio against the bots is usually 20-1, even outnumbered 3 to 1.   If you go into stealth, the bots just beginning patrolling their platform with no attempt to locate you or use stealth themselves.  This makes them easy pickings even for a new player.  Really, the bots are just good for learning the controls.
+
+So what about the gameplay? That's where this game shines.  Primarily, you'll attack using your melee weapon, a very simple one-button attack.  The twist comes with the stealth mechanic.  The levels continually shift between light and shadow (white or black backgrounds, in other words).  The ninjas can, when standing still, blend into the background, making them impossible to see.  They can also move in this stealth mode, though at a greatly reduced speed.  Jumping will give away their position, as will fast movement.
+
+The stealth is the key part.  Trying to sneak up on an opponent while your character is invisible to both you and your opponent is a lot of fun.  The game throws in a few twists for you, too.  Tired of waiting? There's a taunt mechanic to reveal your position and lure adversary out of cover. Smoke bombs, a special item, allow you to mark a location, and then basically teleport back to it later.  Drop a smoke bomb, move somewhere else, and attack from hiding.  Go back into stealth after the attack and teleport back to your old spot.  Your opponent now has no idea where you are.  On the defensive side, there are caltrops, effectively three-pointed tacks that cause your opponent to bleed when he walks over them, giving away his position. You also can pick up shurikens or spears to give yourself a ranged attack against a melee-based opponent.
+
+Because of all this, there's a lot of flexibility against a skilled human.  Do you want to silently stalk your opponent and strike from hiding?  Do you want to depend on fast movement and aggressive attacks to get you through? Both of those are options.
+
+There are at least three game modes that I've tried: deathmatch, capture the flag, and challenge mode, where you try to score kills based on challenges. If I run across others, I'll add them here.  Up to four players can play in a match, and each player can choose if they'll be light or shadow.
+
+The art style is stark, but appealling.  It's heavily influenced by traditional Japanese art, contributing to the feel of the overall game.  It's simple, but it's a key part of this game, and it works.
+
+The overall result is good, but feels like a high quality flash game.  There is literally no story, no campaign, and no way to ""beat the game.""  There are no ranks.  It's just pick up and play.  If you have friends who will play this with you, then the 75% off price is worth it.  I've played it for an hour so far with my fiancee, and it's worth $3.24.  It is not worth $12.99, however.  There's just not enough here to justify that price.
+
+So, to reiterate: Buy on sale, play with friends.",1506044002,1506044002,True,8,0,0.601647138595581055,0,True,False,False,False,,,
+35049735,"{'steamid': '76561198216965861', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1521300139}",english,"This game is not worth it's £10 price. There is only a few maps, the combat  is boring and the online multiplayer is dead. Hopefully, the developers will continue to add more content but since it's been two years after release, this probably won't happen.",1505756053,1505756053,False,1,0,0.523809552192687988,0,True,False,False,False,,,
+34772214,"{'steamid': '76561198294707262', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1481406014}",german,"Pros:
+
+> kurzweilig
+> gute Steuermechanik
+> Steuermechanik auch sehr einfach, dadurch kommt man schnell ins Spiel
+> Interessante Licht/Schatten Mechanik (schwarze Gegner sieht man nur in weißen und die weißen Gegner nur in den schwarzen Bereichen.
+
+
+Cons:
+
+> wird schnell eintönig
+> wenige Arenas
+> wenige Spielmodi
+> Aufgrund der Licht/Schatten Mechanik gibt es auch immer zwei Teams, schwarz und weiß. So lässt sich das Spiel fair nur 
+   mit 2 oder 4 Spielern spielen. Es gibt keinen jeder gegen jeden Modus.
+> nur eine Primärwaffe
+> verschiedene Charaktere und deren unterschiedliche Waffe haben alle die gleichen Eigenschaften.
+> Ein jeder Charakter besitzt auch nur die eine Waffe und es gibt keine andere.
+> nur wenige Gadjets die auf der Map auftauchen
+> Für die geringen Inhalte ist der Preis zu hoch.
+
+
+Fazit:
+
+Das Spiel ist gut, wenn man Leute zu Besuch hat und kurz was zocken möchte. Man gewöhnt sich schnell an die Spielmechanik und kann mitspielen. Leider lässt jedoch der Spaßfaktor nach wenigen Matches schon deutlich nach. Sodass die Spielsession vielleicht mal 20 min dauert.
+Waren meine Gäste noch mal bei mir, hatten Sie auch keine Lust mehr auf dieses Spiel.
+
+Wer Spaß daran hat, die ganze Zeit wild durch die Gegend zu hüpfen und dabei Gegner mit one-hits zu erschlagen, der kann sich das Spiel kaufen. (Jede Waffe tötet mit einem Schlag)
+Aus Rumhüpfen und Gegner erschlagen besteht auch zu 95% jedes Match, unabhängig vom Spielmodus.
+",1504690058,1504690058,False,3,0,0.494245082139968872,0,True,False,False,False,,,
+34599020,"{'steamid': '76561198096538763', 'num_games_owned': 2826, 'num_reviews': 82, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1517462889}",schinese,"【ACT】【精品小游戏】
+《黑白武士道》
+[h1]画面：[/h1]
+简洁的黑白画风，加上水墨风格，极具视觉冲击力，每个场景都能带你体味东瀛特色。
+
+[h1]音乐：[/h1]
+节奏轻缓的日式古典音乐，一来能让人快速融入游戏氛围，二来在紧张激烈的战斗不仅不显得突兀，反而衬托出不同角色激烈战斗中的凄凉之感。
+
+[h1]战斗：[/h1]
+整个游戏的核心就是战斗，玩家共有四名角色可以选择，分别为武士、大名？、艺伎？、僧侣。每个角色武器不同，但实际操作中并没有太大的差异。
+战斗则十分简单，二段跳、冲刺、攻击，但就是简单的操作，才更容易出现极致的快感。本就快节奏的移动出刀，再加上拼刀的判定，使得战斗充满变化和激情。
+而如此模式的战斗，之前购买的玩家就很惋惜为什么没有在线多人，那么现在在线多人已经推出了，快约上几个小伙伴一起爽快厮杀吧！
+
+
+锦上添花的是，游戏已增添中文，虽然原本就不需要太多理解，但毕竟增加中文更加易懂。
+
+[h1]缺点：[/h1]
+多人对战从来就没连上过，可能是人太少了。
+游戏本身的机制和难度也存在硬伤，夺旗的意义不明确，也没有数量限制，超过之后还会为对方增加色彩。
+对战的时候也可以增加击杀死亡比，各类击杀数等数据，有数据之后的撕逼就更加有说服力。
+
+大概折扣的时候入手四人包还是比较值的，推荐杉果购买。",1504073736,1504073787,True,0,0,0,0,False,False,False,False,,,
+34263284,"{'steamid': '76561197985336244', 'num_games_owned': 0, 'num_reviews': 36, 'playtime_forever': 137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1613315450}",english,Had a local multiplayer session with family members aged 16-40 recently. This was one of the favorites of the night and it wasn't easy to please four people all with different taste is games. It has that good balance of being able to play straight away but you also feel you can improve as you try out different tactics. The animation and art style is great. The core mechanic is novel and creates a nice sense of mischief.,1502828480,1502828480,True,0,0,0,0,True,False,False,False,,,
+33851524,"{'steamid': '76561197970754349', 'num_games_owned': 818, 'num_reviews': 302, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1500958142}",english,"Very fast-paced competitive multiplayer game. Best experienced with friends since the online rarely has players and bots get old very quick.
+
+https://www.youtube.com/watch?v=Tq3sBsPYhI8",1501233129,1501233129,True,0,0,0.428185313940048218,0,False,True,False,False,,,
+33774538,"{'steamid': '76561197985677737', 'num_games_owned': 722, 'num_reviews': 23, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1500824396}",english,"Fun concept that is great with a few friends, but thats where the game ends for me. Getting a game together was alot of trouble, and the fact that noone can set their name on PC so everyone is called ""Player one"" made it even more confusing.
+All in all a fun hour of play.",1500933074,1500933074,False,0,0,0,0,False,True,False,False,,,
+33694353,"{'steamid': '76561198276667808', 'num_games_owned': 101, 'num_reviews': 4, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1512263756}",english,So whether i pick online or offline it tells me an internet connection is required to play online (it even says this when selecting offline) even though I am connected to internet,1500636656,1500636656,True,0,0,0,0,True,False,False,False,,,
+33340710,"{'steamid': '76561198191749221', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1498910792}",koreana,"i can't play multi....
+damn....",1499428945,1499428945,False,0,0,0,0,True,False,False,False,,,
+33179275,"{'steamid': '76561197970550696', 'num_games_owned': 0, 'num_reviews': 162, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1499158885}",spanish,"Juego en 2D de lucha en la arena con toques de sigilo.
+Escóndete en tus respectivos colores y muévete sin ser visto. 
+Recoge objetos y utilízalos para sorprender, mutilar y atrapar a sus oponentes. 
+Partidas multijugador locales y en línea para 1-4 jugadores. Siete arenas variadas y dinámicamente cambiantes. 
+ Combate a muerte por equipos, 
+Capturar la bandera y Modo individual. 
+
+Multijugador en línea - De 1 a 4 jugadores
+Multijugador local - 4 jugadores
+Cooperación en línea
+Cooperación local
+
+https://www.youtube.com/watch?v=s6YffFPLq3Q",1499081291,1499123247,True,2,0,0.481349527835845947,0,False,True,False,False,,,
+32932411,"{'steamid': '76561198165528375', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 130, 'last_played': 1568315961}",english,"Local Co-Op at it's finest, havent had that much fun with my friends in a while.",1498653448,1498653448,True,0,0,0,0,True,False,False,False,,,
+32453341,"{'steamid': '76561198199643373', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1495488834}",english,"Would be good, but NO ONE is playing. Unless something has changed, this game is COMPLETELY FUCKING EMPTY. Buy at your own risk. Online matchmaking is totally barren, and all that's left to play is bots, which is way too easy.",1497560641,1497560641,False,7,2,0.39841538667678833,3,True,False,False,False,,,
+32351708,"{'steamid': '76561198063806609', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 289, 'playtime_last_two_weeks': 0, 'playtime_at_review': 223, 'last_played': 1516340492}",english,Good,1497213736,1497213736,True,0,0,0.482758641242980957,0,True,False,False,False,,,
+32125847,"{'steamid': '76561198104508253', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 209, 'playtime_last_two_weeks': 0, 'playtime_at_review': 195, 'last_played': 1693850385}",spanish,"Un juego de enganche rapido y fácil control! Black and white nos presenta al ejercito de la LUZ y de la OSCURIDAD enfrentados una vez más!, pero lo hace de una manera muy singular...cada uno en su medio (blanco o negro)...tiene la ventaja!, quedarse quieto mientras tu contrincante no sabe que estas en las sombras, o en las...luces? y asestarle un ""katanazo"" no tiene desperdicio!
+
+Incluye 3 modos de juego típicos (captura la bandera, que es muy ****do, deathmach por equipos y modo reto) en unos mapas que van cambiando sus franjas de luces y sombras, lo cual le da mucho dinamismo al juego, aparte de la movilidad de los personajes. Entre otros también, la posibilidad de utilizar objetos como bombas de humo, shurikens,etc...
+
+Ahora incluye un modo multijugador, pero, las dos veces que lo intente creo que no hay muchos servidores.
+
+Mi visión del juego es siempre una tarde con parejas, amig@s, familia, incluso enemigos ( como siempre digo para golpeales con tu superioridad vicieta y videojueguil ) lo que veais oportuno, acción, diversión y tensión para hasta 4 jugadores, lo pasareis genial!. Eso sí, puede que si decides jugarlo solo, con el tiempo se vuelva repetitivo.",1496398806,1496398806,True,3,1,0.516409814357757568,0,True,False,False,False,,,
+31934272,"{'steamid': '76561197988371847', 'num_games_owned': 772, 'num_reviews': 12, 'playtime_forever': 197, 'playtime_last_two_weeks': 0, 'playtime_at_review': 170, 'last_played': 1509298905}",english,"Really fun couch multiplayer game, and now with the addition of online multiplayer!",1495632155,1495632155,True,0,1,0.497287511825561523,0,True,False,False,False,,,
+31805921,"{'steamid': '76561197974869907', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 193, 'playtime_last_two_weeks': 0, 'playtime_at_review': 96, 'last_played': 1539819436}",german,"absolut spannendes nerven aufreibendes spiel, absolut empfehlenswert",1495032326,1495032326,True,0,0,0.481481492519378662,0,True,False,False,False,,,
+31802950,"{'steamid': '76561198244490462', 'num_games_owned': 0, 'num_reviews': 68, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1465024721}",english,Nice hide and seek brawler.,1495020672,1495020672,True,0,0,0,0,True,False,False,False,,,
+31515977,"{'steamid': '76561198002164890', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 226, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1610190073}",french,"Ca répond bien, c'est fluide , c'est  jolie le concept est tres efficace et le plaisir est la.
+
+Le online arrive ce mois ci héhé.
+
+Ca pete un peux les yeux au bout d'un moment et le screenshaking pour les death ne s'enleve pas dommage.
+
+Un jeux a jouer uniquement en multi (y a de quoi s'entrainer tous seul niveaux difficulté) pour en tirer tous le jus.
+
+Prise en main aisé mais les difference de skills entre joueur  peuvent  gacher le plaisir comme tous bon jeux a skill et non casual.
+
+Les armes sont très bien pensées ;)
+
+Masterpiece pour sur!",1493773332,1493773332,True,0,0,0,0,True,False,False,False,,,
+31391373,"{'steamid': '76561197972815871', 'num_games_owned': 1100, 'num_reviews': 15, 'playtime_forever': 62, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1496239966}",english,awesome!,1493292053,1493292053,True,0,0,0.462633430957794189,0,False,False,False,False,,,
+30545482,"{'steamid': '76561198093901941', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1488030270}",english,"Ok at first Then gets boring. It's good for local multiplayer but would be better with online multiplayer.
+
+Edit: now it has online multiplayer I highly recomend",1489687538,1497449419,True,2,0,0.523809552192687988,2,True,False,False,False,,,
+30430299,"{'steamid': '76561198036459616', 'num_games_owned': 612, 'num_reviews': 25, 'playtime_forever': 4109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 4015, 'last_played': 1593898290}",english,"I'm a fan of Towerfall (also have the 8 player build of Towerfall as well) and we always break games like that out when friends come over.  They have REALLY taken a liking to this game (even more so than me.)  It is a lot of fun and the constanst shifting of the black / white areas in the map gives you a little strategy in making your moves.  Nothing is more satisfying than sitting completely still, hidden, for a long time, only to kill an unsuspecting enemy as they casually trot by you, unaware that you are there.  :)",1489168227,1489168227,True,16,1,0.681244015693664551,0,True,False,False,False,,,
+30192812,"{'steamid': '76561198275529811', 'num_games_owned': 132, 'num_reviews': 14, 'playtime_forever': 42, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1488106191}",english,Game has realy good theme but controlls  cannot be edited,1488107164,1617573347,False,1,0,0.390054941177368164,0,True,False,False,False,,,
+30091262,"{'steamid': '76561198259654851', 'num_games_owned': 208, 'num_reviews': 15, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1516412889}",english,no online needs one waste of money,1487730155,1487730155,False,0,0,0.258511245250701904,1,True,False,False,False,,,
+29672952,"{'steamid': '76561198317751931', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 776, 'playtime_last_two_weeks': 0, 'playtime_at_review': 597, 'last_played': 1690187211}",schinese,别具一格的简约画风，战斗简单却充满策略性，实在是适合与朋友一起玩。最好能出个online模式，不然平时只有打低智商ai，显得特别无趣,1486139944,1486139944,True,4,0,0.584905624389648438,2,True,False,False,False,,,
+29378948,"{'steamid': '76561198002128431', 'num_games_owned': 0, 'num_reviews': 55, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1484930821}",russian,"Просто флеш игра за 220 рублей
+игра проста и скучна
+и подкупает лишь азиатской тематикой
+покупать не стоит",1484930916,1484930916,False,6,1,0.506714820861816406,0,True,False,False,False,,,
+28999465,"{'steamid': '76561198247242474', 'num_games_owned': 2553, 'num_reviews': 102, 'playtime_forever': 63, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1483456739}",schinese,"一款黑白水墨画风的碎片化小型消磨时间爽型游戏
+音乐很东瀛，角色很东瀛；
+非黑即白，非动即静，非死即活，非敌即我！
+这是一款非常非常非常纯粹的游戏！
+这是一款值得推荐的游戏。
+支持本地分屏，但是不支持线上联机是一个遗憾。
+没有中文，但是不影响游戏
+
+
+
+
+
+画
+
+黑白水墨风，非常有意境；另外游戏内的场景有五个，各有特点，不得不佩服，东瀛那嘎达把我们的水墨韵味搞得很有厚度，相反为什么我们的游戏作者总喜欢去模仿日式或者欧美风的主题风格呢？
+
+
+音
+
+
+一听就知道是标准的东瀛风格音乐，契合游戏主题画面，不得不说很搭，音乐风格和美术风格真的很搭……音效很不错，尤其是斩击时候的音效配合斩击后的的那种心情，畅快淋漓！但是我觉得如果五张地图，能有五个风格独特区别比较大的BGM就更好了。
+
+
+玩
+
+
+游戏支持单人游戏与本地分屏游戏，不支持联机；
+游戏有两种模式：对战模式（玩家VS玩家  or 玩家VS AI）、挑战模式，但是实际上队长模式有一部分和挑战模式重复（达成目标条件才可以达成通关[比如斩杀一人，站立8秒不动、使用道具多少次、空中斩杀几人等]）角色：有四个角色可以选——武士、打伞女人、僧人、大锤（又分别可以选黑或者白）招式：只有跳跃、二段跳、原地攻击、方向攻击（快速斩杀/拔刀斩）、道具使用、占领旗帜；招式很简单，但是对战起来基本就是冲杀！冲杀！冲杀与冲杀！（怂什么，正面肛！）黑与白：当角色当前颜色与背景颜色相同时，静止不动则进入隐身效果，敌人不会发现，如果动则会被敌人察觉；当角色当前颜色与背景颜色相悖时，则暴露在敌人的视觉之下，很容易被斩杀。对砍：原地砍没有意思，用快速斩杀/拔刀斩杀人才是王道，尤其是如果敌人也用拔刀斩和你对着干，大家都会被弹开，接着进行第二次冲刺。武士之道，不是死，就是死！道具：三种——铁蒺藜、手里剑和烟雾弹；铁蒺藜洒落到地面，敌人碰到会持续掉血，手里剑远程杀敌、烟雾弹可以掩饰与瞬移；游戏将就一击致命，其他都是多余。
+
+
+一点小遗憾
+
+
+AI比较蠢
+不支持联机，如果在线联机，这款游戏一定会火，因为两个实实在在的玩家会充分利用黑白之道与道具、在潜行与暗杀之间体验一击毙命的刺激感觉；然而不支持联机，只能杀一杀愚蠢的AI；
+对战模式的条件限制比较烦，我个人期望的是对战模式类似闯关，第一关杀一个，第二关杀两个，第三关杀三个以此类推的闯关模式，这样一个可以玩的很爽，怎么杀人，杀几个全看自己，另外不断地挑战也可以看到自己的极限；在对战模式的情况下加入通关条件限制是一件很烦的事情，毕竟已经有挑战模式了不是么……
+游戏真的还不错，碎片化，爽快，不拖沓，画面和音乐都挺好，唯独不能联机……
+如果能开联机，我会给基友们买几个……反正也不贵。
+
+http://www.bilibili.com/video/av7842184/
+http://v.youku.com/v_show/id_XMTg5ODA1MzUxNg==.html",1483515627,1483515627,True,18,0,0.702501416206359863,6,False,False,False,False,,,
+28810602,"{'steamid': '76561198063324349', 'num_games_owned': 136, 'num_reviews': 8, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'last_played': 1483057881}",english,"controlls are good
+but gameplay is confusing/bad
+No blocking so you just mash the attack button
+and the characters are verry small and it is hard to see yourself even if you are moving",1483057961,1483057961,False,0,0,0.393134862184524536,0,True,False,False,False,,,
+28757900,"{'steamid': '76561198063592473', 'num_games_owned': 544, 'num_reviews': 77, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1482943246}",english,"Where is the online mode?? It maybe fun with friends and some beers, but the gameplay could be much better if it wasn't one hit kill, i mean steath kills could be still one hit kill...but the gameplay shoud have more depth.
+
+And without online mode...i can't possible recomend this.",1482943637,1503891455,False,4,0,0.328680545091629028,2,True,False,False,False,,,
+28603976,"{'steamid': '76561198086651430', 'num_games_owned': 0, 'num_reviews': 21, 'playtime_forever': 294, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1498143613}",koreana,"흰백의 스텔스를 중점으로 두고 있는것 같지만 상하좌우점프의 공격 모션이 따로 존재하고 공격 타이밍이 상당히 중요하다 
+
+키보드인데도 손맛이 상당히 찰지며 패드플레이가 상당히 찰질 듯 하다
+
+참고로 게임 시작하기 전에 키 설명이 나오니 간단하게 알아두는것도 좋다
+
+상하좌우 wsad 공격[ , ] 점프[ . ]아이템[ / ] 이다
+
+게임 진행을 위해서는 점프키를 누르면 된다
+
+괜찮은 게임이나 정가를 주고 사는것보단 세일할때 사는것을 추천드리는 바임",1482602120,1482602120,True,2,0,0.497811824083328247,0,True,False,False,False,,,
+27744621,"{'steamid': '76561198169115755', 'num_games_owned': 588, 'num_reviews': 61, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1537957592}",french,"Un jeu au concept simple mais extrêmement efficace, à condition d'avoir des amis avec vous pour en profiter. Il s'agit de se défier en duel dans un monde bichrome. 
+
+-Vous êtes noir ou blanc. 
+
+-Le décor et noir et blanc. 
+
+-Caché dans votre couleur, vous êtes invisible. Hors d'elle, on ne voit plus que vous. 
+
+-Le tout est de se montrer et se cacher quand il faut, souvent pour finir par surgir brutalement sur votre adversaire dès qu'il a commis un faux pas ou que vous avez deviné ses plans, ses mouvements. 
+
+-Pour prévenir les excès de timidité, le décor change de couleur régulièrement, découvrant ainsi certaines zones aléatoirement. Vous l'aurez compris : les joueurs cachés dans ces zones se retrouvent alors d'un coup très vulnérables !
+
+Conclusion : oubliez un peu la couleur, passez au noir et blanc ! Le jeu vaut son prix !",1480201097,1480201180,True,6,0,0.614035129547119141,0,True,False,False,False,,,
+26924191,"{'steamid': '76561198149537453', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1476147058}",english,"Controls where VERY counter-intuitive, but the light/shadow mechanic was cool.
+
+Settings was weird, gameplay was stiff, and you die instantly.",1479940430,1479940430,False,3,1,0.503093898296356201,0,True,False,False,False,,,
+25372117,"{'steamid': '76561198001766745', 'num_games_owned': 291, 'num_reviews': 61, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 118, 'last_played': 1641066054}",english,"[b]+ interesting/fresh game concept.[/b]
+
+[b]- No flexibility in gamepads supported.[/b]
+Another co-op game with a terrible support for DirectInput gamepads made on Unity engine. (Stardust Vanguards, In Space We Brawl,...).
+
+[b][u]Supported controllers for Black & White Bushido:[/u][/b]
+http://www.gallantgames.com/pages/incontrol-supported-controllers
+If your gamepad (and 3 of your's friends) is not on that list - then don't expect that gamepad to work. (Again, that list is meant for [i]this[/i] game only.)
+This is a link given by a developer [url=http://steamcommunity.com/app/404050/discussions/0/485622866443613916/] on a forum	[/url], of a list of gamepads that [i]should[/i] work.
+Mine is not there.
+
+But that should be posted on ""About This Game"" page. Or at least a link to it.
+(And not finding it out accidentally when you are wondering why the game ignores your gamepad.)
+update: I was able to get my gamepad to work with a [url=x360ce.com]x360ce[/url].
+
+[b]- Not many maps (5).[/b]
+
+[b]- Overall little in content:[b]
+Versus mode
+http://steamcommunity.com/sharedfiles/filedetails/?id=764112665
+with 5 maps
+http://steamcommunity.com/sharedfiles/filedetails/?id=764112965
+and a ""challenge mode"":
+http://steamcommunity.com/sharedfiles/filedetails/?id=764112869
+That's the entire game.
+If you like local co-op games then you can buy it. (You could also try ""Samurai Gunn"" instead - it may be better in some ways).
+
+This game is fun but little in content.",1473114031,1478130566,False,6,0,0.530059635639190674,0,True,False,False,False,,,
+25176667,"{'steamid': '76561197993931975', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 100, 'last_played': 1673630186}",russian,"Весьма достойная игра. Случайно наткнулся в магазине, просмотрел скриншоты, не удержался и купил.
+Из плюсов:
+- стильное визуальное оформление
+- хорошая музыка
+- озвучка персонажей
+- кровища
+- геймплей таки увлекает
+Минусы - игра довольно короткая, карт мало, персонажей мало, быстро все пройдешь и изучишь. Нужно больше контента. Так же цена на мой взгляд завышена.
+Рекомендую дождаться скидки и купить.",1472283721,1472283721,True,6,1,0.624338388442993164,0,True,False,False,False,,,
+24488108,"{'steamid': '76561198034217511', 'num_games_owned': 912, 'num_reviews': 514, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1495151006}",russian,"B&W Bushido is a nice indie-multiplayer PvP platformer up to 4 players.
+
+- The setting takes us to Feudal Japan.
+- The main feature of this game is Confrontation between Blackness Black and Glaring White. Players capture points on the level, colouring the area in black or white. This helps the team which captured the point, since it makes its' player barely visible unless they Run or Jump, raising a cloud of dust behind them. 
+- Simplistic combat mechanic and Minimalistic Graphic style.
+
+Devs pledged to add online multiplayer, because there is none at the moment and you can only play together on one computer. Which is sad.",1469312884,1469312884,True,3,0,0.40363776683807373,0,True,False,False,False,,,
+24302900,"{'steamid': '76561198004038352', 'num_games_owned': 1696, 'num_reviews': 247, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1461962209}",english,"The gameplay itself is not that bad, the melee style of hide and seek through shadows and light is pretty interesting, but it gets old really fast and the doesn't have a campaign or a diversified arcade mode for a single player. Besides, there is no online multiplayer lobby for you to find matches - even if it had, I believe it would be empty. Overall, it's an interesting game concept although poorly executed. IMHO, the advise against buying it is basically because of the price. If you really want it, buy it on a sale, this game ain't worth more than a dollar.",1468442829,1468442829,False,7,0,0.517161369323730469,0,True,False,False,False,,,
+24192925,"{'steamid': '76561198103319892', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1468187714}",english,"I'm gonna start this review by saying that this is a first impressions review (as of right now i have played half an hour of this game), and that I know nothing of the game (when it was released, the developers, the budget, the time it took to make, etc.), so opinions may change with further playing
+
+Pros:
++Good atmosphere
++Music and sound effects aren't the best but do the job
++Hammer character is kinda fun
+
+Pros/Cons together:
++/-Idea of light and shadow is very good, and the stealth part would be interesting as a mechanic if the player sitting still on his or her's area didn't already make him invisible, rendering it useless
++/-Art style has potential, but is horrendously bad (as in 2000s flash games you'd find on free games websites bad) with no options for better detail
+
+Cons:
+-Animations feel cheap and uninteresting,  with many attack having very few frames for said animations
+-Platforming feels very off, almost Zelda CD-i off, very unresponsive and hard
+-Spear guy is horrible to play with
+-The absolute worst are the controls, both in game and in the menus, with very little intuitive button choices for the keyboard (I understand this game is probably made for controller use, but almost never mentioning the controls on the keyboard, along with and offering the option to change anything? Shame), adding to this feeling of either going too fast with the dash (when you manage to do a dash) or too slow, you always feel like a slug. Sometimes they don't even register the keys I press!
+
+All around, not even worth the 2-3 euros i payed with the sale",1468016217,1468016343,False,5,0,0.525097370147705078,0,True,False,False,False,,,
+24123296,"{'steamid': '76561198093259315', 'num_games_owned': 0, 'num_reviews': 115, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1495110975}",schinese,"呵~~~呵~~~嘿~~~
+黑白武士道的想法嘿~只会用武士刀比划嘿~
+我一个人在家乖乖的虐AIはぃはぃはぃゎかりました
+日文(一二三四)樱花落满地有一种神秘凝结了空气
+日文(一二三四)黑夜里偷袭去攻击烟雾当武器
+日文(一二三四)忍者的物语要切断过去[strike]保命[/strike]是唯一
+日文(一二三四)隐身要彻底要忘记什么是自己
+
++简约场景，简单操作，让人想起《绝望剑士nidhogg》，对比正面肛的西洋击剑，我觉得《黑与白的武士道》想要体现的是东洋忍术的隐忍暗杀，如果是联机PVP，大部分时间玩家可能只是在同色背景的保护下缓慢移动，悄悄地靠近对手，然后突然出现一击毙命。
+-可惜的是，在单机对抗AI里，背景光源随机的快速切换，逼着玩家没空研究行进路线，只能跳来跳去，靠近对手之后一个冲刺赌运气。更糟糕的是，如果不按标志显示键，乱斗之后陷入同色的你甚至会找不到自己在哪……
++在此不得不佩服本子的拿来主义+美工+音乐，把游戏做的像黑泽明电影中某个场景一样梦幻。[spoiler]反观我大天朝╮(╯▽╰)╭[/spoiler]
+-如果出在线联基，把光源改成惯性移动（随时间改变的月光）+突发（比如场地破坏，打倒灯笼等等），玩家跑动声响视觉化，再来个照明弹道具（烟雾弹已有，但是用处不大），那策略性和娱乐性会大大提高吧
+
+当前版本评分：6/10",1467768137,1467768137,True,5,4,0.57206648588180542,0,True,False,False,False,,,
+24110020,"{'steamid': '76561198105295327', 'num_games_owned': 0, 'num_reviews': 40, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1527241837}",russian,"Взял на скидках, не пожалел. Отличный платформер для игры с друзьями
+Плюсы:
+            1. Стилистика
+            2. Механника игры
+            3. Можно играть в 4-м
+        UPD: Добавлен мультиплеер.
+Минусы:
+            1.Мало всего, возможно, добавят в обновлениях ( режимов всего 2, карт немного и возможностей у воина мало(ударов,предметов)
+Вывод:Игру могу посоветовать всем, пару вечеров с друзьями убить можно,да и механика игры, со всем тенями, лучами света, очень понравилась.",1467727190,1497531017,True,5,1,0.572670459747314453,0,True,False,False,False,,,
+24048194,"{'steamid': '76561198227554108', 'num_games_owned': 184, 'num_reviews': 6, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 74, 'last_played': 1666616233}",english,"Fucking brilliant, controls are fluid and responsive- attacks are satisfying, 8/8 would recommend",1467551758,1467551758,True,0,0,0,0,True,False,False,False,,,
+23566129,"{'steamid': '76561197991838690', 'num_games_owned': 265, 'num_reviews': 6, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1627651550}",english,"The game is very fun if you have someone to play with. Tried it with two xbox controllers and it works fine + keyboard. Have problems with Dinput gamepad though... Couldn't get it work except directional keys (left, right, up, down). But Xpadder or x360ce might fix this problem easely. I prefer latter.
+Developers promised online multiplayer by this summer but it is july already and there are no news. But it seems they are still working on it and on a new game modes. 
+
+You can learn this game quite fast. The mechanics is very simple and fun. There are no complicated combos like in MK or Street fighters. 
+
+Gamepad is recommended. I haven't really tried to play with a keyboard. But some people complained that it is difficult to play without gamepad.
+It is worth to buy cheap gamepad for this game and call few friends for a fight,",1465979061,1465979061,True,2,1,0.499344408512115479,0,True,False,False,False,,,
+23516724,"{'steamid': '76561198082168700', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1465722388}",english,this game is a nightmare for people without a controller. The keyboard controls are ass and you cant use the mouse. Not worth the money at all also if you do buy it prepare your ears for a major rape at the begining,1465721393,1465721393,False,2,0,0.377025216817855835,1,True,False,False,False,,,
+23385735,"{'steamid': '76561198006867044', 'num_games_owned': 165, 'num_reviews': 1, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1465066169}",english,"Controls for keyboard are horrible. You can only change the controls before launching the game, but I haven't gotten to the point where the game actually saves any of my controls. How does player 2, 3 and 4 control their character on a keyboard? I don't know, since there's nowhere to look it up/edit. Unless you own a controller, don't get this game.",1465066494,1465066494,False,2,0,0.442579567432403564,0,True,False,False,False,,,
+23316558,"{'steamid': '76561197985824811', 'num_games_owned': 108, 'num_reviews': 1, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1493487856}",english,"Pro:
++ innovative idea of light and shadow shifting
++ nice calligraphy style
++ awesome local multiplayer
++ many maps
++ simple concept
++ casually playble
+
+Contra:
+- single player might get boring fast
+- best played with controller
+
+That game doesn't come along with the lastest, best, fanciest graphic, neither there aren't tons of combo moves and the amount of objects to use is very limited.
+The main idea is the constantly changing background either revealing or hiding the player inbetween an samurai environment and on that the game emphasises.
+So there is not too much content, but the content given is a solid base to have fun with.
+I got this game in a sale for a quarter of the normal price and made a good deal so far. The controlls were a bit difficult at the beginning, but since I bought a controller, I can use the whole potential.
+So if you like fast action 4 player games, you can buy this one without wasting money. If you are a bit unsure wait for a sale.",1464730927,1464730927,True,0,0,0.480261951684951782,0,True,False,False,False,,,
+23264675,"{'steamid': '76561198290246398', 'num_games_owned': 157, 'num_reviews': 7, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1525719639}",schinese,"NO ONLINE,why？？？？？？？",1464490290,1464490290,True,2,1,0.511248588562011719,1,True,False,False,False,,,
+23052921,"{'steamid': '76561198077904384', 'num_games_owned': 720, 'num_reviews': 4, 'playtime_forever': 110, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1504221426}",schinese,"很棒的游戏，玩的时候还没有出多人模式吧，期待出线上模式跟好友一起砍砍砍。[spoiler] 像躲在这里砍死你[/spoiler]
+感觉这个价格也可以接受了。无聊的时候点开玩上几把神清气爽。[strike] 飙血的时候真是太赞了[/strike]
+治好了我多年的吸毒症状。让我最后吸一发[strike] ギリギリeye ~ギリギリmind [/strike]",1463570256,1463570256,True,1,0,0,0,True,False,False,False,,,
+23000153,"{'steamid': '76561198056972260', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1481783642}",english,"Very lethal and unpredictable 4 player local deathmatch game, add it to the rotation with Lethal League, Samurai Gunn, Towerfall: Ascension etc.
+
+While I wholeheartedly recommend this game, I can only recommend it in this state if you can play 4 player. If they add an online multiplayer and integration with the Steam Workshop for modding, it would increase the value of the product immensely.",1463320738,1463320738,True,0,0,0.462492555379867554,0,True,False,False,False,,,
+22755889,"{'steamid': '76561198115455999', 'num_games_owned': 2091, 'num_reviews': 14, 'playtime_forever': 159, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1660002268}",english,"This is a game about speed, stealth, and lighting.  The lighting seems to change at random times.
+
+You play on either the light team or the dark team.  If you stand still while in your element (a light team member in the light, a dark team member in the shadow) you disappear from sight, and can hold a button to stay hidden and move slowly.  But if you dash (your typical movement speed), your outline becomes a bit easier to see.  I've found it's easier to distinguish a moving dark team member in shadow than it was to detect a moving light team member in light, which unbalances it a bit, but it's not too bad, and I'm sure its something the devs can easily fix.
+
+When you're attacking, it's pretty much one hit kills, though there are glancing blows.  Also, when not stealthed, you're moving fast.  This really leads to two types of tactics.  Slow, methodical, waiting ninja strikes where you remember where you are while stealthed and wait for an opponent to either pass over you, or get close enough to dash and slice them up.  It's that, or you dash around, just trying to be faster than everyone else.  I've found either tactic works well, and obviously you can change up while you play, depending on the situation.
+
+So with the dynamics at play, it makes the game feel like you're either a ninja, hiding in wait, or a samurai trying to out iajutsu everyone else.  Tons of fun, tons of flavor for a simple 4 person multiplayer game (no story, no single player except with bots).
+
+Just the fact that this is a PC game with local multiplayer makes me like this game, everything else about it makes me love it.
+
+Get this game, get three friends, and play this game!  NOW!",1462163329,1462164104,True,1,0,0.480261951684951782,0,False,False,False,False,,,
+22747054,"{'steamid': '76561197991672889', 'num_games_owned': 71, 'num_reviews': 3, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1498872385}",english,"I first came across this game at Unite 2015 Boston when the developer and I attended the same design talk. He demoed an early build for me and it showed alot of promise. Some mechanics have been altered since then i.e. you weren't shown at all when you moved back then, but I like the approach now.
+
+Love the changing backgrounds, definitely adds an element of dynamics to the gameplay.
+
+Honestly one of my favourite couch multiplayer games, can't wait for online multiplayer and leaderboards.",1462123645,1462123645,True,0,0,0.480261951684951782,0,True,False,False,False,,,
+22542056,"{'steamid': '76561198109893941', 'num_games_owned': 80, 'num_reviews': 2, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1461196374}",norwegian,"it's an okay game I guess, but I find the controlls really hard to learn, especially for keyboard. there is no tutorial or place to look at controlls apart from some loading screens, and there's no option to personalize them.",1461196605,1461196605,False,0,0,0,0,True,False,False,False,,,
+22453503,"{'steamid': '76561198158474621', 'num_games_owned': 384, 'num_reviews': 29, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1528466198}",schinese,"游戏创意不错，但是模式只有两种。
+第一种，和AI或者是同机玩家打；
+第二种，玩挑战。
+联机不能，模式单一，游戏时数短。
+战斗系统简陋，弹开的设定比较新颖，但没有挥舞武士刀斩杀敌人的的快意（因为所有角色主要都靠飞来飞去攻击）。
+动作嘛……
+攻击方式：水平飞来飞去；斜向飞来飞去；垂直飞来飞去；原地耍武器。
+战斗场面：两个人飞来飞去然后他们突然撞在一起并分开了，基本重复这个流程，直到一方死亡。",1460815743,1460815743,True,2,3,0.530026078224182129,0,False,False,False,False,,,
+22327969,"{'steamid': '76561198282879521', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1458720856}",schinese,"    这个游戏的设计理念与初衷是好的，但是从游戏的表现上来说仍然有许多的不足。具体表现在AI的智商太低，虽然游戏中有挑战模式，但是这仍然只是靠数量来增加难度；虽然设定了四个角色，但是没有其独立的招式，也就是然并卵；对于招式本身，普通攻击太废材（硬直太高），而冲刺斩杀却又太阴霸了，更显得普通攻击废材。
+    但是对于黑白场景的设定，东瀛风的渲染与不错的创意是不可否认的！如果能进行改进绝对不弱于其他优秀的撕逼游戏！希望作者再接再厉！还有！多人模式！求线上多人模式，我和我美国的朋友都没法联机了T T。
+    这款游戏很适合打折时入手，本身的价格并不贵，总而言之还是听推荐的啦！加油！",1460240752,1460240752,True,4,2,0.524146378040313721,0,True,False,False,False,,,
+22217970,"{'steamid': '76561198039110977', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 839, 'playtime_last_two_weeks': 0, 'playtime_at_review': 289, 'last_played': 1684615493}",english,"Highly Recommended !!!!!!
+This game is really addictive and a great laugh with friends! It can be quite comical or really damned brutal depending on who you play it with.
+Well balanced, simple controls, simple concept all makes for a game that will stand the test of time.
+
+So many ""ha ha ha HHHAD YA!!"" moments
+
+...and just as many ""Doh!"" moments too. 
+
+",1459689049,1459689049,True,0,1,0.480261951684951782,0,True,False,False,False,,,
+22152368,"{'steamid': '76561198024985876', 'num_games_owned': 0, 'num_reviews': 80, 'playtime_forever': 88, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1482810154}",english,"Shinobi; warrior of the night. 
+
+Trained to use the darkness of the shadow.
+
+I know your arts as well.
+
+But I, have been trained to use the light.",1459384976,1459384976,True,100,56,0.760678768157958984,3,True,False,False,False,,,
+22141125,"{'steamid': '76561197971136735', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 809, 'playtime_last_two_weeks': 0, 'playtime_at_review': 809, 'last_played': 1458991875}",english,"Looks good, but the controllers just do not work (360 wireless)",1459341304,1459341304,False,2,0,0.423463374376296997,0,True,False,False,False,,,
+22109003,"{'steamid': '76561198003837486', 'num_games_owned': 0, 'num_reviews': 121, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1495229000}",french,"Je viens d'essayer ce jeu en mode solo, je dois dire que c'est injouable. Vous débutez, vous avez des challenges à faire sans aucune explication parfois. Puis le temps de prendre en main le jeu vous êtes mort 20 fois, vous jouez contre 2 adversaires en même temps, que vous devez toucher plusieurs fois pour qu'ils meurent, mais au moindre coup vous êtes mort. Bref pas vraiment très excitant...
+
+Essayé en coop à 4, pas vraiment d'intérêt non plus. Franchement on y a joué une 15aine de minutes, on est passé à autre chose sans regret.",1459186766,1496775338,False,4,1,0.414450377225875854,0,False,False,False,False,,,
+22094490,"{'steamid': '76561198113240947', 'num_games_owned': 181, 'num_reviews': 15, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1459118752}",english,Would be amazing if you could play online on computers.,1459118820,1459118820,False,4,0,0.409696400165557861,1,False,False,False,False,,,
+22081878,"{'steamid': '76561198142534238', 'num_games_owned': 280, 'num_reviews': 37, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1459075206}",schinese,这个游戏如果有线上联机功能，将是一个有趣的撕逼小游戏，可惜没有~。。。顺便想吐槽一下这按键设置。。有够反人类,1459075269,1459075269,True,1,1,0,0,True,False,False,False,,,
+22010858,"{'steamid': '76561198060952377', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1458846332}",english,"Black & White Bushido in a nutshell~
+
+https://www.youtube.com/watch?v=bmkxsQnNujI
+
+Fun, Intense Game when playing against other players (not to mention the Challenge Mode aswell) and with the Online Multi-Player coming out this year it's definitely worth giving it a go 🎧♪♫.",1458764519,1458764618,True,99,54,0.776644885540008545,6,True,False,False,False,,,
+21994344,"{'steamid': '76561198203475136', 'num_games_owned': 211, 'num_reviews': 56, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1569768744}",schinese,具有独特东瀛风格的精巧作品，期待联网模式~~,1458700976,1458700976,True,1,0,0,0,True,False,False,False,,,
+21985261,"{'steamid': '76561198151755602', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1458662856}",english,this is awesome if we can play it online....,1458662971,1458662971,True,3,0,0.507168471813201904,0,True,False,False,False,,,
+21502430,"{'steamid': '76561198005363503', 'num_games_owned': 700, 'num_reviews': 100, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1606935920}",schinese,一款适合碎片时间玩的游戏，蛮不错的,1456590692,1456590692,True,1,0,0,0,False,False,False,False,,,
+21247218,"{'steamid': '76561198048293170', 'num_games_owned': 108, 'num_reviews': 2, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 50, 'last_played': 1708564725}",english,Super fun and simple game to play with some friends.,1455606238,1455606238,True,0,0,0,0,True,False,False,False,,,
+21165409,"{'steamid': '76561198276168282', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1457498281}",english,It's a great game that will make your friends either frustrated or laugh hysterically. Skill-based and incredibly addicting.,1455324268,1455324268,True,0,0,0,0,True,False,False,False,,,
+21153287,"{'steamid': '76561198040884867', 'num_games_owned': 2434, 'num_reviews': 901, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1454797840}",english,"[b][i]Black & White Bushido[/i] is a fun little four player versus game that has a great novelty of really making you feel like a ninja through use of camoflauge.[/b] My regular [i]TowerFall[/i] group gave it the thumb's-up (which they rarely like anything but the usual). Its certainly smaller in scale, but has enough fun for a couple of gatherings. Overall, I do wish there was more content, though.
+
+[i]The coolest thing about this game is its novelty; you first choose either a black or white ninja, which allows you to blend in really well with like color.[/i] This adds in some nice strategy where you can just sit still and wait for the kill. Its reminiscent of getting the mirror item in [i]TowerFall[/i]. Really makes you feel like a ninja.
+
+[b]Pros:[/b]
++Awesome use of the black and white camoflauge to make you feel like a boss with those stealth kills
++The whole level is on the screen at one time (like [i]TowerFall[/i] and unlike [i]Duck Game[/i]) - the moving camera in other games can bother some gamers with it constant zooming-in-and-out
+
+[b]Cons:[/b]
+-Content is slim; only a handful of levels (like 5 or 6), and two game modes (deathmatch and capture the flag)
+-Music and sound effects are nothing to write home about
+-Needs more weapons and consumables
+
+[b]Get it on sale, if you are into local play.[/b]",1455289711,1455289719,True,10,2,0.533356368541717529,0,True,False,False,False,,,
+21122374,"{'steamid': '76561198159144241', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 40, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1484494688}",schinese,挺无趣的，只能选几个人物，且除了外观之外，基本没有区别。看介绍感觉好像挺有意思的，但不得不说不如网页小游戏。,1455179835,1455179835,False,0,0,0.421657860279083252,0,True,False,False,False,,,
+21114475,"{'steamid': '76561198079532745', 'num_games_owned': 227, 'num_reviews': 35, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1455168680}",english,"Love the game. Really need to use the controller though, the keyboard controls aren't very well made.
+My only complaint is that it's 4 player LOCAL co-op. I only have 2 USB ports free for controllers. If they add online functionality then this would be much higher on my list.",1455145289,1455145289,True,1,0,0.47413790225982666,0,True,False,False,False,,,
+21098582,"{'steamid': '76561198148502900', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1512007209}",english,"The concept was a what initially got me into this game. Besides the fact that it was on the theme of the perpetual fight between light and dark, this game plays very well. The controls are intuitively designed both on the controller and the keyboard and honestly, while this game is mostly for local matches, I'm having a blast so far playing against AIs and trying out challenges.
+
+The game is already finished as it is but I could see more things being added, more warrior classes and maps, in addition to online multiplayer (which will be released in the summer of 2016).
+
+The map is seamlessly designed, with the maps being rendered in brushstrokes.
+
+It's on sale for $2. My advice is to try it out for yourself before a possible price increase when online multiplayer is introduced. 
+
+Just imagine the chaos and intensity between the most renowned forces (light and dark) in the battle for supremacy. This one takes a sharp contrast to other games in its side-scrolling multiplayer genre.",1455099666,1455099666,True,2,0,0,0,True,False,False,False,,,
+21073867,"{'steamid': '76561198280029073', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 376, 'playtime_last_two_weeks': 0, 'playtime_at_review': 376, 'last_played': 1455038071}",english,"I love Seven Samurai, Saumurai Jack, Ran, Zatoichi and Crouching Tiger, Hidden Dragon. For me games have rarely matched the fun and flow of the sword play and action on show in these films. So I was a bit sceptical when I first saw Black and White Bushido, but noticing the price drop I thought I'd have a go. And I'm glad I did, it's ridiculously good fun. The game play is simple but effective, versus is where it really comes alive and rumour has it multi-player is on the way. You'll experience no greater joy than hiding in the shadows or light before swiping your opponent down. A great game and a mega bargain.",1455018394,1455018394,True,7,0,0.537032127380371094,0,True,False,False,False,,,
+21072144,"{'steamid': '76561198026338871', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 63, 'last_played': 1538708706}",schinese,"黑白武士道，日本武士道风格格斗游戏。
+【画面】：水墨风格，简单线条勾勒,主要以黑白为主，黑白两色引起强烈的视觉反差
+
+【音乐】：东洋风格，倒是蛮切合游戏主题
+
+【人物角色】：拿锤子的男人，拿花伞的女人，武僧，幕府武士（我对日本文化不太了解只能直观描述）
+
+【玩法】：分两个队伍-黑与白，黑队的黑色人物可以隐藏在黑色场景中（仅限站着不动时），但这白色场景中特别明显；白队的反之。
+主要操作就是攻击和跳跃，攻击分为原地攻击和方向键+攻击，一般杀人都是方向键+攻击即冲刺斩。跳跃最多支持二段跳，一段跳跃后可接冲刺斩秀操作。再就是有一个道具键，可以使用捡到的道具（手里剑，铁蒺藜，烟雾弹）。还有一个可能用到的就是静步键，静步之后在相同颜色中行走不会被发现（跑不行），暗杀用（然而大部分时间都在冲刺斩，暗杀个毛）。
+冲刺斩对冲刺斩会把两个人都弹开，有一种武侠小说里高手对招的快感
+总之，有朋友一起玩的话还是挺推荐大家入，反正打折才7元。
+
+★☆另外，欢迎各位小伙伴做客STEAM独立游戏吧，独立游戏爱好者聚集地~ 
+（传送门请点 http://tieba.baidu.com/f?kw=steam独立游戏&fr=home&fp=0&ie=utf-8  官方群：246902752 ★☆",1455011666,1457266114,True,10,9,0.657911062240600586,0,True,False,False,False,,,
+21049365,"{'steamid': '76561198048143841', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 393, 'playtime_last_two_weeks': 0, 'playtime_at_review': 321, 'last_played': 1471191003}",english,"It's easy to pick up and for 1,99Euros a steal.
+
+The 'blend-in' mechanic is one of the big selling points, even if that means you lose track of your own character sometimes.
+
+For (up to 4 local players) multiplayer, there's ""Deathmatch"" and ""Capture The Flag"".
+
+Both gamemodes are available for singleplayer too, with up to three AI players.
+Here only ""Capture The Flag"" give some sort of challange if you got about 30mins playing experience.
+
+There is the singleplayer only mode ""Challange"", where you have to achieve random goals. If you die the game stops.
+Here lies the most challanging part for the singleplayer.
+
+Verdict: I wouldn't buy it for singleplayer only. This is a great four player local couch game (even 3 vs 1 is possible). If you have friends and four controllers buy it (especially if it's on sale).
+",1454930461,1454930461,True,2,0,0,0,False,False,False,False,,,
+21048941,"{'steamid': '76561198260820095', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1455019788}",english,"HACK, SLASH, IT'S ALL IN THE MIND!
+Nice little game...picked it up after playing with my mates for a billion hours in preparation for the upcoming online update.
+",1454928843,1454928843,True,1,1,0,0,True,False,False,False,,,
+21047584,"{'steamid': '76561198010457352', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 110, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1560057055}",english,"Absolutely love the aesthetic, and the gameplay is satisfying in all the right ways.  I can't wait for the online mp.",1454922863,1454922863,True,1,0,0,0,True,False,False,False,,,
+21043040,"{'steamid': '76561198060398142', 'num_games_owned': 245, 'num_reviews': 29, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1479931506}",english,Great party game. Cool feudal Japan theme and music.,1454901375,1454901375,True,0,0,0,0,True,False,False,False,,,
+21038135,"{'steamid': '76561198084834245', 'num_games_owned': 0, 'num_reviews': 40, 'playtime_forever': 116, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1692939903}",english,"10/10 reliving childhood Samurai Jack episode embodied in a game. 
+",1454882794,1454882794,True,1,2,0,0,True,False,False,False,,,
+21033625,"{'steamid': '76561198245516612', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 440, 'playtime_last_two_weeks': 0, 'playtime_at_review': 316, 'last_played': 1532557558}",english,This game is great!,1454872029,1454872029,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+21017480,"{'steamid': '76561198067199014', 'num_games_owned': 0, 'num_reviews': 49, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1454827193}",schinese,"场景很好,拼刀不错
+适合多人撕B...",1454827336,1454827336,True,3,1,0.535452306270599365,0,True,False,False,False,,,
+20989694,"{'steamid': '76561198035849045', 'num_games_owned': 4408, 'num_reviews': 130, 'playtime_forever': 112, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1620480401}",tchinese,"這是一個以搶旗為輔助的平台式對戰遊戲
+
+遊戲的地圖主要分成白跟黑的兩大陣營
+
+玩家在自己的陣營中，除非有甚麼動作
+
+否則幾乎與背景同化，察覺不到存在
+
+但是如果跑到對方的背景範圍中
+
+就非常容易被敵人發現
+
+玩家可以透過搶旗的方式
+
+來改變整張地圖中白底或黑底的範圍
+
+來讓敵人更容易被發現
+
+
+除了對戰模式之外，還有挑戰模式
+
+讓玩家磨練技術，挑戰高分
+
+不過也有一些缺點就是，與同化後，很容易找不到自己在哪邊
+
+另外就是地圖有點少，模式也只有兩個，沒有故事模式，對戰似乎也只有 Local 連線對戰
+
+是比較可惜的地方",1454746525,1454746525,True,3,0,0.49432799220085144,0,True,False,False,False,,,
+20986567,"{'steamid': '76561198047660976', 'num_games_owned': 0, 'num_reviews': 102, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1484895194}",russian,"Отличная игра. Какр аз то о чём я мечтал.
+На ютубе даже мультик такой видел. Где самурай одевается в белые одеяния,чтобы быть невидимым на Свету и они сражаются с Шиноби.",1454733487,1454733487,True,4,1,0.413307160139083862,1,True,False,False,False,,,
+20168818,"{'steamid': '76561198023231987', 'num_games_owned': 642, 'num_reviews': 109, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1592630505}",english,this game takes towerfall/samurai gunn and adds in an interesting stealth element,1451622137,1452054056,True,1,0,0,0,True,False,False,False,,,
+19872679,"{'steamid': '76561198000302352', 'num_games_owned': 823, 'num_reviews': 19, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1507485086}",english,"The best 2d arena fighting game no one is playing. Reminds of Nidhogg without stepping on its toes, as its fighting style is brutal, enjoyable and completely different. Feels like playing an episode of Samurai Jack. This game will give you tense battles, hard fought victories and cheap sneak kills. Initially simple with its surface black and white capturing mechanic, it actually hides interesting quirks and deep technical mechanics, such as jump cancelling, animation buffering, double jump timings, and action priorities. 
+
+Sorely needs online multiplayer to achieve its full potential, but from meeting the developers at EGX, know this is in their ambitions, even if perhaps its not in their immediate plans. Great game.",1450876798,1450876798,True,5,0,0.504079163074493408,0,True,False,False,False,,,
+19806460,"{'steamid': '76561198003020378', 'num_games_owned': 126, 'num_reviews': 5, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1449191596}",english,"This game is a bad console port. It had so much potential.
+Button configs are terrible and you are not able to change them at all.",1450628421,1450628421,False,7,3,0.35479697585105896,2,True,False,False,False,,,
+19383787,"{'steamid': '76561197993717768', 'num_games_owned': 776, 'num_reviews': 65, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 106, 'last_played': 1474582082}",english,"""Crouching Tiger, Hidden Bull Shit."" [i]- me after losing a cap to a hidden friend[/i]
+
+Think Samurai Gunn with a team-based light/shadow stealth element and capture the flag on top. Double jumping, wall jumping, aerial and rush attacks, slinking into the light or shadow, caltrops, shurikens, smoke bombs... tons of fun locally with four players (no online play)! The single-player challenge mode is great but the real meat is in multiplayer.",1448869893,1448870086,True,9,6,0.583585023880004883,0,True,False,False,False,,,
+18749411,"{'steamid': '76561198125490370', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1498418476}",english,Manage to win this game at comic con london which im so happy about the only things that could make this game better is some sort of online mode so you can go against friends that have the game and random people and if you can edit the controls (maybe you can and i havnt just figured it out) but other than that i really love the game.,1446154861,1446154861,True,2,0,0.523809552192687988,0,False,False,False,False,,,
+18712717,"{'steamid': '76561198046703249', 'num_games_owned': 173, 'num_reviews': 3, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1518981750}",english,"Love it.
+Singleplayer and LAN is very fun.
+Would be better if online mode exists.
+Played it at MCM.
+Nearly beat the ninjas.
+Got free posters for me and my gang.
+10 out of 10 ducks.
+
+",1445961310,1445961310,True,3,2,0.523809552192687988,0,True,False,False,False,,,
+18695728,"{'steamid': '76561198094567097', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1540322860}",english,"This game is just awesome. It's a simple concept with tricky twists and it's highly addictive. I had the honor of challenging the creators at MCM Comic Con for the chance to get this for free..... unfortunately I lost......... 6 times :( On the other hand I don't regret buying this game whatsoever and I highly recommend everyone else to do the same. 
+
+Now hurry up and make this game online so I can challenge you again Shadow Ninja! I want revenge!",1445870261,1445870261,True,1,0,0,0,True,False,False,False,,,
+18605321,"{'steamid': '76561197974266179', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 197, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1492707825}",english,"Absolutely brilliant game. 
+
+So much fun when played with others, especially if you're a fan of any 2D fighting franchises (Smash Bros. etc.). Really smooth gameply, great graphics and really simple (which really does make it appealing to all ages/gamers). CTF mode is just insanely fun.
+
+10/10 from me.",1445456497,1445456497,True,1,0,0,0,True,False,False,False,,,
+18603871,"{'steamid': '76561198093202121', 'num_games_owned': 213, 'num_reviews': 7, 'playtime_forever': 57, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1491403679}",spanish,"Black and White Bushido es un juego que merece ser jugado y que ofrece bastante horas de entretenimiento con una jugabilidad muy dinámica y adictiva inspirada en los clásicos combates de samuráis de las películas. El diseño del mapeado y de los efectos es precioso y la banda sonora es acorde con la acción jugable. Con todo, a la larga se vuelve repetitivo y poco rejugable si no cuentas con amigos cerca, ya que no cuenta con un modo multijugador online. Un juego muy recomendado para fans de los samuráis y del mundo nipón.
+
+Para ver un análisis completo y en profundidad pasaros por el análisis en MuchoGamer: http://muchogamer.com/black-and-white-bushido/analisis/",1445450868,1445450868,True,6,0,0.596690833568572998,0,False,False,False,False,,,
+18467038,"{'steamid': '76561198025075384', 'num_games_owned': 389, 'num_reviews': 2, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1444404638}",english,"Wowzer, this is awesome fun. Had a play with a mate and can't wait to get some more friends round at the weekend to have a blast. It's great fun highly reccomended.",1444812706,1444812706,True,3,1,0.489795893430709839,0,False,False,False,False,,,
+18439712,"{'steamid': '76561197971969068', 'num_games_owned': 988, 'num_reviews': 9, 'playtime_forever': 492, 'playtime_last_two_weeks': 0, 'playtime_at_review': 285, 'last_played': 1479521797}",english,"This game is really fun with 3 other mates and a lot of beer.
+If you've ever seen and loved Samurai Jack : Episode XL: Samurai versus Ninja, then you'll love this game.",1444638476,1444638603,True,159,13,0.843433797359466553,8,True,False,False,False,,,
+18392828,"{'steamid': '76561198025095833', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 129, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1679784378}",english,I really enjoyed this game when I played it at Legends of Gaming and it is one of the most innovative games I have played for a while. Surprisingly I don't normally like brawlers but playing this with my friends was loads of fun.,1444380083,1444380083,True,3,0,0.509803950786590576,0,True,False,False,False,,,
+18371023,"{'steamid': '76561198025049589', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1444148756}",english,"Black & White Bushido is a well made and fun multiplayer experience. You won’t be spending much time playing by yourself but the real fun is to be had with friends anyway. I would definitely recommend picking this up if you need something to break up the usual ‘Gang Beasts’ and ‘Nidhogg’ multiplayer parties. Who knows, it might become a regular for playing with your friends.
+
+You can read the full review here: http://www.twofarnorth.co.uk/blog/2015/10/5/review-black-and-white-bushido",1444235584,1444235584,True,2,1,0,0,False,False,False,False,,,
+18358623,"{'steamid': '76561197976287744', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1443802286}",english,"Love it! I had a few 2 vs 2 battles at EGX and have jumped in as soon as it was released to hone my skills. It's one of those games where you end up smack talking your friends all day about how you'll beat them at it that night. It's genuinely refreshing, unique and beautifully simple. Check out how the pace changes as each player starts to try to out ninja each other. At the moment, it's all about the sneak... 10/10",1444158503,1444158503,True,3,0,0.50134044885635376,0,True,False,False,False,,,
+18348352,"{'steamid': '76561198007239254', 'num_games_owned': 4907, 'num_reviews': 103, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1444076875}",english,"Black and White Bushido is a multiplayer arena fighting game that sees you fight in teams of black or white samurai in arenas where the background is either black or white. The general idea is when standing against your colour background you are invisible allowing for all sorts of sneaky stealth kills. Controlling your character feels fairly fluid and it won’t be long before you are bouncing around the level painting the fields red.
+
+There are 4 different characters to choose from although I must admit they did not feel radically different from each other when being played. Scattered throughout the arena is also a number of power-ups ranging from throwing stars to bombs. While these are fun to use they are generally a single use item and I felt more could have been done with them.
+The stealth mechanic works well especially with 4 players as it is impossible to keep track of where everyone is. The only real problem is that after dying and re-spawning it often took me a few moments to work out where the hell I was.
+
+The main part of the game is deathmatch split into either straight deathmatch or capture the flag game types. With only 5 arenas to choose from you do pretty quickly yearn for some more selection. Equally the challenge mode which is the games only real single player element outside deathmatch with bots feature you completing a bunch of single player objectives without dying such as kill 3 people from behind or kill 3 people using wall jumps. While a nice little distraction this equally ends up as nothing more than a side mode due to the one hit kill and inability to continue.
+
+I love the idea of the game and with 4 friends it’s an absolute blast. I first played the game at EGX2015 and came away thinking this was definitely a highlight of the day. But in reality without having 3 other people to play against it does not quite hold the same shine. So yes for an evening of multiplayer it’s great but it burns bright and fast and will grow old quickly.
+
+Hopefully some more maps and modes down the line can help spice it up.
+
+Please check out our video review below for gameplay footage.
+
+http://www.thegametutor.co.uk/videos/game-tutor-grades/151006_game-tutor-grades-black-white-bushido
+
+A review copy of the game was obtained from the developers free of charge. My thoughts and opinions are however totally my own.",1444091601,1444165047,True,26,2,0.705128908157348633,0,False,False,False,False,,,
+18346919,"{'steamid': '76561198121215018', 'num_games_owned': 72, 'num_reviews': 1, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1444320009}",english,I love the idea and concept of the game but does it only work with a controller cause i cant make it work with my keyboard please help me!!!!!,1444081599,1444081599,True,2,1,0.523809552192687988,0,True,False,False,False,,,
+18338542,"{'steamid': '76561198015569380', 'num_games_owned': 446, 'num_reviews': 1, 'playtime_forever': 2600, 'playtime_last_two_weeks': 0, 'playtime_at_review': 79, 'last_played': 1534937445}",english,"Me and my friends were looking for a new local multiplayer game so I downloaded Black and White Bushido, and this game has not dissapointed. It is fast paced, competitive and also has a very cool stealth element I'd highly recommend downloading it!",1444034846,1444034846,True,2,1,0.5,2,False,False,False,False,,,
+18335626,"{'steamid': '76561197987930658', 'num_games_owned': 3433, 'num_reviews': 85, 'playtime_forever': 34, 'playtime_last_two_weeks': 0, 'playtime_at_review': 34, 'last_played': 1443904171}",english,"Managed to get a chance to play this at EGX then further more for a first impressions. This title left a lasting impression on me at the event and still does. It is out standing! Really fast paced and kept on your toes but really stealthy too. You either fight for the darkness or light and you can then hide if you stand still in either or walk slowly dependant on your character. 
+
+There is a few different modes along with a challenge mode which is a blast to dive into. 
+
+If you fancy seeing the game in action and more discussed check here 
+https://www.youtube.com/watch?v=FOwj70aA70c",1444009675,1444009675,True,3,1,0.519685029983520508,0,False,False,False,False,,,
+18309071,"{'steamid': '76561198024478413', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1443808834}",english,Pretty simple but fun local multiplayer game. It's like Samurai Gunn with a lot more emphasis on stealth and lot less levels. More details: https://youtu.be/2yLz6UW8woA,1443885573,1443885573,True,18,3,0.567969858646392822,0,False,False,False,False,,,
+18304185,"{'steamid': '76561198166286008', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1476883687}",english,"Great game, played this game at EGX in Birmingham and it was the best Multiplayer Indie game there",1443864206,1443864206,True,25,4,0.559910595417022705,0,False,False,False,False,,,
+18298024,"{'steamid': '76561197999093470', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 757, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1494426047}",english,"Is it just me or is this like, Joystick only?
+Am I that dumb?",1443825689,1443825689,True,3,5,0.331210821866989136,1,True,False,False,False,,,
+18294395,"{'steamid': '76561198040610256', 'num_games_owned': 911, 'num_reviews': 44, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1527482442}",schinese,,1443808956,1443808956,True,1,1,0.420974880456924438,0,True,False,False,False,,,
+18294175,"{'steamid': '76561197967369063', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 130, 'playtime_last_two_weeks': 0, 'playtime_at_review': 130, 'last_played': 1455104210}",english,"Saw this at EGX so bought it. Good fun…the single player is simple but the multiplayer is where the real game is. Downside is no online multiplayer, but seen that they’re adding that now anyway.",1443808097,1455096760,True,60,188,0.501004338264465332,0,True,False,False,False,,,

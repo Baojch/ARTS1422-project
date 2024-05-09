@@ -1,0 +1,66 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+154309061,"{'steamid': '76561198071531076', 'num_games_owned': 0, 'num_reviews': 366, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1703436848}",english,"6/10 A puzzle where you use your double to press buttons.
+
+TLDR: A poor man's 3D puzzle where you use a double of yourself to press buttons and open doors. Somewhat like The Misadventures of P.B. Winterbottom, Re Pete, Project Temporality but with more arcade elements like platform jumping and even some simple fighting. It has fairy interesting levels and a nice story. But its lackluster looks, uncomfortable controls (that can't be remapped) and annoying dexterity challenges drag it down. 
+
+Good:
+- music is pretty good overall (exc boss fight level 1-10)
+- there is a pleasant story about the ""Marty"" robot which is narrated by an actor that I think I heard many times in other games. Since the narration doesn't need any clicking or reading, you just listen to it as you go
+- the dynamic shading under the bot is a nice touch when you pass between lights. The play of illuminated and darker areas in levels is interesting
+- puzzles are fairly varied and (where they aren't timing or dexterity-based) pretty fun to solve
+- dozens of levels
+
+So-so:
+- the 3D scenery looks pretty shabby overall though I'm not sure it could be done better by just 1 guy (the credits mention about a dozen people but it seems this was still mostly a 1-man project). Make sure to pick ""fantastic"" gfx setting in the standard Unity popup when you launch the game. Otherwise the shadows are all messed up and it really looks ugly. I can't even say why it's all shabby. The robot itself has a black contour around it. The floors and the crates have just normal textures. And particle effects like smoke are opaque primitively drawn pictures. Some platforms are just flat-color fills. It's a mish-mash of styles that looks almost like a prototype with stub art. The arrows on the floor are pure yellow with thick black contour and are also a mismatch with the floor tiles. There is a feeling overall that there was no proper artist on the team or simply a person with enough taste to keep track of how it all looks together. This actually demotivates to keep playing the game
+- the main robot lacks animations. It just hovers around like a UFO on an anti-grav engine, and you mostly just see this robot from the back. It lacks detail - so you don't really grow to like it despite the narrated story
+- 3D text hints in levels get all rotated when you keep the camera behind the robot (as I did). I guess the game assumes that you'd just move the robot with WASD and keep looking at it from the same angle? But then the robot just gets overlapped by the walls and other objects of the scene. I guess the game should have shown 2D ""speech bubbles"" facing the camera for tutorial tips
+- the backgrounds are somewhat unpleasant: too much color and stars, the purple one looks like spilled juice. It detracts from the level geometry
+- some collision glitches? (in level 2 neutral robots get stuck in walls)
+- camera seems to ignore level geometry. So, if you tend to keep it zoom out, it can get behind scene objects
+- starting from stage 5, puzzles use arcade elements like precise jumps and timing. This might have been okay in other games but here the controls are just too clunky to make this enjoyable. You essentially have to hold the middle mouse button all the time and watch your robot make small clumsy jumps, slide down from geometry and simultaneously get shot by cannons. It's just ridiculous
+- the second island (level 11-19) has a terrible color palette, with plain yellow fences and plain green grass
+- targeting of shots is imprecise and seems inconsistent. Maybe it should have just allowed selecting a target (like in MMO games), be it an enemy robot or a switch
+
+Bad:
+- can't remap keys. E.g. I have a mouse where the middle button doesn't work well. But here you have to hold the middle mouse button almost all the time to rotate the camera and the character. I had to find another mouse just for this game. I'd much more prefer controls like in World of Warcraft: hold right mouse button to rotate the camera and the character, hold left mouse button to rotate just the camera, and for the weapon shots use 1 and 2 keys on the keyboard while the position of the cursor would set the direction for them (or, as mentioned, just allow selection of objects as a shot target)
+- ugly UI design overall. Plain Arial font in some places, carelessly placed text and buttons. ""Well done"" screen is just terrible. The controls popup is too small and hideous. Popups are just plain purple/red and yellow with black contour and look like stubs. Speech bubbles use Arial font, and words in the upper left corner get outside the bubble's contour
+- sfx are pretty basic and don't fit the theme. E.g. when the robot jumps, there is a ""whoop"" sound you'd normally expect in a 1980s 2D arcade game, not in a modern 3D game with realistic textures
+
+Boss fight in level 1-10 is bugged? The 2 outer platforms stop moving after you hit the boss once, and it's impossible to get behind the boss with the inner 8 platforms.
+
+[table][tr][th][i]I'm a Steam curator, you can [url=https://store.steampowered.com/curator/43946907-Friendly-Nerd/]follow me[/url][/i][/th][/tr][/table]",1703437084,1703438917,True,0,0,0,0,True,False,False,True,,,
+36135254,"{'steamid': '76561198194518970', 'num_games_owned': 7176, 'num_reviews': 941, 'playtime_forever': 85, 'playtime_last_two_weeks': 0, 'playtime_at_review': 57, 'last_played': 1509707026}",spanish,"Gran plataforma! es un juego maravilloso, en el que estaras mas de 6h para pasartelo, se complica con el tiempo es evidente, usaras la mecanica del tiempo para adelantarlo o retroceder, que te ayudaran a desblokear ciertos obtaculos, una gran idea que me ha maravillado :D",1509353659,1509353659,True,2,0,0.408774763345718384,0,False,False,False,False,,,
+35835622,"{'steamid': '76561198209676208', 'num_games_owned': 1394, 'num_reviews': 170, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1519363638}",japanese,"[b]■俺評価(10段階)[/b]
+総合評価 ・・・・・・・3 ☆☆☆ まあまあ
+このゲームは買い？ ・・安ければ
+サンドボックス化 ・・・〇
+
+[b]■英語が判らない・英語だと辛い前提の評価[/b]
+日本語化・・未対応だが、日本語化不要でも遊べる。
+UI・・・・・未対応だが、直感で操作できる。
+字幕・・・・無し
+
+[b]■操作感・グラフィックス[/b]
+キーボード＋マウス ・〇
+ゲームパッド ・・・・〇
+グラフィックス ・・・PS2チックな見下ろし3D画
+
+[b]■不具合(気が付いた事)[/b]
+・メインメニューでゲームパッドを使用して、
+メニュー選択すると高速で項目移動する。w
+チョンっと押すだけで、すんごいスクロールする。w
+
+[b]■ゲーム評価[/b]
+サードパーソンの進路確保系パズル。
+キャラ自体の回転や移動はできるが、視点は
+変えられないのかな？
+
+色々なギミックのある地面をゴールに向かって
+進む。パズル要素とアクション要素を混ぜた
+コースをずんずん進む。
+ゲームパッドの方が良いかも。
+中々たのしい。",1508403470,1549516437,True,0,0,0.472440958023071289,0,False,False,False,False,,,
+35514101,"{'steamid': '76561198331907211', 'num_games_owned': 291, 'num_reviews': 41, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 160, 'last_played': 1507126376}",english,Fun little puzzle/platformer that is actually quite challenging once you advance past the first area. Plenty of variations to the puzzles and a multitude of options to complete each level the way you see fit! Keep trying and good luck,1507281860,1507281860,True,3,0,0.505205452442169189,0,False,False,False,False,,,
+35271291,"{'steamid': '76561198011197847', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 432, 'playtime_last_two_weeks': 0, 'playtime_at_review': 432, 'last_played': 1506629031}",english,"been watching my friend make this game over the last 3 years and I can say it is a good game.  great for speed runners, and puzzel junkies",1506629785,1506629785,True,3,0,0.434463024139404297,0,False,True,False,False,,,
+35251073,"{'steamid': '76561198024601251', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 542, 'playtime_last_two_weeks': 0, 'playtime_at_review': 537, 'last_played': 1506898627}",english,"It's rare to find an indie puzzle-platformer that is this well fleshed-out. There are a ton of levels, multiple game mechanics are introduced and then developed through puzzles, there are even boss fights! A lot of bang-for-your-buck. Plus, the character Marty is pretty adorable. :) I LOVE it!",1506554534,1506554534,True,3,0,0.482266396284103394,0,False,False,False,False,,,
+35250874,"{'steamid': '76561198132772684', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 380, 'playtime_last_two_weeks': 0, 'playtime_at_review': 172, 'last_played': 1506550863}",english,"There is a solid puzzler here, it uses time travel in a really cool way and the puzzles in later levels can get really tricky. I also noticed some puzzles had multiple solutions so the game allows for a bit of creativity. Art could be better, but one guy made the whole game. Difficulty doesn’t really ramp up till about the 2nd world. I would have liked to see it ramp up sooner. I also noticed the game has a fair number of exploits in it, where you can skip puzzles with some “creative” platforming. At first I thought I had broken the game, but then I got an achievement. So I guess the developer hid the platforming exploits on purpose. So that’s pretty cool. Basically if you like puzzles, I would recommend, if you don’t like puzzles, I wouldn’t.",1506553304,1506553304,True,5,0,0.56623995304107666,0,False,True,False,False,,,

@@ -1,0 +1,302 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+162059845,"{'steamid': '76561198041318077', 'num_games_owned': 1054, 'num_reviews': 60, 'playtime_forever': 56, 'playtime_last_two_weeks': 56, 'playtime_at_review': 56, 'last_played': 1712089188}",english,"An absolute relic in every sense of the word. Comes from that time in point-and-click adventures where the puzzles were overly specific and almost required walkthroughs to properly finish. Should be viewed as almost a museum piece though of what games used to be. There some historical merit in it, but it's fun-factor has long since wore out its welcome",1712089777,1712089777,False,0,0,0,0,True,False,False,True,,,
+161046864,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11207, 'playtime_forever': 102, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1710999136}",english,"The Uninvited: MacVenture Series is an ancient game from 1988.  It's a whopping 36 years old at the time of this review.  The game lacks support for any modern gaming display resolutions (or widescreen monitors), hasn't been modernised or updated to run smoothly on modern gaming PCs.  Despite this lack of modernisation, it carries a pretty high price tag for such an ancient game.  This seems to have been put on Steam as a nostalgia gouge, or just a cash grab to try profit from abandonware.
+
+It's a sequel to ""Déjà Vu: MacVenture Series"" and suffers from all the same defects, lack of modernisation and so on.  Once more, gameplay is a matter of Zork style text adventuring, ""enhanced"" by the Apple Macintosh OS's ability to display multiple windows on the same desktop (wow, such technology, it really is the 1980's).  It was never a great game even for the Apple Mac, which never had great games anyway. 
+
+This is the third of these nostalgia gouges I've had the misfortune to try playing today and I can confirm without any doubt that it really is just too old to be enjoyable.
+
+On the upside, the game does feature customisable controls and resolution, so at least some of the basic, minimum requirements have been met.  Unfortunately there's a number of other technical defects and shortcomings which contribute to the game being difficult to recommend to gamers.
+
+While there are options to change the resolution for the game, all this does is scale up the simplistic 2D art assets used to make the game, which makes little or no difference to the graphics quality.  Without any other substantial graphics tweaks, it's not possible for gamers to improve the lacklustre 2D visuals.
+
+The game interface is mostly just text boxes/dialogs and features mostly static, barely animated 2D images, the kind of thing you expect to see in browser/HTML games from the 1990s.  While that might be fine for the 1990s, gaming has evolved a lot since then, the ATI Rage became mainstream in 1996... it's 2024, and that kind of thing just won't fly anymore, it's just not visually up to scratch.
+
+The implementation here is of such poor quality, the developer couldn't work out how to make the game display in fullscreen, it only runs in a window.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+The game never really caught on with the millions of gamers on Steam, with a very low peak player count close to launch, and then just a handful of players launching this game every couple of days.  This is undoubtedly caused by factors such as those raised in this review.  It's always helpful with buying decisions to consider how popular and successful the product is, and unfortunately while this did accumulate a few participation trophy reviews, overall, people just aren't using it.
+
+So, should you buy this game?
+
+The Uninvited: MacVenture Series is relatively expensive for an abandonware nostalgia gouge, at $3 USD, and it's not worth it.  The game is just too old, hasn't been modernised.  And as the old saying goes, you can't go home again.  This is also competing with over 11,000 free games available on Steam, many of them far better than this paid product.
+",1710999477,1710999477,False,3,1,0.397290050983428955,0,False,False,False,True,,,
+148986841,"{'steamid': '76561198126306382', 'num_games_owned': 0, 'num_reviews': 138, 'playtime_forever': 75, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1698424434}",english,This is crazy good. I used to play it on the Amiga but never finished it. I am surprised it still feels so good to play. What an awesome ageless game. Looks great on the STEAMDECK as well!,1698422342,1698424229,True,2,0,0.536784708499908447,0,True,False,False,True,,,
+145432032,"{'steamid': '76561198026138660', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 180, 'playtime_last_two_weeks': 0, 'playtime_at_review': 180, 'last_played': 1693555505}",english,"Got me in the Halloween mood early.
+It's short and it has a timer (which I hate in games like this) but it is super fun, it has great sound, and the graphics are pretty.
+The puzzles are fun too. I recommend if you like adventure games.",1693555564,1693555564,True,1,0,0.514285683631896973,0,True,False,False,True,,,
+145325684,"{'steamid': '76561198025211884', 'num_games_owned': 268, 'num_reviews': 26, 'playtime_forever': 328, 'playtime_last_two_weeks': 0, 'playtime_at_review': 328, 'last_played': 1693407659}",english,"I've tried picking the game up a couple times, and while it has lots of retro charm, scares, and some compelling starting puzzles, it was the puzzles getting overly-specific with their solutions that ruined it for me. There are several points when using the walkthrough where I realized I would have never come to the solution on my own. That's when I put the game down.",1693407912,1693407912,False,1,0,0.519230782985687256,0,True,False,False,True,,,
+144876718,"{'steamid': '76561198164151349', 'num_games_owned': 2681, 'num_reviews': 229, 'playtime_forever': 480, 'playtime_last_two_weeks': 0, 'playtime_at_review': 480, 'last_played': 1692817451}",english,"[h1]Interesting experience, but you will need a walkthrough[/h1]
+
+Old-school adventure gamers will like the style and feel of this game, which has colour pixel graphics and barebones sound effects, as well as plenty of easter eggs to discover. But many of the puzzles are not set up very well, and you'll most likely need to refer to a guide on how to solve them. This is coming from someone who's solved many an adventure game (including the original Monkey Island) without hints. Some puzzles just leave you frustrated with how asinine they are (e.g. you have to [i]open[/i] a bottle in order to effectively use it on something), while others simply don't make sense (e.g. ferocious, hungry-looking dogs not wanting meat but instead [spoiler]being afraid of lightning[/spoiler]?!) On top of all this, the game has a time limit, seriously limiting exploration. You can also die numerous times, simply because you do not have a particular inventory item on you when faced with a puzzle. As for the story, well, we do get bits 'n' pieces here 'n' there of what happened in the mansion you're trapped in, but it still doesn't explain a whole load of stuff that you actually encounter. 
+
+[b]Long story short:[/b] The game punishes you in ways you shouldn't be, and wastes a lot of time via multiple permadeaths and/or having to redo things simply because you didn't have the right items at the right time.
+
+If you'd still like to experience this game, I'd suggest watching a playthrough instead.",1692819167,1692819167,False,8,0,0.592923998832702637,0,False,False,False,True,,,
+144056030,"{'steamid': '76561198143028693', 'num_games_owned': 338, 'num_reviews': 27, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1691898995}",english,"Incorrectly marked as being incompatible with modern mac os,  tested and working on m1 macbook air.",1691899040,1691899040,True,0,0,0,0,True,False,False,True,,,
+142586353,"{'steamid': '76561199106075527', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 296, 'playtime_last_two_weeks': 0, 'playtime_at_review': 296, 'last_played': 1690024413}",japanese,"大まかな攻略はFC版悪魔の招待状と同じですが、手順が異なる箇所があります。また行動次第で詰みになることがある等、原作と移植版の相違点を比較しながら楽しむことが出来ました。全編英語なので、内容をちゃんと把握したい方は、辞書や翻訳ツールを駆使してください。以下良かった点と悪かった点を挙げていきます。
+良かった点
+・アイテムの取捨はマウスドラッグでどこでも出来る
+・移動、行動はマウス操作ですべて行えるので、FC版よりもテンポよく攻略が出来る
+悪かった点
+・ランダムで発生する落雷や遠吠えの演出が行動扱いとなり、怪物に襲われて強制ゲームオーバーになる
+・マッチの本数が有限で、且つマウス操作のため着火に手間取りやすい
+・着火したマッチはすぐに消えてしまう上に、マッチ箱自体を燃やしてしまうことがあり、その場合詰みになる",1690035917,1690035917,True,0,0,0,0,True,False,False,True,,,
+135706591,"{'steamid': '76561198066541492', 'num_games_owned': 2252, 'num_reviews': 271, 'playtime_forever': 117, 'playtime_last_two_weeks': 0, 'playtime_at_review': 117, 'last_played': 1547266075}",english,"Much like Shadowgate, I think The Uninvited is still worth trying out if you’re interested in seeing old adventure game roots. I think Shadowgate is slightly better and more interesting, though. This one also shows its age and it’s certainly not going to be something that everyone will enjoy.",1680129616,1680129616,True,4,0,0.574065685272216797,0,False,False,False,True,,,
+125660343,"{'steamid': '76561198995387103', 'num_games_owned': 6510, 'num_reviews': 3379, 'playtime_forever': 614, 'playtime_last_two_weeks': 0, 'playtime_at_review': 40, 'last_played': 1671338304}",schinese,"鼓励性好评。希望老游戏多上pc，比如fc, sfc, md, gba, ps, ss等主机上的老游戏。202210本平台充值折扣，支付宝红包（？），humble，杉果（？），fanatical，本平台，本平台掉卡零钱，淘宝，它处自定义包入的本体4元。目前就这，看以后追评。",1668734117,1668734117,True,0,0,0,0,False,False,False,True,,,
+123906814,"{'steamid': '76561198094432643', 'num_games_owned': 0, 'num_reviews': 135, 'playtime_forever': 148, 'playtime_last_two_weeks': 0, 'playtime_at_review': 148, 'last_played': 1665898679}",english,"Well... UNLIKE the other MacVenture games on Steam, this one is playable! At least, I was able to follow a walkthrough and finish the game this time! *cough*Shadowgate*cough*",1665898820,1665898820,True,0,0,0,0,False,False,False,True,,,
+117842885,"{'steamid': '76561199093357799', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 160, 'last_played': 1609737170}",english,"Uninvited is the second game in ICOM’s MacVenture series, and is a substantial improvement over the first, inasmuch as this installment has considerably more rooms to explore, objects to utilize, and enemies to ward off. 
+
+
+POSITIVES 
+
+While the unusual and ahead-of-its-time user interface of the MacVenture games remains unchanged through all four games in the series, each game (that isn’t a sequel) adopts a different setting. In this case, Uninvited adopts a classic horror setting, complete with a haunted mansion, a skeleton key, various monsters, and even some spell casting. 
+
+Unlike its predecessor, Uninvited requires considerably less (gun) violence to solve problems. Instead of shooting everything in sight, enemies are dealt with using specialized inventory items that can be found hidden in various hard-to-find or hard-to-open locations. There’s even a fair amount of treasures that are left behind by enemies, similar to D&D-style RPG games (even though this isn’t that type of game). 
+
+
+NEGATIVES 
+
+With this game, I feel as though the game designers leaned a little too heavily on an otherwise questionably-efficient method of navigation to the point where the limited realism created by the area pictures is further devalued. 
+
+One of the more unusual interface components in the MacVenture game series is an exits diagram that depicts all of the potentially-available area exits as clickable boxes. In the previous game (Déjà Vu), this feature was an interesting and useful substitute for clicking on the exit objects in the main viewing window; however, in this game, use of the exits diagram becomes a necessity because half or more of the available exits aren’t even shown in the (too-small) viewing window because there’s no way to rotate the viewing perspective by turning. 
+
+As a comparison, imagine you were playing a Myst-style CD-ROM game from the 1990s but you could NEVER turn to face the direction you needed to go. If that were to happen, you’d be left with an unsettling feeling that would cause you to distrust the images you see because they don’t provide you with all of the information you need to navigate. That’s how I felt about this game, simply because I was spending less time looking at the scenery and more time staring at the exits diagram. 
+
+
+RECOMMENDATIONS 
+
+Despite that criticism, I enjoyed exploring the Uninvited gameworld more than the Déjà Vu gameworld. Although it can be hard to figure out which objects will ward off a particular enemy (without a walkthrough), once you know what the objects are and where to get them, playing through this game is virtually risk-free. Well, except for the lighting storms in the IIgs version. If you’re playing the IIgs version, I highly recommend you always save the game before going outside. Unexpectedly dying is always a shocking experience, especially when its a shocking experience.",1656485361,1656485361,True,0,0,0,0,True,False,False,False,,,
+113762178,"{'steamid': '76561198042206753', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1047, 'playtime_last_two_weeks': 0, 'playtime_at_review': 893, 'last_played': 1674255553}",english,Loved this game for years.  Fun and allows you to empty your mind and simply play!!,1649803232,1649803232,True,0,0,0,0,True,False,False,False,,,
+105406273,"{'steamid': '76561198001782631', 'num_games_owned': 0, 'num_reviews': 354, 'playtime_forever': 241, 'playtime_last_two_weeks': 0, 'playtime_at_review': 241, 'last_played': 1428707616}",english,One of the better old-timey horror point & click titles out there. Highly recommended.,1638882442,1638882442,True,2,0,0.541984736919403076,0,True,False,False,False,,,
+98586349,"{'steamid': '76561198302388941', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1640898880}",english,Great game can’t go wrong for a couple of quid 👌,1630449806,1630449806,True,0,0,0,0,True,False,False,False,,,
+95321605,"{'steamid': '76561198003349747', 'num_games_owned': 2317, 'num_reviews': 13, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1558550574}",english,have you people ever played the game uninvited? it teaches you that you should kill uninvited guests and also teaches you a little latin. but it also teaches you you should never kill a friend.,1625742821,1625742821,True,0,0,0,0,True,False,False,False,,,
+91603883,"{'steamid': '76561198860051654', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 124, 'last_played': 1603390722}",english,"I was unfortunately just not impressed by the game or with the game play. Shadowgate and Deja Vu are fantastic games; great content, challenging but not frustratingly so.  I just did not enjoy playing this game. The point and click interface is the only common element compared to the other MacVenture games. The potential for this to be a good game is there, hopefully the company decides to take a hard look at it and see how they can learn from it.",1620415617,1620415617,False,0,1,0,0,True,False,False,False,,,
+87883979,"{'steamid': '76561198271154647', 'num_games_owned': 1380, 'num_reviews': 271, 'playtime_forever': 252, 'playtime_last_two_weeks': 0, 'playtime_at_review': 252, 'last_played': 1614939693}",schinese,下载，挂卡，删除，经典老游戏了···,1614939954,1614939954,True,0,0,0,0,False,False,False,False,,,
+81872651,"{'steamid': '76561198024340430', 'num_games_owned': 2082, 'num_reviews': 7498, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1555818468}",english,"LOOK UP THE DANGER THEME FOR THE NES PORT OF THIS GAME CAW CAW
+
+NOW IMAGINE YOU'RE A BABY CROW PLAYING THIS GAME, AND THE FIRST SCREEN YOU PLAY IS BEING TRAPPED IN A CAR BEING BURNED TO DEATH CAW CAW 
+
+THANK YOU UNINVITED CAW CAW",1607486250,1607486250,True,0,3,0,0,True,False,False,False,,,
+81116384,"{'steamid': '76561198095136228', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 442, 'playtime_last_two_weeks': 0, 'playtime_at_review': 298, 'last_played': 1695778790}",english,This is a blast from the past for me.,1606680084,1606680084,True,0,0,0,0,True,False,False,False,,,
+68549867,"{'steamid': '76561198046909876', 'num_games_owned': 648, 'num_reviews': 176, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 77, 'last_played': 1588532174}",english,"The Uninvited is an old point and click adventure game. It's a ""you wander into a creepy mansion"" story done really well. The game is challenging and is time based (# of moves). Save and save often - in multiple save slots, and be careful that you don't get sidetracked looking at the million items around you that have nothing to do with the actual solution, or you'll block yourself out of any possible win.
+
+I was disappointed to find out that this wasn't similar to the NES version of the game, which was very controller-friendly and had music, but rather the original computer version (the ""MacVenture"" in the title should have clued me in). The NES version did a better job of managing the inventory (plus being controller friendly). Opening drawers and items in this version feels unwieldy sometimes.  
+
+The short of it is, that I would recommend this to people who like challenging point & click games, but I hope that one day they'll convert the controller friendly NES version to be playable on the computer.",1588593206,1588593206,True,0,0,0,0,True,False,False,False,,,
+67647391,"{'steamid': '76561198058201857', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 113, 'playtime_last_two_weeks': 0, 'playtime_at_review': 113, 'last_played': 1587325358}",swedish,"I played this game as a kid and had fond memories of creepy atmosphere and lots of details to look at. But i had forgotten the totally unnecessary and stupid time limit, illogical puzzles and clunky design. This definitely belongs in the past!
+
+I will just take my childhood memories and move on now :)",1587328368,1587328368,False,0,0,0,0,True,False,False,False,,,
+66137629,"{'steamid': '76561198027367698', 'num_games_owned': 357, 'num_reviews': 319, 'playtime_forever': 126, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1704157658}",english,love this game,1585543248,1585543248,True,0,0,0.456014364957809448,0,True,False,False,False,,,
+65593268,"{'steamid': '76561198095293908', 'num_games_owned': 0, 'num_reviews': 360, 'playtime_forever': 109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 109, 'last_played': 1584925083}",english,I was actually underwhelmed by this game. I had heard a lot of great things about it and thought that despite it's age it would still hold up. It didn't really. I felt bored and not a bit of atmospheric horror got to me. It did't help that many of the puzzles are rather hard to wrap your head around. Some make sense after but most of the time I felt lost and unsure of how to proceed. I really wanted to like this game (I've liked other MacVenture games) but it was just not for me. If you have nostalgia for the original or NES version of the game then I think you'll enjoy yourself. I just didn't have that and felt nothing to enjoy. The art was good though.,1584925336,1584925336,False,4,0,0.53746265172958374,0,True,False,False,False,,,
+62509055,"{'steamid': '76561198049701098', 'num_games_owned': 3699, 'num_reviews': 832, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1580108093}",english,"If you were alive and well in the 1980's, and you owned an Apple IIGS or Macintosh computer, chances are you remember the MacVenture games. They were a series of excruciatingly punishing point and click titles released throughout the mid-to-late 80's, with The Uninvited being the second in the line-up; coming out originally in 1986 for Mac, and 1988 for the IIGS, the two versions included in this Steam release. Ports for the Amiga, Atari ST, MS-DOS, Famicom, NES, and Windows 3.x were all completed between 1986 and 1993 as well. Needless to say, this was a game that got around.
+
+In a time before elaborate cutscenes and thrilling plotlines, the MacVenture series relied on reading like an old, yellowed book. You know, the kind that has been sitting in an attic for a while, and therefore each turn of a page fills your nostrils with a very familiar musty smell. The text is intricate, and it serves as a compelling reminder and sustainable source that atmosphere can sometimes come purely from exceptional, immersive writing. The story itself is very basic, you play as an unnamed adventurer who is travelling with their brother. You see an object in the road, swerve to avoid it, and end up in a wreck. When you wake, your brother is nowhere to be found, but you spot an old Victorian mansion in the distance; he must be there, and thus you set out on your adventure.
+
+The real challenge to this game is its hidden, unforgiving time limit that will brutally beat you down no matter how many save files you decide to make. This concealed mechanic only ticks down when you perform actions; whether that be using an item, opening a door, looking at objects, travelling to a different screen, or speaking. Every single action has the consequence of eating up precious time, and once all of the time has been used then the mansion possesses you and it's game over. New for its time and still cruel some 34 years later, the time limit mechanic forces the game into the corner of trial-and-error exploration, and may even reduce some people to pulling out old fashioned pen and paper to map their right and wrong interaction routes. The puzzles are easy enough to solve, as all of their solutions are found plainly somewhere in the game, but actually finding and using them before time depletes completely is the biggest obstacle, as there are so many elements that can be interacted with.
+
+Despite its punishing nature, aged gameplay, cheesy sound effects, and lack of an actual soundtrack, The Uninvited manages to still hold up over three decades later. The atmosphere is truly compelling, propelled by Choose Your Own Adventure style graphics, and poetic storytelling; surprisingly, the black and white Macintosh version is actually offers more ambience than its color counterpart, so it's nice that it was included in this re-release. Although it doesn't look like much by today's standards, the game was actually praised for its innovative mouse-based gameplay, complex puzzles, and user-friendly interface back upon initial release. Of course, all of that, with exception of the puzzles, is now inordinately dated and those who were born closer to the turn of the century will probably not find much novelty in going back and attempting to solve the mystery of the mansion. In essence, that's really what these re-releases are at this point; a novelty, whether it be for nostalgia, or for the sake of saying that you played it.
+
+[h1]Rating: [b]4.0/5.0[/b] - Excellent, highly worth playing.[/h1]
+The Horror Network [url=http://store.steampowered.com/curator/28221963/]Curator[/url] | [url=http://steamcommunity.com/groups/thehorrornetwork]Group[/url] Click for Gore",1580127299,1580127299,True,9,0,0.638994753360748291,0,True,False,False,False,,,
+61106845,"{'steamid': '76561197975717134', 'num_games_owned': 0, 'num_reviews': 146, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1577931333}",english,"It was probably good back in the day, but didn't age well. Feels more like designers having fun with the player, rather than players having fun with the game. Lots of arbitrary trial and error, little you can learn to outsmart the game beyond remembering what each screen/action does across retries. Not my idea of a good game by today's standards.",1577931750,1577931750,False,6,1,0.567406058311462402,0,True,False,False,False,,,
+59240961,"{'steamid': '76561197968027035', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 711, 'playtime_last_two_weeks': 0, 'playtime_at_review': 711, 'last_played': 1575487641}",english,"At the time of the ATARI ST and AMIGA home computers this was really good spooky release
+Still fun today i suggest the Windows 3.1 version for enhanced better graphics",1575493229,1575493229,True,0,0,0,0,True,False,False,False,,,
+56594258,"{'steamid': '76561198909624209', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 1066, 'playtime_last_two_weeks': 0, 'playtime_at_review': 442, 'last_played': 1711131667}",english,it is a good game,1572998437,1572998437,True,0,0,0.437862396240234375,0,True,False,False,False,,,
+51435699,"{'steamid': '76561198278382853', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 206, 'playtime_last_two_weeks': 0, 'playtime_at_review': 206, 'last_played': 1467176296}",english,"Do you like classic games that are brutally hard by today's standards? Are you a masochist who enjoys dying over the slightest mistakes you make? Are you sick of games today holding your hand and telling you exactly what to do?
+
+Then look no further! Unless you have a walkthrough or you've played The Uninvited before, you're going to die. A lot. But that's a good thing, it builds character. Each time you try it again though, you'll progress a little bit more, find another item, and die again, until you eventually beat it. And beating a classic game like this where you have to figure things out for yourself (unless you're a cheater, you know who you are) feels so satisfying. 10/10 would recommend the nightmare fuel you'll see",1561435916,1561435916,True,2,0,0.54356849193572998,0,True,False,False,False,,,
+44356701,"{'steamid': '76561198305223081', 'num_games_owned': 252, 'num_reviews': 138, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1519779772}",english,"highly detailed art style for it's time. A Dinosaur with interesting ideas marred by 80's era over-reliance on moon-logic.
+
+Still an interesting spot on the evolutionary timeline of horror games.",1535141211,1535141211,True,1,0,0.511111080646514893,0,True,False,False,False,,,
+44060923,"{'steamid': '76561198181788249', 'num_games_owned': 175, 'num_reviews': 9, 'playtime_forever': 294, 'playtime_last_two_weeks': 0, 'playtime_at_review': 294, 'last_played': 1533968055}",schinese,这游戏是古董级别的，玩着头疼。,1533968360,1533968360,True,0,1,0,0,False,False,False,False,,,
+43045512,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 165, 'playtime_last_two_weeks': 0, 'playtime_at_review': 165, 'last_played': 1529906303}",english,"Tags: Adventure - WC - Walk Clicker
+Additional Tags: Delete Local Content & Remove from Library
+
+TLDR: Dialog window gets cropped. UI is dated and relies on an old OS to give engine to adventure. Try Kingsway instead for same idea in an RPG format.
+
+Walk clickers are arguably the more primitive version of doing adventure games compared to classic point and click. Even walking simulators have the potential to be more fluid with their freeform environment navigation.
+
+The stiff scripting required for progression, along with the insta-death pitfalls peppered all over hurt the experience.
+
+The writing looked decent and the presentation was good for the time period.
+
+The game has no audio either which further lowers the entertainment value.
+
+This is utlimately a notalgia piece, or a museum exhibit of gaming era that has gone by. I prefer to archive the Macventure titles in my hidden library to give better visibility to more entertaining and better executed modern adventure games. The idea to open a browser window to see items when you for example open a container is a nice idea but better executed in kingsway.
+
+https://store.steampowered.com/app/588950/Kingsway/",1529953913,1529956840,False,0,0,0,0,True,False,False,False,,,
+41858381,"{'steamid': '76561198031992806', 'num_games_owned': 0, 'num_reviews': 43, 'playtime_forever': 321, 'playtime_last_two_weeks': 0, 'playtime_at_review': 161, 'last_played': 1595718874}",english,I spent over 5 hours in this game and I still don't know how to open the car door,1525488014,1595718921,True,1,3,0.515151500701904297,0,True,False,False,False,,,
+39903797,"{'steamid': '76561198088663829', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 102, 'last_played': 1517990363}",english,"Good classic game. I could not beat this game when I was younger since I had no idea what to do, but now I finally did. On to DeJa Vu next. [spoiler]The maze part was pretty annoying, especially with the dogs chasing you.[/spoiler]",1517990932,1517990932,True,0,0,0,0,True,False,False,False,,,
+39069353,"{'steamid': '76561198141499729', 'num_games_owned': 1519, 'num_reviews': 328, 'playtime_forever': 137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 137, 'last_played': 1515116523}",english,Weird little mac classic.,1515116682,1515116682,True,1,0,0.449171155691146851,0,True,False,False,False,,,
+38151626,"{'steamid': '76561198062837507', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 172, 'playtime_last_two_weeks': 0, 'playtime_at_review': 172, 'last_played': 1503606611}",english,"The world needs more games like this nowadays.  True, graphics-intensive games are capable of telling some wonderful stories, but many games seem to fall victim to all flash and no substance because they can.  I play games for stories.  If I just want to stare at pretty pictures, well, that's why we have art museums.  The writing in this game is wonderful, eloquent and darkly witty.  There are so many amusing ways to die that I'm sure I missed some.  You'll be playing through this one a few times to successfully unravel it; there's a good amount of ground to cover and many things require trial & error to figure out . . .  not to mention the game's got a bit of an invisible timer running down in the background.  I almost saw this as a detriment because I feel the need to click on absolutely everything, but if you Game Over it's not too difficult to get back to where you left off.  Considering how much time I spend using an emulator to play 30-year-old games like Radical Castle and Scarab of Ra, I was very happy to see a game like Uninvited on Steam.  Definitely worth it for the price.",1512735258,1512735460,True,0,0,0,0,True,False,False,False,,,
+35835428,"{'steamid': '76561198081847407', 'num_games_owned': 3853, 'num_reviews': 64, 'playtime_forever': 263, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1507939870}",english,"Not too bad. I don't play many of these games and it may be pretty hard without a guide (which I TOTALLY didn't use at all..) but it's still a good game and if you're a fan of this genre, I'd recommend checking it out!
+
+VOD: https://www.twitch.tv/videos/182004998",1508402521,1508402982,True,2,0,0.547325074672698975,0,False,False,False,False,,,
+34789338,"{'steamid': '76561198294695208', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 31, 'last_played': 1541072785}",english,Fucking love this ghame. Its my favorite of all time.,1504766728,1504766728,True,2,1,0.447605907917022705,0,True,False,False,False,,,
+34431829,"{'steamid': '76561198014439859', 'num_games_owned': 465, 'num_reviews': 233, 'playtime_forever': 396, 'playtime_last_two_weeks': 0, 'playtime_at_review': 396, 'last_played': 1503471619}",russian,"Прошёл обе версии. Для Mac и Apple IIGS. Чёрно-белую и цветную. Игра понравилась больше чем Deja Vu: A Nightmare comes true, потому что она horror adventure. Сыграть стоит.",1503472151,1503472151,True,2,0,0.545454561710357666,0,True,False,False,False,,,
+34006422,"{'steamid': '76561198393266748', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 2604, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2533, 'last_played': 1501944848}",english,"While it may not be so scary to me, (Besides the Scarlett O'Hara Skeleton look-alike, which somehow managed to scare the piss out of me a little bit),  I think it has something for everyone to enjoy, wether it would be challenging puzzles, the intriguing, complex lore, or just the overall emersive, spooky environment. This game is a very nice find. I just wish they would remake it, or perhaps come up with a sequel!",1501813799,1501813799,True,0,0,0,0,True,False,False,False,,,
+32471891,"{'steamid': '76561198048974498', 'num_games_owned': 2973, 'num_reviews': 812, 'playtime_forever': 149, 'playtime_last_two_weeks': 0, 'playtime_at_review': 149, 'last_played': 1467918194}",english,"The first thing this acknowledged ""classic"" 80s adventure game offered me was a choice between two versions: a black-and-white Mac version, and a simply-coloured Apple IIgs version. Not wanting to be a philistine, I thought I should play the ""older""-looking of the two; and besides, if I ever replayed the game, I'd ""upgrade"" to the colour version then. So the Mac version it was.
+
+   Er...until I realised that blowing the Mac version up to full-screen didn't quite format correctly, cutting off some of the letters at the end of each line. Now, I'm sure there was probably some easy fix for this, but being a lazy, technologically-impaired kinda doofus, I just opted to immediately try the Apple version. Bingo! Looks good. Colour it is, then.
+
+   The UI is a bit confusing at first, with an awful lot of options presented, so I figured the best thing to do straight off the bat was experiment. Oh, look...what does this ""self"" button do, then? Erm, not much it seems, until I then press ""speak"" on a similarly impulsive whim, and voila! A new box appears on-screen, containing the words ""What do you wish to say to yourself?"" 
+
+   Now, the human mind is a prickly thing, positively bristling with thorns. Being asked a question like this is like gazing into the abyss itself; and being requested to acknowledge one's innermost self so unflinchingly is a task fraught with no end of existential peril. My fingers poise hesitantly above the keys, genuinely afraid for what they might have to say about me; the TRUE ME, the one which I keep hidden, even from myself. Somehow, I find the courage, and tentatively, I begin to type:
+
+   ""You are a worthless cunt.""
+
+   Instantly, a reply pops up in the main text window:
+
+   ""What would Freud have to say about that?""
+
+   Gotta say, I'm instantly impressed, especially for a game from the mid-80s. Didn't think they'd even invented that word way back then. Ooh, I am so deliciously naughty. My Mum would be ashamed, to say the least.
+
+   Fortunately, all shenanigans and early explorations aside, the game as a whole proved to be quite impressive ""for its time"" also. For starters, the writing itself is rather nice and borderline poetic at times: e.g. ""you pry yourself free of the steering wheel's embrace"". An impressive quality, especially in this era where eight out of ten horror games are made by Europeans whose idea of ""speaking English"" is employing the talents of Google Translate.
+
+   Secondly, the way you interact with objects by first choosing an instruction like ""examine"" or ""open"", then clicking the part of the image which you wish to perform said task upon, was simple but effective; and the minimal size and non-photorealistic detail of each image further made this game a little ""easier"" than those dang-blasted MODERN point-and-click adventures, in which you have to spam virtually every inch of the screen with clicks to find each and every detail that you're missing. 
+
+   Perhaps my problem is that I never really played these games when I was a kid in the 80s, and haven't thereby steadily ""evolved"" with this style of game design to be good-and-ready for the more sophisticated modern equivalents. Damn all those youthful hours spent playing Asteroids and Moon Patrol!
+
+   Inventory. Have you ever, like myself, wondered just how your Silent Hill or Resident Evil character just somehow KNOWS, in a room full of potentially desirable objects, which one or two items to pick up; somehow psychic about which item will come in handy later on? No need to puzzle over that one any longer, 'cause for better or worse, this game lets you pick up almost EVERYTHING in sight! So it's not nearly as obvious which items you may need to solve a particular puzzle. Shock-horror, you may even have to work things out a bit for yourself (yeah, okay, so I'm not sure this is an entirely ""positive"" thing, especially for dumb-dumbs like myself...but it's a praise-worthy premise just the same)!
+
+   Sound. Ah, yes. Cheesy, but charming. Simplistic, not-exactly-convincing simulations of thunder, breaking glass, punching and so forth. And when you die, you get an image of a skull and the words ""I've got you!"", the aural uttering of which sounds for all the world like Stephen Hawking reimagined as an evil undead sorceror. There is, however, a regrettable lack of creaking doors and wooden floorboards; but hey, you can't have everything I suppose.
+
+   Now for something I definitely DIDN'T like: the time limit. Throughout the game, there are ominous allusions to a storm getting closer, and a generalised ""evil"" slowly closing in. And sure enough, if you don't finish the game quickly enough, it's boo-sucks for you. I had to Google this lovely little feature to make sure it wasn't something I specifically did wrong. Nope, it's just a slowly encroaching, inexorable thing, best as I can tell. So in other words, unless you're especially brilliant at these types of games, you probably won't get through it the first time, or even the TENTH time; and will in all probability give up long before reaching the end just like I did.
+
+   For the time that I humoured it, though, I actually quite enjoyed this. It was like revisiting a childhood I never quite had, and almost made me yearn for ""simpler"" days. Definitely not a game for the A.D.D. generation (of which I am only an honorary member, thank God, but an honorary member just the same).
+
+Verdict: 8/10.",1497613426,1497804984,True,21,7,0.662182629108428955,0,True,False,False,False,,,
+27372152,"{'steamid': '76561198031120751', 'num_games_owned': 0, 'num_reviews': 26, 'playtime_forever': 1396, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1670973336}",english,it's just as fun as I remembered. fun classic.,1480044031,1480044031,True,0,0,0.481269538402557373,0,True,False,False,False,,,
+25307809,"{'steamid': '76561198319095428', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 1027, 'playtime_last_two_weeks': 0, 'playtime_at_review': 939, 'last_played': 1478894491}",english,Picked up the shield and got melted by a dragon.  Would play again!,1472833767,1472833767,True,1,4,0.332601934671401978,1,True,False,False,False,,,
+24474290,"{'steamid': '76561198045370126', 'num_games_owned': 892, 'num_reviews': 609, 'playtime_forever': 229, 'playtime_last_two_weeks': 0, 'playtime_at_review': 229, 'last_played': 1469364633}",japanese,"★★★☆☆☆
+
+リメイクであるFC版の”悪魔の招待状”をリアルタイムで数回クリアーした僕ですが、
+その元祖版を今遊ぶと古臭い感じです。BGMもなく、ただ効果音のみです。
+
+でも、ストーリーの入り口はしっかりしてます。
+思い出修正入りますが、FC版の悪魔の招待状は神ゲーでした。
+
+シャドウゲートみたいにPCリニューアルリメイクされれば幸いです。
+そのためだけにレビューしたみたいなものです。
+
+序章紹介：
+主人公は姉と一緒に車でドライブ中に事故に合い、
+目を覚めると隣には姉がいなかった。姉を探そうと車から出ると、
+そこには不気味は館が・・・。",1469257732,1469257732,True,12,0,0.602833390235900879,1,False,True,False,False,,,
+24117818,"{'steamid': '76561198054116635', 'num_games_owned': 882, 'num_reviews': 1, 'playtime_forever': 245, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1469317375}",english,"Played this through on the Amiga version (with walkthrough - couldn't beat the game without it!). So naturally I'm missing the Amiga versions in the ""MacVenture Series"" on Steam. Luckily have WinUAE to do so but I still wish you could see/play more versions of the game than just the Mac version.",1467749901,1467749901,True,3,1,0.481340557336807251,0,True,False,False,False,,,
+22819449,"{'steamid': '76561198133726836', 'num_games_owned': 1319, 'num_reviews': 538, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1464794823}",english,BEATS ME!,1462495069,1462495069,True,4,1,0.365244865417480469,0,False,False,False,False,,,
+22598266,"{'steamid': '76561198083413093', 'num_games_owned': 3787, 'num_reviews': 2801, 'playtime_forever': 152, 'playtime_last_two_weeks': 0, 'playtime_at_review': 152, 'last_played': 1461451291}",turkish,"▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░░█
+▓▓▓▓▓▓█░░░░░░░░░░░░░░█
+▓▓▓▓▓▓███░░░░░░░░░░░█
+██████▀░░█░░░░██████▀
+░░░░░░░░░█░░░░█
+░░░░░░░░░░█░░░█
+░░░░░░░░░░░█░░█
+░░░░░░░░░░░█░░█
+░░░░░░░░░░░░▀▀",1461451302,1461451302,False,1,2,0.392306715250015259,0,True,False,False,False,,,
+22470741,"{'steamid': '76561198018485266', 'num_games_owned': 0, 'num_reviews': 162, 'playtime_forever': 283, 'playtime_last_two_weeks': 0, 'playtime_at_review': 283, 'last_played': 1461063100}",schinese,"由Zojoi于1988年在苹果MAC上推出的4款点击式解迷冒险 
+
+由于是入了合集包，放在一起讲
+
+分别是:
+恐怖鬼屋题材的“Uninvited”
+类似黑色电影，以侦探故事为主题的“Déjà Vu”
+和14年出了个美工超棒，难度最高的奇幻冒险“Shadowgate”
+
+和现在的点击式解迷的不同在于，游戏中玩家多数行为并非只要简单的寻找调查点
+相反画面右框里会把每个房间的可互动点标出，玩家多数情况下点击右边快捷栏即可前进
+开发者把难度集中在了互动上：玩家需要对物品，机关等物件进行正确的行为
+打击、开启、观察这些行为系统是不会帮你自动完成的，只有结合文字描述来判断如何处理
+另一个难点就是遍布整个流程的死亡了，甚至在同一场景逗留太久都会触发BAD END
+
+虽然我们现在总喜欢吐槽某些游戏年货化，互相抄袭吃老本
+但其实过去在业界这种现象就已经是很常见了，尤其是混乱的发展初期更是什么好卖抄什么
+于是为了保持新鲜度，开发者在当时的方法除了将同一玩法的游戏题材多样外，文字描述上也下了功夫
+你可以看到游戏过程中调查物品，移动，观察都有详细的环境描写
+从某种程度上，这种方式只要和画面配合得好，甚至比如今许多逼真的3A级大作更有代入感
+
+有趣的是，我在尝试时发现，玩这几个游戏就像小时候的脑补涂鸦般
+瞧～这是个拿火箭炮的小龙人勇士，他要进入黑猫警长的魔宫打败数学老师救出马里奥
+（在课本上画个火柴人，把XX门上画几个闪电，再随便把哪个历史人物画个角,就是场堪比上古卷轴的大冒险了）
+
+",1460875932,1460875932,True,33,6,0.743476331233978271,3,False,False,False,False,,,
+20069569,"{'steamid': '76561198012155501', 'num_games_owned': 404, 'num_reviews': 48, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1451398218}",schinese,"作为一款老游戏爱好者，虽然对解密类游戏不是很感冒，但是当初看到这款游戏和相关的shadowgate、deja vu系列貌似在老外那边评价颇高故关注了很久，趁圣诞打折的时候买了这款uninvited试试（幸好没有买合集包，反正玩了uninvited我是完全不想碰其他3款同类产品了）
+uninvited是一款以鬼屋冒险为背景的老苹果机器上运行的游戏，看介绍和视频貌似挺符合我的胃口，但是在通关了2个版本以后我不得不说这款真的很差劲。
+说实话我很少给老游戏一个差评，下面列出为什么这么评价的原因：
+1，解密游戏我不反对给出一些高难度的谜题，但是完全脱离逻辑范畴的谜题实在是让人无法容忍，打个比方，我要得到某条信息需要获得一本日记，为了获得这本日记我需要赶走一个幽灵，为了召唤这个幽灵我必须对一盏台灯进行“使用”命令，而为了吓唬这个幽灵我又得去抓蜘蛛，为了抓蜘蛛我必须要上2楼的储物间去找一瓶粘着剂。。。
+其他谜题更是脑洞大开而且提示几乎没有。实在不知道这种完全无厘头式的解密方式哪里吸引人了。
+2，可以互动可以拿的东西太多，但是实际能用上的很少，我可以说这个游戏里面90%可以拿的东西都对实际游戏没有任何用处。然而配合无厘头的解密，要想在没有攻略的前提下拿到正确的物品几乎是天方夜谈，更别说还要在正确的时间使用在正确的目标上面了。。。
+3，流程很短。
+这款游戏唯一值得称道的就是配音和画面以当时的标准来看很不错。
+总评：即使打折也不值得购买的“经典”无厘头无逻辑解密游戏，除非是相关游戏类的怀旧收集狂，不推荐！",1451399290,1451399290,False,5,0,0.576221764087677002,0,True,False,False,False,,,
+19297437,"{'steamid': '76561198113116081', 'num_games_owned': 385, 'num_reviews': 7, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1448589927}",english,1. Bought game 2. Installed said game 3. Opened game 4. Didn't know what the fuck I was doing 5. Blew up in car thefirst 3 seconds of the game 10/10 WOULD BLOW UP AGAIN,1448582161,1448582161,True,3,7,0.389211744070053101,0,True,False,False,False,,,
+19125215,"{'steamid': '76561197985561547', 'num_games_owned': 255, 'num_reviews': 30, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1447741027}",english,"Used to love these kinds of games as a kid, so this was quite nice to see on here!
+
+Brutally unforgiving (I missed an item near the start of the game that made it impossible to progress), but still fun to figure everything out! Playing a New Game after knowing what to do up to a certain point goes by quick, as most of the game is trying to figure out what to do next.
+
+If you liked these kinds of old adventure games, I highly recommend this for a small distraction!",1447741280,1447741280,True,4,0,0.580339789390563965,0,True,False,False,False,,,
+19103438,"{'steamid': '76561198025158752', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 265, 'playtime_last_two_weeks': 0, 'playtime_at_review': 224, 'last_played': 1704384767}",english,"Great recreations of the original point n' click classic that still retain their creepy and unsettling atmosphere.
+Despite being a PC game from the 1980's, the UI is still fairly intuitive; travelling through rooms and picking up items is simple, although the abundance of menus could be rather difficult to work through to those unfamiliar with the genre.
+
+Many of the puzzles are nails, not impossible, but many of the solutions to see the game all the way through to the end require thinking outside the box. Similarly to Myst, you have to piece together clues to progress, and whilst I found the game unrelenting in its difficulty, I can't say I didn't enjoy my time with Uninvited.",1447623487,1447623487,True,5,0,0.549832820892333984,0,False,False,False,False,,,
+17326793,"{'steamid': '76561198079782304', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 266, 'playtime_last_two_weeks': 0, 'playtime_at_review': 266, 'last_played': 1428550061}",english,"This game may be hard and confusing, but in the longrun fun and worth the price",1438399950,1438399950,True,0,0,0,0,True,False,False,False,,,
+17283145,"{'steamid': '76561198065195050', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 520, 'playtime_last_two_weeks': 0, 'playtime_at_review': 493, 'last_played': 1438548913}",english,"[h1]Uninvited: MacVenture Series[/h1] – [b]Adventure; Text-based[/b]
+[i]a spoiler free review[/i]
+
+[b]Rating: Recommended[/b]
+
+
+Some games give you what you pay for. Others disappoint, leaving you with an empty wallet and an unstimulated mind. And sometimes, once in a very great while, you get far more than what you pay for. [b]Uninvited[/b] isn’t the greatest game ever designed, but for a non-sale price of $2.99, it delivers. For all you classic Mac gamers out there, you might have even heard of this game or its series. 
+
+[b]– Now in Color! –[/b]
+The original Uninvited was released for Mac in 1986; several ports to other consoles and OS soon followed. A neat feature of this package is the newer, color version of the Apple IIGS Port; I suggest playing this one, at least for your first playthrough or two. After you’ve got a handle on what’s going on, I encourage you to try the original; it’s in greyscale, but the effect is more unnerving when you get to the scary parts (also, sound effects are cooler in the original).
+
+[b]– A True Classic –[/b]
+[u]Uninvited[/u] is an early adventure game that helped shape the face of modern adventure games, a “Missing Link” in the transition from fully text-based to modern character control and exploration. Every object has a unique description and some smaller ones can be moved or picked up. This is a critical element of the game; items you find early on may be needed later on down the road.
+
+[b]– Story –[/b]
+The general backstory is that you and your kid brother have crashed your car outside of a large, spooky mansion. As you rush to get out of your car, it explodes, leaving you stranded. Your brother is nowhere to be found; you must search for him on the estate grounds and in the mansion. Demonic forces are running loose – danger is everywhere. Save frequently; this game has numerous instant-death situations. And don’t dawdle. There’s a counter of how many actions you can perform (including moving stuff and examining objects) before your body is possessed and you lose.
+
+[b]– Difficult? –[/b]
+I really liked this game, but, as with all adventure games from the eighties, it is nearly impossible at some points. If you get [i]really[/i] stuck, Google search “Kiran S. Kedlaya Uninvited Walkthrough”. Should be on AtariArchives.
+
+[b]– What I Liked/Disliked –[/b]
+This game is funny if you have a macabre sense of humor. There are numerous ways to kill yourself that are quite amusing; oftentimes you won’t realize it until it’s too late. Then you debate whether to get angry that you have to replay the last five or more minutes or laugh at how idiotic your character really is. The object descriptions are all very humorous in a condescending manner, further solidifying your subconscious theory that the protagonist is an idiot.
+
+This game is really, [i]really[/i] tough. There’s a ton of backtracking, loads of insta-death situations, seemingly useless objects are actually essential while others that look promising are just red herrings, lots of annoying thunder SFX scripted sequences that slow you down while exploring and, to top it all off, a “time limit” that kills you if you don’t figure out what’s going on in time. Aside from difficulty and annoying thunder, though, there’s really nothing to complain about in this game; it’s a fun, cheap brainteaser.
+
+[b]– The Price is Right! –[/b]
+This game is only $2.99 [i]off[/i]sale. If it goes on sale (especially under  $1), you have no excuse not to buy it. It’s very worth it. Also, there are Steam trading cards, if you’re into that.
+
+[strike]Not Recommended[/strike]
+[strike]Recommended With Caution[/strike]
+[b]- Recommended[/b]
+[strike]Highly Recommended[/strike]
+[strike]Recommended as Essential[/strike]",1438183496,1438183620,True,20,0,0.716705203056335449,0,True,False,False,False,,,
+16847701,"{'steamid': '76561197983874667', 'num_games_owned': 1030, 'num_reviews': 86, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1544741977}",english,Why was'nt this game made into a creepy pasta. It should have been The Apple II gs is rare enough. The game works well. Plays well. My only complant is no full screen mode. not much of a complant really good game. 8\10,1435861453,1435861453,True,0,0,0,0,True,False,False,False,,,
+16825129,"{'steamid': '76561198136588916', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 516, 'playtime_last_two_weeks': 0, 'playtime_at_review': 516, 'last_played': 1435006628}",english,"Single Female Lawyer,
+Fighting for her client,
+Wearing sexy miniskirts,
+And [spoiler]playing Uninvited[/spoiler]",1435750555,1435750579,True,5,6,0.48944362998008728,0,True,False,False,False,,,
+16335218,"{'steamid': '76561198025598384', 'num_games_owned': 0, 'num_reviews': 16, 'playtime_forever': 119, 'playtime_last_two_weeks': 0, 'playtime_at_review': 117, 'last_played': 1438652950}",english,"Uninvited is a solid point 'n click that's old school hard, with tons of ways to die, and is effectively spooky, especially if you play it alone in the dark with the bare-bones black-and-white graphics. The interface is dated, but it's easy enough to navigate even if some of it's not ideal.
+
+8/10 would jump out of skin again",1434132932,1434132932,True,1,0,0,0,True,False,False,False,,,
+16230838,"{'steamid': '76561198042054424', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 153, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1587214048}",english,"For the nostalgia, I did purchase this game, although I have it already on a Mac Emulator.  I can assure you that the gameplay is 100% true to the game but the sound codecs are not the same, not sure if they just werent able to get the rights to them but honestly the sounds of the original for the Mac were far creepier, playing this game with only the hum of the Apple Monitor in the dark, then hearing the devil laugh while your brother screams ""help me!"" was not the same feeling here.  Hope this helps for anyone looking to refeel the game, not just play it. 8/10",1433626420,1433626420,True,0,0,0,0,True,False,False,False,,,
+15472143,"{'steamid': '76561198027363699', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1463271638}",english,Brings back old memories. This is just a fun game. Point and click done right. There should be a way to get the music from the NES version. Those tunes flash in my head too many times for comfort; an uninvited tune...,1429587777,1429587777,True,6,1,0.51653367280960083,0,True,False,False,False,,,
+15274561,"{'steamid': '76561197982753569', 'num_games_owned': 523, 'num_reviews': 34, 'playtime_forever': 175, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1452664732}",english,"Eerily faithful recreation of an old classic, and the first computer game I ever purchased (or made my mom purchase). My 10 year old body was not ready. The game is old-fashioned hard with a lot of guesswork in how to not die and progress. Save often and save multiple files.",1428563259,1428563259,True,4,0,0.460161030292510986,0,True,False,False,False,,,
+15183751,"{'steamid': '76561198023048358', 'num_games_owned': 0, 'num_reviews': 98, 'playtime_forever': 175, 'playtime_last_two_weeks': 0, 'playtime_at_review': 175, 'last_played': 1427947302}",english,My favorite of the MacVenture series (though Shadowgate is very close) The game is still spooky after all these years and is worth a play through. It gave me nightmares and I watch a horror movie a day on average and that never happens.,1428061357,1428061357,True,20,3,0.643790304660797119,0,True,False,False,False,,,
+14886445,"{'steamid': '76561198100863436', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 911, 'playtime_last_two_weeks': 0, 'playtime_at_review': 911, 'last_played': 1426351353}",english,"Excellent old game ! 
+10\10",1426353548,1426353548,True,3,0,0.49935486912727356,0,True,False,False,False,,,
+14448592,"{'steamid': '76561197979992724', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 46, 'last_played': 1424554960}",english,15 minutes until first heart attack.,1423843799,1423843799,True,12,25,0.450776875019073486,1,False,False,False,False,,,
+14349243,"{'steamid': '76561198069133745', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 24, 'last_played': 1423208622}",english,"I remember playing this on my shitty PC back in the day and not having an understanding on adventure games.
+Now I know what the go is and man it still is one eery piece of gaming. Hopefully it gets a remake.
+One thing that makes no sence, like most adventure games is the logic behind some of the actions.
+Either way, 7/10",1423208774,1423208774,True,12,0,0.583561718463897705,1,True,False,False,False,,,
+14289313,"{'steamid': '76561197971507969', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1439741625}",english,"This game is fantastic and suprisingly horrific! I played this the same day I first played ""Dying Light"" and jumped way more at this! I hope Zojoi remakes this as they did with Shadowgate!",1422836550,1422836550,True,18,2,0.633085131645202637,1,True,False,False,False,,,
+14232889,"{'steamid': '76561197986608064', 'num_games_owned': 0, 'num_reviews': 179, 'playtime_forever': 197, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1480890104}",english,"No really, that spider is bad news",1422576717,1422576717,True,5,15,0.342349529266357422,4,True,False,False,False,,,

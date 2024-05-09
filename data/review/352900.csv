@@ -1,0 +1,215 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+158978572,"{'steamid': '76561198046537068', 'num_games_owned': 6542, 'num_reviews': 94, 'playtime_forever': 271, 'playtime_last_two_weeks': 0, 'playtime_at_review': 271, 'last_played': 1565715920}",english,"Broken game since day one. Fix promised, but never delivered.",1708615153,1708615153,False,0,0,0,0,False,False,False,True,,,
+143020804,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 257, 'playtime_last_two_weeks': 0, 'playtime_at_review': 257, 'last_played': 1463406470}",russian,нет,1690638663,1690638663,False,0,0,0,0,False,False,False,True,,,
+141206235,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 84, 'playtime_last_two_weeks': 0, 'playtime_at_review': 84, 'last_played': 1688382392}",spanish,"♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫█████♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██████████♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫████████████♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██████████████♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫█████████████████♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫███████████████████♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫█████████████████████♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫███████████████████████♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫████████████████████████♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫♫█████████████████████████♫
+♫♫♫♫♫♫♫♫♫♫♫♫♫███████████████████████████
+♫♫♫♫♫♫♫♫████████████████████████████████
+♫♫♫♫♫███████████████████████████████████
+♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫█████████████████████
+♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██████████████████
+♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫████████████████
+♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██████████████
+♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫█████████████
+♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫████████████
+♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██████████♫
+♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██████████♫
+♫█♫♫♫████████████♫♫♫♫♫♫♫♫♫♫♫♫♫█████████♫
+♫█♫█████████████████♫♫♫♫♫♫♫♫♫♫♫████████♫
+♫███████♫♫♫♫♫█████████♫♫♫♫♫♫♫♫♫████████♫
+♫████♫♫♫♫█♫♫♫♫♫♫♫♫█████♫♫♫♫♫♫♫♫♫███████♫
+♫███♫♫♫♫██♫♫♫█♫♫♫♫♫♫████♫♫♫♫♫♫♫♫███████♫
+♫███♫♫♫♫█♫♫♫██♫♫♫♫♫♫♫♫███♫♫♫♫♫♫♫███████♫
+♫♫█♫♫♫♫██♫♫♫█♫♫♫♫♫♫♫♫♫♫███♫♫♫♫♫♫♫██████♫
+♫♫█♫♫♫♫█♫♫♫██♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫██████♫
+♫♫█♫♫♫♫█♫♫♫██♫♫♫♫♫♫♫♫♫♫♫███♫♫♫♫♫♫██████♫
+♫██♫♫♫██♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫██████♫
+♫█♫♫♫♫██♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫██♫♫█♫
+♫█♫♫♫♫██♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫█♫♫♫♫█
+██♫♫♫♫█♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫██♫♫♫█
+██♫♫♫♫█♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫██♫♫♫█
+██♫♫♫♫█♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫██♫♫♫█
+█♫♫♫♫♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫██♫♫♫█
+█♫♫♫♫♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫█♫♫♫█
+█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫█♫♫♫█
+█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫█♫♫♫█
+█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫█♫♫♫█
+█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫█♫♫♫█
+██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫█♫♫♫♫
+██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫██♫♫♫
+██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫███♫♫♫
+♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫██♫♫█♫██♫█
+♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫███♫♫♫♫♫♫██♫♫█♫♫███
+♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫██♫♫█♫♫♫█♫
+♫███♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫██♫♫█♫♫♫♫♫
+♫♫███♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫████♫♫♫♫██♫██♫♫♫♫♫
+♫♫█♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫█♫██♫♫♫███♫█♫♫♫♫♫♫
+♫♫█♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫██♫██♫♫♫♫♫♫
+♫♫██♫♫██♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫████♫♫♫♫♫♫♫
+♫♫♫█♫♫♫██♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫
+♫♫♫██♫♫♫████♫♫♫♫♫███♫♫♫♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫█♫♫♫♫♫█████████♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫██♫♫♫♫♫♫♫███♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫█♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫███♫♫♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫███♫♫♫♫♫♫♫♫♫♫♫██♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫███♫♫♫♫♫♫████♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫
+♫♫♫♫♫♫♫♫♫♫♫♫█████████♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫♫
+",1688382835,1688382835,True,0,0,0.468036502599716187,0,True,False,False,True,,,
+100369843,"{'steamid': '76561198162369313', 'num_games_owned': 912, 'num_reviews': 239, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1633182395}",turkish,"Oyun güzel, ama resmen ölü. Speedrunners knock-offu gibi biraz da giana sisters elementleri barındırıyor. Dediğim gibi oyun az da olsa kendini oynatır fakat hızlı sıkar, serverlar ölü. Eğer kardeşinizle veya bir arkadaşınızla oynamayı düşünürseniz o zaman tavsiye ediyorum multi playeri gayet eğlenceli.",1633182490,1633182490,True,1,0,0.525547444820404053,0,True,False,False,False,,,
+59069193,"{'steamid': '76561198013146396', 'num_games_owned': 1655, 'num_reviews': 2129, 'playtime_forever': 1077, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1077, 'last_played': 1575322780}",russian,"Да ну. Та же суетливая невесёлая беготня с не-френдли управлением. Что модельки, что музыка - как в оригинале. Тупо концепт геймплея поменяли на мультиплеерные побегушки наперегонки.
+Да и в онлайне, сами понимаете, никого нет да и не было никогда)",1575322864,1575322864,False,2,0,0.465408772230148315,0,False,False,False,False,,,
+47160635,"{'steamid': '76561198021422660', 'num_games_owned': 3620, 'num_reviews': 1228, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1543388165}",russian,"В целом для компании пойдёт, но одному тут делать нечего. Игра для соревнования по пробегу уровня. Можно соревноваться с ботами. В остальном очень красочно, есть карточки, достижения, управление с контроллера.
+
+Из минусов - нет нормальной одиночки, нет облачного сохранения и при старте всегда нужно мышкой нажать на ""Играть"". Сразу в игру не пускает.
+
+Также есть русский перевод.",1543388470,1543388470,True,3,0,0.482241123914718628,0,True,False,False,False,,,
+45104162,"{'steamid': '76561198269040549', 'num_games_owned': 0, 'num_reviews': 72, 'playtime_forever': 136, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1565908490}",russian,Игрушка для приятного убивание времени + соревноваться с друзьями по сети,1538673907,1538673907,True,0,0,0.459032565355300903,0,True,False,False,False,,,
+39287020,"{'steamid': '76561198146857124', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 145, 'playtime_last_two_weeks': 0, 'playtime_at_review': 97, 'last_played': 1516893814}",japanese,ボット相手にカスタムマッチしかしてませんが楽しいです。,1515780503,1515780503,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+34136328,"{'steamid': '76561198107054031', 'num_games_owned': 278, 'num_reviews': 88, 'playtime_forever': 157, 'playtime_last_two_weeks': 0, 'playtime_at_review': 157, 'last_played': 1479504508}",english,.,1502326568,1502326568,False,2,0,0.315914183855056763,0,False,False,False,False,,,
+33643569,"{'steamid': '76561198139167019', 'num_games_owned': 1210, 'num_reviews': 7, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1500435218}",spanish,"No es un mal juego, pero no vale el dinero que cuesta así este a $2 de oferta, los juegos de Giana Sisters predecesores son de los mejores plataformas que jugué pero este juego tiene muy pocas opciones, tampoco esta en español, es una copia al SpeedRunners y no se encuentra nadie en el online, lo devolveré hasta que lo mejoren o saquen una nueva versión con mas escenarios, personajes y opciones.",1500435607,1500435607,False,2,0,0.519685029983520508,0,True,False,False,False,,,
+33292109,"{'steamid': '76561198005667066', 'num_games_owned': 3081, 'num_reviews': 678, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1461742583}",russian,Понравилось.,1499291340,1499291340,True,0,0,0.355479329824447632,0,False,False,False,False,,,
+32842832,"{'steamid': '76561198035675216', 'num_games_owned': 2118, 'num_reviews': 486, 'playtime_forever': 277, 'playtime_last_two_weeks': 0, 'playtime_at_review': 277, 'last_played': 1498431904}",english,sadly i can't recommend this. it felt like a game that needed major polish. Yes its very similar to speedrunners. the artwork was fine. it just felt clunky/lagging a bit and even felt the controls weren't really reacting when you used them. if the devs actually focused on it then it could be a decent game. also you're limited on characters. there isn't many to choose from at the start. you can't even switch to one of the other sisters unless someone takes first place at the beginning of playing it.,1498541053,1498541053,False,3,0,0.476178377866744995,0,False,False,False,False,,,
+31827993,"{'steamid': '76561198141713252', 'num_games_owned': 399, 'num_reviews': 7, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 204, 'last_played': 1495135007}",english,"I really liked when the Runner mode was added to the original game, it was a ton of fun and wished I could play it with other people online. So when I found out Dream Runners was coming out, I snapped it up as fast as I could to play online with tons of other Giana fans. Except either the serves are perpetually empty, or they just never connect to anything.
+
+So I paid to have an online experience of a free mode except it's not even online in the first place. Joy.",1495136148,1495136148,False,3,0,0.496277898550033569,0,True,False,False,False,,,
+31013048,"{'steamid': '76561198003033413', 'num_games_owned': 871, 'num_reviews': 197, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 222, 'last_played': 1461254939}",english,"It's ok for a few hours, but gets boring really fast",1491641386,1491641386,False,5,0,0.460468709468841553,0,False,False,False,False,,,
+28898706,"{'steamid': '76561198349934160', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1483268851}",english,"nice game, reccomend",1483268873,1483268873,True,0,0,0.343683570623397827,0,True,False,False,False,,,
+28199339,"{'steamid': '76561198348561680', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1480922926}",english,Good game. Nice music. Thank you.,1480922948,1480923062,True,0,0,0.322853654623031616,0,True,False,False,False,,,
+28146778,"{'steamid': '76561198347613280', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1480711697}",english,"Good animation.
+Great sound!
+Amazing dinamic
+
+Nice and fun game.",1480711806,1480712174,True,2,0,0.366780877113342285,0,True,False,False,False,,,
+28141244,"{'steamid': '76561198159194223', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 325, 'playtime_last_two_weeks': 0, 'playtime_at_review': 325, 'last_played': 1479916977}",english,"Funny game with good graphic and music. I played with my daughter for about 2 hours, and it was amazing. I can recommend this game.",1480694390,1480694390,True,3,0,0.448969721794128418,0,False,False,False,False,,,
+26764848,"{'steamid': '76561198306512995', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 322, 'playtime_last_two_weeks': 0, 'playtime_at_review': 322, 'last_played': 1479916961}",english,"I like this game.
+Best music!
+10 of 10!!!",1479917495,1479917495,True,4,0,0.357963085174560547,0,False,False,False,False,,,
+26753440,"{'steamid': '76561198113823091', 'num_games_owned': 392, 'num_reviews': 38, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1477845968}",polish,"Idea zacna, tylko czy 2 godziny gry i 20 osiągnięć są warte ponad 4 dychy?",1479850680,1479850822,False,1,0,0,3,False,True,False,False,,,
+26736465,"{'steamid': '76561198052152548', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1479758381}",russian,Шикарній звук и динамика.,1479758398,1479758398,True,4,0,0.444428741931915283,0,False,False,False,False,,,
+25459956,"{'steamid': '76561197984240274', 'num_games_owned': 2708, 'num_reviews': 460, 'playtime_forever': 219, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1470136376}",polish,"Takie ""Giana Sisters: Twisted dreams"" upakowane w formie wyścigu na niewielkich mapach dla 4 graczy.
+Nie polecam, bo z botami nuda, a kolegów do wspólnej gry nie mam.",1473589627,1473589627,False,4,0,0.577464818954467773,0,False,False,False,False,,,
+25434133,"{'steamid': '76561198132441276', 'num_games_owned': 0, 'num_reviews': 242, 'playtime_forever': 121, 'playtime_last_two_weeks': 0, 'playtime_at_review': 121, 'last_played': 1473463899}",hungarian,"Üres az egész játék, úgy ahogy van.
+9 pálya van és egyszerre max 4-en lehet játszani. Lehet online és co-op módban is.
+Az online része már halott (vagy az is volt, nem tudom).
+
+Ha gép ellen toljuk, akkor az easy szint kb. normálnak, vagy néha hard-nak felel meg.
+Gagyi az egész. 1 euró környékén vettem, de annál többet nem érdemes rá költeni, mivel csak pár percig érdekes. Én achivement vadászatot nyomtam, meg co-op módot, így 2 órát bele lehetett tenni.
+
+Mindent összevetve: nagyon gyenge lett.",1473464149,1473464149,False,1,0,0.523809552192687988,0,False,False,False,False,,,
+25250799,"{'steamid': '76561197988271944', 'num_games_owned': 1346, 'num_reviews': 281, 'playtime_forever': 94, 'playtime_last_two_weeks': 0, 'playtime_at_review': 94, 'last_played': 1472569505}",italian,"Che dire, giocato per un pò di tempo solo per curiosità, a dirla tutta non è un gioco che meriti particolarmente di essere giocato, sembra la brutta copia di altri giochi obbiettivamente molto migliori. Le musiche sono carine, in quanto cercano di andare di pari passo con un elevato ritmo di gioco; ecco, uno dei problemi è proprio questo; nonostante si cerchi di mantenere un alto ritmo di gioco, velocità, riflessi e quant'altro, in realtà il gioco risulta lento, macchinoso, risposta sui tasti a scoppio ritardato, cambio di direzioni a rallentamento... In teoria, questo dovrebbe essere un gioco che dovrebbe basarsi sul multiplayer, il problema è che essendo relativamente orribile, non sono riuscito a trovare nemmeno una partita in multi disponibile. SCONSIGLIATO
+
+Voto 2/10",1472569842,1472569842,False,2,1,0.521331608295440674,0,False,False,False,False,,,
+25106310,"{'steamid': '76561198144028451', 'num_games_owned': 776, 'num_reviews': 35, 'playtime_forever': 187, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1481693287}",thai,"เกมออนไลน์ ร้าง!! 
+Gameplay : คล้าย Talerunner 2 มิติแหละครับ. และไม่มีสอนอะไรเลย.",1472015899,1472015899,False,0,0,0,0,False,False,False,False,,,
+24914251,"{'steamid': '76561198019674041', 'num_games_owned': 1585, 'num_reviews': 457, 'playtime_forever': 204, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1471192111}",english,.,1471190249,1471190249,False,3,0,0.210838437080383301,0,False,False,False,False,,,
+24332958,"{'steamid': '76561197969596518', 'num_games_owned': 1181, 'num_reviews': 478, 'playtime_forever': 99, 'playtime_last_two_weeks': 0, 'playtime_at_review': 99, 'last_played': 1468541154}",koreana,"번들로 구입했습니다.
+
+전작처럼 플랫포머 게임일줄 알고 구입했지만
+
+마리오 카트를 플랫포머에서 생각하신다면 편합니다.
+
+싱글플레이는 없고 멀티에 사람이 있을지는...
+
+봇이랑 달리기 놀이는 가능합니다.
+
+
+거기다 레이싱 게임은 전작에도 있던것이지만,이게 너무 좋아서 인터넷으로 멀티 하고싶다?
+
+그런분 이외엔 추천하지 않습니다",1468585322,1468585322,False,1,0,0.523809552192687988,0,False,False,False,False,,,
+23660739,"{'steamid': '76561198094803808', 'num_games_owned': 4070, 'num_reviews': 5384, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 146, 'last_played': 1466560081}",english,dont waste ur money,1466378817,1466378817,False,3,5,0.248100146651268005,0,False,False,False,False,,,
+23523461,"{'steamid': '76561198075742770', 'num_games_owned': 4012, 'num_reviews': 176, 'playtime_forever': 185, 'playtime_last_two_weeks': 0, 'playtime_at_review': 185, 'last_played': 1465797686}",english,"Well, I guess i am late to write this review. Whatever, I've bought this game about 6 months ago. It was on the sale which is %50 off.
+
+ I thought the game is pretty. A platforming plus racing game and includes Giana Sisters. All the dynamics that I love in Giana Sisters Twisted Dreams. Now, I see this is an awful game for sure. 
+ 
+ They tried to combine Giana Sister's mechanics with racing game. In fact it could be quite interesting (actually it is). I don't want to compare this game with Speedrunners that much I definetely can Speedrunners is better. It's fun and friendly. Community is huge also has steam workshop support. Dream Runners has few maps which is like 9. The game doesn't run very well. Items are not that much usable, You can host a custom game with 3 bots (and their level can be easy-medium-hard) and play all the maps but probably within 3 hours you will get bored. Since there is no players (probably sales are not good and reviews are really less) there is no multiplayer at all. The game is completely dead and the fact is, it haven't been 1 year yet. 
+There is a lot of con. The only pro's are musics/ost and level design as usually, no doubt.
+
+ Buy this game only if you want to play with a friend of yours. However I still do not recommend. I feel sorry for this game.",1465750525,1465750585,False,18,4,0.660822093486785889,0,False,False,False,False,,,
+23300504,"{'steamid': '76561198070689964', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 283, 'playtime_last_two_weeks': 0, 'playtime_at_review': 272, 'last_played': 1483198682}",spanish,"Es como el Mario Kart (pero sin karts :V) y en el mundo de Giana Sisters.
+
+La idea es simple: no te quedes atras, esquiva todo lo que puedas y complicale la vida a los otros con ataques que consigas mientras vas avanzando.
+
+Pros:
+-Tiene competitivo local, online y con bots de distintas dificultades.
+-Manejo por de mas de simple.
+-Un puñado de pistas que me dejaron conforme (9) y que son bastante variadas y diferenciadas.
+-Unos cuantos personajes elegibles (la mitad de ellos desbloqueables).
+-Unas cuantos y variados ataques-consumibles dispersos en cada pista.
+-La genial música a la que la saga Giana Sisters me tiene acostumbrado.
+-Jugabilidad rapida: rapida en el sentido de que el juego no esta diseñado a modo de vueltas. Acá si te quedas resagado perdes y con el primero que pierde se activa un contador que cuando llega a 0 (sin importar los que queden en pie) el que este más cerca de la meta gana.
+
+Contras:
+-Algun que otro bug (son raros de ver pero estan): Algunos afectan a la hora de ganar o perder y puede resultar bastante molesto.
+-Hubiera sido un poco más vistoso (por así decirlo) la posibilidad de tener los tipicos campeonatos tan vistos en los juegos similares a este. Las pistas se eligen a votación y no hay ningun otro formato de presentación de estas.
+-La cantidad de pistas a la larga se terminan volviendo pocas.
+-La interface puede ser un poco molesta y no hay forma alguna de modificarla.
+
+Algo que disfrute desde el primer momento que jugue Giana Sisters Twisted Dreams fue su música y este no se queda atras en ese sentido. Tambien el hecho de que el entorno cambie, aunque para esta edición el cómo fue modificado por razones obvias. Puede que si lo que estas buscando es lo que se vio en los anteriores no quedes del todo conforme ya que la dificultad esta por demas de reducida por razones obvias pero en lo jugable y la representación de los entornos es practicamente lo mismo. Lo que lamento un poco es no haber encontrado a nadie jugandolo en el online pero se agradece la inclusión de bots ya que con estos por lo menos me pude sacar las ganas de jugarlo.",1464654284,1464654284,True,6,1,0.565217375755310059,0,False,False,False,False,,,
+22862358,"{'steamid': '76561198079940634', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1462711026}",french,jeu nul tout simplement on ne peut pas changer les touche dans les option . et les touche par defaut son catastrophique sa va de la touche espace pour fait une ataque a la touche f12 pour recuperer un tuc .... que des touche pas coherente donc je ne vous recommande pas du tout se jeux,1462711156,1462711156,False,3,0,0.461433231830596924,0,False,False,False,False,,,
+22859328,"{'steamid': '76561198160064095', 'num_games_owned': 1273, 'num_reviews': 182, 'playtime_forever': 158, 'playtime_last_two_weeks': 0, 'playtime_at_review': 158, 'last_played': 1463036787}",english,"A hesitant thumbs up. Its a great game which borrows a lot from the platformers in the series, but missed some of the polish. There are a lot of frustrating bugs in this game. The biggest issue is frequent confusion about which direction to run in. Often you are faced with a situation where there are no signsand the players are face in the wrong direction which is unforgivable an bug for this type of game. Sometimes the robots make noises like the sisters do which just seems wrong. The powerups are meh, and noone ever seems to be online, but overall the game is pretty good fun.",1462697633,1462697820,True,9,0,0.565329134464263916,0,False,False,False,False,,,
+22627898,"{'steamid': '76561198049573134', 'num_games_owned': 576, 'num_reviews': 83, 'playtime_forever': 215, 'playtime_last_two_weeks': 0, 'playtime_at_review': 215, 'last_played': 1461087331}",thai,.,1461584086,1461584086,True,3,0,0.497968345880508423,0,False,False,False,False,,,
+22625873,"{'steamid': '76561198133442953', 'num_games_owned': 265, 'num_reviews': 6, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1461359461}",spanish,"No es un juego malo si lo juegas con amigos ya que las carreras son a toda velocidad y realmente es poco lo que uno ve que hace o al menos para mi, a veces es molesto tener que esperar el tiempo para poder ganar pero de por si en un buen grupo de amigos hasta puede ser divertido.",1461571948,1461571948,True,5,0,0.523809552192687988,0,False,False,False,False,,,
+22514438,"{'steamid': '76561198060277415', 'num_games_owned': 0, 'num_reviews': 632, 'playtime_forever': 183, 'playtime_last_two_weeks': 0, 'playtime_at_review': 183, 'last_played': 1461069279}",english,"Giana Sisters: Dream Runners is a game that I recommend because:
+- is a method to banish boredom
+- it has trading cards
+- it has action
+- it is indie 
+- it has multiplayer mode
+
+Enjoy!",1461067411,1461067411,True,11,0,0.238439604640007019,1,False,False,False,False,,,
+22508207,"{'steamid': '76561198044736751', 'num_games_owned': 104, 'num_reviews': 9, 'playtime_forever': 55, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1461108692}",turkish,Hacı bakmayın online olduğuna girilmiyor ya da ben beceremiyorum. Free Slot yok diyor başka da birşey demiyor. Yorumlarda gördüğüm kadarı ile diğer oyunu çok daha iyimiş. Onu da yükleyip görelim bakalım. Yoksa bu oyun botlarla sarmıyor.,1461026506,1461026506,False,1,0,0.530386745929718018,0,False,False,False,False,,,
+22504569,"{'steamid': '76561198059971262', 'num_games_owned': 2465, 'num_reviews': 632, 'playtime_forever': 176, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1660917143}",english,"Just go play Speedrunners. It plays better, it runs smoother, the controls are easier, and the online community is quite active, the items are actually useful. 
+
+This one, compared to Speedrunners? 3 bucks cheaper, better graphics. That's it.
+
+I only reccomend this game to fans of the Giana Sisters, other than that, just go try  Speedrunners for a much better experience.",1461009139,1461009139,False,17,0,0.540680348873138428,0,False,False,False,False,,,
+20716356,"{'steamid': '76561198061551417', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 155, 'playtime_last_two_weeks': 0, 'playtime_at_review': 155, 'last_played': 1453677603}",spanish,"Al inicio fue complicado entender los controles del juego, pero luego ví las indicaciones y todo es con las flechas, la letra D para impulsarse, la W para girar, el SPACE para usar un poder y shift al momento de recolectar las runas te da velocidad.  El objetivo del juego es sacar a los oponentes de la pantalla. Así que debes ser lo más rápido posible para hacer perder a tus rivales. 
+Me gustó mucho el juego una vez que entendí el objetivo y los controles del juego. 
+Es un juego divertido para disfrutarlo entre amigos.
+Encontrarás bots en version facil, dificil e intermedio para que lo practiques.
+Lo que no me gustó fue que los niveles estan desbloqueados.",1453605757,1453605757,True,6,0,0.566929101943969727,0,True,False,False,False,,,
+20414460,"{'steamid': '76561198001772816', 'num_games_owned': 0, 'num_reviews': 44, 'playtime_forever': 361, 'playtime_last_two_weeks': 0, 'playtime_at_review': 361, 'last_played': 1452945346}",koreana,개 핵 노 잼,1452321613,1452321613,False,0,0,0.499769210815429688,0,False,False,False,False,,,
+18867452,"{'steamid': '76561198053649202', 'num_games_owned': 122, 'num_reviews': 20, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1443433024}",koreana,하는사람이 없다... 나이게임 되게좋아하는데 슬프네...,1446604925,1446604925,True,4,0,0.523809552192687988,0,True,False,False,False,,,
+18680946,"{'steamid': '76561197991263358', 'num_games_owned': 2884, 'num_reviews': 226, 'playtime_forever': 212, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1464565710}",english,https://www.youtube.com/watch?v=bDyLACIbmX8&list=PL3g25GfHOMYdr3hjS5UlyiIPm0n-H3JJr&index=1,1445793575,1445793575,True,4,1,0.374776184558868408,0,False,False,False,False,,,
+18318372,"{'steamid': '76561197960700735', 'num_games_owned': 601, 'num_reviews': 20, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1443924044}",english,"This game is a better looking, but much worse playing version of SpeedRunners. The controls are sloppy (especially when trying to quickly switch directions), the boost has less effect than simply dashing, the power-ups don't really seem to do anything and are easily avoided, and there is effectively no reason to spend your money on this game. I highly recommend playing SpeedRunners instead as it at least has an online community of players, let alone precise controls. I don't expect to get a refund, but I would certainly like one.",1443924600,1443924811,False,83,3,0.776733458042144775,6,True,False,False,False,,,
+17866202,"{'steamid': '76561198118925850', 'num_games_owned': 329, 'num_reviews': 242, 'playtime_forever': 98, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1643893301}",bulgarian,Става...,1441305370,1441305370,True,3,0,0,0,True,False,False,False,,,
+17853485,"{'steamid': '76561197981607320', 'num_games_owned': 1979, 'num_reviews': 24, 'playtime_forever': 10, 'playtime_last_two_weeks': 0, 'playtime_at_review': 10, 'last_played': 1441229952}",english,Worst game EVER! DO NOT BUY! Requested refund.,1441230156,1441230156,False,4,1,0.15121951699256897,3,True,False,False,False,,,
+17801832,"{'steamid': '76561198057389750', 'num_games_owned': 693, 'num_reviews': 101, 'playtime_forever': 169, 'playtime_last_two_weeks': 0, 'playtime_at_review': 103, 'last_played': 1592606520}",russian,"В игре пока никого нету (есть время научиться бегать с ботами). Приятная музыка, но она уже была). Игра типа Speed Runers.",1440970274,1440970274,True,9,3,0.48049500584602356,0,True,False,False,False,,,
+17797965,"{'steamid': '76561198067937537', 'num_games_owned': 0, 'num_reviews': 125, 'playtime_forever': 191, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1441123276}",english,"A while ago I played Giana Sisters Twisted Dreams as well as Twisted Dreams Rise of the Owlverlord and enjoyed both games quite a bit. Giana Sisters: Dream Runners shares a lot in common with those two games but is also quite a bit different. Dream Runners takes the previous Giana Sisters games and turns them into a speed running game. 
+
+I found Dream Runners to be a fun multiplayer game. The game does a good job keeping all of the races close with many races ending with players almost right on top of one another.
+
+At times the game is a little too quick which makes it hard to see what is going on. This is especially true for the player in first place. I also encountered a couple issues with the game making some mistakes picking the winner for some of the rounds when two players were within steps of one another.
+
+If you like speedrunners, like the Giana Sisters franchise, or like multiplayer platformers I think you will enjoy Giana Sisters: Dream Runners.
+
+Note: I received a free review copy of the game. Other than receiving the free review copy I received no other compensation for this review.
+
+[url=http://www.geekyhobbies.com/giana-sisters-dream-runners-indie-game-review/] Read My Full Review [/url]",1440957398,1440957398,True,25,2,0.604862809181213379,0,False,False,False,False,,,
+17760088,"{'steamid': '76561197969258581', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1440794073}",german,"Bought it also for Xbox One - and it is splendid! Finally, a 4-Player LOCAL Mulitplayer - you barely see that nowadays. 
+
+The Game is quick and easy to understand, but you have to train, to become a great racer. Easy to learn, hard to master „smile“-Emoticon 
+The 9 Different Tracks are diversified and beautiful. To get all the unlockable costumes it will take you a while, with the ranked matches you have a lot of opponents to compete with. 
+
+Overall, for just the few bucks, Dream Runners is a perfect couch-party-game when some of your friends come over; just grab a controller and instant fun is guarenteed.",1440794097,1440794097,True,6,0,0.522953152656555176,0,False,False,False,False,,,
+17738114,"{'steamid': '76561198052632289', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 66, 'playtime_last_two_weeks': 0, 'playtime_at_review': 66, 'last_played': 1436360465}",german,sehr spassig mit freunden haben traenen gelacht,1440682946,1440682946,True,7,1,0.420215636491775513,0,False,False,False,False,,,
+17735289,"{'steamid': '76561198000367500', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1440624303}",english,"A decent game that is way better the more people you play it with. 
+I tried to do some ranked matches but does not seem that many people play the game. Takes a while to get fully used to the controllers and start beating the easy bots (and my girlfriend in this case). The medium and hard bots are insanely overpowered. Maybe if you are a Jedi master with some Sith blood in the mix you can defeat them.
+
+My review is a bit mixed. I probably won't play it that much but if you like these types of games and enjoyed Giana Sisters: Twisted Dream then go for it. The issue with these games is they rely heavily having people to play with and nowadays that seems to become more and more rare.
+
+We had fun at least playing it.
+
+http://www.youtube.com/watch?v=t2UDcwLaTzc",1440666362,1440666362,True,57,9,0.675567984580993652,0,True,False,False,False,,,

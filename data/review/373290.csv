@@ -1,0 +1,639 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+161392998,"{'steamid': '76561199134095780', 'num_games_owned': 553, 'num_reviews': 475, 'playtime_forever': 493, 'playtime_last_two_weeks': 107, 'playtime_at_review': 386, 'last_played': 1711645273}",russian,<3,1711320889,1711320889,True,0,0,0,0,True,False,False,True,,,
+157860265,"{'steamid': '76561198844282465', 'num_games_owned': 1575, 'num_reviews': 4655, 'playtime_forever': 165, 'playtime_last_two_weeks': 0, 'playtime_at_review': 165, 'last_played': 1692966764}",russian,☀️,1707407503,1707407503,True,0,0,0,0,True,False,False,True,,,
+156229235,"{'steamid': '76561199010042150', 'num_games_owned': 3874, 'num_reviews': 2454, 'playtime_forever': 224, 'playtime_last_two_weeks': 0, 'playtime_at_review': 223, 'last_played': 1709094463}",english,"I am 32 years old.
+
+My ex-wife and I have a daughter together, and we adopted our son together. Both are now 4 years old.
+
+When we were going through our separation, I felt lost and unhappy. I was self-destructive. One day, I was so angry with everything spiraling out of control that I punched a concrete wall in a moment of overwhelming emotion. This resulted in breaking my fifth metacarpal in my right hand—the hand I worked with, played games with, and used to carry my children to bed—the hand I desperately needed to ensure I could continue providing.
+
+Upon learning the severity of the self-inflicted damage, I became almost suicidal. Keep in mind that just a few months before this, I was the happiest man, with no history of depression or anxiety. I had never experienced anger outbursts, nor was I the type to break down and cry, but I was in a tough situation that truly prevented me from seeing the light on the other side.
+
+With nothing better to do, I looked for a game I could play WITH ONE HAND while recovering. Somehow, I stumbled upon this game and read some of the comments. I decided it was worth a try... I must admit I didn't beat the game, nor did I play as much as some of you. In fact, I may have played this game for only a day or two. That being said, after doing so, I had a new joy and hope for life. I managed to leave behind the pain and suffering that had been thrust upon me. I could experience the joy and happiness of other people. I relaxed for 5 ♥♥♥♥ minutes listening to this music, long enough to realize that I would be okay.
+
+After realizing this, I turned off the game and went back to work. My hand hurt a lot, but I was motivated. I stopped feeling so sorry for myself and became the father I needed to be at that moment, not the weak boy I was behaving like.
+
+Today, I am close friends with the mother of my children. We don't fight, argue, or say hurtful things to each other. We are parents and friends.
+
+Now I have 3 children. My third child is, wait, ALSO 4 YEARS OLD. The woman I am with was going through a very similar situation at the time of my separation, and we just unexpectedly stumbled into each other's lives. We have been dating for a year and are very happy together.
+
+Moral of the story: you never know what life has in store for you, and if I had given up when all odds were against me, I wouldn't be where I am today. This silly little game helped me realize that.
+
+Thank you.",1705582135,1705582135,True,1,0,0.465608477592468262,0,True,False,False,True,,,
+153099299,"{'steamid': '76561197970193418', 'num_games_owned': 0, 'num_reviews': 2215, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1679293295}",english,"⣿⣿⡻⠿⣳⠸⢿⡇⢇⣿⡧⢹⠿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣿⣿⡿⡐⣯⠁ ⠄⠄
+⠟⣛⣽⡳⠼⠄⠈⣷⡾⣥⣱⠃⠣⣿⣿⣿⣯⣭⠽⡇⣿⣿⣿⣿⣟⢢⠏⠄ ⠄
+⢠⡿⠶⣮⣝⣿⠄⠄⠈⡥⢭⣥⠅⢌⣽⣿⣻⢶⣭⡿⠿⠜⢿⣿⣿⡿⠁⠄⠄
+⠄⣼⣧⠤⢌⣭⡇⠄⠄⠄⠭⠭⠭⠯⠴⣚⣉⣛⡢⠭⠵⢶⣾⣦⡍⠁⠄⠄⠄⠄
+⠄⣿⣷⣯⣭⡷⠄⠄⢀⣀⠩⠍⢉⣛⣛⠫⢏⣈⣭⣥⣶⣶⣦⣭⣛⠄⠄⠄⠄⠄
+⢀⣿⣿⣿⡿⠃⢀⣴⣿⣿⣿⣎⢩⠌⣡⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄⠄
+⢸⡿⢟⣽⠎⣰⣿⣿⣿⣿⣿⣿⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄
+⣰⠯⣾⢅⣼⣿⣿⣿⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄
+⢰⣄⡉⣼⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄
+⢯⣌⢹⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣇⣽⣿⣿⣿⣿⣿⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⢸⣟⣧⡻⣿⣿⣿⣿⣿⣿⣿⣧⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄
+⠈⢹⡧⣿⣸⠿⢿⣿⣿⣿⣿⡿⠗⣈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠘⢷⡳⣾⣷⣶⣶⣶⣶⣶⣾⣿⣿⢀⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄
+⠄⠄⠈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+⠄⠄⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠄⠄",1702015618,1702015618,True,0,0,0.382447630167007446,0,True,False,False,True,,,
+148793310,"{'steamid': '76561199179679565', 'num_games_owned': 685, 'num_reviews': 754, 'playtime_forever': 123, 'playtime_last_two_weeks': 0, 'playtime_at_review': 123, 'last_played': 1643007844}",ukrainian,"TONES OF SORROW — це наскельний малюнок PDL (Procedural Death Labyrinth).
+У грі представлені історичні наскальні малюнки, ігровий процес, зосереджений на дії, і жорстокі страти.
+Насолоджуйтесь чудовим наскальним мистецтвом від Південного Дракенсберга, Рочестера до Ласко, 
+втіленого в життя в екшн-рогеліті. 
+Усі персонажі були намальовані нашими предками десятки тисяч років тому.
+особливості:",1698164269,1698164269,True,6,0,0.525453925132751465,0,True,False,False,True,,,
+148520131,"{'steamid': '76561199347075982', 'num_games_owned': 1682, 'num_reviews': 3504, 'playtime_forever': 280, 'playtime_last_two_weeks': 0, 'playtime_at_review': 280, 'last_played': 1688214549}",english,bad game,1697771578,1697771578,False,0,0,0,0,True,False,False,True,,,
+148244892,"{'steamid': '76561198049823783', 'num_games_owned': 1712, 'num_reviews': 1265, 'playtime_forever': 93, 'playtime_last_two_weeks': 0, 'playtime_at_review': 93, 'last_played': 1696470253}",latam,"Un juego de dungeons en 2D, bastante bonito, buena ambientacion, musica, sonidos, sos un personaje que es como una especie de pintura rupestre y luchas contra otras pinturas rupestres (bastante pintoresco y divertido tengo que admitir).
+
+Tenes posibilidad de mejorar Stats y armamento, tenes como un shop, esta bastante pobre y sin pulir pero la idea es interesante y no esta tan mal ejecutada como parece. Destaco como positivo que tiene cooperativo, logros y cromos, como negativo que la musica se venda por separado, no estoy de acuerdo con eso.
+
+7/10 - Si se hubiera mejorado la propuesta podia ser interesante, sobre todo con algun Workshop para agregar mas contenido y demas.
+Aunque el hecho de poder jugar multiplayer y con remote play, suma mucho.",1697330969,1697330969,True,0,0,0,0,True,False,False,True,,,
+144160445,"{'steamid': '76561198081293192', 'num_games_owned': 4734, 'num_reviews': 3864, 'playtime_forever': 353, 'playtime_last_two_weeks': 0, 'playtime_at_review': 353, 'last_played': 1465720576}",russian,нет,1692004410,1692004410,False,0,0,0,0,True,False,False,True,,,
+142940139,"{'steamid': '76561198995387103', 'num_games_owned': 6510, 'num_reviews': 3379, 'playtime_forever': 321, 'playtime_last_two_weeks': 0, 'playtime_at_review': 321, 'last_played': 1690531173}",schinese,"游戏买家：我看看评论这游戏耐玩不耐玩。
+游戏评论：你玩一万遍这游戏就耐玩了捏。
+
+稀烂的游戏，单独购买，1内都不推荐；如果是包货，看在掉卡成就加一份上，对质量米要求的1内可考虑入库。
+
+we need chinese, we need chinese, we need chinese. 我们需要中文。
+
+202211下，t a o宝，支付宝红包，杉果，本平台，本平台充值折扣掉卡，indie gala，fanatical，humble，daily indie game，loot boy，它处自定义包入的本体约3元。爱人如己，目前就这，看以后追评。有中文的游戏请耐心自研体验乐趣，攻略指南尽量不用。不建议使用外挂，插件，作弊之类的，游戏都要这样搞，那现实里那更是如此了。兄弟萌，强烈建议不要第三方平台的小店买y u额，通过饰品等挂steam市场转的，高概率red信乃至封号，且行且珍惜。",1690531308,1690531594,False,0,0,0,0,False,False,False,True,,,
+137769683,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 301, 'playtime_last_two_weeks': 0, 'playtime_at_review': 301, 'last_played': 1683191838}",english,"Stones of Sorrow is yet another of literally thousands of 2D retro platformers infesting Steam and lowering the average quality of all video games everywhere.  This one has a couple of gimmicks. It's supposed to be a ""metroidvania"" which means as you explore you unlock abilities and you can go back to old areas and access things you couldn't.  Secondly instead of crap 2D retro pixel ""art"" the developers opted for ""real cave paintings"", but given the caveman you control is a caveman with a battleaxe, I call shenanigans.  Nice work with the cavemen knowing at least how to forge bronze or copper weapons though.  So if you think this is going to be even vaguely historically accurate based on the ""real cave drawings"" claim, no. 
+
+From a technical perspective, the game doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+While there are options to change the resolution for the game, all this does is scale up the simplistic 2D art assets used to make the game, which makes little or no difference to the graphics quality.  Without any other substantial graphics tweaks, it's not possible for gamers to improve the lacklustre 2D visuals.
+
+Bewilderingly, the game doesn't include proper audio controls, so you can't turn off the annoying background music, you'll need to alt+tab out and stop the music using the Windows sound mixer.  This is obviously not okay and it's unclear why the developers chose not to include this basic feature.
+
+The controls and game handling are notably very floaty and imprecise.  It's janky and unsatisfying to play... and any experienced gamer will tell you, the handling, responsiveness and general gameplay feel of the control scheme must be well polished for this kind of game to succeed.  Unfortunately, this is something the developer seems to have phoned in, with little to no apparent gameplay testing or polish done.
+
+The controls can't be customised, which will be an annoyance for many, but it can also render the game unplayable for differently-abled gamers.
+
+PC gamers will be insulted by the presence of console peasant children's toy controller prompts, despite this being on PC.  This never even got released on consoles.  Did they try?  Was it rejected? Or did they just get confused and think Steam is where all the console peasants like to hang out?  Developers should try to be aware which platform they're developing for.
+
+These technical defects push this game below acceptable standards for any modern PC game.
+
+You don't have to take my word about how bad the game is, we can measure the interest in a game by how much people bothered to play it.  Stones of Sorrow has achievements, and they show us a very clear picture that the game absolutely failed to capture any interest from gamers.  The most commonly and easily attained achievement is for killing a ""trader"", which you can do in the first 30 seconds of starting the game, but only around 4 percent of players bothered to get that far before uninstalling the game.  That's a tiny, tiny proportion of gamers who even bothered with this.  Ouch.
+
+Reviewing SteamDB to check how popular this game was with players reveals a surprise... there's a very healthy spike in player counts for the game.  But this isn't consistent with the achievement stats, that show only 4 percent of players bothered playing the game for any reasonable amount of time.  How is it possible for this game to have so many concurrent players who weren't even playing the game?  Trading cards.  Players will use card idling software to collect the cards and sell them, but this won't trigger any achievements in-game.  That tells us people only really bought this game for trading cards, and that's a damning indictment of the woeful quality.  A closer look at the numbers shows the game just has a couple of players every week running up the game and idling it for cards, then deleting it.  We must ask how it benefits gamers for there to be so many games like this, with no merit as a serious game, that only generate sales from people idling and selling the trading cards.
+
+Stones of Sorrow is relatively cheap at $3 USD, but it's not worth it. Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.
+",1683192210,1683192210,False,3,1,0.225512847304344177,0,True,False,False,True,,,
+135260300,"{'steamid': '76561199104677416', 'num_games_owned': 1004, 'num_reviews': 493, 'playtime_forever': 222, 'playtime_last_two_weeks': 0, 'playtime_at_review': 222, 'last_played': 1679590323}",turkish,Bu şekilde kart kasabileceğiniz oyunları arıyorsanız hesabımdaki incelemelere göz atabilirsiniz,1679604109,1679604109,True,0,0,0,0,True,False,False,True,,,
+132938864,"{'steamid': '76561198043360910', 'num_games_owned': 1307, 'num_reviews': 420, 'playtime_forever': 137, 'playtime_last_two_weeks': 0, 'playtime_at_review': 137, 'last_played': 1674117189}",english,"grug, easy on the sips",1676507080,1676507080,False,3,0,0.542869985103607178,1,True,False,False,True,,,
+127713764,"{'steamid': '76561199256899694', 'num_games_owned': 0, 'num_reviews': 64, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1656039562}",english,i mean... its a game but its glitch city i want to like this game but i just dont... i would think theres no way to beat this game without running into any glitches  6/10 needs work A LOTTA WORK,1669923899,1669923899,False,0,0,0,0,True,False,False,True,,,
+122611831,"{'steamid': '76561198174925127', 'num_games_owned': 0, 'num_reviews': 2323, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1663815419}",spanish,"★░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░███░██░░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░██░░░█░░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░██░░░██░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░░██░░░███░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░░░██░░░░██░░░░░░░░░░░░░░░░★
+★░░░░░░░░░░░██░░░░░███░░░░░░░░░░░░░░★
+★░░░░░░░░░░░░██░░░░░░██░░░░░░░░░░░░░★
+★░░░░░░░███████░░░░░░░██░░░░░░░░░░░░★
+★░░░░█████░░░░░░░░░░░░░░███░██░░░░░░★
+★░░░██░░░░░████░░░░░░░░░░██████░░░░░★
+★░░░██░░████░░███░░░░░░░░░░░░░██░░░░★
+★░░░██░░░░░░░░███░░░░░░░░░░░░░██░░░░★
+★░░░░██████████░███░░░░░░░░░░░██░░░░★
+★░░░░██░░░░░░░░████░░░░░░░░░░░██░░░░★
+★░░░░███████████░░██░░░░░░░░░░██░░░░★
+★░░░░░░██░░░░░░░████░░░░░██████░░░░░★
+★░░░░░░██████████░██░░░░███░██░░░░░░★
+★░░░░░░░░░██░░░░░████░███░░░░░░░░░░░★
+★░░░░░░░░░█████████████░░░░░░░░░░░░░★
+★░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░★
+",1663817746,1663817746,True,1,0,0.50134044885635376,0,True,False,False,True,,,
+122259906,"{'steamid': '76561198113644015', 'num_games_owned': 687, 'num_reviews': 11, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1514790478}",koreana,가지고 있는 게임중에 가장 똥게임,1663218466,1663218466,False,1,0,0.523809552192687988,0,True,False,False,True,,,
+121982264,"{'steamid': '76561198268993462', 'num_games_owned': 2434, 'num_reviews': 1076, 'playtime_forever': 95, 'playtime_last_two_weeks': 0, 'playtime_at_review': 95, 'last_played': 1592334630}",english,asd,1662735096,1662735096,True,0,0,0,0,True,False,False,True,,,
+113724496,"{'steamid': '76561198267393516', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 30, 'playtime_last_two_weeks': 0, 'playtime_at_review': 30, 'last_played': 1458067189}",english,hot garbage,1649738486,1649738486,False,2,1,0.511278152465820313,0,True,False,False,False,,,
+113278105,"{'steamid': '76561198816518410', 'num_games_owned': 579, 'num_reviews': 448, 'playtime_forever': 48, 'playtime_last_two_weeks': 0, 'playtime_at_review': 48, 'last_played': 1632788241}",english,"Great game, a hidden gem. Simple and very addictive.",1648992079,1648992079,True,0,0,0,0,True,False,False,False,,,
+107618108,"{'steamid': '76561199227258706', 'num_games_owned': 1483, 'num_reviews': 666, 'playtime_forever': 218, 'playtime_last_two_weeks': 0, 'playtime_at_review': 218, 'last_played': 1641237394}",turkish,"kart düşürmelik oyun
+",1641673989,1641673989,True,0,0,0,0,True,False,False,False,,,
+101454404,"{'steamid': '76561198796851430', 'num_games_owned': 927, 'num_reviews': 3718, 'playtime_forever': 6716, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6716, 'last_played': 1645848725}",schinese,"《哀戚之石》这款冒险RPG游戏起初给人留下了深刻的印象，其宣传中的阴郁氛围和复杂的世界构建似乎预示着一场深度的角色扮演体验。然而在实际游玩之后，我发现游戏并未能兑现这一承诺，反而暴露出了一系列问题，使得整体体验大打折扣。
+
+首先游戏的核心机制虽然立意新颖，但执行层面却显得粗糙不堪。战斗系统原本应是吸引硬核玩家的一大亮点，但实际上，战斗难度的曲线设计并不平滑，时常出现突兀的难度飙升，而非基于合理的策略和角色成长。玩家经常会因为过于严苛的敌人平衡性设置和不明确的战斗反馈而感到挫败，而非挑战带来的乐趣。
+
+其次游戏的故事情节虽然设定了一个引人入胜的背景框架，但在剧情推进和人物塑造方面却显得空洞无力。对话选项缺乏实质性的影响力，角色发展较为单一，导致玩家很难真正投入情感去关心这个世界的命运或是自己控制的角色。
+
+再者游戏的技术表现不尽如人意。频繁的卡顿、加载延迟以及偶尔出现的bug，破坏了游戏的整体流畅度。此外尽管环境艺术设计独具匠心，但图形优化不佳，即便是高配置机器运行起来也会出现掉帧现象。
+
+最后玩家社区普遍反映的另一个问题是游戏的内容量相对稀少。尽管开发商可能有意追求硬核和挑战性，但重复性高的任务结构和有限的地图区域，使得长时间游戏后容易产生厌倦感，缺少足够的持久吸引力。
+
+综上所述，虽有其独特的创意和令人向往的世界观，但在实际开发和打磨过程中显然存在着诸多不足。如果开发者能够对游戏机制、剧情深度、技术性能以及内容丰富度等方面做出显著改进，那么这款游戏或许有望成为一款优秀的硬核RPG作品。但就目前的状态而言，对于期待获得深度沉浸式体验的玩家来说，恐怕难以满足他们的期望值。",1634930836,1711351660,False,0,0,0,0,True,False,False,False,,,
+96547570,"{'steamid': '76561199029539546', 'num_games_owned': 0, 'num_reviews': 140, 'playtime_forever': 269, 'playtime_last_two_weeks': 0, 'playtime_at_review': 269, 'last_played': 1627458993}",english,"Great game, a hidden gem. Simple and very addictive.",1627520870,1627520870,True,3,0,0.563492059707641602,0,True,False,False,False,,,
+89193267,"{'steamid': '76561197964247435', 'num_games_owned': 3508, 'num_reviews': 293, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1600390084}",latam,No pierdan su tiempo,1616861619,1616861619,False,2,1,0.518230736255645752,0,True,False,False,False,,,
+87852925,"{'steamid': '76561199045880297', 'num_games_owned': 1029, 'num_reviews': 84, 'playtime_forever': 211, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1614846833}",turkish,Not bad,1614886891,1614886891,True,0,0,0,0,True,False,False,False,,,
+87279016,"{'steamid': '76561198965579543', 'num_games_owned': 34, 'num_reviews': 29, 'playtime_forever': 665, 'playtime_last_two_weeks': 0, 'playtime_at_review': 665, 'last_played': 1614144457}",russian,"[h1] НЕ ПОКУПАТЬ [/h1]
+
+Думал, нууу вот, куплю игру за 6 рубасов от игру с картами, каеф, сейчас поиграю, монет подниму...
+Честно говоря, хочется вернуться в прошлое и сказать себе: ""О чем ты думал, когда покупал этот кусок мусора?""",1614072507,1614072704,False,2,0,0.497196406126022339,0,False,True,False,False,,,
+86609707,"{'steamid': '76561198151845999', 'num_games_owned': 1284, 'num_reviews': 381, 'playtime_forever': 592, 'playtime_last_two_weeks': 0, 'playtime_at_review': 592, 'last_played': 1613289246}",russian,"Нечего сказать, отлично",1613291045,1613291045,True,0,0,0,0,False,False,False,False,,,
+81501590,"{'steamid': '76561198043109558', 'num_games_owned': 2065, 'num_reviews': 508, 'playtime_forever': 133, 'playtime_last_two_weeks': 0, 'playtime_at_review': 133, 'last_played': 1606793915}",russian,"Stones of Sorrow - настоящий арт-хаус, неотесанный и хардкорный, который подкупает своей самобытностью, но отталкивает недостатком заботы автора о геймерах: непосредственно в самой SoS практически не объясняется, как играть в нее ""правильно"". Поэтому если покупатель не догадается прочитать объемное сообщение от разработчика в ответ на один из негативных обзоров в Steam (где описаны совершенно неочевидные нюансы местного геймплея), то велика вероятность, что он распрощается со строптивой игрой через полчаса после старта и влепит ей негативную оценку. Однако поскольку автор действительно потрудился над проработкой игрового процесса, я считаю несправедливым так просто списывать данный проект со счетов.
+
+Технически, SoS - это roguelight: после смерти персонажа игрок вроде как может повлиять на баланс игры, прокачав главгерою очки силы да здоровья или выбив себе скидку у торговцев на все дальнейшие забеги. Вот только прокачка здесь стоит огромных денег, которые можно добыть преимущественно за убийство врагов - и в большинстве случаев умирать герой будет гораздо раньше, чем наберет сумму, нужную для улучшения статов (само собой, после гибели все деньги исчезают). Да и если наберет - бонусы обычно оказываются смехотворными: +3 к жизни (капля в море по меркам SoS) или увеличение шанса критической атаки на пару процентов. Единственным очевидно полезным навыком оказывается каннибализм - способность повышать уровень HP за счет поедания трупов врагов - но и здесь протагонист может рандомно ""подавиться"" куском мяса и умереть на ровном месте.
+
+Таким образом, этот roguelight больше похож на настоящую roguelike: стоит умереть, и герой начинает все с чистого листа (меняется лишь уровень HP финального босса: каждое поражение приносит ему +1 очко здоровья в дополнение к исходным 2000 очкам). Нужно отметить, что для игр жанра roguelike одинаково важны как внутренний баланс (между силой персонажа и мощностью монстров), так и набор навыков протагониста, отточив мастерство применения которых геймер сможет пройти игру до конца. В данном жанре упор делается не столько на прокачку персонажа, сколько на рост скилла самого геймера - т.е. того, насколько хорошо он разбирается в игровых механиках проекта и в паттернах поведения противников, и насколько успешно он может использовать эти знания в условиях постоянно меняющегося игрового мира (карты в котором обычно генерируются рандомно).
+
+На самом деле, в SoS с этим все довольно неплохо, вот только учить игрока выживанию она не собирается - лишь дает инструкцию по управлению персонажем, из которой становится ясно, что он может кувыркаться, прыгать, бить супер-атакой и включать ""отдаление карты"", чтобы лучше ориентироваться в пространстве. Из-за этого остается неочевидным, что перед нами еще одна игра, вдохновленная Dark Souls - с необходимостью перекатов, левел-апов у bonfire'ов и критически важным микроменеджментом уровня стамины.
+
+Если говорить коротко, в SoS есть уйма механик, узнать о которых из самой игры невозможно без покадрового анализа собственного геймплея в записи (например, ""одновременное убийство нескольких монстров одного типа дает больше золота"", ""уровень показателя Agility влияет на скорость уклонений"", ""продолжительность отдаления карты зависит от уровня стамины"" и др.) - в случае с малоизвестным проектом на Steam заниматься настолько подробным исследованием, естественно, никто не станет. К счастью, разработчик упомянул о многих неочевидных взаимосвязях в отдельном тексте (см. [url=https://steamcommunity.com/id/RealEyesRealizeReaLies/recommended/373290/#developer_response] по ссылке[/url]). К сожалению, этот текст не включен в саму игру, а наткнуться на него можно лишь случайно (даже секция ""Руководства"" до сих пор пустует), поэтому неудивительно, что SoS осталась недопонятой большинством игроков - никто не ожидает глубины от очередной кривоватой самоделки на Steam.
+
+Кроме отсутствия туториала у проекта есть и другие недостатки: например, в динамике ""пещерная"" графика выглядит не так круто, как в статике; вместо саундтрека у SoS - дикий нойзкор с гроулингом (от которого к десятой минуте начинает болеть голова); контента не так и много - пещер всего пять, генерируются они рандомно, выход открывается за убийство всех монстров на уровне либо за пожертвование тотему крупной суммы денег (в конце третьей пещеры всегда ждет мид-босс, в конце последней - упомянутый босс с числом ""2000+количество умираний главгероя"" HP в графе ""здоровье""); число типов монстров невелико, разнообразия в оружии - тоже. Однако если знать, как играть в SoS ""правильно"", все это отходит на второй план перед действительно сложным, но в целом справедливым ""рубиловом"" - за что я и ставлю проекту позитивную оценку.
+
+Вердикт: кривоватый, недружелюбный к новичкам, но довольно увлекательный roguelike - по крайней мере, если прочитать и запомнить инструкцию от разработчика с перечислением неочевидных геймплейных тонкостей. Другой вопрос - сколько игроков захотят так утруждаться: автор упоминает, что его проект не для нубов, но с ""трудностью входа"" в игру он, кажется, сильно переборщил (да и ""пещерная"" стилистика с нойзкором вместо саундтрека придется по душе не всем).",1606964997,1616765065,True,7,0,0.544953346252441406,0,True,False,False,False,,,
+76745924,"{'steamid': '76561199065634569', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1664844436}",english,it is not a good game,1601353538,1601353538,False,1,0,0.476190477609634399,0,True,True,False,False,,,
+71264013,"{'steamid': '76561198155452901', 'num_games_owned': 430, 'num_reviews': 30, 'playtime_forever': 14032, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14032, 'last_played': 1522089973}",english,Sometimes I kept wondering if this game was adjusting to a try hard.,1592989869,1592989869,True,0,0,0,0,True,False,False,False,,,
+70800742,"{'steamid': '76561199030889348', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 150, 'playtime_last_two_weeks': 0, 'playtime_at_review': 150, 'last_played': 1592173785}",english,"This game grab my attention with page and video, but surprised not a fun game(",1592173945,1592173945,False,1,0,0.493421047925949097,0,True,False,False,False,,,
+68039399,"{'steamid': '76561198963246032', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 690, 'playtime_last_two_weeks': 0, 'playtime_at_review': 238, 'last_played': 1587908854}",turkish,good,1587880351,1587880351,True,0,0,0,0,True,False,False,False,,,
+62206550,"{'steamid': '76561198031968845', 'num_games_owned': 3082, 'num_reviews': 1695, 'playtime_forever': 282, 'playtime_last_two_weeks': 0, 'playtime_at_review': 282, 'last_played': 1579654455}",turkish,Başka bir böş oyun daha,1579654486,1579654486,False,1,0,0.49126666784286499,0,True,False,False,False,,,
+61562974,"{'steamid': '76561198032270031', 'num_games_owned': 2081, 'num_reviews': 36, 'playtime_forever': 189, 'playtime_last_two_weeks': 0, 'playtime_at_review': 189, 'last_played': 1577786770}",english,"Great game, a hidden gem. Simple and very addictive, I personally loved the art of this game. Very glad I actually tried it. Controls maybe confusing at start, but when you figure out the mechanics you`ll rush through enemies like ancient sword through feces :D
+
+All in all, I recommend it.",1578559823,1578559823,True,0,1,0,0,False,False,False,False,,,
+60781725,"{'steamid': '76561198098486618', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 69, 'last_played': 1581353808}",english,"I really don't care what these other neanderthals say about this game, it's insanely chaotic, brutish and violent and it's awesome; it's that hidden diamond in the rough which is greater than the sum of its parts, exactly because it is so shambolic and rough around the edges. I keep coming back to it, because wildly clubbing abstract beasts of yore in showers of blood whilst somersaulting like Tom Daly on amphetamine...on the moon is...well...fun",1577566570,1577566570,True,1,1,0.517241418361663818,0,True,False,False,False,,,
+54257620,"{'steamid': '76561198083413093', 'num_games_owned': 3787, 'num_reviews': 2801, 'playtime_forever': 376, 'playtime_last_two_weeks': 0, 'playtime_at_review': 376, 'last_played': 1563906648}",turkish,"░░░░░░░░░░░████
+░░░░░░░░░░░█░░█
+░░░░░░░░░░█░░░█
+░░░░░░░░░█░░░░█
+██████▄▄█░░░░░███▄
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░░█
+▓▓▓▓▓█░░░░░░░░░░░
+░░░░░░░░░░░░▀▀",1563906784,1563906784,True,0,0,0.469798654317855835,0,True,False,False,False,,,
+50765743,"{'steamid': '76561198008107842', 'num_games_owned': 0, 'num_reviews': 925, 'playtime_forever': 165, 'playtime_last_two_weeks': 0, 'playtime_at_review': 165, 'last_played': 1463058547}",koreana,"이건 게임이 아닙니다.
+",1558532258,1558532258,False,4,2,0.472466021776199341,0,False,False,False,False,,,
+49604767,"{'steamid': '76561198057529102', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 5, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1552790044}",english,"this game is a hot mess, 10/10",1552790157,1552790157,False,0,0,0.438497871160507202,0,True,False,False,False,,,
+49292915,"{'steamid': '76561197978907605', 'num_games_owned': 648, 'num_reviews': 85, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1551432698}",english,Really.. Really not a good game.,1551436713,1551436713,False,1,0,0.470219433307647705,0,True,False,False,False,,,
+43517049,"{'steamid': '76561198025515797', 'num_games_owned': 1132, 'num_reviews': 64, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1531542604}",english,"only a genius could come up with a concept as complex and engaging as this. 10/10.
+pause game and press A to exit
+
+2 drummers
+1 bassist + vocals
+
+10/10
+
+10/10
+
+ten/10",1531542715,1531542902,True,1,0,0.378612875938415527,0,True,False,False,False,,,
+40115993,"{'steamid': '76561198000567732', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1518752954}",english,tRULY THE DARK SOULS OF CAVE PAINTING GGAMES,1518752981,1518752981,True,0,0,0.462221860885620117,0,True,False,False,False,,,
+36475882,"{'steamid': '76561198092739757', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 219, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1510510227}",russian,"Отличная игра,советую всем",1510509849,1510509849,True,0,0,0,0,False,False,False,False,,,
+35850298,"{'steamid': '76561198135438892', 'num_games_owned': 4732, 'num_reviews': 5177, 'playtime_forever': 768, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1510610922}",romanian,Very nice game,1508450071,1508450071,True,0,0,0,0,False,False,False,False,,,
+35615846,"{'steamid': '76561198174444426', 'num_games_owned': 723, 'num_reviews': 71, 'playtime_forever': 151, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1507614119}",schinese,"夏姬八跳, 夏姬八砍.",1507637186,1507637186,False,6,3,0.544835209846496582,0,False,False,False,False,,,
+35304657,"{'steamid': '76561198068982092', 'num_games_owned': 909, 'num_reviews': 401, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1506307149}",english,"So I read [url=http://steamcommunity.com/id/Tynon_1221/recommended/373290/]this review[/url] and the Dev's response below. It convinced me to try out the game.
+
+Unfortunately, all the good ideas are overshadowed by the clunky gameplay, animation and horrible UI. Overall the game lacked some polishing to make it enjoyable to me.
+
+I'd be curious to see this guy work on something with a better budjet or team but Stones of Sorrow is just not worth playing to me.",1506704000,1506704000,False,8,0,0.632237374782562256,0,True,False,False,False,,,
+35203554,"{'steamid': '76561197961774441', 'num_games_owned': 761, 'num_reviews': 101, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1506348572}",english,"I got this game expecting it to be bad, but it surprised me! Even worse than I thought, I'm organizing my games and this one sits at the top 3 of the Trash category. -10/10",1506348658,1506348658,False,1,7,0.333589464426040649,0,True,False,False,False,,,
+35090385,"{'steamid': '76561198076256311', 'num_games_owned': 809, 'num_reviews': 6, 'playtime_forever': 123, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1677143748}",russian,"Купил эту игру за 14 рублей, и после получаса ""игры"" (читай: возни с управлением на DInput-геймпаде) понял, почему она так часто продаётся с такой огромной скидкой. При запуске уже после логотипа Unity ясно, что эту игру делали на коленке любители мясакровикишок и хуёвого митола - нас приветствует заставка с текстом, который читает очень пытающийся при этом грозно рычать чувак. История эта - которую чувак рычит - написана пусть и не столь ужасно, как the Eye of Argon (загуглите, весёлая тема), но близко к этому. После такого очень малообещающего начала запускается сама игра - и боже ж ты мой, что с управлением? Какого хера кажется, будто каждая из кнопок залипла? Какого хрена иногда HUD отключается сам по себе? Как так вообще вышло, что даже движение персонажа, без нажатия каких-либо кнопок, кажется настолько вне контроля игрока? В общем, если любите треш - сыграйте. К тому же в игре есть ко-оп режим на четырёх (!) игроков, чтобы под пивко поугорать с дружбанами над этим дерьмом. Именно этим я в ближайшее время и займусь.",1505934664,1505934664,True,1,1,0.519999980926513672,1,True,False,False,False,,,
+34878149,"{'steamid': '76561198027267313', 'num_games_owned': 1838, 'num_reviews': 4460, 'playtime_forever': 170, 'playtime_last_two_weeks': 0, 'playtime_at_review': 170, 'last_played': 1505942153}",english,"Tags: Platformer - Metroidvania
+Additional Tags: Delete Local Content & Remove from Library
+
+TLDR: Inferior in every way to Apotheon 
+http://store.steampowered.com/app/208750/Apotheon/
+
+Blood Splatters, cave paintings and heavy metal with Xbox360 pad support are good. However, zoomed in camera on protagonist, bland boring hard to navigate platforms, randomly spawning foes, floaty combat, insta-death, bad user interface, no resolution options and many other issues really drag the value proposition down. I found that the only redeeming factor was the tone and art direction and even in that area it is completely outcompeted by Apotheon",1505114664,1509672450,False,0,0,0,0,True,False,False,False,,,
+34204176,"{'steamid': '76561198116961162', 'num_games_owned': 285, 'num_reviews': 11, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1502589476}",spanish,"El juego es bueno, la historia interesante.
+es facil de jugar pero tiene una alta dificultad.
+en cuanto graficos se puede trabajar ya que son regulares.
+Musica espectacular.
+
+Se los recomiendo si quieren pasar un rato divertidocon un plataformer simple",1502589681,1502589681,True,3,1,0.564102530479431152,0,True,False,False,False,,,
+34079805,"{'steamid': '76561198017951379', 'num_games_owned': 571, 'num_reviews': 66, 'playtime_forever': 149, 'playtime_last_two_weeks': 0, 'playtime_at_review': 149, 'last_played': 1502104845}",english,"5 min - God, it's amazing
+20 min - Eww, it's awful
+45 min - Not.. that bad..
+1 hrs - Wanna get some real upgrades
+1,5 hrs - Just wanna see the boss and then quit
+2 hrs - That's was easy lol (beat the game)
+
+Idea, art and sound are great. Combat system and platforming are broken.
+In sum I think game is not too bad. Bad is what it developed in Unity. That is why we have what we have.
+
+P.S. And yes, I get tired of grindcore in 30 min and start listening a Ghost B.C. I't good for atmosphere too.",1502105389,1502106316,True,0,1,0.472102999687194824,0,True,False,False,False,,,
+33005941,"{'steamid': '76561198204282676', 'num_games_owned': 1430, 'num_reviews': 100, 'playtime_forever': 14, 'playtime_last_two_weeks': 0, 'playtime_at_review': 14, 'last_played': 1498762588}",schinese,"实际游戏音乐完全没有预告片那种诡异感，胡乱配了点金属摇滚即单调又没什么意思，完全被BGM折磨而无法带来任何游戏体验上的增益，建议关掉声音。
+上来也是一堆操作说明胡塞给你了，靠你自己琢磨了，很原始，很粗暴
+打击感和被打击感也没有，你也不知道自己被打中没有，而且什么时候被打中了，没有什么明显的动作或者是声音的反馈（游戏其他部分多屎都不如这一处缺点致命），见到人就上去蹭，不是你死就是我活，虽然这样基本都是永远困在一二关循环。
+虽然左上角有状态栏和一些人物数值，但是太小了，你根本看不见，也没功夫去盯着那个小小的状态栏，其他的字也是小得逼你脸贴着屏幕来看，就不能做大点吗
+整体界面挺糙的，眼睛累
+武器其实挺酷的，那些敌人的形象设计就这种风格来说其实也挺酷的（电波对得上），但是操作一点都不酷
+我是真的不喜欢这个游戏的音乐，屎爆了
+
+原始人壁画风的画面确实有点意思，但是玩起来落差感实在太大，打折后3元的价格符合游戏质量，也可以了。",1498763966,1498763966,False,7,0,0.576932191848754883,0,True,False,False,False,,,
+32469476,"{'steamid': '76561198158994100', 'num_games_owned': 148, 'num_reviews': 11, 'playtime_forever': 143, 'playtime_last_two_weeks': 0, 'playtime_at_review': 143, 'last_played': 1495637115}",turkish,bunu oynuyacağınıza dışarda saklambaç oynayın daha güzel amk oyunu kağıt gibi anca zıplıyosunuz,1497606668,1497606668,True,0,0,0,0,False,True,False,False,,,
+32213041,"{'steamid': '76561198197943921', 'num_games_owned': 0, 'num_reviews': 29, 'playtime_forever': 133, 'playtime_last_two_weeks': 0, 'playtime_at_review': 131, 'last_played': 1514496861}",english,"This game is... Frankly Bizzare. In the best of ways. Honestly It makes no sense XD but That doesnt really matter because it is just so unique. I mean the concept is fabulous, and the excecution is... a little disconcerting. But either way, it is a fun little game. It plungles you into a freaky world of cave paintings, and you basically run around bludgeoning things to death with a club. Or cutting them with some sort of bladed weapon. As long as reamains inexpensive, I say buy it; Fun is fun*. 
+
+*(Note: Its very unforgiving, and a tad brutal. But still fun)",1496721594,1496721594,True,3,0,0.516430795192718506,0,True,False,False,False,,,
+31880096,"{'steamid': '76561198383577446', 'num_games_owned': 6211, 'num_reviews': 499, 'playtime_forever': 242, 'playtime_last_two_weeks': 0, 'playtime_at_review': 239, 'last_played': 1590114859}",schinese,这个游戏玩法很简单暴力，就是到处找怪杀，然后解锁门去下一场景  场景比较简陋封闭 好多敌人不知道哪刷出来的 有的直接从天上掉下来。这游戏音乐也比较另类不知道是不是碾核听起来好难受不知道为啥要配这样的音乐。像坏掉的拖拉机在马路上跑的声音。这游戏不好玩，感觉没啥目的也没剧情，就是见东西就砍砍 有伤害数值 自己也有HP。,1495363669,1495363669,True,3,0,0.499818712472915649,0,True,False,False,False,,,
+30970121,"{'steamid': '76561198017497072', 'num_games_owned': 0, 'num_reviews': 91, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1491518868}",english,"AND THERE GOES MY COUSIN
+
+WHOSE FAMILY MINE HAS SAVED
+
+THAT TRIED THE VERY BEST TO DESTROY OURS
+
+WORD FOR WORD
+
+STONE FOR STONE
+
+
+iow, great game for the reflections",1491434182,1491434182,True,6,4,0.498865783214569092,0,True,False,False,False,,,
+30144181,"{'steamid': '76561198011426388', 'num_games_owned': 603, 'num_reviews': 231, 'playtime_forever': 394, 'playtime_last_two_weeks': 0, 'playtime_at_review': 384, 'last_played': 1565189389}",english,"i guess the grindcore soundtrack was nice
+
+The rest is complete garbage",1487952079,1487952079,False,3,0,0.469280153512954712,0,True,False,False,False,,,
+29503717,"{'steamid': '76561198013288876', 'num_games_owned': 1732, 'num_reviews': 86, 'playtime_forever': 232, 'playtime_last_two_weeks': 0, 'playtime_at_review': 232, 'last_played': 1485443824}",english,"This is a tedious game with no replay value after it's been completed. The only thing that makes it last long is how easy it is to die, and once you've worked out the formula that will almost never happen. Don't waste your money on this awkard little game that should've stayed on Newgrounds.",1485445344,1485445344,False,10,0,0.585540592670440674,0,True,False,False,False,,,
+28651318,"{'steamid': '76561198286200379', 'num_games_owned': 0, 'num_reviews': 1491, 'playtime_forever': 112, 'playtime_last_two_weeks': 0, 'last_played': 1482712791}",brazilian,Legalzin vale a pena,1482707915,1482707915,True,0,1,0,0,True,False,False,False,,,
+28019776,"{'steamid': '76561198063418295', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1467061704}",english,"Cringy soundtrack, cringy dialogue, confusing gameplay elements, choppy frame rates; will probably only give you 5 minutes of enjoyment tops. On sale it costs 75 cents. Just don't pay full price for it.",1480392097,1480392097,True,0,0,0.470604866743087769,0,False,False,False,False,,,
+27898635,"{'steamid': '76561198055912802', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1518972080}",english,Do not play this game unless you use an xbox controller. Completely shit ui for changing your controls if you use anything else. Can't even play the game because of this issue.,1480290028,1480290028,False,1,0,0.4878215491771698,0,True,False,False,False,,,
+26632161,"{'steamid': '76561198091667563', 'num_games_owned': 0, 'num_reviews': 9, 'playtime_forever': 355, 'playtime_last_two_weeks': 0, 'playtime_at_review': 211, 'last_played': 1620353139}",english,i didnt expect dat game to be so good!! amazing,1479315317,1479315317,True,1,2,0.396402984857559204,0,False,False,False,False,,,
+26585554,"{'steamid': '76561198011965365', 'num_games_owned': 2442, 'num_reviews': 2091, 'playtime_forever': 141, 'playtime_last_two_weeks': 0, 'playtime_at_review': 141, 'last_played': 1479590688}",english,"For a free game this was actually pretty fun! The game kinda lags and gets chopy at times but the battleing and blood is where its at! Found myself screaming and yelling ""sparta"". Boss fights are ehhh but when playing this with 3 other players this game gets even better!",1479058311,1479058311,True,4,0,0.492027014493942261,0,False,True,False,False,,,
+25416593,"{'steamid': '76561197999428331', 'num_games_owned': 4960, 'num_reviews': 39, 'playtime_forever': 114, 'playtime_last_two_weeks': 0, 'playtime_at_review': 114, 'last_played': 1473374193}",english,"I cut myself on this game's edge and had to get stitches.
+
+In seriousness, it just isn't very fun. It has a metal tone to it, but mostly rips off Dark Souls in brutality and level ups. The levels are dark and boring, and don't matter much because the money that spawns on the ground isn't worth it and almost all enemies trickle down to the lowest point.",1473368476,1473368476,False,0,0,0.462962955236434937,0,True,False,False,False,,,
+25044859,"{'steamid': '76561198110567161', 'num_games_owned': 0, 'num_reviews': 24, 'playtime_forever': 1345, 'playtime_last_two_weeks': 0, 'playtime_at_review': 739, 'last_played': 1631468921}",english,This is good.,1471746920,1471746920,True,4,0,0.40537688136100769,0,True,False,False,False,,,
+24793983,"{'steamid': '76561198005271335', 'num_games_owned': 0, 'num_reviews': 200, 'playtime_forever': 90, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1470751524}",english,"I don't think I've encountered a game so poorly designed yet.
+
+Your character would jump as much time as he pleases. He would attack when he likes it. There's no such things as ""timing"" or ""hit detection"". There's no such thing as tutorial.
+
+Oh, and the soundtrack, good god, is that even music, or is that some bum hitting on a trash can with a big stick and growling unintelligibly?
+
+Overall, I don't even know who might like this game, honestly.
+
+Would I recommend it? No, not by a long shot.",1470751159,1470751159,False,1,1,0.492213934659957886,0,True,False,False,False,,,
+24476552,"{'steamid': '76561198139612214', 'num_games_owned': 343, 'num_reviews': 9, 'playtime_forever': 24, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1478357896}",english,Best LSD Trip ever :),1469268390,1469268390,True,1,1,0.471976399421691895,0,True,False,False,False,,,
+24153814,"{'steamid': '76561198068116558', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1467884821}",russian,"Интересный концепт, мрачный стиль и ужасный геймплей. Купил на распродаже, что бы особо не пожалеть о покупке. Однако игра сделана из рук вон плохо. Я понимаю как тяжело сделать игру, но какой смысл в продукте в который практически невозможно играть? Управление тормозит, отклик удара вместе с замахом примерно 2.5 секунду, прыжки на пять километров и толпы врагов которые отнимают по половине здоровья. Крайне сложная инбалансная игра с дерьмовым управлением. Не стоит своих денег.",1467885690,1467885690,False,6,0,0.602201104164123535,0,True,False,False,False,,,
+24141591,"{'steamid': '76561198073648775', 'num_games_owned': 0, 'num_reviews': 138, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1467833165}",english,"After reading a negative review and the dev's kind reply, I bought the game for the sale price of 75 cents.  I like the game and do not find myself running low on stamina as others have complained about.  It is a brutal, bloody game using cave painting graphics.
+
+It is easy to play with keyboard and mouse.  If you die, it's usually your own fault for jumping and swinging too much.  There are many places to get away from battle to regain health & stamina.
+
+The game has RPG elements too.  You level up and distribute points into stats.  It's a fun game!  I recommend this game to anyone that likes bloody dismemberment with rockin music!",1467834056,1467834136,True,4,0,0.517369687557220459,0,True,False,False,False,,,
+24119886,"{'steamid': '76561198130514798', 'num_games_owned': 1423, 'num_reviews': 72, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1453943716}",english,"Gameplay sucks. Story is confusing. Looks like crap. Glitchy mechanics. The soundtrack will make your ears bleed.
+
+0/10 I want my 75 cents back",1467755948,1467755948,False,0,0,0.420743614435195923,0,True,False,False,False,,,
+24094664,"{'steamid': '76561198028739405', 'num_games_owned': 315, 'num_reviews': 11, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1467670515}",english,Brutal,1467670542,1467670542,True,4,0,0.466975778341293335,0,True,False,False,False,,,
+23974421,"{'steamid': '76561198044605881', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 314, 'playtime_last_two_weeks': 0, 'playtime_at_review': 314, 'last_played': 1467346086}",english,"The game is fun it's a cool concept, and I like the atmosphere, but it has some frustrating game-breaking bugs that make it too easy to get stuck in unbeatable situations after investing a shit-ton of time:
+
+Bug 1:  If you get the stone which allows traders to sell one more item than normal before moving, the trader sells 3 items and then will never sell to you again.
+
+Bug 2: In the cave where you have to pay a certain fee to get to the next cave and there is no option to just kill the entire enemy horde to advance, enemies should spawn indefinitely until you have enough money.  Instead, after spending money on upgrades, it turns out there aren't enough enemies left to harvest for money and it is impossible to continue to the next cave.
+
+Bug 2 is the one that made me give up on the game.  Either the bugs need to be fixed or the game needs to have cheat-codes implemented so players can fix this shit when it comes up.",1467346598,1467346598,False,6,1,0.561764657497406006,0,False,False,False,False,,1467714695.0,"Dear Mr.Crane
+Thank you so much for playing and discovering some nasty bugs. Update 1.2.4 is now live and hopefully all game breaking bugs are now crushed!
+
+Bug nr.1 - I had one line of code unchanged since introducing that item into the gameplay and feel quite embarrassed for not noticing it before. 
+
+Bug nr.2 - the jumping monster with the long tail seemed to glitch through walls in rare conditions and that may have been the reason for not being able to advance a level. The colliders on that particular enemy were sadly broken. Players see that everyone is dead but in reality some monsters escaped into the void. He received bigger colliders now and if it ever tries to glitch again, it will die and give you gold. Simulations right now are promising and hopefully it is fixed for good.
+
+Fixed also other small problems I discovered during recent testing. Drunkard was able to speak while being dead. Little Turnip the Weapon trader was immortal since the last update.
+
+Also added a monster counter to see how many of those deadly creatures still roam in the caves!
+
+Have a wonderful summer day and take care!"
+23544939,"{'steamid': '76561198136894276', 'num_games_owned': 0, 'num_reviews': 66, 'playtime_forever': 670, 'playtime_last_two_weeks': 0, 'playtime_at_review': 297, 'last_played': 1468106803}",german,"
+Sobald man sich auf dieses Spiel eingelassen hat, entwickelt sich rasch mehr Spielspass als anfangs erwartet.
+KAUFEN
+
+Fazit:
+
+STONES OF SORROW ist besser als ich erwartet hatte!
+
+Es ist eine Art Hack&Slash Game für zwischen durch!!
+
+STONES OF SORROW ist sein Geld auf jedenfall Wert!!!",1465863419,1465863419,True,2,0,0.455721735954284668,0,True,False,False,False,,,
+23388081,"{'steamid': '76561198117398011', 'num_games_owned': 98, 'num_reviews': 18, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 5, 'last_played': 1465075116}",english,"It's pretty fun tbh. It's not my type of music or game, and my type of controller isn't the type supported... but I think that it deserves a lot more than what it is getting.",1465075265,1465075265,True,1,0,0,0,True,False,False,False,,,
+23177600,"{'steamid': '76561198192644838', 'num_games_owned': 178, 'num_reviews': 7, 'playtime_forever': 325, 'playtime_last_two_weeks': 0, 'playtime_at_review': 285, 'last_played': 1501536357}",english,"Rather short but fun game. Don't be fooled, this ain't your typical hack and slash, you have to figure out the games mechanics first. Music might be irritating at first but personally I started digging it and think it matches the game.",1464076522,1464076522,True,2,0,0.494398713111877441,0,True,False,False,False,,,
+23118751,"{'steamid': '76561198063978413', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 128, 'playtime_last_two_weeks': 0, 'playtime_at_review': 128, 'last_played': 1463615817}",brazilian,"A ideia original é ótima, mas o jogo foi mal desenvolvido. As animações, personagens e jogabilidade são muito ruins. Disperdiçaram uma boa proposta e um bom título.",1463844704,1463844704,False,4,0,0.583753764629364014,0,True,False,False,False,,,
+23022014,"{'steamid': '76561198033855360', 'num_games_owned': 0, 'num_reviews': 68, 'playtime_forever': 402, 'playtime_last_two_weeks': 0, 'playtime_at_review': 402, 'last_played': 1463377832}",japanese,"原始時代を舞台に、手下に裏切られた族長が、
+生き残りと復讐のために閉じ込められた洞窟からの脱出を目指す
+2D横スクロールアクションゲーム。
+ラスコー辺りの洞窟壁画を丸パクリしたキャラクターは、
+乱雑だけどプリミティブな力強さがあって
+なかなかいい味を出してます。
+
+が、アクションゲームとしては極めて難あり。
+敵味方ともに攻撃のヒットエフェクトや効果音、予備動作の類が
+全く出ないので、モーションのどこを当てればいいのか、
+どれに当たってはいけないのかが滅茶苦茶分かりにくいうえ、
+ボタンを押してアクションが起きるまでの反応時間が
+どうにもまちまちなため、手応えが悪くて全体的にもっさりした
+悪夢のように劣悪な操作感。
+
+それでいてゲーム自体は極めて単調で、ランダムに生成される
+ステージ地形の中に、これまたランダムに湧いてくる敵を
+一定以上倒せば次に進めるよというだけ。そのくせやたらと
+敵の攻撃力は高く、しかも数で押してくるので、
+前述の劣悪な操作性もあって、まともに相手をしても
+勝ち目はありません。で、どうなるかというと、
+スタミナゲージを消費して撃てる一撃必殺攻撃を
+撃っては逃げて撃っては逃げての繰り返しを
+強いられるという底の浅さ。全5ステージという短さですが、
+これ以上続かないでくれて心底ホッとするくらいです。
+
+あと、ゲームの売りのはずの要素がことごとく滑ってるのも
+問題で、例えば血しぶき！ゴア！とか言ってますが
+キャラは壁画絵まんまの棒人間風味なんで生々しさは皆無だし、
+死んだ時に手持ち資金を使ってキャラを強化できるんですが
+なんか全体的に効果は微妙でそんなんなくてもクリアできるし、
+数少ない体力回復手段に死体食いスキルがあるんですが
+これ結構な高確率で死肉を喉に詰まらせて窒息死するんで
+怖くて使えたもんじゃないし、なんかもうとにかく
+ゲームとして雑。出来の悪いフラッシュゲームくらいだと考えて
+ちょうどいいくらいです。
+
+じゃあなんで親指立ててるのかというと、
+どうにも開発者を嫌いになれないんですよ、これが。
+起動直後のOPで、ノリノリのデスボイスに
+いかにも芝居ががった発音で物語を読み上げる開発者。
+そしていざゲームが始まれば、流れる音楽は
+開発者がリーダーを務める前衛デスメタルバンド
+（メンバーはベース＆ボーカル、ドラム、ドラム）が
+奏でる、地の底で唸るようなノイズ系楽曲。
+
+もうね、お前自分の好きなことだけ詰め込みすぎでしょ。
+いまいち理解しがたいんだけど、たぶん洞窟壁画も
+この人にとっては性的嗜好の対象かなんかなんだと思う。
+とにかく俺はこれが好きなんだ！ってのを
+全力で叩きつけてることだけは痛いほど伝わってくるんで、
+こういうの否定したくないんですよ。
+
+あと、フォーラムで「壁画の著作権処理どうしてんの？」って
+聞かれた開発者が、「俺が死んで墓に入ったら
+話つけに行ってくるぜ！」って答えてるのがすごい面白かった。
+だから親指は立てます。
+でもゲームとしてはどう考えても駄作なんで、
+そこんところはくれぐれも間違えないでください。",1463412749,1463412749,True,47,51,0.837455213069915771,2,False,False,False,False,,,
+22648339,"{'steamid': '76561198127474413', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1461681871}",english,"This game is just......uh....uh.....IT'S A STEAMING PILE OF CROPROLITES!!!!
+
+I mean I guess with more time this game could be something, but for now I'm giving it a NO!",1461687601,1461687601,False,1,1,0.368064671754837036,0,True,False,False,False,,,
+22558121,"{'steamid': '76561198041663373', 'num_games_owned': 331, 'num_reviews': 23, 'playtime_forever': 195, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1480198358}",russian,как в тебя играть?,1461280185,1461280185,True,8,16,0.464378327131271362,0,True,False,False,False,,,
+22503501,"{'steamid': '76561197977373072', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1518384793}",english,"Bought this because the first Nile album is the best Nile album
+The intro has a Morbid Angel reference
+The achievements are metal
+Turns out I've known the dev's band for like 10 years
+Vocals are on par with Matti Way, Angel Ochoa etc",1461005147,1461005147,True,2,1,0.418715327978134155,0,True,False,False,False,,,
+22502353,"{'steamid': '76561198038648692', 'num_games_owned': 1467, 'num_reviews': 45, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1451518424}",english,"Hard but fun game, and seemingly likeable dev. Also great soundtrack if you like that kind of music :)",1461001450,1461001450,True,2,1,0.404952138662338257,0,True,False,False,False,,,
+22252032,"{'steamid': '76561198142164687', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1451887886}",english,"Noice game
+Could do with some improvement, but is pretty good
+(Like a tutorial or something)",1459861543,1459861543,True,0,0,0.402005761861801147,0,True,False,False,False,,,
+21318713,"{'steamid': '76561198005312887', 'num_games_owned': 0, 'num_reviews': 41, 'playtime_forever': 31, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1578605636}",english,"I gave it a shot because of the low price, but it's a bit unpolished. I feel like it was worth the price to give it a go, but Steam asks if I recommend it or not and I have to say no.
+
+It has an interesting art style and concept, but everything about the gameplay feels slippery and unrefined. Movement feels like you're on ice, the player character keeps moving after you let go of a key which is frustrating, especially when you fall off a cliff (there's no fall damage, but you have to jump back up again). Levels are uninspired, there's no value to the verticality and not much to reward exploration, levels being too small to really explore anyway.
+
+Attacks are fiddly, it's the sort of game that queues up commands so if you spam attack it will sit there and do as many attacks as you clicked the mouse for before you can do anything, which you can get used to but sometimes the game just doesn't seem to register commands. Pressing a key to turn and face an enemy often wont, why I couldn't say. I've read from the developer that attacks will hit when you have stamina, and you swing the weapon and the blade passes through the hitbox of an enemy, but I have witnessed on multiple occasions attacks with full stamina making contact and doing ... nothing.
+
+I found no real way of healing, it says in the control scheme to press R to eat corpses and I spammed the shit of the R key and ... nothing. Corpses lay on the ground uneaten and my health unrestored. I got one pickup which regens health at 3 points every ten seconds you don't get hit, which makes for mind numbingly boring gameplay waiting for your health to crawl back up. I fail to see how you can get through more than a few levels of this game with the glitchy attack animations and no heals.
+
+So what you have here is a good concept that I don't exactly regret trying, but I wouldn't recommend buying it.",1455893808,1455893808,False,17,2,0.670697927474975586,0,True,False,False,False,,,
+20616376,"{'steamid': '76561198037822639', 'num_games_owned': 0, 'num_reviews': 30, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1453167097}",english,"Pretty poor, amateurish game. It sounds like it's trying to be ""hardcore"" and ""metal"", but the graphics look like wonky playdough figurines made by a 3 year old. There is a painfully obvious lack of sound effects in game, and for all the over-the-top bloodsplatter, the threadbare animations leave no sense of satisfaction or feedback in combat.
+Apparently there are more in-depth mechanics involving stamina and how much you can jump/roll/etc, but they are poorly if at all explained, and there is practically no visual indication of them.
+This game is not Beta, it's not even Alpha. It looks like a hastily slapped-together proof-of-concept never intended to see the light of day.
+I got this game for less than a dollar on sale. I barely regret the cost but I want the 8 minutes of my life I spent playing this game back.",1453168013,1453168013,False,3,0,0.433880865573883057,0,True,False,False,False,,,
+20416190,"{'steamid': '76561198047905904', 'num_games_owned': 0, 'num_reviews': 73, 'playtime_forever': 45, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1521651410}",english,"complete trash. it uses a ton of music from actual bands that i highly doubt it has any legal rights to use. all the controls are completely unresponsive, from moving, to jumping, to attacking. sometimes they work, sometimes they dont. it has NOTHING to do with stamina. sometimes when you attack enemies, nothing happens. but every enemy can easilly kill you and will hit every time they swing their ""wepon"". even if they are nowhere near you.
+
+you collect money to level up, but the level ups are pointless. you can only recover health by spending all your money at a shop and hoping its random drop is health. its usually 30 different crappy wepons you cant get rid of however, and then have to cycle through every time you pick up something new, to find the highest attack again. usually youlll have to cycle multiple times, since the wepon or relics effect/stats are displayed for all of 1/10th of a second most of the time. increasing strength slightly increase damage, you can increase dodge roll ""speed"" which dosent actually seem to do anything, and increase your health. even with max health, youll die in no time at all. even with all the perks (which you can only buy 1 of each death, regardless of your money), you dont stand a chance. you can eventually eat corpses i you cheat enough money in (youre not doing this legit. dont lie.), but youll die about 1/3 of the time when you eat a corpse, and they provide hardly and health.
+
+this game is complete trash. a waste of 99 cents.  no responses from the developer can possibly change this. and i hope that the ""developer"" is stealing the music, so he can spend some time in prison away from ""developing"" ""games"".",1452329847,1452329847,False,5,4,0.212965995073318481,0,True,False,False,False,,,
+20021909,"{'steamid': '76561197982806884', 'num_games_owned': 492, 'num_reviews': 54, 'playtime_forever': 306, 'playtime_last_two_weeks': 0, 'playtime_at_review': 306, 'last_played': 1451277158}",brazilian,"Jogo tosco. Só dois tipos de golpe que aparentemente causam o mesmo dano, as letras de descrição dos ítens ficam desaparecendo muito rápido ou nem mesmo aparecem, o menu é confuso. Quando tem muitos inimigos concentrados em um só lugar, você acaba morrendo instantaneamente, sem change nem para usar seu golpe mais forte. As músicas ajudam na ambientação, mais poderiam ser mais variadas. História sem sentido.
+
+Apesar de tudo o jogo me cativou pela ambientação e pelo clima opressivo. As pinturas rupestres ajudam a transmitir esse clima bizarro, com suas formas distorcidas.
+
+Gostei!",1451278394,1451278394,True,0,0,0,0,True,False,False,False,,,
+19692430,"{'steamid': '76561198207234148', 'num_games_owned': 0, 'num_reviews': 53, 'playtime_forever': 162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 162, 'last_played': 1450220847}",english,"The intro to this game, man, this is Real. Pure, brutal underground software, from the soundtrack to the difficulty. Take time to read the control scheme (Esc)-- progression through skill is pretty rewarding. Making the endgame harder from death is unrelenting. The Best dollar I've spent since I was 10, buying the styrofoam Focke Wulf aeroplane toy from the local convenience store. As a side note, digging into Neoandertals on YT because of this game was well worth the asking price. Only gripe is the 'slippery' nature of the main character's movements in gameplay. Otherwise \m/",1450093144,1468944394,True,12,1,0.489663392305374146,0,True,False,False,False,,,
+19690510,"{'steamid': '76561198034175333', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1450059516}",english,3/10,1450080337,1450080337,False,2,1,0.414885342121124268,0,True,False,False,False,,,
+19644946,"{'steamid': '76561198025696372', 'num_games_owned': 500, 'num_reviews': 25, 'playtime_forever': 114, 'playtime_last_two_weeks': 0, 'playtime_at_review': 110, 'last_played': 1474218601}",english,"This game as simply and wierd as it is, for a reason i do not know, is a blast. completely worth 1 dollar 
+Edit: The sheer carnage of charging through 8 ""things"" is amazing. 10/10",1449898520,1449899012,True,8,0,0.39153251051902771,0,True,False,False,False,,,
+19560571,"{'steamid': '76561197984221942', 'num_games_owned': 1744, 'num_reviews': 27, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1452064392}",english,"Just, what the fuck.
+You're greeted instantly by a terrible voice-over story with no background music, bad vocal quality and editing, and a painful accent, which ends with as much abruptness as it begins. Immediately you're thrust into fire and death. The soundtrack tries just as hard as the UI and the controls to confuse and terrify you, immediately blasting you with metal riffs that personally sound like they were designed to make your ears bleed as soon and as often as possible. I know there are a lot of artistic decisions here - but the game feels as though it was coded on the same stone tablets the art was drawn on.
+It's clunky, patched-together, and even though it looked like there was a lot of interesting things going on - the lack of visual clarity (both with the small, scrunched up font, and the general unpolished feel of the whole game) really made this not worth getting into.
+Honestly, I would have been a lot more harsh with this game, but from what I understand, the dev is a really nice and responsive guy. So, I suppose, if that's what you're into, that's awesome.
+But don't buy it.
+
+Seriously. Don't.",1449554562,1449554562,False,32,7,0.632348597049713135,0,True,False,False,False,,,
+18800694,"{'steamid': '76561197974118935', 'num_games_owned': 3085, 'num_reviews': 307, 'playtime_forever': 323, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1448543572}",english,"Not sure what i played really but i would been proud of myself making a game like this.
+
+? / 10",1446323224,1446323224,True,4,2,0.387458741664886475,0,True,False,False,False,,,
+18789232,"{'steamid': '76561198023697830', 'num_games_owned': 2065, 'num_reviews': 35, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1446263161}",english,"First time i used steam refund! The idea of the game seems ok, the game itself isn't good enough!
+
+The controllers are bad, AI of the enemy is bad, everything is bad... i saw some comments on the music, ppl saying it was bad, i kind like it.",1446289866,1446293732,False,2,1,0.456097990274429321,0,True,False,False,False,,,
+18754358,"{'steamid': '76561198017252727', 'num_games_owned': 237, 'num_reviews': 124, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1435663104}",english,"""Big Mistake""",1446171437,1446171437,False,2,1,0.342644214630126953,0,True,False,False,False,,,
+18519016,"{'steamid': '76561198044873136', 'num_games_owned': 599, 'num_reviews': 39, 'playtime_forever': 377, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1555900868}",english,"I've enjoyed this game overall so far, yet definitely see room for improvement. One minor technical issue that turns me off is the lack of true full-screen, another is the sometimes too-narrow spaces in levels that one can fall through, yet not jump back up. Pretty good overall, though.
+
+
+First, the pros:
+Combat is paced well, and on reading the dev's responses in other reviews, is made in a logical fashion.
+The cave painting style looks pretty cool, though it would be nice if the borders/terrain looked more natural, like the curve of an actual cave. Perhaps in that vein, some set spawn points could be larger groups of paintings in the background/foreground that enter the arena and diminish as you kill them off?
+The money management system increases the difficulty in a good way.
+Bonfires.
+
+Now the cons:
+The music isn't bad, but it gets repetitive. More variety (not outside the genre, mind. I mean more death metal) would be nice.
+The endurance bar is hard to keep track of during combat, at least for me.
+The spawns of the enemies are unintuitive, but since they are meant to be reactionary, that makes more sense. Doesn't mean I particularly like have one taking a swing at me as it spawns, though...
+
+I'll add more to this review after I've done a few more runs, just to work out whether I suck (probably) or the game needs more tweaking (what game doesn't?).",1445062620,1445062620,True,13,1,0.525523602962493896,0,True,False,False,False,,,
+18371130,"{'steamid': '76561198038113245', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 511, 'playtime_last_two_weeks': 0, 'playtime_at_review': 504, 'last_played': 1694894135}",french,SO BRUTAL ! but too short ...,1444236014,1444236014,True,2,1,0.53600001335144043,0,True,False,False,False,,,
+18350698,"{'steamid': '76561198084374770', 'num_games_owned': 5071, 'num_reviews': 120, 'playtime_forever': 148, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1472899542}",russian,"Одна из худших игр. Эта игра была в гринлайте, я голосовал за нее, она казалась интересной. Но кроме рисовки тут просто ничего нет. Неудобное управление, однообразный геймплей. Ты пытаешься бить мечом, а он даже не хочет замахиваться. Тут есть система прокачки, но я так быстро умираю, что не могу купить даже самый дешевый апгрейт. Отдельная тема это прыжки. Ты и твои враги прыгают на десятки метров, делают акробатические перевороты. Музыка... можно сказать, что её тут нет. В конце концов мне пришлось вернуть деньги, даже не смотря на скидку в 67%.
+
+Минусы:
+- геймплей
+- музыка
+- плохое управление
+- тупость врагов
+- ужасное меню
+- цена (99 рублей жаль за такое чудо)
+
+Плюсы:
++ стиль рисовки
++ прыжки (серьезно, это весело)
+
+Не покупайте это! Не тратьте время.",1444111806,1444111806,False,39,8,0.644002854824066162,0,False,False,False,False,,,
+18054331,"{'steamid': '76561198167573792', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 778, 'playtime_last_two_weeks': 0, 'playtime_at_review': 577, 'last_played': 1556090169}",english,"Read the store page, view the video, and you will have a good grip on the premise of this game.  Now check the controls and go get those stones.  You will need one for each hand to smash your blood brother's head in properly.
+
+Wow what a great Developer.  All of my pin points below have been addressed and are no longer issues as of this past update(1.1.2) and it has been Less than a week.  The movement even feels more fluid.  I ran into a couple random issues... but I have screenshot them with descriptions.  I'm curious to see how much gametime it will take to max out my perks :)
+
+I will leave the bottom part of the review here but it truely no longer applies.
+
+1.
+I feel the finishing moves are overpowered.  I feel it would be better if you could only use a finishing move if the enemy had taken some damage first it would be more challenging.  Also.. the eating and the finishers are keyed to same button... so it was annoying to start munching when my intention was to kill the guy in front of me.  At first I felt that the eating was flawed... as in the random choking, until I discovered the perk for not choking.  The animation also is glitchy sometimes when going to eat.  You can also move around while you are eating.  
+
+2.
+I encounted a bug a couple times where I had killed all the enemies, the exit was lit up, and I could not continue to the next level.  Level 3 both times.  I tried to duplicate the bug but it seemed random.  Also.. the level marker states that you must pay or slay all the enemies.  No matter what you also pay.  I feel that if I clear the level, I should not have to pay to go to the next.  If this was your intention, maybe work on the phrasing?
+
+3.
+Not sure if this is a bug or whatever.  When buying from a trader or sitting at a campfire, it does not always purchase/snap to menu when you hit the button.  I know a few times it took me over 20 seconds to get a item to generate, as well as for the campfire leveling menu to show up.
+
+4.
+Gosh so many perks!  Kept the game very interesting.  One of my run thru's I had so much speed that I litereally could not successfully control my character.  A rapid tap and I was an entire screen away and still sliding.  Perhaps a cap on how fast you move?
+
+5.
+I feel it is too easy to get the final weapon.  I had no problems clearing 10k points on the first level and after that hit up the silent trader until you get the traders discount and a ton of other perks.  Then the points really stack up.  Perhaps make it to where the .. BloodHorn?  isn't in the 'drop pool' of the weapon trader until level 3/4?  
+
+Love the game man.  Even the music fit.. and trust me, that is not my music preference lol.  My only real complaint is that it isn't longer.  Would be neat to see a blocking feature.. but that might change gameplay too much.  Keep up the good work, I had a blast.",1442391742,1443064019,True,30,4,0.626995503902435303,1,False,False,False,False,,1442509072.0,"Thank you so much!!! So many clever observations and very wise suggestions. I'll try to hunt down and fix your described glitches in the next update. Also, I will limit the players max speed with certain item combinations because the player always needs to be in control. I'll move the default key for eating corpses to a separate key on the keyboard. Right now the game checks if any living enemies are nearby before you can eat corpses. In the current build a separate key for eating can be assigned manually in the input settings.
+
+That is true, it is not that hard to collect a lot of gold if you do executions. Executions are overpowered so players would use them more often and enjoy violent visual feedback. I sometimes get too greedy and try to execute two enemies of the same type in a horde. You can be hit while executing so I really like the current deadly situations that come from trying to execute too much. Getting greedy gets me killed. Regularly performing executions is the easiest way to unlock those more expensive perks. I was watching some recent Let's Play footage on Youtube and none of the streamers did any executions at all. Letting executions be done after an enemy gets hit is a brilliant idea, but I think this will confuse the noob players even more and they will miss out on the gory finishers.
+
+I'll try to replicate and fix the level three exit bug. I am so sorry that you got stuck. I will build some simulations and check out where the problem lies. Personally it has not yet happened to me. Again, I am deeply sorry.
+
+The idea with the Gatekeeper taking all your gold even when everyone was dead was to force players to spend the gold in upgrading their stats near a bonfire, spend it on buying better weapons from Little Turnip or buy gameplay changing items from the silent seller. Every level the enemies get deadlier and they have more health so a wise choice would be to upgrade your stats constantly. Or you can slay everyone, pay the gatekeeper and when you die, then use the collected gold to unlock a permanent perk for your next run. Letting the player keep all the gold and not pay the Gatekeeper would easily break the economy of the permanent perks. I agree, the phrasing from the Gatekeeper can be confusing in that regard.
+
+If players are skillful enough they can also try speedrunning through the levels. A certain amount of gold is still required, but it is not forced to slaughter every single creature on every level if players don't want to.
+
+I feel that a blocking mechanic would slow down gameplay. An evasive roll is the best way to avoid enemies and also keeps the pace of the combat fast and maniacal.
+
+I lowered the price for buying weapons by half in the last update because I saw no one buying the exotic weapons in the Achievement list at that time. Now you have a bigger change in getting a powerful weapon early on in the game and that might make slaying weaker enemies in the early levels not that challenging. The ability to purchase the most powerful weapon, ""Blood Horn"", starting from level 3 or 4 is a great idea and will make it more challenging again. Originally in the game every weapon did cost 20% more every time you bought one. I removed that to stimulate the purchase of the more deadlier weapons. Thanks to your experience I'm considering putting a system like that back into the game.
+
+I am very grateful that you had a blast and wrote some incredibly valuable feedback,
+Thanks!
+"
+17978179,"{'steamid': '76561198098646568', 'num_games_owned': 0, 'num_reviews': 94, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1435094034}",english,"this game is shit. you cannot find where the fuck y6ou are supposed to go, the enemies have an easier time killing you than a deer taking a shit, and generally it was intensely DISSAPOINTING AND A MASSIVE LETDOWN.",1441944290,1441944290,False,3,1,0.320098429918289185,0,True,False,False,False,,,
+17968022,"{'steamid': '76561198008653167', 'num_games_owned': 1354, 'num_reviews': 230, 'playtime_forever': 58, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1460788797}",english,This game is grimmer and more necro than a Transylvanian snow storm.,1441885226,1441885226,True,3,4,0.316251754760742188,0,True,False,False,False,,,
+17852173,"{'steamid': '76561198058563285', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1441222554}",english,"First of all, I strongly recommend this game to anyone already looking to play it.
+
+What I like:
+The whole game feels nice and uniform, most of all because of all the art (audio and vid)
+The idea and the story, just excellent!
+Specially love the audio,that breakdown in 1st lvl kept me playing on the demo earlier
+The major thing would be all the perks and killing types, would have never guessed that this kind of game would surpass the ""point and click "" form so well with adding these little quirks so It makes you think a bit more when you see these white ""edward the scissorhand"" type fellas and you would visit the orange seller more often..
+I havent done it but having a cooperation game type makes this a real peach
+
+What I dont like:
+The mechanics (in terms of controller -action- animation) are a bit too robust
+
+Spam that instakill and exec! :)
+
+Thanks for great game!
+
+
+",1441224288,1441224288,True,7,0,0.493594437837600708,0,False,False,False,False,,,
+17827330,"{'steamid': '76561197997882810', 'num_games_owned': 104, 'num_reviews': 3, 'playtime_forever': 28, 'playtime_last_two_weeks': 0, 'playtime_at_review': 28, 'last_played': 1440355908}",english,ten points for the originality!,1441105343,1441105343,True,5,0,0.37935560941696167,0,False,False,False,False,,,
+17529085,"{'steamid': '76561198144974149', 'num_games_owned': 3847, 'num_reviews': 113, 'playtime_forever': 140, 'playtime_last_two_weeks': 0, 'playtime_at_review': 139, 'last_played': 1645514155}",english,"EDIT:
+Ready my review.
+Read the dev's response.
+Bear witness to a great dev, and to how explaining what's what can change the perception of a thing. I hope to change this to Positive.
+
+
+Wow. 
+This game is broken and/or just shit.
+If it was polished - er, not even polished, but actually... built instead of slapped together as it seems to have been - it could be great, maybe even rival Apotheon. 
+Instead, the game abides by its own rules, which are separate from the ones you are given/told. 
+
+
+You will do the actions you input only when your character feels like it. 
+
+You can sometimes double-jump and you can sometimes jump until you hit the roof; it seems you have to have the apex of your initial jump be right beside a wal for multiple jumps to be possible (i.e. literally bounding up the wall), but this, too, is finnicky and thus only a guess on my part. 
+It seems there is a legit delay in when you hit the attack button and when the attack is executed; this could be attributed to the weapons being heavy - for some sort of immersion - but due to the overall quality of the game, I'd just as soon assume it's because of... shoddy coding(?)
+The pause menu has different options such as ""Blood"" and ""Corpses."" Whatever option you select just boots you out of the game. 
+There is a ""View Map"" button, which just zooms out so you can get a better feel FOR the arena. Sometimes this works, sometimes it doesn't, sometimes you have to hit it again if you want to zoom back in, sometimes it does so on its own. 
+There is a ""Dodge."" It does nothing for defense. 
+Enemies spawn out of nowhere, frequently right on top of you.
+
+There are bonfires to ""Rest""/Level-up at (ya); don't seem to really help much - no option for to actually rest (as in regaining some health). 
+The game seems an impossible grind - mainly due to how poor the quality is/how little you can trust the game to do what you intend/did on the controller. Cited as ""Partial Controller Support,"" so I may try with KB+M but...
+
+To level-up doesn't really cost a significant amount, but neither do you get a decent amount of Gold (and zero Health Crates). 
+When you die, you have the option to buy perks; the cheapest is 3500 - I accrued 3495 after having collected every bit of Gold in the first two maps and from killing all but the last enemy. Too bad the combat is broken.
+You can scroll through every perk except the last two, because why not?
+
+The cave walls are a single painting repeated in a tile format.
+The music is a grungy, garbled orgy of grotesque.
+I feel like the dev might be Swedish; if so, I can't really fault the music. 
+
+I definitely find fault in the game as a whole. 
+There is enough of a violent, chaotic cacophony in the soundtrack; Dear Dev Pohlak, please forgive my harsh words. I want to like this game. There's no way that I can right now, nor would I be able to recommend it. I can't speak on how much effort was put into the game, and I do not wish to disrespect you... but I call for mechanic and all-encompassing tweaks/rebuilding. With such rough music, the gameplay doesn't need to be as; streamline it and Stones of Sorrow could become something great. 
+
+P.S. The low price doesn't excuse the quality.",1439518294,1439611933,False,162,14,0.845064640045166016,28,False,False,False,False,,1439580005.0,"Hey, thank you so much for playing & taking the time to write a lengthy critique. I really appreciate it. I would like to explain some of my design decisions. I feel like this game is a lot like the early albums from underground metal bands: experimental, twisted, raw and brutal! 
+
+First of all, every action is critically bound to your stamina and if you exhausted your stamina by jumping, dodge rolling or attacking then no further actions or attacks are possible until you regain some of it. Micro managing your stamina during combat is the key for survival. In the last update I increased stamina regeneration while standing +40% and while running +88%. Performing attacks used to be a lot harder and frankly I loved it that way also. The fear of running out of breath and being overwhelmed is something I really enjoy. But it seems to me that new players are not paying attention to the stamina bar (that is rather small & minimalistic) and so I increased the stamina. Increasing it even more would transform this game into a regular button masher.
+You can jump six times while in air if you press the jump button quickly in a row. Takes time and skill to master, but can be very rewarding if you can jump around like in a pinball machine. I myself enjoy the vertical freedom it provides. 
+Every jump uses stamina and if you fail to quickly push the jump button after a jump is performed, then you will fall to the ground. Originally, in the alpha demo version, I had not this restriction and you could jump indefinitely above the enemies. You could easily escape mobs that way and a lot of the tension was lost. Restricting the jumps to six times makes it a more sadistic experience.
+And to answer your question, then no, you do not have to be near a wall to jump like a fast torpedo.
+The weapons are huge and every swing takes time. Monsters can only be hurt if your blade has had enough time to move up and gain some of that slaying power. The hitboxes are not even active before that happens.
+I experimented around with quicker attack animations and did not enjoy those as much as I did the current animation time. The combat system is built around my personal preferences in an action game. Slow, deadly hits that take time to perform. Double hits are also possible and they do more damage. But beware, double attacks also take more stamina so randomly mashing the attack button will just deplete your stamina. You can attack or double attack while running or standing. Standing still and attacking creates the most damage. 
+
+The pause screen has all the info for the game and how to control it on one screen. The same screen also lets you choose between different settings, like how much blood and corpses you want on the screen at the same time. Lowering those values will increase frame rates for older machines or slower Windows tablets. You select them with your left stick and change the values by moving the stick to the left or right. No need to select them with the A button as that will quit the game. I also wrote that under the control scheme: Press Enter(A) to quit the game. The values are automatically saved.
+You can select them with your mouse and use the ""A"" or ""D"" on the keyboard. 
+On the pause screen there is also info in how to use the ""zoom to map"" button. It will use 50% of your stamina and can only be used if you have enough stamina. The zoom effect only lasts for a few seconds so you can have a quick look for any dangers or loot around you. Otherwise players would just spam it and that would take a lot of the tension out from the single player experience. 
+
+Using the dodge mechanic is crucial and a very important part of the game. While dodging the player can not be hurt so it provides a valuable escape option for dodging enemy attacks. It can also be used to roll through hordes. There is also an item that makes dodge rolls deadly for any enemies that have less that 66% health.
+
+Enemies spawn around in random rooms and yes, sometimes they spawn on top of you. You will need to use the zoom function to see where enemies are spawning so you can avoid that. I also thought enemies on top of you created a quick reflex based gaming situation where you have a split second to perform an evasive roll.
+
+Leveling up at the bonfires is also important in becoming stronger and reaching the end boss. More Strength means more damage to enemies. More Endurance means more maximum health. Endurance has to be upgraded a lot to show your new max health thought. The new maxhealth is your Endurance multiplied with 0,06. More Agility means faster dodge rolls.
+
+When you want more gold then please execute as many monsters as possible. Enemies of the same type can be executed together at the same time for a lot of gold. You will need to have them all close to you at the same time though. Chaining executions is not always easy, but can be very rewarding. You need full stamina for executions. 
+Use instakills for quickly slaying hordes and passing levels. Again, you will need full stamina for instakills. The later levels get very hard without using any instakills. Co-op is a hardcore challenge because instakills are disabled in the multiplayer mayhem.
+Health crates can be bought from the trader. Your health needs to be under 25% in order to do that.
+
+The last perk can not be selected with a controller and that is a new bug that came with the 1.1 update. I am sorry for that, I'll fix it with the next patch. Right now it can be selected with the mouse. Again, sorry for the inconvenience. The last box is not a perk but a statistic that says how much your blood brother is amused by your death and how much permanent health he has gained when you have died.
+
+I worked for a year and a half on this game. I feel the price is very cheap for the content provided. Every enemy type can be executed. You have a lot of different items for every playthrough. Some make you as fast as Sonic. Some make you ultra deadly, you only need to touch those monsters and they bleed to death. Performing executions brings your damage up. Eating the trader gives you Strength. Hurting creatures spawns detonating bombs and many more original gameplay changing items and ideas. There are 9 different weapons and according to the Achievement list then no one has gotten the deadliest weapon yet, the Blood Horn. That can only be bought from Little Turnip, the weapon trader. If you want to talk to him, then he has some hidden black metal quotes in his speech and according to the Achievements list, then no-one has talked to him either. Every level becomes bigger and the enemies get deadlier. Some grotesque monsters only appear in the later levels. Every unlocked perk changes the game. Eating corpses and choking to death is brutal! The first perk, which requires 3500 gold, unlocks the change to receive random health crates. The first perk is already a big game changer and giving it too soon to players would just shorten the suffering of the noobs. And I don't want that.  
+
+I'm not Swedish, I'm an Estonian. That is a small country next to Sweden. And yes, I have bizarre and filthy taste in music. I love underground death and black metal and wanted my band's prehistoric crushing music to be as the ultra brutal soundtrack. Most of the music comes from the Neoandertals album ""Neanderthals Were Master Butchers"". It told a story about the Neanderthals in a time when the cave paintings were originally created. A time of misery & death. I remember the reviews when it came out, it was hated and misunderstood. We worked for four years on the music and some thought it was all improvised. The music sounds like some primitive Neanderthals are going to war.
+
+I disagree, the music is wild and brutal and so should be the game!
+
+Thank you very much and long live the metal underground!"
+17233242,"{'steamid': '76561198135516169', 'num_games_owned': 308, 'num_reviews': 6, 'playtime_forever': 162, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1652646861}",italian,"Tutto in questo gioco è un insulto all'arte e mestiere di creare videogiochi. Non varrebbe un secondo di gioco se fosse gratuito. 
+Si capisce subito vche qualcosa non va con l'introduzione letta da un idiota che CERCA di fare una voce death metal per proclamare un minimo pretesto per quello che accadrà. Proverete vergogna per lui.  Si è in un orrendo platform dai controlli orribili, tutto ciò che si può fare è colpire nemici animati da un incapace e pgro, raccogliere monete. Per qualche motivo c'è uno sfondo che richiama le pitture rupestri preistoriche. Ma non ci si trova in una caverna. I salti di super mario sono più realistici. È impossibile dire se si viene colpiti perché il personaggio non reagisce neanche.
+La musica è un'accozzaglia di suoni di chitarre distorte e batteria. 
+Chiederei i soldi indietro, purtroppo sono passati i 14 giorni di tempo. State alla larga da Stones of Sorrow e il suo creatore Rain Pohlak.",1437900540,1437900540,False,10,0,0.621593952178955078,0,True,False,False,False,,,
+16920023,"{'steamid': '76561198110265225', 'num_games_owned': 454, 'num_reviews': 37, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1435103655}",english,Horrible game.,1436237944,1436237944,False,15,3,0.162114724516868591,0,True,False,False,False,,,
+16866595,"{'steamid': '76561198040304217', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 454, 'playtime_last_two_weeks': 0, 'playtime_at_review': 90, 'last_played': 1445391804}",english,"This game will blow your mind! Like, where else can you play a game so innovative like that? Cave paintings killing each other, a cool variety of items and, in the middle, a story well arranged and nicely told? Holy crap! You'll say ""why didn't I play this gem before?"" (ps: you'll die a lot, but that won't keep your hands off the controller. You'll beg for more or, should I say, beg for gore?)
+
+I've already ""finished"" Stones of Sorrow 4 or 5 times and now I'm in for the achievements, mainly 'cause this state of the art item of human badassery -both the pre-historic cave art/21st game development- totally deserves it.
+There are so many cool things to say about it I don't know where to start.
+But this so called cave painting procedural death-a-ton of a game is for the tough dudes and dudettes only: the weapons, carved in stone - wildly cool and varied - can bring a sense of ""rewardness"" when you get to slash a big guy or some gigantic boss and knocks the mofo down. Something from out of this world. And... and...
+
+I'll stop here. Go buy it, then play it. It's brutal, fun and well polished, to say the least. No bugs at all and THERE'S AN UPDATE FOR 4 PLAYERS INCOMING JESUS LAWD OHMYGOSH
+
+Also, AAA soundtrack (as I've said, not for the weak of heart), immersive as bathing yourself in hot lava. Game was delivered from the inner and vast mind fields of a wicked (if not disturbed, in the wackyest way possible) persona, this I can attest!
+
+Imho best played with a controller :)",1435954427,1438451949,True,19,11,0.295034795999526978,0,True,False,False,False,,,
+16730314,"{'steamid': '76561198047128638', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1435186433}",english,"Hello everyone I did a video review on the game highlighting the pros and cons. This game does need some polishing, but the overall concept is really interesting. 
+
+In it's current state right now I wouldn't recommend it.
+
+Video Review: https://youtu.be/Pp-SV7PHR6s
+
+Brief overview of pros and cons
+
+Cons
+
+- No Main Menu
+- Not Enough Tool Tips
+- Underdeveloped UI
+- Jumping Mechanic
+- Music
+- No Platform Design
+
+Pros
+- Art Style
+- Gore
+- Zoom Out Minimap
+- Variety of Weapons",1435365126,1435365126,False,58,5,0.555281102657318115,0,True,False,False,False,,,
+16264345,"{'steamid': '76561198073589336', 'num_games_owned': 0, 'num_reviews': 35, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1433789770}",english,Its not as bad as everyone says its a nice art style how ever is slightly clunky has enough gore to keep you satisfied and the soundtrack creates a fairly dark atmosphere wouldnt recomend buying at full price get it when its on sale,1433789846,1433789846,True,36,2,0.366675257682800293,0,False,False,False,False,,,
+16138160,"{'steamid': '76561198113782779', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1432718929}",french,"Bad game, don't buy it, that's all.",1433267864,1433267864,False,0,1,0.376819252967834473,0,True,False,False,False,,,
+16101894,"{'steamid': '76561198030076891', 'num_games_owned': 1093, 'num_reviews': 62, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1575254009}",english,What was I thinking about when I bought this piece of garbage.,1433091965,1433091965,False,73,39,0.240111857652664185,7,True,False,False,False,,,
+16027229,"{'steamid': '76561198069086834', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 88, 'playtime_last_two_weeks': 0, 'playtime_at_review': 88, 'last_played': 1432741343}",brazilian,"Sinceramente, é possível eu ter sido umas das primeiras pessoas a ter comprado esse jogo, e fiquei desapontado com o que vi. O jogo em si não é ruim, mas ele teria certo potencial se tivesse mais conteúdo, como mais bosses e mais fases.
+
+Eu zerei ele em apenas 1 hora, enquanto o resto era tentando acostumar com os controles. Estava bem entusiasmado pelo fato de que ele usou o mesmo conceito de Apotheon, só que usando como base a pintura rupestre para a ambientação do jogo. Mas é aí que vem o ditado: ""Não se julga um livro pela capa"".
+
+Prós:
++O jogo é MUITO Heavy Metal
++As armas tem uma aparência brutal
++De certa forma,é dificil
+Meh:
+=As barras de stamina e vida são pequenas demais, mas nada que impeça o gameplay
+=História meia-boca (vingança genérica)
+=Não tem tanta variedade de itens
+Contras:
+-Animações esquisitas
+-A soundtrack é barulhenta
+-Qualquer inimigo morre com 2 hits (até o primeiro ""boss"")
+-MUITO caro pra um jogo de 2 fases (R$ 20, mais ou menos)[EDIT: agora custa 8 reais, mas continua um pouco caro para um jogo dessa qualidade]
+
+Nota final: 5/10
+
+Sinceramente, eu não sei se o desenvolvedor desse jogo esqueceu de colocar no Early Acess ou isso é o produto final msm. Se os inimigos tivessem mais vida, existisse mais fases e fosse mais refinado, taí um jogo que faria sucesso na net (isso foi feito no Unity)",1432743285,1440951505,False,17,1,0.705282032489776611,2,True,False,False,False,,,

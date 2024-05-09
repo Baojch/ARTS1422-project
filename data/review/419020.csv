@@ -1,0 +1,167 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+123958725,"{'steamid': '76561198879479537', 'num_games_owned': 0, 'num_reviews': 62, 'playtime_forever': 646, 'playtime_last_two_weeks': 0, 'playtime_at_review': 382, 'last_played': 1701703406}",schinese,"这么好的游戏为什么不更新，不出续集？扔下不管可惜了。。
+希望作者回归出二代，或者更新DCL~~~~",1665980614,1665980614,True,0,0,0,0,True,False,False,True,,,
+107306049,"{'steamid': '76561198223212980', 'num_games_owned': 0, 'num_reviews': 44, 'playtime_forever': 59, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1641308321}",english,"""Wishmere is a brawler-fighting game that gives you the power and creativity to fight your battles your way. ""
+I tried this because of this claim. I'm not seeing it. What part of this gives me the 'way to fight my way'? 
+Is it the 1% super meter gain I get per level only if in my very slow charging 'make this character at all functional' mode? Or the 3% super meter gain another character gets per level, except with no need to be in super mode, because ??? what the **** is balance? 
+Or maybe the 'enemies deal less damage' the mage has, compared to the 'enemies deal less damage but with actual numbers and are also slowed' on the ninja. Which is also just a blatantly better version of another characters passive. 
+
+Anyways, let's talk about meters. Game has a lot of them.
+- Health meter: you know this one
+- Guard meter: Used to block the maybe 1 enemy per screen who isn't stunlocked by mindless spam
+- Fate meter: used to cancel attacks hitting you and slow time
+- Edge meter: used to limit your 'edge' attacks; all in all an unfun, pace-killing addition that basically just means you can't press fun buttons until you stall long enough for it to let you
+- Super meter: Used for 2 attacks. 
+That's 3 (three) meters largely just for offensive use. Why are so many of my options, in a game about 'playing how I want', limited? 
+
+Now edges.
+Some examples of edges:
+Shield + actual mobility (cyborg): Every other character can dash by default and the game is balanced around it. This dudes mobility is on a cooldown.
+A single dash (generic mc looking guy number 2): Its just a single dash.
+Fullscreen teleports (ninja vampire lady): You can teleport full screen.
+A pool that drains hp with no hitstun (the bad guy): its supposed to let you grab enemies, but doesn't seem to work
+A thing that sits on screen, seems to be infinite in use count, turns your projectiles into lasers and lasts long enough to use it again (the toke female) : The only fun edge because its not needlessly limited.
+All of these just work on a cool down.
+Except this one
+2 summons that just add tiny very weak attacks then vanish in like 10 seconds (the mage): He has to gain inconsistently named tokens via countering or sacrifcing guard meter, 5 of them, with 1 per counter unless using his entire super meter (then its 2). Why is this so limited? Why is this mechanic not explained? He just has this stuff on his ui and his movelist says you can gain the tokens. Its never indicated to be his edge, or that his edge would inexplicably differ from others.
+
+The characters movesets, outside of edges, are pretty boring. Press button. Press button + direction. That's basically it. Its not comparable to a fighter, closer to something like smash bros. You have attack, heavy, HEAVIER, super (often feels no better than heavier yet takes meter arbitarily), ultra (takes all meter) and dash unless you are the robot in which case **** you. Its a lot less than it sounds like, and since most enemies have 0 resistances to stunlocks, and come in such absurd numbers, you'll probably ignore most of it in favor of knock back or crowd control.
+
+It feels very basic even as a brawler. A big moveset is not depth. A million meters is not depth. The enemies have no hitstun rules beyond 'are immune' and 'are not'. 
+
+Speaking of the enemies, the dev seems to have no idea how to balance them. 
+Play 'Base of Darkness'. The survival mode (that always reset me to level 1 after 4th stage for some reason), it throws maybe 5 enemies at you at once. Occasionally it throws a 'horde' at you. Maybe 7-9 dudes. So clearly dealing with that many at once is meant to be a big deal. A challenge. Not standard.
+Now play 'Free' mode. The storyless mode. Immediately it'll throw 10+ enemies at you on the first screen casually with no hesitation.
+I'm thinking base of darkness is a newer mode, with actual balance. And the old game was not balanced accordingly.
+There's also 'paragon' mode. Where you fight a super-boss. Put your elite gamer skillz to the test fighting the hardest enemy in the game, with all your knowledge of the games mechanics put to the test!
+Or
+You just fight a guy who stands in the middle of the screen, completely ignores hitstun until you do a set amount of damage, then gets up and ignores it again. 
+You block him, you hit 3 times, he falls down, he gets up, you block him. Repeat.
+If you need to outright turn off the hitstun to make a boss challenging in your game about hitting things so they stun, you ****** up. Like, fundamentally, something is wrong here. A brawler shouldn't need to turn off the brawling aspect and turn the game into a glorified turn based rock paper scizzors match to be hard. 
+
+Speaking of challenge. Ranged enemies. Game has a lot of them. Really annoying. Only thing that ever hit me other than that boss. They come in massive groups and spam multiple projectiles each full screen. Your projectiles, meterless, tend not to be full screen. Your projectiles, metered, tend not to be full screen. You have some attacks to negate these, like the robots weird crescent moon move... that doesn't work at all. Even slightly. 
+
+Last thing to note after the terrible skill tree balance, boring movesets, unresponsive controls (did I mention that? Grab is insanely hard to do for no apparent reason), binary hitstun rules, mostly trivial stunlocked via aoe spam enemies, poor practice mode, slow load times (they're obnoxiously slow at times, despite it being a 2d brawler) is just how ugly it is.
+I mean, you can see that. Look at those sprites. Goddamn. I'm not sure I've seen an uglier brawler. There are free brawlers with better sprites than this. Even if it wasn't ugly, its amazing how bland the characters are. I can barely see the difference between the 3 5 foot something short haired dudes.  They have little loading screen messages like their hobbies and stuff and its like goddamn they're so boring. Why would I care if guy A hates doing laundry? He's bland. Ugly. And not fun to play.",1641308874,1641308874,False,1,0,0,0,True,False,False,False,,,
+106192016,"{'steamid': '76561198101093662', 'num_games_owned': 1009, 'num_reviews': 122, 'playtime_forever': 183, 'playtime_last_two_weeks': 0, 'playtime_at_review': 129, 'last_played': 1640052296}",english,"Game makes me wish Steam had a middling review option. Cool idea, decent execution, but unfortunately the game controls so badly that I cannot recommend it. It's not even a matter of tight execution, there are just horrible inconsistencies in move inputs. Any move requiring you to press two buttons simultaneously has a 50/50 chance of just performing one of those two buttons instead of the intended move, jump cancelling air normals has a similar level of randomness. It seems like the game expects you to hold buttons down rather than tapping them, as doing this makes these inputs much more consistent, but when trying to do a fast combo manually remembering to hold each button down for a second becomes incredibly annoying.
+
+If the horrible controls are fixed then I can recommend this game.",1640040700,1640040700,False,2,0,0.523809552192687988,0,True,False,False,False,,,
+75260013,"{'steamid': '76561198012185916', 'num_games_owned': 667, 'num_reviews': 34, 'playtime_forever': 2595, 'playtime_last_two_weeks': 0, 'playtime_at_review': 2368, 'last_played': 1652408182}",english,"good labbing game and VS game, not so much on the beat em up front imo",1598944410,1653887290,True,3,0,0.529262065887451172,0,True,False,False,False,,,
+48829576,"{'steamid': '76561198243298800', 'num_games_owned': 0, 'num_reviews': 54, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1549193129}",tchinese,"操作不算太好,爽快感不足
+而且這類遊戲不能上下移動走位.....",1549565270,1549565583,False,1,0,0.53061223030090332,0,True,False,False,False,,,
+48084876,"{'steamid': '76561198365259809', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 171, 'playtime_last_two_weeks': 0, 'playtime_at_review': 166, 'last_played': 1646256379}",german,The game is good but the last Boss is Shit please update!!! You cant beat the boss with a small range fighter! wtf,1546565801,1546565801,False,0,0,0.466666668653488159,0,False,False,False,False,,,
+47668190,"{'steamid': '76561198027295568', 'num_games_owned': 400, 'num_reviews': 35, 'playtime_forever': 568, 'playtime_last_two_weeks': 0, 'playtime_at_review': 442, 'last_played': 1561784950}",schinese,"我们需要中文
+We need Chinese
+中国語は必要
+Nous avons besoin de chinois
+Wir brauchen chinesisch
+Necesitamos chino
+potrzebujemy chin
+Precisamos de chinês
+Нам нужно китайский 
+เราต้องการภาษาจีน
+Χρειαζόμαστε κινέζικα",1545369465,1545394671,True,1,0,0.497267752885818481,0,True,False,False,False,,,
+45542706,"{'steamid': '76561198031543791', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 699, 'playtime_last_two_weeks': 0, 'playtime_at_review': 694, 'last_played': 1554749184}",english,"One of the Early Access games I supported since day one. A gem of a brawler, totally recommended for anyone who loves the genre. There's a good choice of characters that each has their own sweet abilities/moves/combos which adds some freshness to the game. 
+
+
+It also has replay value as well.",1541002840,1551600705,True,10,0,0.609524726867675781,0,True,False,False,False,,,
+44356956,"{'steamid': '76561198053358736', 'num_games_owned': 537, 'num_reviews': 49, 'playtime_forever': 255, 'playtime_last_two_weeks': 0, 'playtime_at_review': 224, 'last_played': 1541347053}",english,Fun game. Pep seal of approval. FeelsGoodMan,1535142174,1535142174,True,4,0,0.44696083664894104,0,False,False,False,False,,,
+42981715,"{'steamid': '76561198015347457', 'num_games_owned': 667, 'num_reviews': 259, 'playtime_forever': 62, 'playtime_last_two_weeks': 0, 'playtime_at_review': 62, 'last_played': 1529787027}",english,"Does not support Xbox 360 controllers or arcade sticks. We tried a number of controllers before finding TWO that worked. Couldn't even play for one hour without crashes or freezes. Pausing to set up your skills is a gamble because it can freeze at a moments notice.
+
+The gameplay itself is very limited compared to other beat-em-up titles like Fight-N-Rage. ""combos"" are one-button affairs, and if you decide to manually preform the combo, there's not much reward in doing so. There's no damage bonus or anything like that.
+
+Story mode is single player only, so if you want to play with friends you're going to have to either forget that there's a story at all or play through it once solo to explain it. (Not worth doing, honestly.)
+
+It's a novel idea to have a fighting game-style beat-em-up....but the implimentation of it is really janky and makes you feel like you'd be better off just playing one of the old Sega genesis ones instead. I bought the game for $7 and I'm still getting a refund because there's no reason that a game that's been out since 2017 shouldn't have CONTROLLER SUPPORT when it says it does.",1529787492,1529787492,False,4,2,0.447056770324707031,0,True,False,False,False,,,
+39011965,"{'steamid': '76561198444138845', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 1906, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1903, 'last_played': 1515580759}",english,"A brawler with a heart and brains. The combat that rewards you the more you put into it. I feel like you can really express your own style in this game.
+
+Pros:
+- characters with very different movesets
+- open-ended combat and combo system
+- good lore/story driven: if story is your kind of thing, there's character building in quotes and interactions when they win or lose, story mode is really fun. A lot of heart went into character lore
+- many types of modes to play with some stuff to unlock
+
+Cons:
+- controller recommended
+- going through the tutorial is a must: you can play out straight out the gate, but I'd recommend tutorial mode as it really teaches you what sort of game this is
+- some bosses are difficult (maybe too difficult)
+
+At first I played this game casually, but then when I brought this out to hang with friends this game became a competitive blast. This makes for a great party game and a versus game due to its versatility and drop-in-and-play factor.",1514988552,1514988552,True,9,0,0.614563882350921631,0,True,False,False,False,,,
+37981395,"{'steamid': '76561198014001245', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 986, 'playtime_last_two_weeks': 0, 'playtime_at_review': 626, 'last_played': 1586026333}",english,"Tons of ways to play it. That’s probably the first thing I noticed when playing it. You’ve got a Story Mode and a Free Mode (without story like Dynasty Warriors) which plays like a sidescrolling beat’em up. There’s also a Versus Mode, where you can face your friends and an “Arena” like mode where you fight waves of enemies, which can keep you busy for a while. Really like the Skill Trees (like Borderlands) which are unqiue per character and something I didn’t really expect out of a beat’em up. You can do some crazy stuff like execute bosses in one hit or give your character lifesteal at the expense of your health. A lot of the skills do pretty complicated things so there’s some learning involved in what your skills do, but I can definitely see myself messing around with Skill builds to become unstoppable. Overall the game’s a lot of fun, I dig it.",1512148283,1512148283,True,4,0,0.504504501819610596,0,True,False,False,False,,,
+37958437,"{'steamid': '76561198034592803', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 503, 'playtime_last_two_weeks': 0, 'playtime_at_review': 395, 'last_played': 1584455741}",english,"As a mix of a fighting game and a beat 'em up, Wishmere has something for everyone. It plays at the speed of a fighting game like Street Fighter, but has an open-to-casual low barrier that kind of feels like Smash or like Pokken. With a large nice fighting game esque moveset (there's some learning involved), you can play versus friends like a fighter or play a mode that allows you to scroll right like a brawler, both which is fun to play with a group of friends.
+
+There's a story mode that is quite unique because in a genre like this, it totally comes as a surprise. From witty dialogue to some (but rapid) character development, the characters all have their own personalities and have their own little stories. Button layout might take a little getting used to, as it's a little unconventional, but if you can get used to it, the game has some deep mechanics and content in a package that's rewarding to play as you learn new things. Overall, this game has been worth my time, I hope they add more content.",1512065652,1512065652,True,4,0,0.510567307472229004,0,True,False,False,False,,,
+37910736,"{'steamid': '76561198021021584', 'num_games_owned': 470, 'num_reviews': 39, 'playtime_forever': 210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 191, 'last_played': 1546427841}",russian,"Посмотрев на трейлер и скриншоты вы можете подумать что это очередной файтинг с двумя кнопками ударов руками и ногами. На самом деле нет, это не так.  В игре непривычная для файтингов механика управления. Чтобы прыгнуть нужно нажать клавишу прыжка, а не стреллку вверх. И вот почему: удары в игре комбинируются с направлениями. Для удара апперкотом нужно нажать вверх и удар рукой. Логично и просто. Блок на отдельную клавишу. И что не так ожидается от даноого файтинга так это продолжительных комбо. А они есть!  И даже фулхп.  Сам геймплей не быстрый, как в Guilty Gear или в Mortal Kombat, скорее как в Street Fighter только слегка  помедленнее. Сначала непривычно, но когда привыаешь, ощущаешь в этом соль. Персонажей не много, всего семь, и все они координально отличаются друг от друга.  Музыка в игре отличная- метал! Обожаю метал! Играл вдвоём за компом и получил ощущения ни чуть не меньшие чем от других файтингов. 
+4,5/5 
+P.S.
+Хочется больше персонажей и арен.
+
+After looking at the trailer and screenshots, you might think that this is another fighting game with two buttons of punches and kicks. Actually, no, it's not. In the game, the mechanics of control unusual for fighting games. To jump, you need to press the jump key, and not the up arrow. And that's why: the blows in the game are combined with the directions. To strike with an uppercut, you must press up and strike with your hand. It's logical and simple. Block on a separate key. And what is not so expected from a danoed fighting game is that it's a long combo. And they are! And even full-time. The gameplay itself is not fast, as in Guilty Gear or Mortal Kombat, rather like in Street Fighter only slightly slower. At first it is unusual, but when you get used to it, you feel salt in it. There are not many characters, only seven, and all of them are coordinately different from each other. The music in the game is excellent-metal! I love metal! I played alone at the computer and got a feeling not less than from other fighting games.
+4.5 / 5
+P.S.
+I want more characters and arenas.
+https://www.youtube.com/watch?v=h8xgTHetY2w&t=1s",1511899961,1511899961,True,3,0,0.558839380741119385,0,True,False,False,False,,,
+37549958,"{'steamid': '76561198448658442', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 203, 'playtime_last_two_weeks': 0, 'playtime_at_review': 203, 'last_played': 1511615155}",english,"Wishmere is a great brawler with quite a lot of gameplay modes that’s great to play alone or with friends and family. The story is endearing in a surprisingly thoughtful way, with themes that as a father I felt very connected to. The gameplay is a lot of fun too, with every character having wacky moves out of old comics and mangas. It was really a treat to play, though I  recommend using a controller as there are some more complex movements. Recommended :-)",1511627377,1511627377,True,2,0,0,0,True,False,False,False,,,
+37083539,"{'steamid': '76561198132872056', 'num_games_owned': 261, 'num_reviews': 236, 'playtime_forever': 379, 'playtime_last_two_weeks': 0, 'playtime_at_review': 379, 'last_played': 1511436774}",english,"Wishmere is a fiesty little beat ’em up gem that’s stitched up beautifully. Effortlessly humorous, it succeeds in creating a challenging fighting game experience that can be enjoyed by all, and balances wonderful button-mashing quests atop a story that rises to the same level.
+
+Read more here: http://gameranx.com/updates/id/129087/article/wishmere-impressions-wholesome-button-mashing/",1511447388,1511447388,True,6,0,0.50670921802520752,0,False,True,False,False,,,
+36668733,"{'steamid': '76561198044115008', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 714, 'playtime_last_two_weeks': 0, 'playtime_at_review': 486, 'last_played': 1607350295}",english,"I'm only reviewing the versus part of the game since I have not got to the single player yet>
+
+its a really fun fighting game. Its simple and easy to pick up, but theres some hard to execute combos if you really want to put the work in. 
+
+Pros:
+-Fairly Easy
+-Things for both fighting game beginners and veterans
+-every character is very different fun to play around with
+-a unique and satisfying combo system
+-familiar fighting game mechanics
+-A great training mode
+-up to 4 players if you want. not common in fighting games
+
+Cons:
+-Controls are a bit strange. theres not really a super comfortable way to set up the buttons on a arcade stick. having jump bound to a button instead of up takes getting used to. sometimes the buttons seem unresponsive 
+-Not a huge roster
+-taking a life or round feels a little unsatisfying sometimes because the lack of effects at the end.
+-Soundtrack is lackluster for a fighting game (seems it would work better in the beat em up part of the game)
+
+overall score:
+7/10
+
+I'll be pracitcing combos in this game for a long time to come. lots of fun",1511235954,1511235954,True,11,0,0.634279847145080566,0,True,False,False,False,,,
+36628556,"{'steamid': '76561197989965520', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1538934813}",english,"Like the pixel art :) I am not really a fighter veteran...but so far, wishemere is great fun :)",1511112136,1511112136,True,1,0,0.47826087474822998,0,True,False,False,False,,,
+36471424,"{'steamid': '76561197971411710', 'num_games_owned': 0, 'num_reviews': 106, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1508182143}",english,Did not enjoy. Lack of polish. Controls not precise for what it is trying to be.,1510497587,1510497587,False,6,1,0.474132418632507324,0,True,False,False,False,,,
+36150266,"{'steamid': '76561197997488189', 'num_games_owned': 0, 'num_reviews': 51, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1509396311}",english,"Eh you're better off playing one of the classics like Streets of Rage or Final Fight. The game's inputs are crazy imprecise, and the bindings for attack keys don't really have any forsight and trip over eachother leading to failed hits / inputs. I'd leave this one on the shelf, it's just not polished enough.",1509396287,1509396287,False,16,1,0.547776222229003906,0,True,False,False,False,,,
+35626544,"{'steamid': '76561197962082784', 'num_games_owned': 0, 'num_reviews': 493, 'playtime_forever': 1507, 'playtime_last_two_weeks': 0, 'playtime_at_review': 976, 'last_played': 1648085334}",english,"Wishmere is a hybrid beat-em-up/fighter that tends more toward the fighter half. On the scale of the simple yet effective Fight N Rage to the technical Streets of Fury EX, it stands a few steps beyond Streets of Fury, probably even more technically minded than Guardian Heroes. To construct your combos you need to figure out which of your moves link together through study of the exhaustive move-list of various normal command moves with various chaining properties. The movesets of singular command moves end up feeling like DMC or Smash Bros on some level. Combos do not usually run long, usually three hits, reset, three hits, ult, but those three hits are all different moves. It was only late in development they added just an XXXX combo. That tells you how much they want you exploring the movesets rather than mashing X. I have seen a lot of KoF comparison but I have never played KoF so I cannot speak to them.
+
+And these movesets deserve exploration. A half dozen characters each with wildly different fighting styles: A dash happy flame attack brawler. A mage with counters and options that can attack independent of his current state. A dark lord whose main gimmick is area control... This is a great roster, and every one is designed and balanced differently and smartly. I cannot speak to high level play but all the gimmicks are so different and interesting that I am interested in most of the cast.
+
+There is a versus mode that is, unfortunately, local play only and with no AI.  That is a shame as it looks like an absolute blast if you can get a fighting minded friend at the screen with you. I can not, sadly.
+
+So, for most of us the value is in the beat-em-up portion, and everyone still shines there even if you can't round someone up for versus play. The enemy variety is not much to write home about, but the levels are appropriately quick and the encounters will typically involve you exploring your character's moveset more than the enemies. To support this, there is a scripted story mode that takes you through all of the characters (Sadly without much chance to explore each character so you may have to practice a bit as you change.), as well as a Free Mode that plays the story as any character you like. Most of the content comes from Base of Darkness, which is a sizeable assortment of wave battle levels without context; just pick a level and throw down. In each of these modes you collect upgrades for your characters that you can cash in for various perks on the skill trees. Make certain moves charge faster, add a stock for your Edge move, or even add a new mechanic for some of your ability moves, the skill trees are unique for each character and always interesting and add a bit of replayability as you can try slightly different builds. The flashy character can spec for damage bonuses for stylish combo-heavy play or to boost his fire effects, for instance.
+
+The bosses are a bit of a let down: Big, slow moving hyper-armored jerks who just walk up, stare at you for a second, and then swing a power attack. You pound them a bit, block their attack, and go back to pounding. Repeat until dead. Clearing mooks in a combat system that rewards combos only to then get this big fat anti-combo thing blocking your path is a bit of a paradigm shift but like most awkward things in Wishmere it's still perfectly manageable.
+
+I gotta give a shout out to the story. Wishmere's story is perfectly genre-standard and I love it. A LOT of heart went into this; probably too much. In a 3 hour story mode that you could probably run through in 40 minutes tops, it is unbelieveably dense without running long in terms of cutscenes. You go from high school students to a superhero team, with betrayals, rivalries, inner turmoil, multiple crises of confidence... It just rolls through story beat after story beat with lightning speed. Three seasons of anime or comic book storytelling and thrills are all crammed in here. There's even a Deadpool-esque character cracking wise all game (Thankfully the game ends right when she's getting close to getting annoying.). It's all way, way too much for a short beat-em-up but the energy and heart the authors put into it shines through without feeling indulgent at all. I imagine 90% of you reading will think I'm nuts for liking a ""generic"" story so much and I can't hope to convince you otherwise. But I liked it a lot, dammit.
+
+In the end, the core of Wishmere is a combat system that really demands some elbow grease to learn it. You will start playing it and see none of your attacks flow except for the XXXX combo, you will have to experiment to try to figure out what you can chain together. It is really tightly engineered, probably over-engineered, but it works if you are willing to learn it. I don't think the combat system is for everyone; trying to piece together a combo to find out Up+Y, Forward+X, Neutral+B (With maybe a time stop extension after that followed by an aerial combo.) is what you're meant to do may not jive with you. I'm still not all that good with it, but I enjoy what they have put together. Wishmere is something different, and that may not be for everyone, but I find it really compelling and worth exploring. And the sheer amount of quick-playing content makes it easy to pick up, play, and explore.",1507671605,1508225999,True,28,1,0.740603923797607422,0,True,False,False,False,,,
+35508656,"{'steamid': '76561198210088295', 'num_games_owned': 0, 'num_reviews': 97, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1507259911}",english,"Sorry, making the first boss on free play a powerhouse of utter BS. yeah, you can block but umm, fuck trying to actually hit him.  Or, you get knocked clean across the board...so no, you can keep this game and ill take my money back thank you",1507260185,1507260185,False,4,10,0.242089346051216125,0,True,False,False,False,,,
+35488088,"{'steamid': '76561198135614484', 'num_games_owned': 0, 'num_reviews': 37, 'playtime_forever': 93, 'playtime_last_two_weeks': 0, 'playtime_at_review': 93, 'last_played': 1507220004}",english,"Everything you need to know before buying this awesome simple fighting game.
+Enjoy the video.
+https://www.youtube.com/watch?v=SMvkHOJU-xI
+",1507186467,1507186467,True,2,0,0.36941295862197876,0,True,False,False,False,,,
+35254090,"{'steamid': '76561198009240980', 'num_games_owned': 0, 'num_reviews': 33, 'playtime_forever': 466, 'playtime_last_two_weeks': 0, 'playtime_at_review': 360, 'last_played': 1507631112}",english,great brawler with tons o heart! seems content full as well.,1506570510,1506570510,True,4,0,0.507685601711273193,0,True,False,False,False,,,
+20641227,"{'steamid': '76561198078955940', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 98, 'playtime_last_two_weeks': 0, 'playtime_at_review': 98, 'last_played': 1453293433}",italian,"good pixel art beatemup with rpg like skills system! and very good OST!
+I'd like to play it with other friend online or even in lan with Hamachi, hope u guys will add this functionality.
+Good job!",1453294681,1453294681,True,0,0,0.45792841911315918,0,False,False,True,False,,,
+20632631,"{'steamid': '76561198026950610', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 419, 'playtime_last_two_weeks': 0, 'playtime_at_review': 419, 'last_played': 1453267335}",italian,"A bit tricky for keyboard users, pixel art is solid, music aswell.
+The combat system is well done but couldn't enjoyed as full potentional being a keyboard user. 
+A joypad is a must for the game. Recommended to all people searching for retro combat-type games.
+For me it's a ""+"".",1453245195,1453245195,True,2,0,0.503409028053283691,0,False,False,True,False,,,
+19794317,"{'steamid': '76561198054386085', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 160, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1516165709}",english,"What?? no review?? Oh well here goes. For a first run picking the fighter, i must say that i'm pretty impressed!! The story (which you don't have to pay attention to really (sorry devs, not hating :) )  i find it rather cool for now. I for a long time have been waiting for some type of beatemup/rpg skill building that is actually worth it and with the team up skills and all, wow keep it up please! Do put online co-op please please please pretty please!!!!!
+
+If you have a controller and want to play a type of river city ransom meets rpg kind of game and have 10$ to spare, do yourself a favor or send it as a gift to someone you know who would love it :) 
+
+
+Happy Holidays y'all 
+
+   Cheers!",1450574785,1450574785,True,18,0,0.542182743549346924,0,True,False,True,False,,,

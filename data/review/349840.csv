@@ -1,0 +1,283 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+156464150,"{'steamid': '76561198036176076', 'num_games_owned': 0, 'num_reviews': 4382, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1705840143}",russian,"В целом играбельно, но на любителя",1705842301,1705842301,True,1,0,0.442028999328613281,0,False,False,False,True,,,
+155795673,"{'steamid': '76561197960319772', 'num_games_owned': 0, 'num_reviews': 3484, 'playtime_forever': 6, 'playtime_last_two_weeks': 0, 'playtime_at_review': 6, 'last_played': 1705037183}",german,ok!!!,1705037198,1705037198,True,1,0,0.521531105041503906,0,False,False,False,True,,,
+154579299,"{'steamid': '76561199487256307', 'num_games_owned': 27, 'num_reviews': 60, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1703715796}",english,"I will leave this cat here, so that everybody who passes by can pet it and give it a thumbs up and awards
+　　　 　　／＞　　フ
+　　　 　　| 　_　 _ l
+　 　　 　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ",1703717458,1703717458,True,0,0,0,0,False,False,False,True,,,
+149722937,"{'steamid': '76561198239664996', 'num_games_owned': 228, 'num_reviews': 115, 'playtime_forever': 161, 'playtime_last_two_weeks': 0, 'playtime_at_review': 151, 'last_played': 1699387369}",english,"A turn-based card strategy game, i am not really into these type of games but i gotta admit i had fun. It's a bit repetitivee but the graphics are entrataining. It isn't much optimized which may become a huge problem (it was running with OK fps with a 3080 ti so i really don't know what would happen with lower  specs)",1699387363,1699387363,True,0,0,0,0,False,False,False,True,,,
+149578249,"{'steamid': '76561198086000429', 'num_games_owned': 394, 'num_reviews': 9563, 'playtime_forever': 22, 'playtime_last_two_weeks': 0, 'playtime_at_review': 22, 'last_played': 1699179406}",turkish,Sıra tabanlı strateji kart oyunuyla buluşuyor! Kurnaz stratejilerle birden fazla farklı savaş alanında rakibinizi zekanızla alt edin. Yeraltı dünyasından kölelerden ve güçlü büyülerden oluşan kendi destelerinizi oluşturun!,1699180843,1699180843,True,2,0,0.545454561710357666,0,False,False,False,True,,,
+141469367,"{'steamid': '76561198148861816', 'num_games_owned': 1498, 'num_reviews': 71, 'playtime_forever': 939, 'playtime_last_two_weeks': 0, 'playtime_at_review': 939, 'last_played': 1683652390}",english,คุณภาพของเกมอยู่ในระดับแย่ Gameplay ที่น่าเบื่อหน่ายและเต็มไปด้วย Bug,1688669449,1688669449,False,0,0,0,0,False,False,False,True,,,
+50180681,"{'steamid': '76561198015060917', 'num_games_owned': 0, 'num_reviews': 61, 'playtime_forever': 111, 'playtime_last_two_weeks': 0, 'playtime_at_review': 111, 'last_played': 1554677226}",english,"[h1]+[/h1]
+Art style is cool
+Spell and unit cards seem inspired and thought out
+Format is interesting
+
+[h1]-[/h1]
+Game is very small, feels incomplete despite being fully functioning
+Not enough variety of cards to keep play interesting past the first few matches
+
+Yet another humble beginning seemingly abandoned in it's infancy. Has some good stuff going for it but the smallness of the card pool leaves very little real content to enjoy. I'd recommend it if it was under a dollar, it's pretty much only worth the look around.",1555538885,1555538974,False,2,0,0.507268249988555908,0,True,False,False,False,,,
+48068117,"{'steamid': '76561198045828738', 'num_games_owned': 0, 'num_reviews': 49, 'playtime_forever': 1794, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1638, 'last_played': 1550942305}",brazilian,"Divertido, embora não tão bonito e pesado, lembra muito o antigo e saudoso MTG: Tactics, se curte o estilo é bem legal.",1546518642,1546518642,True,2,0,0.545454561710357666,0,True,False,False,False,,,
+43824947,"{'steamid': '76561198076328268', 'num_games_owned': 1447, 'num_reviews': 36, 'playtime_forever': 256, 'playtime_last_two_weeks': 0, 'playtime_at_review': 256, 'last_played': 1532906323}",polish,"Karcianka najbliższa w stylu Duelysta, czyli HSowa mechanika ze stołem w postaci kwadratów, na które rzucamy stwory w sąsiedztwie bohatera. 
+
+Jej oryginalnym rozwiązaniem jest zaimplementowanie koncepcji trybu Domination z arena shooterów (albo nie istniejący już Dominion z LoLa) do taktycznej karcianki. Mamy tu zatem trzy totemy (lub więcej jeśli to jest inna plansza), nad którymi trzeba przejmować kontrolę (stając obok nich). Za kontrolowanie jednego z nich dostajemy po 1 punkcie na zakończenie każdej tury. Oczywiście gdy rywal przejmuje nad tym totemem kontrolę, to on dostaje punkty. Ale najwięcej punktów zyskujemy za zabicie bohatera – 10, który gdy padnie, w następnej turze respawnuje się w początkowym miejscu. Grając vs SI finiszem jest osiągnięcie 40 punktów (na innych planszach, gdzie jest więcej totemów, 50 i 60 punktów). Wydaje mi się że jest to ciut za mało (chyba że nie jest to sztywna liczba punktów i na ludzi jest inaczej? ale raczej nie). 
+
+Co do samych jednostek, to wiadomo że mają wartości ataku i życia, oraz zasięgu ruchu i zasięgu ataku. Drobnym uoryginalnieniem, względem innych tego typu karcianek, jest to, że niektóre z jednostek (te lepsze) mają umiejki (z cooldawnem), które można aktywować w określonej sytuacji. 
+
+Układ stołu jest różny, czyli mamy ileś tam odmiennych plansz na których toczą się pojedynki, co jest pewnym urozmaiceniem. 
+
+Poza tym plusem jest, że gra nie będąc f2p oferuje wszystkie karty od razu (z wyjątkiem kilku, które trzeba sobie odblokować levelując na wyższe poziomy, bo za wygrane dostajemy jakiegoś expa). Zawsze mi się coś takiego marzyło, bo nie ma tu sytuacji że ktoś wyskoczy z legendami, epikami i niszczy początkujących. Każdy gracz ma zatem równe szanse od samego początku. 
+
+Do tego graficznie wolę taką bardziej normalną grafikę niż np. pixel art z Duelysta, aczkolwiek nowsze produkcje w podobnej konwencji, jak Hand of Gods czy Shardbound, mają ją jeszcze lepszą.
+
+Ponadto gra jest w miarę stabilna, choć wyczuwało się że coś z optymalizacją może nie być za idealnie, na co trochę ludzi w komentach na steamie się uskarżało. 
+
+Wady? No niestety trochę jest, w tym jedna fundamentalna. Gra jest dedykowana do multi, i niestety nie sprzedała się, co oznacza że ten tryb jest praktycznie martwy. Z kolei w singlu są tylko do pogrania zwykłe pojedynki z beznadziejnie głupią SI bez żadnej fabuły/kampanii. Ludzie przez to grę zjechali niemiłosiernie w steamowych komentarzach, ale według mnie tylko z tego powodu ją zniszczyć jest nie fair, bo przecież nie jest winą twórców, że ludzie gry nie kupili, a chyba w porządku iż ciągle stoi serwer (przecież wcale nie musiałby działać przy tak nikłym zainteresowaniu). Jeśli do tego dodać, że można ją dostać na wyprzedażach za drobne (coś około 5-10zł), to z wymaganiami wobec niej wyraźnie ludzie przesadzili. 
+
+A od strony gameplayowej? Bardzo mało kart (tylko coś koło 50), bez żadnych oddzielnych frakcji/bohaterów ze swoimi oddzielnymi kartami. Ponadto nic oryginalnego w mechanikach nie zauważyłem (raczej standard który jest obecny wszędzie), być może gdyby gra chwyciła, to twórcy zrobiliby jakieś dodatki i trochę ciekawych mechanik weszłoby do kart, no ale aktualnie jest z tym ubogo. 
+
+Poza tym przy pierwszym wrażeniu wydaje mi się że obszar rozgrywki jest za duży, troszkę to zabija dynamikę gry. 
+
+Ponadto, z racji tej sporej wielkości,  obserwowanie pola gry nie jest za wygodne. Tu dochodzi też kwestia 3D; z jednej strony może wygląda to i estetycznie, ale z drugiej strony z powodu barier trzeba ciągle mocno kręcić kamerą, żeby kliknąć odpowiednią jednostkę i poruszyć ją tam gdzie chcemy. Brakuje mi tu opcji chowania barier, czyli widoku z całkiem płaską planszą, która może wyglądałaby gorzej, ale plansza byłaby czytelniejsza i poruszanie się po niej wygodniejsze. 
+
+Jak wspomniałem wyżej, czasem coś optymalizacja szwankuje, no ale nie ma z tym tragedii, to w końcu gra turowa, więc nie musi być super płynności. Coś niehalo jest z wyświetlaniem zasięgu danej jednostki, ale nie jest to bug, który mi bardzo przeszkadzał. 
+
+Nie jestem pewny jak jest z dostępnym czasem na turę grając pvp, ale jeśli tak samo jak vs SI, tj. 3 minuty, no to jednak jest to przesada, która nawet przy większym zainteresowaniu mogłaby odstraszyć wielu sprawdzających tę grę.
+
+
+Szkoda, że ludzie tego nie kupili, bo pomysł z Domination w taktycznej karciance jest ciekawy i chętnie wypróbowałbym go w praniu, no ale nie ma z kim, bo trudno jest kogoś spotkać na serwerze (mi się nie udało). Czuć też, że gra jest niedokończona, uboga w tryby, opcje i karty. Mimo to grało mi się w to przez chwilę dość przyjemnie, ale na dłuższą metę rywalizowanie z głupią SI nie ma sensu, więc jeśli ktoś miałby kupować, to najlepiej z jakimś znajomym, żeby sobie z nim pograć w pvp.",1532908541,1532908541,True,0,0,0,0,True,False,False,False,,,
+34091772,"{'steamid': '76561198022002849', 'num_games_owned': 0, 'num_reviews': 28, 'playtime_forever': 145, 'playtime_last_two_weeks': 0, 'playtime_at_review': 145, 'last_played': 1480473185}",english,"I played this game for a few hours, and I really enjoyed the different characters available.  I would have liked to see more, perhaps classes for the primary character, or equipment cards - but definitely a great start.  Such great promise.",1502148812,1502148812,True,3,0,0.501203298568725586,0,True,False,False,False,,,
+30043321,"{'steamid': '76561198008538874', 'num_games_owned': 0, 'num_reviews': 73, 'playtime_forever': 549, 'playtime_last_two_weeks': 0, 'playtime_at_review': 512, 'last_played': 1520307673}",tchinese,畫面還算不錯，但玩起來略顯單調，也許卡牌變化多一點或區分職業會更有趣,1487534335,1487534335,False,0,1,0,0,True,False,False,False,,,
+28922353,"{'steamid': '76561197972526943', 'num_games_owned': 500, 'num_reviews': 52, 'playtime_forever': 216, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1483315787}",english,"[b]Game type:[/b] 2 player Objective based Board game with LCG elements.
+[b]Objective:[/b] Take and hold points on the map, each round you control them they contribute points towards a victory total. First to the victory total for that map wins.
+
+[b]Impressions:[/b] I played a few total hours. Got to level 7. Played against the AI. Some UI/control complaints but nothing you can't get used to. The full 3D Isometric view and animated units are neat looking, but I don't feel like the 3D adds to the gameplay more than it gets in the way of seeing everything you might want to sometimes. Definitely more board game than CCG. You draw random cards from your deck, but there's not really combo elements or much in the way of variability. I have a feeling if I went in to play multiplayer I would run into people with some essentially unbeatable card sequences. There's not much here right now, it's fairly basic for a CCG or a board based tactics game. It's not exactly exciting to me, but I also don't feel like I was cheated by buying the game. I got something from it, even if it's just ideas about how games like this can work and some do's and don'ts.
+
+[b]Boardgame players:[/b] Recommend if you like tactics games with random elements.
+[b]CCG players:[/b] Might be too basic if you're looking for CCG depth or variety.",1483317410,1483317410,True,4,0,0.568262875080108643,0,True,False,False,False,,,
+28858294,"{'steamid': '76561198251455162', 'num_games_owned': 206, 'num_reviews': 5, 'playtime_forever': 958, 'playtime_last_two_weeks': 0, 'playtime_at_review': 589, 'last_played': 1488362324}",english,"Pro:
+(+) Easy achievement, despite time-consuming grindfest
+
+Cons:
+(-) Limited card pool
+(-) Shallow gameplay depth
+(-) Lack of contents
+(-) Framerate issue (I'm using GTX 960M 4GB)
+(-) Sound issue
+(-) Unoptimized (from graphic setting to RAM consumption)
+(-) Crash occasionally
+",1483166831,1483166831,False,34,1,0.774198174476623535,0,True,False,False,False,,,
+28613716,"{'steamid': '76561198100002788', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1450652486}",english,"If you're somehow reading this review, then I'm sorry to inform you that this game has been completely and utterly abandoned. Thank you for your time.",1482622736,1482622736,False,18,0,0.595561444759368896,0,True,False,False,False,,,
+28317873,"{'steamid': '76561197985280916', 'num_games_owned': 0, 'num_reviews': 95, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1481494228}",english,"Pure multiplayer game.
+I'm sure it's a fine game, but i'm not gonna play it unless it have ether 1) a single player campaine, or 2) more depth in the gameplay",1481494331,1481494331,False,13,1,0.605950295925140381,1,True,False,False,False,,,
+25442087,"{'steamid': '76561198137408742', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 64, 'playtime_last_two_weeks': 0, 'playtime_at_review': 64, 'last_played': 1470777354}",english,"The gameplay isn't bad, but there is no single player campain, no special missions or game modes, no story, very few cards.. Basically, this game lacks content and there's nothing that makes you wanna keep playing after the 2-3 first games. I cannot recommend.",1473510316,1473510316,False,20,0,0.687866806983947754,1,False,False,False,False,,,
+24057168,"{'steamid': '76561198012430493', 'num_games_owned': 434, 'num_reviews': 18, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1467570424}",english,"TLDR; The game is 20% fun, 80% barebone at the moment.
+
+Pros:
+- Solid card battle gameplay.
+- PC-adequate graphics.
+
+Cons:
+- Lack of contents: No classes (diversification), No game modes, No progression.
+- Due to the reason above, things get repetitive 30 minutes into the game.
+- Not anything ground-breaking in terms of mechanics or presentation.",1467570703,1467570703,False,11,1,0.593677997589111328,0,False,False,False,False,,,
+23848613,"{'steamid': '76561198018102239', 'num_games_owned': 305, 'num_reviews': 24, 'playtime_forever': 18, 'playtime_last_two_weeks': 0, 'playtime_at_review': 18, 'last_played': 1466981290}",english,"Crashed on me, crashed my friend once, my other friend it froze mid-match, my game froze at launch, all within 30 mins.",1466993832,1466993832,False,7,2,0.534628450870513916,0,True,False,False,False,,,
+21629779,"{'steamid': '76561198028263060', 'num_games_owned': 399, 'num_reviews': 9, 'playtime_forever': 67, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1457133139}",spanish,"Dont buy it , sorry. The game have some good ideas but the game is dead like other. The developers had to close the company. Sorry",1457133672,1457133672,False,3,0,0.531094670295715332,1,True,False,False,False,,,
+21040502,"{'steamid': '76561198025477286', 'num_games_owned': 0, 'num_reviews': 67, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1454891575}",english,I can't recommend this game because it keeps crashing on me. Sometimes stright after me launching it and sometimes after some minutes of play. No problems with other games I play. It may be a good game but it does not let me experience it.,1454890648,1454890648,False,6,1,0.475589931011199951,0,True,False,False,False,,,
+20123809,"{'steamid': '76561198027877903', 'num_games_owned': 741, 'num_reviews': 43, 'playtime_forever': 37, 'playtime_last_two_weeks': 0, 'playtime_at_review': 37, 'last_played': 1451491422}",english,"Such a limited game, very tiny card pool and no factions.",1451502179,1451502179,False,7,1,0.391801834106445313,0,True,False,False,False,,,
+20053447,"{'steamid': '76561198084502484', 'num_games_owned': 0, 'num_reviews': 6, 'playtime_forever': 256, 'playtime_last_two_weeks': 0, 'playtime_at_review': 147, 'last_played': 1455019702}",brazilian,"Como GameDev eu me interessei muito pelo jogo por ser muito parecido com um dos projetos que estou iniciando, então vi como oportunidade de estudar algo semelhante (praticamente único, pois não conheço outro card game com elemento de tactics 3D) e como gamer me muito atenção por ter um level design initeressante, uma game arte bonita, enfim é jogo completinho com aspectos legais fora a ideia de misturar card game com tactics.
+
+As únicas coisas que não curti muito é que dentro do game o objetivo não é tão claro, demorei um pouco, mesmo com o tutorial pra entender como é o sistema de ""pontos"" para ganhar e acho que, apesar de ser um jogo bem carismático como um todo, ele não tem elementos que fassam o jogador se apegar, os personagens não são tão interessantes e até entender suas mecânicas é um pouco complicado.",1451354090,1451354090,True,2,0,0.545454561710357666,0,False,False,False,False,,,
+20025602,"{'steamid': '76561197992674721', 'num_games_owned': 0, 'num_reviews': 568, 'playtime_forever': 330, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1457313182}",french,"Simply amazing and reminds me of another game on steam that you also summon creatures with cards, this one uses unreal engine 4 and graphics are therefore stunning and games runs great, the turn based is amazing too and audio wello too.
+
+I recommend this game to strategy lovers who want a twist of magic and old tribe style feel) amazing inide gem, again.",1451289856,1451289856,True,11,1,0.582891702651977539,3,False,False,False,False,,,
+19450236,"{'steamid': '76561197990617196', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 107, 'playtime_last_two_weeks': 0, 'playtime_at_review': 107, 'last_played': 1445715377}",english,"Fun title in short spurts, lacks content however.
+
+https://www.youtube.com/watch?v=KoOdgLuhgI4",1449109087,1449109087,True,1,0,0.445838510990142822,0,False,False,False,False,,,
+18933557,"{'steamid': '76561198054978155', 'num_games_owned': 2689, 'num_reviews': 183, 'playtime_forever': 269, 'playtime_last_two_weeks': 0, 'playtime_at_review': 249, 'last_played': 1446962409}",tchinese,"嘛
+還算可以玩啦
+我只希望棋子可以動快點",1446913650,1446913650,True,0,2,0.385886937379837036,0,False,False,False,False,,,
+18924675,"{'steamid': '76561198023992910', 'num_games_owned': 0, 'num_reviews': 124, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1446881866}",russian,Не рекомендую.,1446881949,1446881949,False,4,0,0.202537283301353455,3,True,False,False,False,,,
+18646585,"{'steamid': '76561197968024600', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 55, 'last_played': 1564886857}",english,"I played most of a single multiplayer game with a friend. What I saw was promising and fun.
+
+However, the game crashed and now it cannot be started, After the splash/title screen the game just says ""please restart steam"" and drops to desktop.
+
+They responded in the steam forums as well as responded to an email I sent. However, nothing has fixed it.
+
+I suspect this is related to multiplayer functionality or some kind of authentication. If you're going for single player, maybe you won't encounter the same issue. But I can't really recommend the game when a crash seems to permanently lock you out of the game. Veryfing cache, deleting appdata, completely reinstalling, nothing has fixed it.
+
+If they resolve the issue soon, I'll come back and edit this review but for now I would strongly discourage purchasing.",1445636784,1445636784,False,6,1,0.480162769556045532,0,False,False,False,False,,1445872046.0,"We will be working to address this issue with next patch, so hopefully the review will end up being a positive one soon :)
+
+-Tatu"
+18619349,"{'steamid': '76561198048741425', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 114, 'playtime_last_two_weeks': 0, 'playtime_at_review': 114, 'last_played': 1444708242}",english,"[url=https://www.youtube.com/watch?v=rvt8aXu9qjg] Ancestory Full Review	[/url]
+Excellent game cant wait till release 
+https://www.youtube.com/watch?v=rvt8aXu9qjg",1445477694,1445477694,True,3,0,0.394160360097885132,0,False,False,False,False,,,
+18583456,"{'steamid': '76561198042636721', 'num_games_owned': 215, 'num_reviews': 3, 'playtime_forever': 210, 'playtime_last_two_weeks': 0, 'playtime_at_review': 159, 'last_played': 1450998619}",english,"I'd like to preface this with something. Though I am the voiceover actor for Simo in Ancestory, I'd still like to write as concise and unbiased of a review as possible.
+
+Ancestory is not perfect. It suffers from a lack of content and a dwindling playerbase straight out the door. But does this mean the game itself isnt worth the money? I'd probably say no.
+
+Taking inspiration from the very best TCG games and mixing it with a Fire Emblem esque grid system, Ancestory is a unique game for sure.
+
+Gameplay: 
+Simple and accessible, perfect to boot up against a friend every now and then. The game itself works with very few hitches, and runs at a snappy 60 FPS. The mix of minions and spells offer decent variety in strategy for the most part. Unfortunately, the overall card count is a tad low, and there are few comback mechanics to keep you invested in the event that your opponet makes a really good couple of plays early on. It's still fun and funtional, and that matters quite a bit.
+
+Sound:
+The music and sound effects get the job done, though they arent anything groundbreaking. The Desert Temple track is one I am particularly fond of though. Voice acting is generally pretty solid overall, with a few standout performances. 
+
+Visuals:
+The game has a cool neon aesthetic that helps to differentiate teams, and the color coded minions have their own unique flavor because of it. Nothing incredible, but it works.
+
+Replayability:
+This is where Ancestory stumbles a bit. The card count is low, and the multiplayer community is very, very small. Until Kajak adds some more features, the game may be on the backburner.
+
+Overall Score:
+7/10
+
+Ancestory is good, but it's held back by a pretty severe lack of content. Fifteen bucks isnt too bad, and will most likely be worth it once more content is added. If you want to buy Ancestory, know that you may need to come back to it every now and then to see the new content. If you want a cheap, neat little strategy game, I would still reccomend it.",1445350522,1445351452,True,22,0,0.651377677917480469,0,False,False,False,False,,,
+18580048,"{'steamid': '76561197971106444', 'num_games_owned': 0, 'num_reviews': 23, 'playtime_forever': 216, 'playtime_last_two_weeks': 0, 'playtime_at_review': 216, 'last_played': 1445360252}",french,"Very good game concept !
+
+But where is the HOT SEAT !!!???!!!
+
+A follow cam on the spells and what happenns will be a very goood point for the action visibility.",1445332758,1445332758,True,1,0,0.471014469861984253,0,True,False,False,False,,,
+18573118,"{'steamid': '76561197984761497', 'num_games_owned': 1718, 'num_reviews': 1, 'playtime_forever': 286, 'playtime_last_two_weeks': 0, 'playtime_at_review': 286, 'last_played': 1445294989}",koreana,"이게임을 한마디로 정의하면 하스스톤+턴제전략게임 
+처음에 카드3장 중 드롭 선택하는거나 
+턴당 마나 1칸씩 차서 그걸로 카드쓰는거나 
+여러가지로 하스스톤의 그 모습을 그대로 보여줌 
+단 전투는 턴제전략게임으로 소환한 몹으로 이루어지고 
+거점 점령을 유지해서 포인트 다 체우면 이기는 킹오브힐 스타일임 
+
+소환몹들은 원거리공격, 이속, 공체 특성들이 다양하고 
+소환몹의 스킬로 광역공격하것 등등이 있음 
+마법카드로는 이속증가 공격업 힐 적 못움직이게하거나 등등.. 
+덱엔 같은 카드는 4개씩, 총합 30장으로 구성가능.. 
+
+게임컨셉자체는 흥미롭고 카드덱구성 등 좀 파볼 요량이 있어보이는데 
+문제는 멀티에 사람이...... 차라리 f2p였으면하는 아쉬움이 듬 
+싱글은 캠페인같은게 아닌 그냥 ai랑 대전하는 연습정도뿐임 
+카드 파밍요소가 없고 종류가 그렇게 많은편은 아닌점이 아쉬움
+좀 더 카드종류가 많아지고 사람들이 늘어난다면 상당히 가능성이 커보이는 게임",1445290968,1445291640,True,9,1,0.632497906684875488,0,False,False,False,False,,,
+18568855,"{'steamid': '76561197999342177', 'num_games_owned': 1009, 'num_reviews': 65, 'playtime_forever': 357, 'playtime_last_two_weeks': 0, 'playtime_at_review': 47, 'last_played': 1452828106}",english,"[h1] Ancestory - A Steam Review[/h1]
+ 
+[i][Disclamer - I was provided a copy of by the publisher for review purposes][/i]
+ 
+[b]The good[/b]
+[list]
+[*] Interesting concept
+[*] Nice graphics 
+[/list] 
+
+[b]The not so good: [/b]
+[list]
+[*] Small community - big waits in multiplayer
+[*] Playing against bots becomes repetitive fast
+
+[/list]
+
+ [b]The conclusion: [/b]
+The concept of the game is pretty solid. Build a deck, get onto a map, use your minions to capture totems and make sure you keep them as long as possible. Reach the target score first. Rejoice. 
+	Even after just a few moments, I’ve already envisioned some specific decks based on cheesing the opponent, or creating huge creatures that are almost impossible to kill, or using spells to get my guys to the totems faster and then to protect them...the list can go on, and with new cards, new opportunities might come. 
+	But all of this is in vain if there is no opponent to play against. The bots get tiring pretty fast and due to the small size of the community, the matchmaking takes ages. Maybe a free to play model with decks or expansions for pay would’ve been a better idea for a game that absolutely needs a community to take off. 
+	For now, I can’t recommend a game in which the main part of it is practically unplayable (and I mean the multiplayer)
+Watch me play here : https://www.youtube.com/watch?v=kyIw3xdEaLQ
+",1445275296,1445275296,False,5,0,0.456114262342453003,0,False,False,False,False,,,
+18512954,"{'steamid': '76561198067937537', 'num_games_owned': 0, 'num_reviews': 125, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1445011420}",english,"While not for everyone, I had quite a bit of fun with Ancestory. Ancestory is kind of a combination between a card game and a turn based strategy game. The objective of the game is to gain points. You earn points by controlling totems or killing the other player's shaman. 
+
+While there are more complicated card games on Steam, I liked that Ancestory decided to streamline the gameplay. The game doesn't require reading a lot of text on the cards or learning complex rules. You can pretty much learn the basics of the game within ten minutes and you can usually finish a game in around twenty minutes. 
+
+While the game has a computer player to play against, I would highly recommend playing against another person since the AI is not particularly good and you can beat it pretty easily. The camera is a little hard to control at times. I also wish there were more cards in the game and that you would unlock new cards quicker. 
+
+If you are looking for an easier turn based strategy game that uses cards, I think you should enjoy Ancestory.
+Note: I received a free review copy of the game from the developer.
+
+[url=http://www.geekyhobbies.com/this-weeks-steam-releases-and-reviews-october-16th-2015/#Ancestory] Read My Full Review [/url]
+",1445035995,1445035995,True,2,0,0.539776504039764404,0,False,False,False,False,,,
+18510099,"{'steamid': '76561198054242179', 'num_games_owned': 150, 'num_reviews': 2, 'playtime_forever': 68, 'playtime_last_two_weeks': 0, 'playtime_at_review': 68, 'last_played': 1445026378}",english,I love the atmosphere of this game! The game looks so beautiful and the details are nice. Voice acting and BGM are also really good. I would definitely recommend this game if you like deck building and strategic games!,1445026665,1445026665,True,6,0,0.546930968761444092,0,False,False,False,False,,,
+18483767,"{'steamid': '76561198001656242', 'num_games_owned': 0, 'num_reviews': 87, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1444909383}",english,Ancestory is a mix of deckbuilding card game and board game. You can summon and move around your minions. If you like games like Hearthstone you might enjoy Ancestory as well. The game is also similar to Duelyst. My First Impressions here: https://www.youtube.com/watch?v=Z_-uE1h-Gxs,1444916216,1444916216,True,5,1,0.504369735717773438,0,False,False,False,False,,,
+18480492,"{'steamid': '76561198137474100', 'num_games_owned': 134, 'num_reviews': 32, 'playtime_forever': 109, 'playtime_last_two_weeks': 0, 'playtime_at_review': 72, 'last_played': 1449857876}",english,"Awesome game, get in now, queue up and pray to god that you don`t queue against me.",1444891073,1444891073,True,6,9,0.391230404376983643,0,True,False,False,False,,,
+18477320,"{'steamid': '76561198048887731', 'num_games_owned': 720, 'num_reviews': 7, 'playtime_forever': 278, 'playtime_last_two_weeks': 0, 'playtime_at_review': 126, 'last_played': 1466580166}",english,The game is fun but my feelings are actually quite mixed. To read my full review of Ancestory take a look at 8bitlanparty.com,1444865969,1444865969,True,5,0,0.351482361555099487,0,False,False,False,False,,,
+18470986,"{'steamid': '76561198142512982', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1444832793}",english,The game just doesn't work like what I expected it to be.,1444834469,1444834469,False,4,1,0.261298328638076782,0,True,False,False,False,,,
+18469016,"{'steamid': '76561198077943923', 'num_games_owned': 0, 'num_reviews': 10, 'playtime_forever': 340, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1450890761}",english,It's a great game! Will definitely play it more,1444824913,1444824913,True,5,0,0.359892100095748901,0,False,False,False,False,,,
+18462159,"{'steamid': '76561198048213558', 'num_games_owned': 154, 'num_reviews': 1, 'playtime_forever': 1667, 'playtime_last_two_weeks': 0, 'playtime_at_review': 825, 'last_played': 1537010845}",english,"I have to say i really like the game. It's like hearthstone but you get to move the minions around the field and strategies way moore. I like the graphics and i like the whole concept of the game. There is only a couple of things, it's seems like if the other player gets ahead with something like 10 points it's really hard to comeback so the game is basically over at that point. Also it needs more cards, and i do hope they will add some as free DLC or something.",1444775760,1444775804,True,32,1,0.642633795738220215,1,True,False,False,False,,,
+18458749,"{'steamid': '76561197999451870', 'num_games_owned': 2540, 'num_reviews': 82, 'playtime_forever': 923, 'playtime_last_two_weeks': 0, 'playtime_at_review': 922, 'last_played': 1601703446}",english,"(Thumbs up, but it's a close call)
+
+Ancestory is a turn-based tactical game that utilizes a card system to create the armies/abilities/etc. available to the player (and frustrates me with its spelling every day). My view is a bit mixed in regards to this game - the strong core is there, though I do have a few concerns about the sustainability of the title, especially in terms of expanding content (as should be part of the plan for a game like this)
+
+Pros:
+- Really nice map variance, with a good mix of layouts for capture points, obstructions, etc. (Each of the maps plays notably different)
+- Decent graphics (about on par with Forced)
+- Solid Gameplay
+- Easy to master controls
+- Fully unlocked camera (those of you familiar with 3d tactics games will know why I put that there, huge pro there)
+- Good Tutorial
+
+Cons:
+- Lack of variety in cards (starting set is less than 50 cards)
+- Lacks financial sustainability for future expansions with the ""Buy once, free forever"" model (I would recommend skins/avatars/etc. as pay unlocks for at least some minor income to allow for additional sets, but I'm just a player, not a creator :P)
+
+Note: There is no single-player campaign to tell the story, I feel this is a flaw, but it may not matter to some people. The ""single-player"" is random battles vs the AI.
+
+Note: Press is really quiet on this game right now... so I'm not sure what the situation will be with multiplayer on release, but the game itself is fun at its core, just definitely needs more card variety (the map variety is actually fine for release... ). 
+
+What it needs in my opinion?
+- More Cards
+- Single-Player Campaign (or challenge mode)
+- A steady source of income for sustained development
+
+I give it a thumbs up because the game itself is solid, though be sure to take the above into account.
+
+If you would like to see the gameplay in action, I did create a video covering the game as well:
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=534643331",1444761177,1444761177,True,59,1,0.739549219608306885,5,False,False,False,False,,1444827884.0,"Thank you very much for the review!
+
+Your feedback definitely helps us shape the road forward and we are currently working hard to create some more variety in cards and expanding the single-player. We are also quite confident that the updates will help us keep the playerbase active and secure the future."
+18457426,"{'steamid': '76561198016432675', 'num_games_owned': 1503, 'num_reviews': 483, 'playtime_forever': 206, 'playtime_last_two_weeks': 0, 'playtime_at_review': 206, 'last_played': 1444745883}",english,"[b] Target Audience: [/b] [I] Not really anyone.[/i]	
+
+[b] Summary: [/b]  
+
+Look, the core game does have an interesting element with the use of the shamans as mobile bases and reasons to go after the shamans for the sake of victory. The totems and the movement elements really do play out a chess like strategy back and forth with the opponent. But the interface does have some problems, especially for basics of strategy games that are standard for the genre, and they are standard for a reason. But in the end: the deck building mechanic is what kills it. With only 50 or so cards at this point, the customization that plays out is limited: and that's the bread and butter with card games at their core. They have promised free updates as the game goes along, and that's why this is something that may change my opinion and recommendation as it gets new updates. But as of right now: too little variety in a game that needs it tells me to give it a pass. But like always, check out the footage to see if it's right for you, because there is potential here.
+
+[b]Gameplay Footage and Video Review:   https://youtu.be/hKejtAFCGcY[/b] 
+
+[u] Lists: [/u]
+[b]Positives:[/b]
+[list]
+[*] The shaman mechanic does change the mechanics of the genre a bit and does work rather well, especially with the addition of victory points for taking the opponents shaman out.
+[*] Totems and emphasis on movement and board control helps make the game have a good base strategy.
+[*] Aesthetic works in particular with ethereal themes. Good artwork overall.
+[*] Use of colors draws natural attention to elements on the card you need to know.
+[/list]
+
+[b]Negatives:[/b]
+[list]
+[*] Missing content. There's a lack of cards, which unfortunately hurts the game in the long run. When you've got a deck customization, you need to this to have significance. It doesn't. 
+[*] The UI needs work. Unable to see what characters have gone or attacked, and that's a standard in this genre for good reason. Seems really basic to overlook.
+[*] AI is rather silly at times, and doesn't feel like a challenge. 
+[*] It feels like an overlook to not have lore apart of this, especially with the Shaman aspect of it.
+[*] Slow experience gain to unlock things, which seemed unnecessary for the amount of unlocks there. 
+[*] Bugs here and there. Will be fixed in time, but crashed once, and ran into critical bug that stopped a game. That second one was identified to be fixed, but things like the UI sound setting not being saved is an example.
+[/list]
+
+[b] If you want more reviews/information regarding games I've reviewed, visit my curator. [url=https://store.steampowered.com/curator/6861768/]Dragnix Curator [/url][/b]",1444755849,1611163991,False,68,4,0.615071952342987061,4,False,True,False,False,,1444823669.0,"Thank you for a honest review and detailed critique.
+
+Lots of fair points for us to adress and we have already started to work on that very hard. Feedback like yours helps us improve the game and I hope you have time to get back into the game at some point.
+
+To address some points, we are currently creating new spells and minions.AI customization too (we really always wanted to the MP to be the meat of the game, but taking the feedback into account there's definitely room for more meat). Lore is something we would also like to expand upon, more than just the cinematic trailer and the meet the minions on our twitter. SP xp gain will be improved with the next patch, as it looks like we might have been a bit too zealous in making the MP stand out for it. As for bugs, thankfully we have already identified and fixed some for the next patch (including that particular crash and the UI sound setting).
+
+Again, thank you and I hope that we can convince to get it to a thumbs up at some point."
+18457401,"{'steamid': '76561198021829666', 'num_games_owned': 0, 'num_reviews': 22, 'playtime_forever': 86, 'playtime_last_two_weeks': 0, 'playtime_at_review': 86, 'last_played': 1444880032}",english,"[Please note that this copy was provided free of cost for review]
+
+https://youtu.be/rPOabQsrpJw
+
+Ancestory is a turn based strategy combat game by Kajak Games that includes deck building.  You capture and maintain monuments on the map to accrue points to win the matches.  Use mana to summon minions from your shaman and to cast various spells. There seems to be a wide variety of cards available.  There is also absolutely NO micro-transactions or any free to play mechanics, all of the cards are available to everyone through gameplay! Matches are available in single player campaign and online matchmatching.
+
+The graphics are well made and pleasing to look at.  The maps are highly detailed and the entire game has a very polished feel to it.  The tutorial adequately explained the interface as well as the gameplay mechanics.  The camera can feel a bit jumpy, especially when rotating but it is a very minor issue.
+
+I highly recommend this game to anyone who enjoyed the gameplay in the video!
+",1444755690,1444755690,True,12,0,0.454159587621688843,0,False,False,False,False,,,

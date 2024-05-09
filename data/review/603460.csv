@@ -1,0 +1,367 @@
+recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
+156478370,"{'steamid': '76561197999921146', 'num_games_owned': 0, 'num_reviews': 423, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1708858972}",french,"Idéal pour découvrir ce jeu de plateau avant de l'acheter dans la ""vrai vie"" s'il vous correspond. Le prix plein tarif est un peu élevé, il est régulièrement dans les bundles de jeux de société.",1705853493,1705853493,True,1,0,0.525862038135528564,0,False,False,False,True,,,
+154556542,"{'steamid': '76561198006756264', 'num_games_owned': 542, 'num_reviews': 470, 'playtime_forever': 36, 'playtime_last_two_weeks': 0, 'playtime_at_review': 36, 'last_played': 1703698462}",english,I don't mind the digital adaptation but the game itself sucks,1703698720,1703698720,False,0,0,0,0,True,False,False,True,,,
+144327255,"{'steamid': '76561198008059406', 'num_games_owned': 4581, 'num_reviews': 426, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1692183563}",koreana,"왕팀 암살자팀 나눠서\
+왕팀은 탈출
+암살자팀은 왕암살
+을 목표로 하는 보드게임입니다.
+
+멀티위주인것같은데 당연히 멀티 인원 아무도 없움
+솔플되는데 왕이 탈출할필요도 없고 걍 맵에 보이는 
+시민 다 때려잡으면 승리합니다.
+
+제대로 플래이만 가능하면 천원정도 내고 살 의향은 있는데
+지금 뭐 제대로 플래이를 즐길 방법이 없기 때문에
+돈버리지 마시고 아껴뒀다 다른 똥게임 사시길 바랍니다.",1692183756,1692183756,False,1,0,0.523809552192687988,0,False,False,False,True,,,
+140587513,"{'steamid': '76561197965066413', 'num_games_owned': 671, 'num_reviews': 684, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1593803583}",english,Another board game I have not played.  What I did play of the game was playable.,1687568575,1687568575,True,0,0,0,0,False,False,False,True,,,
+139646455,"{'steamid': '76561198040681718', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 85, 'playtime_last_two_weeks': 0, 'playtime_at_review': 85, 'last_played': 1686022477}",english,Fun little 1V1 game with an easy to learn set of mechanics. Biggest problem i've seen is the random disconnects mid-match.,1686069012,1686069012,True,0,0,0,0,False,False,False,True,,,
+138830415,"{'steamid': '76561198030784015', 'num_games_owned': 0, 'num_reviews': 11208, 'playtime_forever': 47, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1707268870}",english,"""King and Assassins"" is a mobile app that's been dumped on Steam as if it was a real PC game (it's not)... it's a cash grab from greedy mobile devs.  This mobile app looks like it might be some kind of deep and interesting tactical turn based strategy, but no, there is no limit to just how much mobile app developers can disappoint the gaming industry.  This is just a simple boardgame that's been ported to a mobile app and then dumped on Steam as an afterthought/cash grab.  Gameplay consists of guiding your ""King"" piece around a grid map, supported by ""Knight"" pieces that push around assassins, who in turn will try to get to the king... which makes it sound like Chess but this is much more dumbed down (and less fun) than that. 
+
+One of the big problems here is in terms of the general design and the way the boardgame was ported.  There's two aspects of any game.  The mechanics of the game, and the interface that the players have with that mechanic. Poker, for example, is about randomly generated hands that players get, and the interface is the randomly drawn paper cards.  If you keep the random hand, but remove the physical cards, the game still works, but it's streamlined, more pure.  That's video gaming.  The best video games put the players directly against the core game mechanic.  We don't love games because of their interfaces, we love them for their mechanics.  The less that the interface gets in the way, the better.  So here, we have a boardgame/cardgame conversion, and the focus of the developers has clearly been to keep, and emulate the annoying physical interface, without bothering to improve on the mechanics or put the players closer to them.  As a result of this hamfisted decision, the mobile app is clunky and annoying to play compared to games that were designed from scratch to be PC games.
+
+From a technical perspective, as a mobile app, this doesn't meet basic minimum requirements that most PC gamers expect as standard.
+
+There's no options to change the resolution for the mobile app or customise the graphics settings.  There's no way for gamers to ensure this mobile app is running at the native resolution of their displays... there's no guarantee this mobile app will look right on any PC as a result of this hamfisted design decision.  There's no way for gamers to try improve the low quality mobile phone graphics. 
+
+The mobile app features lazy low-polygon ""retro"" assets, making this look like a barely functional 3D game from the 1990s.  It's unclear why the developers weren't able to arrange high quality, high polygon count contemporary assets for the mobile app (although the requirement for this to run on low end mobile phones is a factor), and also irrelevant... what matters is that this looks bad as a result of their decisions, a compromise PC gamers shouldn't have to put up with.
+
+The controls can't be customised because the game has such a dumbed down, simplified interface that it's just iPhone screen tapping stuff.  The fact that the interface is this dumbed down might be seen as a problem in itself, however... this is a fairly shallow experience if you're the kind of gamer that likes to play games with deep, rich control schemes and interaction.  You'll get none of that here.  In fact the developers were so lazy about this cash grab mobile app they didn't bother changing the text where it tells you to tap on your iPhone screen.  What a joke, and an insult. 
+
+Because this is a mobile app, it carries a number of deliberate design deficiencies.  Compromises were made to cater to the iPhones that the mobile app was designed for.  These are unfortunate handicaps and limitations that PC gamers shouldn't be forced to accept, but it's evident that PC was an afterthought for the iPhone developers who are to blame for this.  The mobile app is deficient as a result of these choices, and would have been so much better without the handicaps that designing games for mobile phones forces upon a game.  Once more, mobile devs have made gaming worse for everyone.  I didn't spend thousands on building a gaming rig just so I could pretend it's an iPhone.
+
+These technical defects push this mobile app below acceptable standards for any modern PC game.
+
+The developers appear to be involved in suspicious data harvesting as they eschew SteamWorks (because SteamWorks does not facilitate privacy invasion in the ways the developers prefer) in favour of demanding users create a third party account (and thus the availability for the developer to harvest private, personal details).  Presumably this is so they can profile you, collect data on you, combine that data with other sources and sell your private information off to the highest bidder (and, in fact, anyone else who is willing to pay for it).  That's reprehensible and must not be tolerated.  I'm sure they'll swear black and blue they don't, so ""just trust them"", but I wouldn't trust these shady developers as far as I could throw them.  An ethical developer would use SteamWorks.  Stay safe out there.
+
+Once more we see greedy mobile devs trying to scam PC gamers. On Steam, this is $7 USD, on app stores, it's half that. Mobile devs must learn PC gamers are not here to be gouged, and can't be expected to pay TWICE THE PRICE for a cheap mobile game just because it's been lazily dumped on Steam.  This is unacceptable disrespect for PC gamers.  Because this is a mobile app, is priced to insult and gouge PC gamers, and because of the other defects, it's impossible to recommend.  Just who do they think we are?",1684841395,1684841829,False,2,2,0.215867161750793457,0,False,False,False,True,,,
+134737608,"{'steamid': '76561198869672958', 'num_games_owned': 50, 'num_reviews': 1, 'playtime_forever': 1251, 'playtime_last_two_weeks': 0, 'playtime_at_review': 1240, 'last_played': 1698796719}",english,"It's a short game. It's enjoyable to match wits. My kids even the six year old win sometimes against me. I have yet to see anyone waiting around for a game online though, but I'd like to try against another adult.",1678940440,1678940440,True,0,0,0,0,False,False,False,True,,,
+120158499,"{'steamid': '76561198041241704', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 261, 'playtime_last_two_weeks': 0, 'playtime_at_review': 228, 'last_played': 1661034388}",english,"Game is simple to learn while player can still have fun. 
+Setbacks are:
+1. There are only 2 maps so limited playability 
+2. When playing against AI, your hidden assassins are ""detected"" automatically as they can be captured in first round (4 villagers within range and hidden assassin is arrested always first on first move)
+3. There arent many players online (due to reason 1.) so you are limited to play with friends (still fun) but again maps are small and there arent multiple ways for game to play out - game becomes repetitive very soon",1659786317,1659786317,True,0,0,0,0,False,False,False,False,,,
+115221093,"{'steamid': '76561198094803808', 'num_games_owned': 4070, 'num_reviews': 5385, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1652126255}",english,"3/10
+need to make a Asmodee.net account to play online
+almost no content in this game",1652126304,1652126304,False,2,0,0.229260087013244629,0,False,False,False,False,,,
+113543492,"{'steamid': '76561198109249803', 'num_games_owned': 1865, 'num_reviews': 508, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1649328268}",russian,"[h1] КАЗНИТЬ НЕЛЬЗЯ ПОМИЛОВАТЬ [/h1]
+
+[code] [b] King and Assassins  [/b] - компьютерная ""настольная"" игра от разработчика Playsoft, изданная Asmodee Digital. Игра вышла в Steam в августе 2018 года и на данный момент имеет 75+ отзывов, 61% положительных, что в сумме дает игре ""смешанный"" рейтинг. Давайте рассмотрим игру подробнее. [/code]
+
+[u] [b] ๑۩۩๑ СЮЖЕТ ๑۩۩๑ [/b] [/u]
+
+King and Assassins - по сути, перенесенная на компьютерные рельсы настольная игра с одноименным названием, повествующая о злоключениях короля и его (не)задачливых убийц. Концепция предельно проста, но до умиления забавна: партии из двух игроков необходимо сделать выбор - возглавить ли королевское шествие во главе с монаршей особой, или примкнуть к недовольной черни, и всеми силами не дать злобному самодержцу добраться до роскошных покоев своего замка живым. В зависимости от выбранной стороны меняются и правила. 
+
+[u] [b] ๑۩۩๑ ГЕЙМПЛЕЙ ๑۩۩๑ [/b] [/u]
+
+Независимо от выбранной Вами стороны, в самом начале игры вы попадаете на игровое поле, условно разделенное на квадраты. Именно по ним будет осуществляться перемещение ваших персонажей в зависимости от имеющихся очков движения. Игра пошаговая, завершая свой ход, вы передаете очередь сопернику, и так по кругу до конца всех раундов игры. 
+
+Играя за короля, вы получаете в свое распоряжение монарха и набор сопровождающих его солдат. Сам по себе самодержец не сильно отличается от своего шахматного собрата, неспешно передвигаясь на клетку вперед в зависимости от заданного направления. В то же время, элита королевских войск в своих возможностях куда как более свободна: воины короля могут перемещаться сразу на несколько клеток по игровому полю, залезать на крыши зданий, расталкивать толпы народа, и, что самое важное - отражать нападки убийц и производить задержание подозрительных личностей. На каждое действие, впрочем, тратится определенное количество очков, строго ограниченное на каждый раунд игры. Основная задача короля и его свиты - добраться до назначенного места (замка) до истечения срока в n-дней. 
+
+Простая чернь, впрочем, здесь тоже не пальцем деланная, и может преподнести пару неожиданных и неприятных сюрпризов как монарху, так и его свите. Сторона, выбравшая играть от лица заговорщиков, получает в свое распоряжение отряд мирных жителей, рассредоточенных по всему игровому полю в самых разных местах. Управлять можно всеми, однако лишь троих из них можно назначить ""убийцами короля"". В отличие от простых граждан, условные ассасины имеют возможность вступить в бой с гвардейцами короля, а также, что важнее, нанести урон самому правителю. Важно помнить, что, в отличие от простых людей и стражи монарха, сам король не так прост, и имеет две жизни, таким образом первый полученный правителем удар от заговорщиков, каким бы сильным он ни был, оставит монарха живым, но с ранением. Это означает, что убийцам необходимо будет совершить как минимум два успешных покушения на короля для успешной победы. В отличие от королевской стражи, убийцы не тратят очки действия во время поднятия или спуска с крыш, а также могут наносить урон с высоты, при условии, что неосторожный стражник или король подойдут слишком близко. 
+
+Одним словом, все предельно просто и достаточно быстро схватывается, даже если вы далеки от настольных игр. Компьютерная версия бережно относится к оригинальным правилам и переносит в виртуальный формат все максимально точно. Графически игра выглядит простенько, однако никаких нареканий не вызывает.
+
+Отрицательные отзывы в большинстве своем сетуют на мертвый мультиплеер (и это правда), что в свою очередь означает, что у игрока, по сути, два выбора - либо вступить в партию с искусственным интеллектом (надо сказать, он не так уж и плох), либо пригласить друга и сыграть с ним. Однако, и в том, и в другом случае возникает вопрос - надолго ли Вас хватит, и насколько игра в действительности реиграбельна? К слову, карт для игры на данный момент представлено всего две, и на мой взгляд, это как-то совсем несерьезно. 
+
+[u] [b] ๑۩۩๑ ПЛЮСЫ И МИНУСЫ ๑۩۩๑ [/b] [/u]
+
++ Оригинальная настольная игра, бережно перенесенная в виртуальный мир 
++ Быстрые партии 
++ Затягивающий игровой процесс с хорошей тактической составляющей 
++ Доступная цена и частые скидки 
+
++/- Графика и музыка весьма бюджетные 
+
+- Многопользовательский режим мертв 
+- Русский язык не представлен 
+- Достижения Steam и карточки отсутствуют 
+- Со временем приедается 
+
+[u] [b] ๑۩۩๑ СТОИТ ЛИ ИГРАТЬ? ๑۩۩๑ [/b] [/u]
+
+Часа с небольшим мне с лихвой хватило на то, чтобы разобраться во всех хитросплетениях King and Assassins и пройти обе имеющихся карты как на стороне короля, так и от лица его вездесущих недругов. Забавно, но какую бы сторону я не примерял, автоматически возникало стойкое чувство, что вот противнику явно легче. Ну, у соседей, как говорится, всегда трава зеленее, ничего тут не поделаешь. 
+
+Кому можно посоветовать? Тем, кто ищет настолку для игры с другом по сети на вечер-два. Думается, играть с живым противником будет куда как интереснее, хоть я и не пробовал. Однако, перед этим никто не мешает вдоволь потешиться над компьютерными оппонентами, благо они тоже порой дают жару так, что пригорит у Вас не раз. 
+
+[code] Ищете интересные игры, но боитесь выбрать то, что не понравится? Вступайте в [url=https://steamcommunity.com/groups/bythefireplace] Таверну ""У камина"" [/url] и подписывайтесь на [url=https://store.steampowered.com/curator/39473538/] страничку куратора. [/url] Выберем правильные игры вместе!  [/code]",1649452399,1649453368,True,17,0,0.688706874847412109,4,True,False,False,False,,,
+112969619,"{'steamid': '76561198976314014', 'num_games_owned': 0, 'num_reviews': 4, 'playtime_forever': 108, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1682970423}",english,"I normally think people are being silly when they say this, but I legitimately feel like the computer is programmed to know more than it's supposed to in this game. Playing the assassins feels impossible because the knights will go out of their way to go arrest a ""random"" citizen (really one of my assassins) who literally has not moved the entire game. No matter how many times I play, I get frustrated feeling like this is the case. Fine game if you wanna play with real people, but the practice with the computer seriously feels broke.",1648475785,1648475785,False,2,0,0.549549520015716553,0,False,False,False,False,,,
+106866263,"{'steamid': '76561198057092054', 'num_games_owned': 4244, 'num_reviews': 353, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1640823767}",english,"Multiplayer is dead, not that you'd want to play it anyways. AI difficulty seemed fine but hoenstly 1 game is all I really needed to get my fill.",1640823895,1640823895,False,0,0,0,0,False,False,False,False,,,
+102608660,"{'steamid': '76561198038052901', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 35, 'last_played': 1636662087}",english,"I'm feeling quite negative:
+- Bothers you to play multiplayer after every single-player match
+- Doesn't remember your single-player match settings (there's only a few, but still...)
+- Only has volume toggles, not sliders, so everything is loud af",1636662133,1636662133,False,0,0,0,0,False,False,False,False,,,
+101944204,"{'steamid': '76561198049023411', 'num_games_owned': 4587, 'num_reviews': 397, 'playtime_forever': 32, 'playtime_last_two_weeks': 0, 'playtime_at_review': 32, 'last_played': 1635666788}",english,"Simple and interesting premise, but should have included more tilesets to play against the AI.",1635666833,1635666833,False,0,0,0,0,False,False,False,False,,,
+101715291,"{'steamid': '76561198031968845', 'num_games_owned': 3082, 'num_reviews': 1695, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1635350243}",turkish,"Çok basit bir oyun.
+Zaman kaybı.
+Kabiliyet gerektirmiyor.
+",1635350354,1635350354,False,1,0,0.513888895511627197,0,True,False,False,False,,,
+100751373,"{'steamid': '76561198021665272', 'num_games_owned': 0, 'num_reviews': 32, 'playtime_forever': 35, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1633895018}",russian,Хорошая игра. 8 королей из 10.,1633732932,1633732932,True,0,0,0,0,True,False,False,False,,,
+100719028,"{'steamid': '76561198818307564', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 87, 'playtime_last_two_weeks': 0, 'playtime_at_review': 67, 'last_played': 1633687348}",russian,"Игра очень прикольная, особенно если играть с другом.",1633686017,1633686017,True,1,0,0.523809552192687988,0,True,False,False,False,,,
+100636201,"{'steamid': '76561197970602587', 'num_games_owned': 6364, 'num_reviews': 3660, 'playtime_forever': 26, 'playtime_last_two_weeks': 0, 'playtime_at_review': 26, 'last_played': 1633211458}",english,"https://youtu.be/8voFjjl2C8A
+
+Instabilities in the matchmaking and slow response time to input does not present the base game in a positive light.",1633548287,1633548287,False,2,0,0.54356849193572998,0,False,False,False,False,,,
+98377307,"{'steamid': '76561198332603324', 'num_games_owned': 1523, 'num_reviews': 55, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1630149912}",english,Rubbish,1630149931,1630149931,False,0,0,0.425361275672912598,0,False,False,False,False,,,
+98272121,"{'steamid': '76561198015775632', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1629993653}",english,Stop asking me if I want to play online after every single game.,1629993679,1629993679,False,3,1,0.551927387714385986,0,False,False,False,False,,,
+93912046,"{'steamid': '76561198109703406', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 302, 'playtime_last_two_weeks': 0, 'playtime_at_review': 219, 'last_played': 1637424295}",french,Bon petit jeu d'arcade ou l'on y passe un bon moment,1623950362,1623950362,True,0,0,0,0,True,False,False,False,,,
+93544524,"{'steamid': '76561198001179901', 'num_games_owned': 0, 'num_reviews': 25, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1623378741}",english,It's a bit too simple,1623378768,1623378768,False,0,0,0.46688571572303772,0,False,False,False,False,,,
+91085105,"{'steamid': '76561198316024029', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 225, 'playtime_last_two_weeks': 0, 'playtime_at_review': 225, 'last_played': 1619664416}",english,"It was fun as a short strategy game. It could be much better. Almost no replay value due to comments already made. No campaign. AI is broken. No one is online to play. For pass and play, you have to hide your screen between turns. Also annoying you have to sign up for an account for online features that don't exist.",1619664526,1619664526,False,2,0,0.559032738208770752,0,False,False,False,False,,,
+90161764,"{'steamid': '76561198005399421', 'num_games_owned': 0, 'num_reviews': 13, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1618185440}",english,"Terrible game. Single player, the AI thoroughly cheats as both assassin or king. Multiplayer is dead and bugged.",1618185637,1618185637,False,2,0,0.527365922927856445,0,False,False,False,False,,,
+88544504,"{'steamid': '76561198212035395', 'num_games_owned': 2715, 'num_reviews': 331, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1615913676}",english,"I can see how this would work as a board game.
+
+The problem is that this is essentially a bluffing game, where the way you can guess which peasants are the assassins is through the facial expression of the people moving the peasants.
+
+But that doesn't really translate to a video game at all.",1615913736,1615913736,False,3,0,0.537001550197601318,0,False,False,False,False,,,
+87029082,"{'steamid': '76561198026508942', 'num_games_owned': 0, 'num_reviews': 174, 'playtime_forever': 61, 'playtime_last_two_weeks': 0, 'playtime_at_review': 61, 'last_played': 1613745454}",french,"En mode online il n'y a plus de joueurs disponibles aux heures auxquelles j'ai essayées.
+La musique et les graphismes sont moyens. Très peu variés.
+J'ai apprécié la traduction en français et le tutoriel clair.
+Le jeu est monotone, de difficulté identique lorsqu'on s'entraine.",1613745588,1613745588,False,0,0,0.475543469190597534,0,False,False,False,False,,,
+86063934,"{'steamid': '76561199121822759', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 27, 'playtime_last_two_weeks': 0, 'playtime_at_review': 27, 'last_played': 1612596890}",schinese,花了29.9得到一个游戏盲盒，结果是这个一文不值的垃圾游戏。我是傻逼,1612609406,1612609406,True,0,0,0,0,False,False,False,False,,,
+84450428,"{'steamid': '76561198009298263', 'num_games_owned': 992, 'num_reviews': 183, 'playtime_forever': 51, 'playtime_last_two_weeks': 0, 'playtime_at_review': 51, 'last_played': 1610126016}",french,"[h1] Pour ceux qui préfèrent une vidéo sympas plutôt qu'un long texte ennuyant, voici ! [/h1] 
+
+https://www.youtube.com/watch?v=hRW9Fz1UqAw
+
+Ma critique personnelle:
+
+
+  [b] KINGS AND ASSASSINS [/b] est un jeu de stratégie édité par Asmodee Digital.
+
+Le but du jeu est simple, il y a deux camps, le roi accompagné de ses gardes et les assassins.
+
+Le principal objectif du roi est de rentrer dans son château sans qu’il se fasse assassiner par des assassins qui veulent sa tête. C’est alors que ces gardes doivent tout faire pour protéger le roi de ces truands. Attention seulement, le roi est limité en terme de point d'action il ne peux donc pas se déplacer trop rapidement ! 
+
+King and Assassins fonctionne en tour par tour, chaque tour on obtient des points pour ainsi faire des actions que vous verrez par la suite. Les gardes disposent d’un peu plus de points que le roi, ils peuvent pousser les gens de basse extraction avec leur bouclier ou bien même les emprisonner pour essayer de débusquer les assassins.
+
+Quant aux assassins ils doivent se dissimuler dans la foule, afin d'essayer de ne pas se faire repérer par les gardes et le roi, donc le camp adverse. 
+
+Les assassins peuvent déplacer les membres de la cour tels que les citoyens, ils peuvent faire des feintes pour tromper l’ennemi et préparer des pièges pour attenter a la vie du roi.
+
+
+[b] Conclusion: [/b] Pour un jeu coûtant 6,99€, le jeu est relativement fun même si on fait très vite le tour. Quelques parties suffisent a comprendre les mécaniques de gameplay, quelques parties supplémentaire et vous avez fait le tour. Seul deux maps sont disponible. 
+ 
+King and Assassins est traduit en français, et un mode multijoueur est disponible même si il n'y a pas assez de joueur vous pourrez toujours vous servir de ce mode pour jouer avec un ami. C'est la que le jeu prend de la valeur. Si vous souhaitez jouer seul ou avec des inconnues passez votre chemin :
+
+Il n’y a pas assez de joueurs en ligne pour pouvoir lancer des parties multijoueurs  et jouer avec des inconnues manque cruellement de fun.",1610308604,1610308604,True,4,1,0.535998404026031494,0,False,False,False,False,,,
+83936804,"{'steamid': '76561198031404312', 'num_games_owned': 204, 'num_reviews': 60, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1609697541}",english,Dull against the AI and no one plays it so not useable for multiplayer,1609707655,1609707655,False,0,0,0,0,False,False,False,False,,,
+81944455,"{'steamid': '76561198334360440', 'num_games_owned': 699, 'num_reviews': 64, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1592171695}",english,"Boring alone. Haven't played with a friend, can't recommend.",1607581961,1607581961,False,0,0,0,0,False,False,False,False,,,
+81515642,"{'steamid': '76561198123150220', 'num_games_owned': 286, 'num_reviews': 160, 'playtime_forever': 246, 'playtime_last_two_weeks': 0, 'playtime_at_review': 168, 'last_played': 1677378821}",english,"After playing against my girlfriend for 5 games in a row as the king, I decided I wanted to try assassin.
+She immediately arrested 2 of my men and I rage quit out of salt.
+Very fun.",1606989401,1606989401,True,0,0,0,0,False,False,False,False,,,
+79432584,"{'steamid': '76561198008687861', 'num_games_owned': 1314, 'num_reviews': 154, 'playtime_forever': 9, 'playtime_last_two_weeks': 0, 'playtime_at_review': 9, 'last_played': 1543512785}",french,"Petit jeu de société sans prétention, son adaptation est de la même eau.
+
+ [url=https://store.steampowered.com/curator/39131147-Jeux-joue/] Pour suivre mon groupe de curation[/url]",1605648721,1607953493,True,0,0,0.452090203762054443,0,False,False,False,False,,,
+78542195,"{'steamid': '76561198012473463', 'num_games_owned': 4077, 'num_reviews': 418, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 21, 'last_played': 1596154562}",english,"[h1]Follow our [url=https://store.steampowered.com/curator/36214917/]Curator Group for more reviews[/url][/h1]
+King and Assassins is a strategy game based on the board game of the same name. Mechanically, it functions pretty much identically to the board game, so those familiar with the physical version will grasp all the mechanics easily. The game itself is fun, but this version of it has a lot of issues.
+
+King and Assassins is clearly designed for multiplayer, yet no one plays it. This leaves you with either playing with a friend, or playing against AI. Playing against a friend is okay, but there are a lot bugs that come with it. Playing against the AI is even worse because in addition to bugs, the AI obviously cheats. In a game about deception, AI will always be difficult to program, but the developers clearly didn’t have the time or budget to write good AI. The central game mechanic is that one player controls ~15 peasants and 3 of them are assassins. The AI always guesses correctly which ones are assassins, even if you never use them. This essentially ruins the gameplay when you are playing as the assassins. As the king, the game becomes a lot better, but that still means that 50% of the game is almost unplayable. Even when playing as the king, the bugs hurt the gameplay a lot, causing weird interactions and breaking the game at times.
+
+The game has a nice look to it and the overall presentation is good, but the core of the game is deeply flawed. It’s tough to recommend this game to anyone, especially knowing that if you have friends to play with, you can just buy Tabletop Simulator and play the board game version of the game. It’s a shame the game is so rough around the edges, because it could have been great. It’s more of a missed opportunity than a bad game.
+
+2/10
+[quote]
+Visit our [url=https://www.mmmreviews.com]website[/url] for more in-depth reviews and recommendations
+[/quote]",1604253799,1604253799,False,7,0,0.603115737438201904,0,False,False,False,False,,,
+78023332,"{'steamid': '76561198062247697', 'num_games_owned': 0, 'num_reviews': 204, 'playtime_forever': 16, 'playtime_last_two_weeks': 0, 'playtime_at_review': 16, 'last_played': 1603468627}",english,"DO NOT BUY ANY GAMES FROM TWIN SAILS INTERACTIVE (rebranding of Asmodee Digital).
+
+I encourage you to check how many bugs their games have, and how little they care about fixing them. Go stroll over their products and the bugs reports, but most importantly, the developer's reply. They have the habit of releasing stuff and strolling to the next product without ever looking back.
+
+I have personally written six emails to their official Ticket System, spread from March to now, asking for acknowledgement of a bug in Splendor. I received confirmation that the ticket was received, but I have never received a reply from these leeches. This seems to apply to most other games, and it affects many users.
+
+Hopefully one day Steam will take action. Before that, simply do your part and DO NOT BUY ANY GAMES FROM TWIN SAILS INTERACTIVE.",1603468647,1688931183,False,16,0,0.65575176477432251,0,False,False,False,False,,,
+77541140,"{'steamid': '76561198337401954', 'num_games_owned': 0, 'num_reviews': 2, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1602671696}",english,"[My first ever review, and it's a negative one - I felt that strongly that I had to say something]
+
+I played through the tutorial, and plaed several games as king and as assassin and got no where really as either.
+Not sure if the AI knows something I don't but everytime (as Assassin) the guards shackle all of my assassins (when not revealed) regardless of whether I have moved them or not and have never shackled a civilian by mistake (whether moved or not).
+
+As King, there is no reason to use early shackles ""just because"" as it is pure chance - but I have never ""been lucky"" to shackle an assassin if I have chosen to shackled someone.
+
+Also, due to the way an assassin can move, kill a guard and then attack the king there doesn't seem to be a logical manner to provide protection.
+
+In summary (my experience so far against the AI)
+Playing as the King it is completely random to shackle an assassin, and besides that you are not able to protect the King - one guard is not protection - assassin reveals, moves swiftly in, kills guard and attacks king. Nor plan as action point allocation doesn't seem consistant for the King - sometimes 1, sometimes 2, but no idea which it will be.
+
+Playing as Assassin, (as previosuly mentioned) the AI always shackles the unrevealed Assassins, whether moved ready to strike, or not moved. Random moving (I used dice to pick the civ, and the direction) of civilians didn't trigger shackling - unless it was an assassin, then when close it was shackled before having a chance to reveal.
+
+Maybe I am missing something, but it is too random and (seems) unwinnable vs. the AI.  Against a human opponent it is going to be heavily luck based, might as well just roll a dice, highest wins.
+
+Can I get a refund?",1602673188,1602673188,False,1,0,0,0,False,False,False,False,,,
+76737909,"{'steamid': '76561197980122596', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 41, 'playtime_last_two_weeks': 0, 'playtime_at_review': 41, 'last_played': 1601336924}",english,"Watched the tutorial and then played some practice games. AI cheats/is broken, because it knows exactly where your assassins are even if you have not moved them or they are nowhere near the king.
+Limited replayability options.",1601337285,1601337285,False,3,0,0.523809552192687988,0,False,False,False,False,,,
+75211963,"{'steamid': '76561198031582331', 'num_games_owned': 6781, 'num_reviews': 768, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1598861391}",english,"i bet the board/phone game is better as this is a fun quick game. the rogues do have a big advantage and unless you can arrest one before they go all stabby the king WILL die! p.s. the ai clearly knows where your rogues are. you'll need to make an account to play online (i hear its dead anyway) so they can sell your info to ""trusted"" 3rd parties because private servers are so anti-3rd party.
+
+playing as king/knights
+here you lead a pompous a$$ of a king that is so weighed down with gold from collected taxed and guilt for all the wrong he's wrought in the kingdom that he can can hardly move 1 space (sometimes he slips in sin and can move 2 spaces). it's a good thing he has a contingency of oppressive guards that will push around and cuff peasants for no real reason maybe they know they are about to die protecting an unworthy soul or maybe it's just their oppressive and self loathing nature. they just need to lead this loathsome creature inside the city gates before divine retribution in enacted by getting shanked twice and leading to the guards most certain death for past atrocities to the peasants.
+
+playing as assassins/peasants
+here you play as the downtrodden peasants who have been oppressed and over taxed by an unworthy leader so 3 of them have decided to enact revenge (pick 3 from the crowd to become assassins and yes you can move any peasant). assassins will blend in until they decide to strike. infused with righteous fury they will announce themselves then attack with blinding speed cutting down guards and bleeding the gluttonous king like a stuffed pig. sadly the peasants being to poor to afford good knifes have to stick the piglet twice before it can be roasted and then it's off to find another king to repeat the processes all over again. sadly being uneducated they are to dumb to figure out a better way. 
+
+not a bad game but playing the ai sucks and you need an account to play online.",1598866494,1598867563,False,6,1,0.54526817798614502,0,False,False,False,False,,,
+74728794,"{'steamid': '76561198002631124', 'num_games_owned': 422, 'num_reviews': 1, 'playtime_forever': 33, 'playtime_last_two_weeks': 0, 'playtime_at_review': 33, 'last_played': 1598109868}",english,the game is SO SO SO buggy when playing multiplayer it felt like they failed at even coding the basic multiplayer implementation.,1598109948,1598109948,False,1,0,0,0,False,False,False,False,,,
+74523311,"{'steamid': '76561197988000877', 'num_games_owned': 1605, 'num_reviews': 240, 'playtime_forever': 17, 'playtime_last_two_weeks': 0, 'playtime_at_review': 17, 'last_played': 1597775302}",english,"The game itself is really cool. It's assymetrical strategy game where on player must protect their king while traversing the board while another player has to hide their assassins within the civilian mobs until their time to strike. It's well enough implemented and I enjoy the core play.
+
+The problem is that this digital adaptation designed for multiplayer, and the multiplayer is dead.
+
+For a solitaire player there is a single mode against an AI player with two boards to choose from. While fun enough, there isn't enough content here to hold my interest or justify a seven dollar price tag.
+
+The hidden information makes it a poor choice for local multiplayer. If the assassins are revealed the king will have an easy time ending the match. This means that the local play options are far from ideal and the online matches are empty. 
+
+If you have a crew of players all willing to buy the game you can have plenty of fun. But realistically, you're better off passing on this one.",1597780180,1597780180,False,2,1,0.522058844566345215,0,False,False,False,False,,,
+72650931,"{'steamid': '76561197983609040', 'num_games_owned': 0, 'num_reviews': 73, 'playtime_forever': 86, 'playtime_last_two_weeks': 0, 'playtime_at_review': 86, 'last_played': 1585639653}",english,"great for online friends
+
+loads quick, looks nice, simple to learn hard / hard to master",1594692876,1594692876,True,0,0,0,0,True,False,False,False,,,
+72158786,"{'steamid': '76561198082476372', 'num_games_owned': 0, 'num_reviews': 329, 'playtime_forever': 39, 'playtime_last_two_weeks': 0, 'playtime_at_review': 39, 'last_played': 1594037824}",schinese,Not Recommended,1594037888,1594037888,False,0,0,0.389863520860671997,0,False,False,False,False,,,
+72138955,"{'steamid': '76561198018892742', 'num_games_owned': 0, 'num_reviews': 146, 'playtime_forever': 77, 'playtime_last_two_weeks': 0, 'playtime_at_review': 56, 'last_played': 1594422160}",english,Boring game nobody plays.,1594009855,1594011419,False,1,1,0.432818979024887085,0,False,False,False,False,,,
+72065769,"{'steamid': '76561198066323827', 'num_games_owned': 541, 'num_reviews': 8, 'playtime_forever': 15, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1593922597}",english,"The good:
+- Graphics are good for the purpose
+- The game is well optimised
+- The digital adaption is well done
+
+The negative:
+- Controls are a bit wonky when controlling camera with keyboard+mouse (and why can't I end turn with enter?)
+- Only two boards means very limited replayability
+- The AI is only for training. It's quite dumb.
+- There is zero activity in online games (!)
+- No local vs. mode, which makes game unusable in combination with the nonexistant online community.
+
+
+If there was a local vs. mode, this would be a decent buy, but at the current state - avoid. You'll waste your hard earned money.",1593923006,1593923006,False,1,1,0,0,False,False,False,False,,,
+71163687,"{'steamid': '76561198003424373', 'num_games_owned': 1922, 'num_reviews': 36, 'playtime_forever': 38, 'playtime_last_two_weeks': 0, 'playtime_at_review': 38, 'last_played': 1592809696}",english,Neat little concept that requires multiplayer...no one plays this game.,1592809804,1592809804,False,1,1,0.469387739896774292,0,False,False,False,False,,,
+70654224,"{'steamid': '76561198396928277', 'num_games_owned': 141, 'num_reviews': 24, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1589453797}",english,no,1591924685,1591924685,False,0,0,0.371279418468475342,0,False,True,False,False,,,
+70346130,"{'steamid': '76561197966283947', 'num_games_owned': 0, 'num_reviews': 14, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1591382230}",english,Boring,1591382320,1591382320,False,0,1,0.419647097587585449,0,False,False,False,False,,,
+70223543,"{'steamid': '76561198018471649', 'num_games_owned': 0, 'num_reviews': 18, 'playtime_forever': 53, 'playtime_last_two_weeks': 0, 'playtime_at_review': 53, 'last_played': 1590299296}",english,"This is an example of a game that's substantive enough to be a board game but doesn't really work on the computer.
+By making a lot of the administrative stuff easy, this game boils down to essentially a shareware puzzle.
+
+I haven't encountered bugs on this game, so much as it suffers from very dominant strategies.   The guards always conga line peasants away in masse; the assassins simply mob the King.  There's two boards, which means that the game can be played perhaps five times without getting stale.
+
+I refer to my 54 minutes of playing as this five times.
+
+Good idea for a game.  Has promise and several ways to make it more elaborate and interesting.
+Can not recommend as this completely lacks replay value.  I too picked this game up as a bundle--this is perhaps worth $.50 on its own, or perhaps it could work with a random board design, more pieces and more options.
+
+Until it hits $.50, do not buy.  If it hits $.50, buy it for an interesting 54 minutes.",1591160667,1591160667,False,3,0,0.533568918704986572,0,False,False,False,False,,,
+69965522,"{'steamid': '76561198019193223', 'num_games_owned': 0, 'num_reviews': 44, 'playtime_forever': 189, 'playtime_last_two_weeks': 0, 'playtime_at_review': 189, 'last_played': 1590707415}",english,"Another Asmodee game where a major element of your success is random chance. Protect the king but go six rounds without the chance to arrest anyone? Too bad. I suspect the online play is better, but playing against the AI is rigged. The last game, the AI made 4 arrests, 3 of which were my assassins, deftly picked out of the crowd. Clearly the AI has access to knowledge it should not. 
+
+Boo. Stick with chess. 3/10",1590707612,1590707612,False,0,1,0,0,False,False,False,False,,,
+69960697,"{'steamid': '76561198124865802', 'num_games_owned': 0, 'num_reviews': 7, 'playtime_forever': 60, 'playtime_last_two_weeks': 0, 'playtime_at_review': 60, 'last_played': 1590699075}",french,Multijoueur désert. Un peu dommage lorsque c'est le seul mode de jeu (hormis un didacticiel et VS l'IA vraiment pas très difficile).,1590699271,1590699271,False,0,0,0,0,True,False,False,False,,,
+69956307,"{'steamid': '76561197994167172', 'num_games_owned': 0, 'num_reviews': 97, 'playtime_forever': 120, 'playtime_last_two_weeks': 0, 'playtime_at_review': 120, 'last_played': 1590692437}",french,"+ jeu correcte en graphisme
++ bon didacticiel
+ peu jouer avec 1 ami avec mode passe tour
+- seulement 2 cartes
+- assassins + peuples ou roi + gardes
+- en multi en lignes créer compte asmodé (demande adresse émail, puis mystère) je joue seul
+
+recommandé à petit prix et si vous avez des amis
+
+",1590692858,1590692858,True,0,0,0,0,False,False,False,False,,,
+69797196,"{'steamid': '76561198049502964', 'num_games_owned': 132, 'num_reviews': 36, 'playtime_forever': 19, 'playtime_last_two_weeks': 0, 'playtime_at_review': 19, 'last_played': 1590434605}",french,Pas terrible,1590434807,1618082116,False,0,0,0.43488118052482605,0,False,False,False,False,,,
+69765820,"{'steamid': '76561198427796634', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 70, 'playtime_last_two_weeks': 0, 'playtime_at_review': 70, 'last_played': 1590388457}",english,The miniscule amount of energy I had to exert in my fingers to play this game is not worth the bland unenjoyment I felt for it.,1590388614,1590388614,False,0,2,0.474999994039535522,0,False,False,False,False,,,
+69598992,"{'steamid': '76561197980227029', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 65, 'playtime_last_two_weeks': 0, 'playtime_at_review': 65, 'last_played': 1589984496}",english,"A stones throw away from being an absolute gem of a game.
+
+With the addition of a few more maps and some more flexibility in unit starting locations (I.E. let players have some choice) this game would have a lot more replayability.",1590147469,1590147469,True,6,0,0.570146739482879639,0,False,False,False,False,,,
+69498568,"{'steamid': '76561197975612816', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 337, 'playtime_last_two_weeks': 0, 'playtime_at_review': 87, 'last_played': 1697662144}",english,"**Maybe** worth a dollar and an hour of your time. Its very difficult to win as the King against the AI. Conversely, the AI for the King cheats and kills your first assassin in the first round. Also requires an Asmodee account to play multiplayer... on steam. The only reason I played it was because it came as part of a Humble Bundle package of much better games.",1590012242,1590113618,False,0,0,0,0,False,False,False,False,,,
+69460765,"{'steamid': '76561198108539769', 'num_games_owned': 934, 'num_reviews': 117, 'playtime_forever': 7, 'playtime_last_two_weeks': 0, 'playtime_at_review': 7, 'last_played': 1589793932}",english,"i wish there was a neutral option but if i have to choose this is too underwhelming to recommend. It's not horrible, but I don't see myself getting much play time out of it without being very bored. And even less worth it at full price.",1589956011,1589956060,False,0,0,0,0,False,False,False,False,,,
+69456738,"{'steamid': '76561198134219338', 'num_games_owned': 1038, 'num_reviews': 768, 'playtime_forever': 101, 'playtime_last_two_weeks': 0, 'playtime_at_review': 101, 'last_played': 1589947710}",english,"There are many issues with this game technically, but I would recommend getting it if it's on sale and you have someone to play with.
+
+The game itself is small and simple. Based on reading the other player's intentions each match is short and entertaining if you aren't looking to invest in a longer board game.
+
+The problems are the digital port and online matchmaking. There is no one online so that's a problem from the start, maybe because when you have a match up and change to a different tab it logs you out. You think changing from full screen to windowed mode might prevent this but there is no option for windowed mode so you're forced to wait for a match in full screen, then the match auto-starts when any opponent joins.
+The game is fun though and these aren't a problem if you have someone fun to play a few matches with so I say pick it up if it's the style you're looking for.",1589948155,1589948155,True,2,0,0.496587544679641724,0,False,False,False,False,,,
+69241181,"{'steamid': '76561198182006459', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 8, 'playtime_last_two_weeks': 0, 'playtime_at_review': 8, 'last_played': 1593211361}",dutch,"Game won't start/crashes due to ""access violation""-bug.",1589640729,1589640729,False,0,0,0,0,False,False,False,False,,,
+69118192,"{'steamid': '76561198020684152', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1589461569}",english,"Nope! Deffinitely not.
+
+Crap-load of bugs (every round you will encounter plenty).
+No sounds options (either have them or not).
+You can't enter settings if you start the tutorial.
+Absolutely no randomness (even in lobby you pick which side you want to be on).
+Only two maps.
+
+Overall, the idea might be good, but the exectution is beyond poor.",1589461740,1589461740,False,5,0,0.571448445320129395,0,False,False,False,False,,,
+68973902,"{'steamid': '76561198121439599', 'num_games_owned': 475, 'num_reviews': 36, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1589227728}",english,"The game is horribly unbalanced. It's almost impossible to win as the King.
+In addition to that, the AI cheats. And yet, even if they randomly arrest an assassin in the first round every other game, that's not enough to win when AI plays the King.
+
+Maybe this is fun against another player? I'm not sure I want to try any more.",1589227828,1589227828,False,7,0,0.597403526306152344,0,False,False,False,False,,,
+68955441,"{'steamid': '76561198020091636', 'num_games_owned': 462, 'num_reviews': 18, 'playtime_forever': 89, 'playtime_last_two_weeks': 0, 'playtime_at_review': 89, 'last_played': 1589171660}",english,"Multiplayer lobby doesnt have option to make a private game and game autostarts when someone joins so you have to hope your friend is the first to try to join your game. Luckily there is almost no one playing so its not that hard to get your friend in. 
+
+One of the two maps glitched out the same way for me in both the games i played on it. An assassin i selected switched to a peasant then a random peasant switched to assassin. I won the round because of it, but that just made it worse since it made the win feel invalid.
+
+Got game as part of Humble Bundle.",1589202900,1589202900,False,14,1,0.676770448684692383,0,False,False,False,False,,,
+68948525,"{'steamid': '76561198927909151', 'num_games_owned': 232, 'num_reviews': 1, 'playtime_forever': 25, 'playtime_last_two_weeks': 0, 'playtime_at_review': 25, 'last_played': 1588969408}",spanish,"La ideal del juego es buena, pero no tiene variedades de juego.
+No hay un modo campaña donde desarrollar el juego, únicamente un modo entrenamiento, y es muy complicado conseguir la victoria contra la máquina, que parece que sabe quienes son los asesinos.
+En el modo multi-jugador no hay un chat con el que poder comunicarse con las otras personas, aunque casi nadie se conecta al multi-jugador.",1589191918,1589191918,False,0,0,0,0,False,False,False,False,,,
+68836760,"{'steamid': '76561198035576354', 'num_games_owned': 0, 'num_reviews': 5, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1589016316}",french,"Impossible de finir une partie, jeu bugué. chaque joueur est ""en attente"" du tour du joueur adverse...",1589016487,1589016487,False,1,0,0.503110945224761963,0,False,False,False,False,,,
+68762778,"{'steamid': '76561198242200016', 'num_games_owned': 0, 'num_reviews': 12, 'playtime_forever': 44, 'playtime_last_two_weeks': 0, 'playtime_at_review': 44, 'last_played': 1590094165}",french,"Bon j'ai fais une petite partie et franchement, j'y retournerais. C'est un bon jeu de plateau en 1 vs 1 très facile a prendre en main et avec un bon didacticiel, qui permet de lancer une partie en moins de 15 min. Pas de bug de connexion, et une bonne jouabilité.
+Sinon en soit le jeu est un peu cher 7€, c'est clairement abusé, mais avec une bonne promo ca deviens plus intéressant.
+
+Bref je recommande",1588898355,1601157766,True,5,0,0.573972761631011963,0,False,False,False,False,,,
+67807348,"{'steamid': '76561198069842299', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 478, 'playtime_last_two_weeks': 0, 'playtime_at_review': 270, 'last_played': 1680438423}",english,"200% recommendation. This game is great fun whether you're playing against online or against the computer. A very rare example of a simple premise that challenges you to think outside the box, vary your tactics and think 4 or 5 steps ahead.",1587548966,1587548966,True,3,0,0.499200522899627686,0,True,False,False,False,,,
+54292716,"{'steamid': '76561198053373221', 'num_games_owned': 0, 'num_reviews': 50, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1564085662}",english,"No players, therefore you cant play",1564085755,1564085755,False,0,0,0,0,False,False,False,False,,,
+51855870,"{'steamid': '76561197999263046', 'num_games_owned': 0, 'num_reviews': 66, 'playtime_forever': 43, 'playtime_last_two_weeks': 0, 'playtime_at_review': 43, 'last_played': 1540300186}",english,"A board game remade to PC - which for my lazy self is a solid (and solitude) idea.
+
+Think of this game as Game of Thrones Season 2 - where Joffrey is trying to get through the Town Streets to the Red Keep.
+
+It's a fairly simple premise; if you play as the King, then your goal is one of two things:
+* get the King to the Castle
+* kill all of the opponents assassins
+
+if you are the Assassin's team:
+* kill the King
+
+Simple idea, but complicated when it comes to its strategies.
+The King is surrounded by guards, who can push the lowly peasants away and kill at your will
+The Assassin's team has 3 Assassins, all beginning as peasants in disguise, so the opponent doesn't know when ones they are. This is important because the Assassin's team can organise a plan to draw out the Kingsguards and send in someone to kill the King.
+The King's team however cannot just kill anyone (here is the difference between this and Game of Thrones) for too many innocent kills will result in an instant loss of the game.
+
+The mechanics handle well and the game feels balanced with each side you play; you always feel the ""other"" team has it easier but change your mind when you play the opposition yourself.
+My request would be if they could make more maps as I believe there is only 1 board, which can get tiresome after a while.
+And not to ""feature creep"" but some more play-elements would be nice too (different assassin types, different kingsgaurds, etc).
+
+I recommend it on sale as you will get small play time out of this, but it's something you will come back to time and again.
+This does include multiplayer but I have yet to play it.",1561805392,1561805392,True,8,0,0.62787395715713501,0,False,False,False,False,,,
+50895479,"{'steamid': '76561198025379133', 'num_games_owned': 637, 'num_reviews': 6, 'playtime_forever': 29, 'playtime_last_two_weeks': 0, 'playtime_at_review': 29, 'last_played': 1558990037}",english,"There is really no playing this game because you can only play with friends that have the game. There is no online play, which confuses me because it shows a rank board and looks like it should have some kind of rank play set up, but it doesn't exist? I got to play the tutorial...woop woop. And that was it.",1558990157,1558990157,False,2,0,0.49091184139251709,0,False,False,False,False,,,
+50655467,"{'steamid': '76561197992353914', 'num_games_owned': 0, 'num_reviews': 394, 'playtime_forever': 11, 'playtime_last_two_weeks': 0, 'playtime_at_review': 11, 'last_played': 1557558495}",russian,"Сетевая игрушка, хрень полная",1557922615,1557922615,False,1,0,0.497942358255386353,0,True,False,False,False,,,
+50494689,"{'steamid': '76561198003908583', 'num_games_owned': 0, 'num_reviews': 3, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 71, 'last_played': 1555135077}",spanish,Jugar contra la IA es muy aburrido. El juego tiene gracia si juegas con contricantes humanos pero resulta que es imposible encontrar jugadores para hacer una MP.,1557065979,1557065979,False,0,0,0,0,True,False,False,False,,,
+50224104,"{'steamid': '76561197982057062', 'num_games_owned': 0, 'num_reviews': 15, 'playtime_forever': 92, 'playtime_last_two_weeks': 0, 'playtime_at_review': 92, 'last_played': 1555720566}",english,"The game is good if you have someone to play with. Otherwise move on:
+
+Negatives:
+
+the AI is horrible and cheats (it will arrest your assassins even if it has no way of knowing they are the assassins. the knights will move past bystanders and go for the hidden assasin directly.) No was you can play it in single player mode
+
+The game will kick you out lobby if you alt tab out of it. Since there is no good chat function in the game and you want to write to your friends on messanger . Guess what? Your connection to lobby is terminated. Even worse you are temporarily logged out of your Asmodee account. Good job devs!
+
+Plus: 
+
+the game does not crash constantly",1555720855,1555720855,False,25,0,0.759331107139587402,0,False,False,False,False,,,
+48375497,"{'steamid': '76561197976934678', 'num_games_owned': 208, 'num_reviews': 9, 'playtime_forever': 21, 'playtime_last_two_weeks': 0, 'playtime_at_review': 15, 'last_played': 1599951278}",english,"Fun game, poor implementation. On my second game with AI it got stuck and wouldn't finish its turn. I had to surrender.",1547691118,1547691118,False,4,1,0.572393119335174561,0,False,False,False,False,,,
+48259930,"{'steamid': '76561198007697296', 'num_games_owned': 0, 'num_reviews': 11, 'playtime_forever': 851, 'playtime_last_two_weeks': 0, 'playtime_at_review': 715, 'last_played': 1605047816}",french,Tres bon jeu de plateau en 1v1. parfait entre ami en 20-25min. Fun et brain assuré ^^,1547238565,1547238565,True,1,0,0.528301894664764404,0,True,False,False,False,,,
+48209939,"{'steamid': '76561198007037297', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1547055733}",english,"Good game, but servers are pretty empty. Fun if you have some friends you want to play with.
+
+After a few games the rules seem to favor the assassins. But that just makes winning with the king that much sweeter.",1547056174,1547056290,True,2,0,0.525547444820404053,0,False,False,False,False,,,
+47647039,"{'steamid': '76561198250977404', 'num_games_owned': 0, 'num_reviews': 95, 'playtime_forever': 81, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1544297670}",english,"Not worth a tenth of it's price. 2 setups, simple gamellay, empty servers (for a time my friend and I were the only people playing).
+
+And it still managed to crash a few times.",1545301661,1545301661,False,2,0,0.504377424716949463,1,False,False,False,False,,,
+47586677,"{'steamid': '76561198079020363', 'num_games_owned': 0, 'num_reviews': 65, 'playtime_forever': 13, 'playtime_last_two_weeks': 0, 'playtime_at_review': 13, 'last_played': 1545043979}",english,It is a great little and quick strategy game with one huge flaw. The AI is terrible. That wouldn't be so bad if I had been able to find an opponent. I can not recommend it as is.,1545044273,1545044273,False,7,0,0.578222751617431641,0,False,False,False,False,,,
+47324771,"{'steamid': '76561197998455537', 'num_games_owned': 0, 'num_reviews': 809, 'playtime_forever': 23, 'playtime_last_two_weeks': 0, 'playtime_at_review': 23, 'last_played': 1544102180}",english,"King and Assassins is a king vs assassin murderer game. The objective for the King and his knights is to get the King to the Castle Gate within 15 turns and not get assassinated. You have 7 Knights and 1 King. The objective for the Assassins is to kill the King or delay the game for 15 turns. You have 3 Assassins whom you can hide among the villagers.
+
+Gameplay-wise, it's all LMB. As the King, you start the game with only 1 Action point meaning you can only move 1 square at a time. Later on, you will get 2 Action Points. As the Knight, you have 5 Action points with which you can distribute as follows; 1 AP for moving a square, 1 AP for climbing, 1 AP for pushing civillians, 1 AP for attacking, 1 AP for shackling. Shackling is limited as you only have 7 shackles to go around.
+
+As the Assassins, you have 4 Action Points. Your actions are 2 AP for attacking the King, 1 AP for attacking a Knight, 1 AP for moving a square, 0 AP for climbin up or down while revealed, 0 AP for revealing. If you deal 2 damage to the King, he is dead.
+
+Conclusion, Kings and Assassins is playable but it's not fun enough to play more than once. I tried it mainly for the novelty concept. It's too slow for me to recommend it.
+
+[h1][b]PROS[/b][/h1]
+1. Playable
+I played 1 or 2 games before I felt bored.
+
+[h1][b]CONS[/b][/h1]
+1. Slow Gameplay
+Extremely slow. King's turn, Assassin's turn, King's turn, Assassin's turn, etc.",1544102780,1590741388,False,3,0,0.556129634380340576,0,False,False,False,False,,,
+47302863,"{'steamid': '76561198117302605', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 325, 'playtime_last_two_weeks': 0, 'playtime_at_review': 82, 'last_played': 1651732011}",english,It's a game for you and a bud. Grab a bud. Maybe even two buds. Show your buds a good ol' time with this bud pleaser. Strategy meets buds in this budacious ol' time.,1543986338,1543986338,True,2,4,0.486521124839782715,0,False,False,False,False,,,
+47302823,"{'steamid': '76561198043204655', 'num_games_owned': 712, 'num_reviews': 4, 'playtime_forever': 195, 'playtime_last_two_weeks': 0, 'playtime_at_review': 81, 'last_played': 1651728215}",english,"I played 4 rounds with a good friend of mine. We each went 1-1 on both the assassin and king side of the game. I have zero issues with the balance, but perhaps after a few dozen plays I might be able to pick something out. Too many children picking this up and uninstalling after 1 practice play, also they need friends. Get some friends. Playing against the AI is sad.",1543986146,1543986146,True,1,1,0.474308311939239502,0,False,False,False,False,,,
+47267206,"{'steamid': '76561197995311915', 'num_games_owned': 0, 'num_reviews': 8, 'playtime_forever': 12, 'playtime_last_two_weeks': 0, 'playtime_at_review': 12, 'last_played': 1543793941}",english,"The AI you can play against just sreight up cheats if you are playing the assassin. It will just pick out your assassin's to arrrest even if you havem't moved them all game. haven't tried online, but the game seems very bare bones.",1543794066,1543794066,False,2,0,0.463576138019561768,0,False,False,False,False,,,
+47259225,"{'steamid': '76561197992076556', 'num_games_owned': 205, 'num_reviews': 42, 'playtime_forever': 20, 'playtime_last_two_weeks': 0, 'playtime_at_review': 20, 'last_played': 1543639032}",english,A very quick uninstall. The dynamic here simply doesn't work. And the game-play is so out of balance.,1543766233,1543766233,False,1,0,0.481865286827087402,0,False,False,False,False,,,
+45718893,"{'steamid': '76561198015566508', 'num_games_owned': 574, 'num_reviews': 143, 'playtime_forever': 71, 'playtime_last_two_weeks': 0, 'playtime_at_review': 42, 'last_played': 1541762405}",polish,"Bardzo miła i przyjemna konwersja gry planszowej. Zdecydowanie warto dać szanse, ale lepiej się gra na telefonach.
+
+Pełna recenzja
+[url=https://bigbaddice.pl/king-and-assassins-pc-recenzja-krol-kontra-zabojcy/] King and Assassins Recenzja [/url]",1541760542,1541760542,True,0,0,0,0,False,False,False,False,,,
+45468172,"{'steamid': '76561198254797380', 'num_games_owned': 0, 'num_reviews': 45, 'playtime_forever': 54, 'playtime_last_two_weeks': 0, 'playtime_at_review': 54, 'last_played': 1540655550}",english,"It's not a bad game, but there is also nothing to recommend here. There is no single-player campaign, just a training level. It is an online multiplayer game for one-on-one matches, but multiplayer is dead. It is originally a smartphone-game, while there is a ""pass&play""-mode for two players on one phone (screen), but forget that on PC when the opponent is not allowed to see the positions of the Assassins. Anyway, if you don't have a friend to play it with the game is pretty useless. I'm also not convinced about the balance between Kings and Assassins. It's a simple and short casual game, look at the playing times, and certainly not worth the money. Can't recommend it for a price above 0,99 cents.",1540658805,1540658887,False,49,0,0.818475186824798584,0,True,False,False,False,,,
+45453157,"{'steamid': '76561198040449549', 'num_games_owned': 0, 'num_reviews': 17, 'playtime_forever': 80, 'playtime_last_two_weeks': 0, 'playtime_at_review': 80, 'last_played': 1540635489}",english,Nice strategic game! Thumbs up!,1540583630,1540583630,True,0,0,0.383712440729141235,0,True,False,False,False,,,
+44366481,"{'steamid': '76561198374159352', 'num_games_owned': 32, 'num_reviews': 6, 'playtime_forever': 124, 'playtime_last_two_weeks': 0, 'playtime_at_review': 123, 'last_played': 1556284658}",schinese,比较新颖的桌游策略游戏，无需中文就可以玩，看起很简单，PVP 打起来还是要考虑很多的，强烈推荐，就是地图太少了，现在只有2张地图，more maps  plz !,1535192182,1535192182,True,3,0,0.548254609107971191,0,True,False,False,False,,,
