@@ -1,0 +1,739 @@
+{
+    "RPG": [
+        {
+            "appid": 204360,
+            "name": "Castle Crashers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 335300,
+            "name": "DARK SOULS II: Scholar of the First Sin",
+            "metacritic_score": 79
+        },
+        {
+            "appid": 359320,
+            "name": "Elite Dangerous",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 213670,
+            "name": "South Park: The Stick of Truth",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 269210,
+            "name": "Hero Siege",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 261640,
+            "name": "Borderlands: The Pre-Sequel",
+            "metacritic_score": 75
+        },
+        {
+            "appid": 104900,
+            "name": "ORION: Prelude",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 41700,
+            "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 228280,
+            "name": "Baldur's Gate: Enhanced Edition",
+            "metacritic_score": 78
+        },
+        {
+            "appid": 606280,
+            "name": "Darksiders III",
+            "metacritic_score": 70
+        }
+    ],
+    "Indie": [
+        {
+            "appid": 244850,
+            "name": "Space Engineers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 204360,
+            "name": "Castle Crashers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 219740,
+            "name": "Don't Starve",
+            "metacritic_score": 79
+        },
+        {
+            "appid": 212680,
+            "name": "FTL: Faster Than Light",
+            "metacritic_score": 84
+        },
+        {
+            "appid": 346900,
+            "name": "AdVenture Capitalist",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 346010,
+            "name": "Besiege",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 239820,
+            "name": "Game Dev Tycoon",
+            "metacritic_score": 68
+        },
+        {
+            "appid": 242920,
+            "name": "Banished",
+            "metacritic_score": 73
+        },
+        {
+            "appid": 269210,
+            "name": "Hero Siege",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 245170,
+            "name": "Skullgirls 2nd Encore",
+            "metacritic_score": 83
+        }
+    ],
+    "Action": [
+        {
+            "appid": 221100,
+            "name": "DayZ",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 244850,
+            "name": "Space Engineers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 208650,
+            "name": "Batman: Arkham Knight",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 204360,
+            "name": "Castle Crashers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 335300,
+            "name": "DARK SOULS II: Scholar of the First Sin",
+            "metacritic_score": 79
+        },
+        {
+            "appid": 359320,
+            "name": "Elite Dangerous",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 374320,
+            "name": "DARK SOULS III",
+            "metacritic_score": 89
+        },
+        {
+            "appid": 213670,
+            "name": "South Park: The Stick of Truth",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 386180,
+            "name": "Crossout",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 50130,
+            "name": "Mafia II (Classic)",
+            "metacritic_score": 77
+        }
+    ],
+    "Early Access": [
+        {
+            "appid": 376210,
+            "name": "The Isle",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 332570,
+            "name": "Amazing Frog?",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 366090,
+            "name": "Colony Survival",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 513710,
+            "name": "SCUM",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 438100,
+            "name": "VRChat",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 598960,
+            "name": "Mashinky",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 587450,
+            "name": "Saurian",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 1623730,
+            "name": "Palworld",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 1423330,
+            "name": "Ancient Warfare: The Han Dynasty",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 397100,
+            "name": "MachineCraft",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Strategy": [
+        {
+            "appid": 8930,
+            "name": "Sid Meier's Civilization V",
+            "metacritic_score": 90
+        },
+        {
+            "appid": 244850,
+            "name": "Space Engineers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 359320,
+            "name": "Elite Dangerous",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 212680,
+            "name": "FTL: Faster Than Light",
+            "metacritic_score": 84
+        },
+        {
+            "appid": 1180320,
+            "name": "War of the Three Kingdoms",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 239820,
+            "name": "Game Dev Tycoon",
+            "metacritic_score": 68
+        },
+        {
+            "appid": 242920,
+            "name": "Banished",
+            "metacritic_score": 73
+        },
+        {
+            "appid": 4700,
+            "name": "Total War: MEDIEVAL II  Definitive Edition",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 248570,
+            "name": "Toribash",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 204880,
+            "name": "Sins of a Solar Empire: Rebellion",
+            "metacritic_score": 82
+        }
+    ],
+    "Simulation": [
+        {
+            "appid": 244850,
+            "name": "Space Engineers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 219740,
+            "name": "Don't Starve",
+            "metacritic_score": 79
+        },
+        {
+            "appid": 359320,
+            "name": "Elite Dangerous",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 212680,
+            "name": "FTL: Faster Than Light",
+            "metacritic_score": 84
+        },
+        {
+            "appid": 346010,
+            "name": "Besiege",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 239820,
+            "name": "Game Dev Tycoon",
+            "metacritic_score": 68
+        },
+        {
+            "appid": 242920,
+            "name": "Banished",
+            "metacritic_score": 73
+        },
+        {
+            "appid": 365450,
+            "name": "Hacknet",
+            "metacritic_score": 82
+        },
+        {
+            "appid": 376210,
+            "name": "The Isle",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 204880,
+            "name": "Sins of a Solar Empire: Rebellion",
+            "metacritic_score": 82
+        }
+    ],
+    "Racing": [
+        {
+            "appid": 386180,
+            "name": "Crossout",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 586980,
+            "name": "MadOut2 BigCityOnline [CLOSED]",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 550320,
+            "name": "art of rally",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 359800,
+            "name": "Copa Petrobras de Marcas",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 204630,
+            "name": "Retro City Rampage DX",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 245490,
+            "name": "Trials Fusion",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 331160,
+            "name": "DisneyPixar Cars",
+            "metacritic_score": 73
+        },
+        {
+            "appid": 325260,
+            "name": "PANZER BALL",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 488550,
+            "name": "Dream Car Builder",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 587420,
+            "name": "Cart Racer",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Casual": [
+        {
+            "appid": 204360,
+            "name": "Castle Crashers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 346900,
+            "name": "AdVenture Capitalist",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 239820,
+            "name": "Game Dev Tycoon",
+            "metacritic_score": 68
+        },
+        {
+            "appid": 221260,
+            "name": "Little Inferno",
+            "metacritic_score": 68
+        },
+        {
+            "appid": 602520,
+            "name": "NEKOPARA Vol. 3",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 429790,
+            "name": "AdventureQuest 3D",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 367580,
+            "name": "Hook",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 420110,
+            "name": "NEKOPARA Vol. 2",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 615530,
+            "name": "Love, Money, Rock'n'Roll",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 546050,
+            "name": "Puyo PuyoTetris",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Adventure": [
+        {
+            "appid": 221100,
+            "name": "DayZ",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 208650,
+            "name": "Batman: Arkham Knight",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 204360,
+            "name": "Castle Crashers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 219740,
+            "name": "Don't Starve",
+            "metacritic_score": 79
+        },
+        {
+            "appid": 359320,
+            "name": "Elite Dangerous",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 207610,
+            "name": "The Walking Dead",
+            "metacritic_score": 82
+        },
+        {
+            "appid": 213670,
+            "name": "South Park: The Stick of Truth",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 108710,
+            "name": "Alan Wake",
+            "metacritic_score": 83
+        },
+        {
+            "appid": 269210,
+            "name": "Hero Siege",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 104900,
+            "name": "ORION: Prelude",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Free to Play": [
+        {
+            "appid": 386180,
+            "name": "Crossout",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 346900,
+            "name": "AdVenture Capitalist",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 1180320,
+            "name": "War of the Three Kingdoms",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 332950,
+            "name": "Dark Deception",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 248570,
+            "name": "Toribash",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 311310,
+            "name": "Naval Action",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 47410,
+            "name": "Stronghold Kingdoms",
+            "metacritic_score": 75
+        },
+        {
+            "appid": 429790,
+            "name": "AdventureQuest 3D",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 324810,
+            "name": "TOXIKK",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 438100,
+            "name": "VRChat",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Sports": [
+        {
+            "appid": 438100,
+            "name": "VRChat",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 586980,
+            "name": "MadOut2 BigCityOnline [CLOSED]",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 375530,
+            "name": "Football, Tactics & Glory",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 550320,
+            "name": "art of rally",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 321400,
+            "name": "Supraball",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 399820,
+            "name": "Kopanito All-Stars Soccer",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 359800,
+            "name": "Copa Petrobras de Marcas",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 63200,
+            "name": "Monday Night Combat",
+            "metacritic_score": 82
+        },
+        {
+            "appid": 244590,
+            "name": "Epigenesis",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 288140,
+            "name": "Perfect Golf",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Massively Multiplayer": [
+        {
+            "appid": 221100,
+            "name": "DayZ",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 359320,
+            "name": "Elite Dangerous",
+            "metacritic_score": 80
+        },
+        {
+            "appid": 386180,
+            "name": "Crossout",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 269210,
+            "name": "Hero Siege",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 376210,
+            "name": "The Isle",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 311310,
+            "name": "Naval Action",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 47410,
+            "name": "Stronghold Kingdoms",
+            "metacritic_score": 75
+        },
+        {
+            "appid": 429790,
+            "name": "AdventureQuest 3D",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 513710,
+            "name": "SCUM",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 438100,
+            "name": "VRChat",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Violent": [
+        {
+            "appid": 560370,
+            "name": "SWAT 3: Tactical Game of the Year Edition",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 364910,
+            "name": "Redemption: Saints And Sinners",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 543010,
+            "name": "Bush Hockey League",
+            "metacritic_score": 48
+        },
+        {
+            "appid": 571340,
+            "name": "Seeking Evil: The Wendigo",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 434600,
+            "name": "Blue Bird",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 598170,
+            "name": "Super",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 405240,
+            "name": "Hairy Little Buggers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 542410,
+            "name": "True Blades",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 611810,
+            "name": "THE LAST HUNT",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 591130,
+            "name": "Bunny Madness Anarchy",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Gore": [
+        {
+            "appid": 364910,
+            "name": "Redemption: Saints And Sinners",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 432950,
+            "name": "Orange Moon",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 571340,
+            "name": "Seeking Evil: The Wendigo",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 611810,
+            "name": "THE LAST HUNT",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 611050,
+            "name": "Moriarty: Endgame VR",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 591130,
+            "name": "Bunny Madness Anarchy",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Sexual Content": [
+        {
+            "appid": 610350,
+            "name": "Poker Show VR",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 405240,
+            "name": "Hairy Little Buggers",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 543290,
+            "name": "Void & Nothingness",
+            "metacritic_score": "N/A"
+        }
+    ],
+    "Nudity": [
+        {
+            "appid": 364910,
+            "name": "Redemption: Saints And Sinners",
+            "metacritic_score": "N/A"
+        },
+        {
+            "appid": 405240,
+            "name": "Hairy Little Buggers",
+            "metacritic_score": "N/A"
+        }
+    ]
+}

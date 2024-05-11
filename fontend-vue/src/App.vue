@@ -8,6 +8,12 @@ import FeatureClusterComponent from './components/FeatureCluster.vue';
 import WordCloudComponent from './components/WordCloud.vue';
 import FunCommentsComponent from './components/FunComments.vue';
 import SaveComponent from './components/Save.vue';
+import { ref } from 'vue';
+const selectedAppId = ref(null);
+
+const handleSelectGame = (appid) => {
+  selectedAppId.value = appid;
+}
 </script>
 
 <template>
@@ -20,7 +26,9 @@ import SaveComponent from './components/Save.vue';
     <div style="height: 3%;"></div>
     <div class="flex-row middlepart" >
       <div class="leftpart">
-        <GameCategoriesComponent style="width: 100%;height: 58%;" class="borderpink"/>
+        <div style="width: 100%;height: 58%;" class="borderpink">
+          <GameCategoriesComponent style="width: 100%;height: 100%;"/>
+        </div>
         <div style="height: 3%;"></div>
         <FeatureClusterComponent style="width: 100%;height: 39%;" class="borderpink"/>
       </div>

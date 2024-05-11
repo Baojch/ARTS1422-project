@@ -20,7 +20,8 @@ export default {
   display: flex; /* 使用 flex 布局 */
   justify-content: center; /* 水平居中 */
   align-items: center; /* 垂直居中 */
-  height: 100vh; /* 高度设置为视窗高度 */
+  height: 100%; /* 高度设置为视窗高度 */
+  padding-bottom: 20px;
 }
 
 /* 标题的样式 */

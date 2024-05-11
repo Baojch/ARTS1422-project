@@ -1,6 +1,0 @@
-recommendationid,author,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,hidden_in_steam_china,steam_china_location,timestamp_dev_responded,developer_response
-116382660,"{'steamid': '76561198067497349', 'num_games_owned': 0, 'num_reviews': 1, 'playtime_forever': 69, 'playtime_last_two_weeks': 0, 'playtime_at_review': 59, 'last_played': 1683637487}",english,"PHEW! This game is so nice! easy to understand, but still make your brain goes Choo Choo.
-Absolutely looking forward to next maps or second game of it!
-
-
-PS. the graphic so cute !",1654185543,1654185543,True,2,0,0.545454561710357666,0,True,False,False,False,,,
