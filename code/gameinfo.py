@@ -39,12 +39,21 @@ for genre, data in genre_data.items():
                 raw_name = app_data.get("name", "Unknown")
                 name = clean_text(raw_name)
                 metacritic_score = app_data.get("metacritic", {}).get("score", "N/A")
+                categories = app_data.get("categories", [])  # 提取游戏类别列表
+                header_image = app_data.get("header_image", "Unknown")
+                screenshots = app_data.get("screenshots", [])  # 提取游戏截图列表
+            
+                # 提取截图缩略图路径（如果有的话）
+                thumbnails = [screenshot.get("path_thumbnail", "N/A") for screenshot in screenshots[:2]]
                 
                 # 将结果加入genre_results
                 genre_results.append({
                     "appid": appid,
                     "name": name,
-                    "metacritic_score": metacritic_score
+                    "metacritic_score": metacritic_score,
+                    "categories": categories,
+                    "header_image": header_image,
+                    "thumbnails": thumbnails
                 })
     
     # 将这个genre的结果加入最终结果

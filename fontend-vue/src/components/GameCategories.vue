@@ -6,7 +6,7 @@
     <div class="l-level1" v-for="style in gamestylesWithId" @click="unfold(style.id)">
         &nbsp;<span v-html="signal[style.id]"></span>{{style.name}}
       <div class="l-level2" v-for="game in gameCategories[style.name]" v-if="whether_unfold[style.id]">
-        <div :class="{ 'selected': isSelected(game.appid) }" @click="Innerclick($event,game)">
+        <div :class="{ 'selected': isSelected(game.appid) }" @click="Innerclick($event,game,style.name)">
           &nbsp;<span v-if="!isSelected(game.appid)" style="color: #ffffff;">•&nbsp;</span>{{ game.name }}
           <span class="metacritic-score" :style="{ width: getMetacriticScoreWidth(game.metacritic_score), height: getMetacriticScoreWidth(game.metacritic_score)}">
           </span>
@@ -65,12 +65,13 @@ export default {
     onScroll(event) {
       console.log('Scrolling', event.target.scrollTop);
     },
-    Innerclick(event, game) {
+    Innerclick(event, game, stylename) {
       event.stopPropagation();
       this.sellect_game = game.name;
       this.metacritic_score = game.metacritic_score;
       this.selectedIndex = game.appid;
       bus.emit('gameid', game.appid); // 触发事件并传递appid
+      bus.emit('stylename', stylename);
     },
     isSelected(appid) {
       return this.selectedIndex === appid;

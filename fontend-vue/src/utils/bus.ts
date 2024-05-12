@@ -1,7 +1,7 @@
 import mitt from 'mitt'
  
 type Events = {
-  sendMsg: string
+  stylename: string
   gameid: number
 }
  
