@@ -40,11 +40,11 @@ const handleSelectGame = (appid) => {
       </div>
       <div style="width: 2%;"></div>
       <div class="rightpart">
-        <BarChartComponent style="width: 100%;height: 33%;" class="borderpink"/>
+        <BarChartComponent style="width: 100%;height: 36%;" class="borderpink"/>
         <div style="height: 3%;"></div>
-        <WordCloudComponent style="width: 100%;height: 31%;" class="borderpink"/>
+        <WordCloudComponent style="width: 100%;height: 25%;" class="borderpink"/>
         <div style="height: 3%;"></div>
-        <SaveComponent style="width: 100%;height: 30%;" class="borderpink"/>
+        <SaveComponent style="width: 100%;height: 33%;" class="borderpink"/>
       </div>
     </div>
   </div>

@@ -19,6 +19,10 @@ export default {
       console.log(gameid);
       this.gameid = gameid;
     })
+    bus.on('stylename', (stylename) => {
+      console.log(stylename);
+      this.stylename = stylename;
+    })
   }
 
 }
