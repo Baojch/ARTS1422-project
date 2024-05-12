@@ -7,6 +7,7 @@
 
 <script>
 import bus from '../utils/bus';
+import gameCategories from '../../assets/gameinfo.json';
 
 export default {
   data () {
@@ -18,6 +19,7 @@ export default {
   },
   mounted() {
     bus.on('gameid', this.handleGameIdChange);
+    
   },
   methods: {
     handleGameIdChange(gameid) {
@@ -26,7 +28,6 @@ export default {
     },
     updateImagePath() {
       // 假设你有一个函数或对象来根据 gameid 和 stylename 获取图像路径
-      // 这里只是一个示例路径，你需要根据实际情况来设置
       this.imagePath = `../../assets/wordcloud/wordcloud_${this.gameid}.png`;
     }
   }
