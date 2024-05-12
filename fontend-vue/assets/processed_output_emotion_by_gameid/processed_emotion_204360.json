@@ -1,0 +1,975 @@
+[
+    {
+        "date": "2012-09",
+        "compound": 17,
+        "neg": 0,
+        "neu": 18,
+        "pos": 3
+    },
+    {
+        "date": "2012-10",
+        "compound": 34,
+        "neg": 0,
+        "neu": 17,
+        "pos": 3
+    },
+    {
+        "date": "2012-11",
+        "compound": 27,
+        "neg": 1,
+        "neu": 29,
+        "pos": 6
+    },
+    {
+        "date": "2012-12",
+        "compound": 102,
+        "neg": 3,
+        "neu": 90,
+        "pos": 26
+    },
+    {
+        "date": "2013-01",
+        "compound": 58,
+        "neg": 1,
+        "neu": 59,
+        "pos": 10
+    },
+    {
+        "date": "2013-02",
+        "compound": 25,
+        "neg": 1,
+        "neu": 23,
+        "pos": 7
+    },
+    {
+        "date": "2013-03",
+        "compound": 25,
+        "neg": 0,
+        "neu": 19,
+        "pos": 7
+    },
+    {
+        "date": "2013-04",
+        "compound": 22,
+        "neg": 0,
+        "neu": 23,
+        "pos": 6
+    },
+    {
+        "date": "2013-05",
+        "compound": 28,
+        "neg": 0,
+        "neu": 23,
+        "pos": 4
+    },
+    {
+        "date": "2013-06",
+        "compound": 21,
+        "neg": 1,
+        "neu": 18,
+        "pos": 6
+    },
+    {
+        "date": "2013-07",
+        "compound": 111,
+        "neg": 3,
+        "neu": 72,
+        "pos": 16
+    },
+    {
+        "date": "2013-08",
+        "compound": 44,
+        "neg": 0,
+        "neu": 34,
+        "pos": 6
+    },
+    {
+        "date": "2013-09",
+        "compound": 29,
+        "neg": 3,
+        "neu": 27,
+        "pos": 9
+    },
+    {
+        "date": "2013-10",
+        "compound": 24,
+        "neg": 0,
+        "neu": 11,
+        "pos": 6
+    },
+    {
+        "date": "2013-11",
+        "compound": 66,
+        "neg": 2,
+        "neu": 34,
+        "pos": 6
+    },
+    {
+        "date": "2013-12",
+        "compound": 398,
+        "neg": 10,
+        "neu": 214,
+        "pos": 87
+    },
+    {
+        "date": "2014-01",
+        "compound": 175,
+        "neg": 5,
+        "neu": 88,
+        "pos": 40
+    },
+    {
+        "date": "2014-02",
+        "compound": 89,
+        "neg": 2,
+        "neu": 45,
+        "pos": 20
+    },
+    {
+        "date": "2014-03",
+        "compound": 85,
+        "neg": 1,
+        "neu": 42,
+        "pos": 14
+    },
+    {
+        "date": "2014-04",
+        "compound": 59,
+        "neg": 4,
+        "neu": 45,
+        "pos": 7
+    },
+    {
+        "date": "2014-05",
+        "compound": 56,
+        "neg": 4,
+        "neu": 49,
+        "pos": 9
+    },
+    {
+        "date": "2014-06",
+        "compound": 910,
+        "neg": 31,
+        "neu": 539,
+        "pos": 217
+    },
+    {
+        "date": "2014-07",
+        "compound": 280,
+        "neg": 5,
+        "neu": 201,
+        "pos": 53
+    },
+    {
+        "date": "2014-08",
+        "compound": 117,
+        "neg": 6,
+        "neu": 88,
+        "pos": 22
+    },
+    {
+        "date": "2014-09",
+        "compound": 90,
+        "neg": 2,
+        "neu": 66,
+        "pos": 18
+    },
+    {
+        "date": "2014-10",
+        "compound": 73,
+        "neg": 4,
+        "neu": 45,
+        "pos": 21
+    },
+    {
+        "date": "2014-11",
+        "compound": 132,
+        "neg": 5,
+        "neu": 121,
+        "pos": 35
+    },
+    {
+        "date": "2014-12",
+        "compound": 672,
+        "neg": 25,
+        "neu": 472,
+        "pos": 153
+    },
+    {
+        "date": "2015-01",
+        "compound": 271,
+        "neg": 9,
+        "neu": 190,
+        "pos": 53
+    },
+    {
+        "date": "2015-02",
+        "compound": 160,
+        "neg": 5,
+        "neu": 103,
+        "pos": 41
+    },
+    {
+        "date": "2015-03",
+        "compound": 117,
+        "neg": 1,
+        "neu": 82,
+        "pos": 19
+    },
+    {
+        "date": "2015-04",
+        "compound": 111,
+        "neg": 3,
+        "neu": 70,
+        "pos": 23
+    },
+    {
+        "date": "2015-05",
+        "compound": 107,
+        "neg": 3,
+        "neu": 81,
+        "pos": 10
+    },
+    {
+        "date": "2015-06",
+        "compound": 583,
+        "neg": 28,
+        "neu": 456,
+        "pos": 153
+    },
+    {
+        "date": "2015-07",
+        "compound": 192,
+        "neg": 5,
+        "neu": 149,
+        "pos": 35
+    },
+    {
+        "date": "2015-08",
+        "compound": 119,
+        "neg": 8,
+        "neu": 75,
+        "pos": 27
+    },
+    {
+        "date": "2015-09",
+        "compound": 98,
+        "neg": 6,
+        "neu": 78,
+        "pos": 22
+    },
+    {
+        "date": "2015-10",
+        "compound": 113,
+        "neg": 6,
+        "neu": 93,
+        "pos": 31
+    },
+    {
+        "date": "2015-11",
+        "compound": 149,
+        "neg": 5,
+        "neu": 109,
+        "pos": 42
+    },
+    {
+        "date": "2015-12",
+        "compound": 184,
+        "neg": 7,
+        "neu": 137,
+        "pos": 52
+    },
+    {
+        "date": "2016-01",
+        "compound": 185,
+        "neg": 8,
+        "neu": 120,
+        "pos": 45
+    },
+    {
+        "date": "2016-02",
+        "compound": 90,
+        "neg": 4,
+        "neu": 77,
+        "pos": 30
+    },
+    {
+        "date": "2016-03",
+        "compound": 75,
+        "neg": 5,
+        "neu": 61,
+        "pos": 30
+    },
+    {
+        "date": "2016-04",
+        "compound": 67,
+        "neg": 5,
+        "neu": 48,
+        "pos": 7
+    },
+    {
+        "date": "2016-05",
+        "compound": 71,
+        "neg": 1,
+        "neu": 53,
+        "pos": 16
+    },
+    {
+        "date": "2016-06",
+        "compound": 150,
+        "neg": 4,
+        "neu": 90,
+        "pos": 34
+    },
+    {
+        "date": "2016-07",
+        "compound": 152,
+        "neg": 8,
+        "neu": 81,
+        "pos": 29
+    },
+    {
+        "date": "2016-08",
+        "compound": 78,
+        "neg": 1,
+        "neu": 58,
+        "pos": 18
+    },
+    {
+        "date": "2016-09",
+        "compound": 65,
+        "neg": 5,
+        "neu": 33,
+        "pos": 9
+    },
+    {
+        "date": "2016-10",
+        "compound": 59,
+        "neg": 4,
+        "neu": 41,
+        "pos": 17
+    },
+    {
+        "date": "2016-11",
+        "compound": 329,
+        "neg": 10,
+        "neu": 221,
+        "pos": 84
+    },
+    {
+        "date": "2016-12",
+        "compound": 174,
+        "neg": 8,
+        "neu": 114,
+        "pos": 57
+    },
+    {
+        "date": "2017-01",
+        "compound": 155,
+        "neg": 7,
+        "neu": 91,
+        "pos": 29
+    },
+    {
+        "date": "2017-02",
+        "compound": 76,
+        "neg": 4,
+        "neu": 51,
+        "pos": 26
+    },
+    {
+        "date": "2017-03",
+        "compound": 75,
+        "neg": 4,
+        "neu": 37,
+        "pos": 17
+    },
+    {
+        "date": "2017-04",
+        "compound": 55,
+        "neg": 4,
+        "neu": 43,
+        "pos": 21
+    },
+    {
+        "date": "2017-05",
+        "compound": 54,
+        "neg": 2,
+        "neu": 49,
+        "pos": 13
+    },
+    {
+        "date": "2017-06",
+        "compound": 187,
+        "neg": 5,
+        "neu": 103,
+        "pos": 53
+    },
+    {
+        "date": "2017-07",
+        "compound": 178,
+        "neg": 7,
+        "neu": 98,
+        "pos": 57
+    },
+    {
+        "date": "2017-08",
+        "compound": 74,
+        "neg": 4,
+        "neu": 58,
+        "pos": 12
+    },
+    {
+        "date": "2017-09",
+        "compound": 65,
+        "neg": 1,
+        "neu": 51,
+        "pos": 13
+    },
+    {
+        "date": "2017-10",
+        "compound": 78,
+        "neg": 1,
+        "neu": 53,
+        "pos": 22
+    },
+    {
+        "date": "2017-11",
+        "compound": 232,
+        "neg": 12,
+        "neu": 170,
+        "pos": 85
+    },
+    {
+        "date": "2017-12",
+        "compound": 147,
+        "neg": 7,
+        "neu": 97,
+        "pos": 42
+    },
+    {
+        "date": "2018-01",
+        "compound": 116,
+        "neg": 6,
+        "neu": 81,
+        "pos": 27
+    },
+    {
+        "date": "2018-02",
+        "compound": 56,
+        "neg": 3,
+        "neu": 46,
+        "pos": 22
+    },
+    {
+        "date": "2018-03",
+        "compound": 60,
+        "neg": 3,
+        "neu": 58,
+        "pos": 20
+    },
+    {
+        "date": "2018-04",
+        "compound": 56,
+        "neg": 3,
+        "neu": 46,
+        "pos": 12
+    },
+    {
+        "date": "2018-05",
+        "compound": 202,
+        "neg": 13,
+        "neu": 177,
+        "pos": 85
+    },
+    {
+        "date": "2018-06",
+        "compound": 126,
+        "neg": 5,
+        "neu": 76,
+        "pos": 35
+    },
+    {
+        "date": "2018-07",
+        "compound": 80,
+        "neg": 1,
+        "neu": 71,
+        "pos": 29
+    },
+    {
+        "date": "2018-08",
+        "compound": 50,
+        "neg": 2,
+        "neu": 32,
+        "pos": 16
+    },
+    {
+        "date": "2018-09",
+        "compound": 32,
+        "neg": 3,
+        "neu": 31,
+        "pos": 8
+    },
+    {
+        "date": "2018-10",
+        "compound": 34,
+        "neg": 1,
+        "neu": 25,
+        "pos": 10
+    },
+    {
+        "date": "2018-11",
+        "compound": 232,
+        "neg": 7,
+        "neu": 117,
+        "pos": 75
+    },
+    {
+        "date": "2018-12",
+        "compound": 85,
+        "neg": 2,
+        "neu": 62,
+        "pos": 30
+    },
+    {
+        "date": "2019-01",
+        "compound": 80,
+        "neg": 3,
+        "neu": 46,
+        "pos": 20
+    },
+    {
+        "date": "2019-02",
+        "compound": 52,
+        "neg": 2,
+        "neu": 33,
+        "pos": 17
+    },
+    {
+        "date": "2019-03",
+        "compound": 42,
+        "neg": 1,
+        "neu": 29,
+        "pos": 15
+    },
+    {
+        "date": "2019-04",
+        "compound": 37,
+        "neg": 3,
+        "neu": 32,
+        "pos": 12
+    },
+    {
+        "date": "2019-05",
+        "compound": 44,
+        "neg": 3,
+        "neu": 32,
+        "pos": 13
+    },
+    {
+        "date": "2019-06",
+        "compound": 242,
+        "neg": 13,
+        "neu": 195,
+        "pos": 133
+    },
+    {
+        "date": "2019-07",
+        "compound": 277,
+        "neg": 23,
+        "neu": 237,
+        "pos": 140
+    },
+    {
+        "date": "2019-08",
+        "compound": 49,
+        "neg": 4,
+        "neu": 45,
+        "pos": 13
+    },
+    {
+        "date": "2019-09",
+        "compound": 47,
+        "neg": 2,
+        "neu": 35,
+        "pos": 19
+    },
+    {
+        "date": "2019-10",
+        "compound": 61,
+        "neg": 4,
+        "neu": 49,
+        "pos": 25
+    },
+    {
+        "date": "2019-11",
+        "compound": 286,
+        "neg": 14,
+        "neu": 254,
+        "pos": 188
+    },
+    {
+        "date": "2019-12",
+        "compound": 208,
+        "neg": 16,
+        "neu": 239,
+        "pos": 176
+    },
+    {
+        "date": "2020-01",
+        "compound": 178,
+        "neg": 7,
+        "neu": 187,
+        "pos": 117
+    },
+    {
+        "date": "2020-02",
+        "compound": 113,
+        "neg": 7,
+        "neu": 107,
+        "pos": 85
+    },
+    {
+        "date": "2020-03",
+        "compound": 182,
+        "neg": 12,
+        "neu": 209,
+        "pos": 150
+    },
+    {
+        "date": "2020-04",
+        "compound": 199,
+        "neg": 10,
+        "neu": 200,
+        "pos": 142
+    },
+    {
+        "date": "2020-05",
+        "compound": 111,
+        "neg": 5,
+        "neu": 116,
+        "pos": 100
+    },
+    {
+        "date": "2020-06",
+        "compound": 136,
+        "neg": 10,
+        "neu": 157,
+        "pos": 102
+    },
+    {
+        "date": "2020-07",
+        "compound": 206,
+        "neg": 18,
+        "neu": 275,
+        "pos": 168
+    },
+    {
+        "date": "2020-08",
+        "compound": 107,
+        "neg": 9,
+        "neu": 140,
+        "pos": 86
+    },
+    {
+        "date": "2020-09",
+        "compound": 122,
+        "neg": 6,
+        "neu": 122,
+        "pos": 64
+    },
+    {
+        "date": "2020-10",
+        "compound": 109,
+        "neg": 13,
+        "neu": 113,
+        "pos": 71
+    },
+    {
+        "date": "2020-11",
+        "compound": 271,
+        "neg": 18,
+        "neu": 316,
+        "pos": 191
+    },
+    {
+        "date": "2020-12",
+        "compound": 256,
+        "neg": 14,
+        "neu": 295,
+        "pos": 195
+    },
+    {
+        "date": "2021-01",
+        "compound": 207,
+        "neg": 26,
+        "neu": 281,
+        "pos": 157
+    },
+    {
+        "date": "2021-02",
+        "compound": 171,
+        "neg": 15,
+        "neu": 234,
+        "pos": 122
+    },
+    {
+        "date": "2021-03",
+        "compound": 192,
+        "neg": 19,
+        "neu": 251,
+        "pos": 140
+    },
+    {
+        "date": "2021-04",
+        "compound": 154,
+        "neg": 15,
+        "neu": 235,
+        "pos": 127
+    },
+    {
+        "date": "2021-05",
+        "compound": 131,
+        "neg": 15,
+        "neu": 215,
+        "pos": 93
+    },
+    {
+        "date": "2021-06",
+        "compound": 168,
+        "neg": 24,
+        "neu": 265,
+        "pos": 144
+    },
+    {
+        "date": "2021-07",
+        "compound": 222,
+        "neg": 27,
+        "neu": 365,
+        "pos": 201
+    },
+    {
+        "date": "2021-08",
+        "compound": 134,
+        "neg": 19,
+        "neu": 189,
+        "pos": 104
+    },
+    {
+        "date": "2021-09",
+        "compound": 72,
+        "neg": 8,
+        "neu": 131,
+        "pos": 77
+    },
+    {
+        "date": "2021-10",
+        "compound": 93,
+        "neg": 10,
+        "neu": 139,
+        "pos": 65
+    },
+    {
+        "date": "2021-11",
+        "compound": 147,
+        "neg": 10,
+        "neu": 189,
+        "pos": 103
+    },
+    {
+        "date": "2021-12",
+        "compound": 132,
+        "neg": 11,
+        "neu": 227,
+        "pos": 112
+    },
+    {
+        "date": "2022-01",
+        "compound": 150,
+        "neg": 27,
+        "neu": 267,
+        "pos": 125
+    },
+    {
+        "date": "2022-02",
+        "compound": 127,
+        "neg": 13,
+        "neu": 195,
+        "pos": 105
+    },
+    {
+        "date": "2022-03",
+        "compound": 194,
+        "neg": 31,
+        "neu": 281,
+        "pos": 164
+    },
+    {
+        "date": "2022-04",
+        "compound": 78,
+        "neg": 12,
+        "neu": 156,
+        "pos": 93
+    },
+    {
+        "date": "2022-05",
+        "compound": 109,
+        "neg": 12,
+        "neu": 169,
+        "pos": 86
+    },
+    {
+        "date": "2022-06",
+        "compound": 112,
+        "neg": 14,
+        "neu": 193,
+        "pos": 105
+    },
+    {
+        "date": "2022-07",
+        "compound": 150,
+        "neg": 20,
+        "neu": 219,
+        "pos": 107
+    },
+    {
+        "date": "2022-08",
+        "compound": 84,
+        "neg": 17,
+        "neu": 159,
+        "pos": 61
+    },
+    {
+        "date": "2022-09",
+        "compound": 70,
+        "neg": 11,
+        "neu": 138,
+        "pos": 54
+    },
+    {
+        "date": "2022-10",
+        "compound": 53,
+        "neg": 5,
+        "neu": 127,
+        "pos": 46
+    },
+    {
+        "date": "2022-11",
+        "compound": 99,
+        "neg": 16,
+        "neu": 165,
+        "pos": 85
+    },
+    {
+        "date": "2022-12",
+        "compound": 123,
+        "neg": 19,
+        "neu": 231,
+        "pos": 96
+    },
+    {
+        "date": "2023-01",
+        "compound": 137,
+        "neg": 20,
+        "neu": 198,
+        "pos": 76
+    },
+    {
+        "date": "2023-02",
+        "compound": 78,
+        "neg": 9,
+        "neu": 123,
+        "pos": 42
+    },
+    {
+        "date": "2023-03",
+        "compound": 91,
+        "neg": 11,
+        "neu": 172,
+        "pos": 52
+    },
+    {
+        "date": "2023-04",
+        "compound": 71,
+        "neg": 11,
+        "neu": 126,
+        "pos": 43
+    },
+    {
+        "date": "2023-05",
+        "compound": 84,
+        "neg": 2,
+        "neu": 120,
+        "pos": 52
+    },
+    {
+        "date": "2023-06",
+        "compound": 87,
+        "neg": 18,
+        "neu": 141,
+        "pos": 52
+    },
+    {
+        "date": "2023-07",
+        "compound": 233,
+        "neg": 39,
+        "neu": 464,
+        "pos": 177
+    },
+    {
+        "date": "2023-08",
+        "compound": 84,
+        "neg": 7,
+        "neu": 187,
+        "pos": 74
+    },
+    {
+        "date": "2023-09",
+        "compound": 130,
+        "neg": 20,
+        "neu": 269,
+        "pos": 85
+    },
+    {
+        "date": "2023-10",
+        "compound": 77,
+        "neg": 7,
+        "neu": 149,
+        "pos": 62
+    },
+    {
+        "date": "2023-11",
+        "compound": 141,
+        "neg": 16,
+        "neu": 264,
+        "pos": 114
+    },
+    {
+        "date": "2023-12",
+        "compound": 120,
+        "neg": 15,
+        "neu": 223,
+        "pos": 87
+    },
+    {
+        "date": "2024-01",
+        "compound": 105,
+        "neg": 13,
+        "neu": 173,
+        "pos": 81
+    },
+    {
+        "date": "2024-02",
+        "compound": 95,
+        "neg": 14,
+        "neu": 171,
+        "pos": 66
+    },
+    {
+        "date": "2024-03",
+        "compound": 73,
+        "neg": 7,
+        "neu": 132,
+        "pos": 49
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "date": "2017-09",
+        "compound": 1,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2017-10",
+        "compound": 0,
+        "neg": 1,
+        "neu": 5,
+        "pos": 0
+    },
+    {
+        "date": "2017-11",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2017-12",
+        "compound": 1,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2019-10",
+        "compound": 0,
+        "neg": 1,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2019-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-01",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2020-03",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-05",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-09",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2021-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2021-02",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2022-06",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2022-09",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2023-07",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2023-10",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2023-11",
+        "compound": 1,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2024-01",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    }
+]

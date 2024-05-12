@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2017-05",
+        "compound": 2,
+        "neg": 0,
+        "neu": 3,
+        "pos": 0
+    },
+    {
+        "date": "2017-06",
+        "compound": 0,
+        "neg": 0,
+        "neu": 3,
+        "pos": 0
+    },
+    {
+        "date": "2018-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-05",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-06",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2019-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2021-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    }
+]

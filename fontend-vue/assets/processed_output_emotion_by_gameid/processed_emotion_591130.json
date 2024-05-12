@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2017-07",
+        "compound": 1,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2017-10",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2019-06",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    }
+]

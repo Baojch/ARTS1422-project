@@ -1,0 +1,373 @@
+[
+    {
+        "date": "2015-09",
+        "compound": 2,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2015-10",
+        "compound": 2,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2016-11",
+        "compound": 1,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2017-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2017-02",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2017-03",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2017-04",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2017-05",
+        "compound": 0,
+        "neg": 0,
+        "neu": 0,
+        "pos": 1
+    },
+    {
+        "date": "2017-06",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2017-07",
+        "compound": 1,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2017-08",
+        "compound": 0,
+        "neg": 0,
+        "neu": 3,
+        "pos": 0
+    },
+    {
+        "date": "2017-09",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2017-10",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2017-11",
+        "compound": 2,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2017-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 1
+    },
+    {
+        "date": "2018-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-03",
+        "compound": 0,
+        "neg": 1,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-04",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-06",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2018-07",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2018-10",
+        "compound": 1,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-11",
+        "compound": 1,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2018-12",
+        "compound": 0,
+        "neg": 1,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2019-03",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2019-04",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2019-05",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2019-06",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2019-07",
+        "compound": 2,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2019-08",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2019-11",
+        "compound": 0,
+        "neg": 0,
+        "neu": 0,
+        "pos": 1
+    },
+    {
+        "date": "2019-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-05",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-07",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-08",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2020-09",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2020-10",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2020-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2021-02",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2021-03",
+        "compound": 0,
+        "neg": 0,
+        "neu": 0,
+        "pos": 1
+    },
+    {
+        "date": "2021-04",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2021-05",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2021-09",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2022-03",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2022-04",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2022-07",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2023-01",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2023-02",
+        "compound": 0,
+        "neg": 0,
+        "neu": 0,
+        "pos": 1
+    },
+    {
+        "date": "2023-03",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 1
+    },
+    {
+        "date": "2023-06",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 1
+    },
+    {
+        "date": "2023-08",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2023-12",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2024-03",
+        "compound": 0,
+        "neg": 0,
+        "neu": 0,
+        "pos": 1
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2016-12",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    },
+    {
+        "date": "2017-01",
+        "compound": 1,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2017-02",
+        "compound": 0,
+        "neg": 0,
+        "neu": 2,
+        "pos": 0
+    },
+    {
+        "date": "2023-04",
+        "compound": 0,
+        "neg": 0,
+        "neu": 1,
+        "pos": 0
+    },
+    {
+        "date": "2023-08",
+        "compound": 1,
+        "neg": 0,
+        "neu": 0,
+        "pos": 0
+    }
+]
