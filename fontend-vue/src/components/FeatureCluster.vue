@@ -63,8 +63,8 @@ export default {
         var centroidsData = this.prevStylename === this.stylename ? this.prevCentroidsData : categories.map(function(category) {
             return {
                 category: category,
-                x: Math.random() * 390,
-                y: Math.random() * 300 + 28,
+                x: Math.random() * 370 + 10,
+                y: Math.random() * 285 + 32,
             };
         });
         this.prevStylename = this.stylename;
