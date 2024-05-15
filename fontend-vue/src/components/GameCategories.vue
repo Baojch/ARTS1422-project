@@ -72,6 +72,7 @@ export default {
       this.selectedIndex = game.appid;
       bus.emit('gameid', game.appid); // 触发事件并传递appid
       bus.emit('stylename', stylename);
+      bus.emit('gamename',game.name);
     },
     isSelected(appid) {
       return this.selectedIndex === appid;

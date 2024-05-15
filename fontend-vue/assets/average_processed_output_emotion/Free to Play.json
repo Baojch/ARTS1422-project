@@ -1,0 +1,1031 @@
+[
+    {
+        "date": "2012-02",
+        "compound": 3,
+        "neg": 3,
+        "neu": 8,
+        "pos": 0
+    },
+    {
+        "date": "2012-03",
+        "compound": 15,
+        "neg": 2,
+        "neu": 18,
+        "pos": 1
+    },
+    {
+        "date": "2012-04",
+        "compound": 9,
+        "neg": 0,
+        "neu": 12,
+        "pos": 2
+    },
+    {
+        "date": "2012-05",
+        "compound": 3,
+        "neg": 0,
+        "neu": 5,
+        "pos": 1
+    },
+    {
+        "date": "2012-06",
+        "compound": 5,
+        "neg": 0,
+        "neu": 8,
+        "pos": 1
+    },
+    {
+        "date": "2012-07",
+        "compound": 6,
+        "neg": 0,
+        "neu": 20,
+        "pos": 3
+    },
+    {
+        "date": "2012-08",
+        "compound": 3,
+        "neg": 1,
+        "neu": 7,
+        "pos": 2
+    },
+    {
+        "date": "2012-09",
+        "compound": 4,
+        "neg": 1,
+        "neu": 11,
+        "pos": 1
+    },
+    {
+        "date": "2012-10",
+        "compound": 3,
+        "neg": 1,
+        "neu": 5,
+        "pos": 3
+    },
+    {
+        "date": "2012-11",
+        "compound": 2,
+        "neg": 0,
+        "neu": 5,
+        "pos": 2
+    },
+    {
+        "date": "2012-12",
+        "compound": 4,
+        "neg": 1,
+        "neu": 10,
+        "pos": 4
+    },
+    {
+        "date": "2013-01",
+        "compound": 5,
+        "neg": 0,
+        "neu": 7,
+        "pos": 2
+    },
+    {
+        "date": "2013-02",
+        "compound": 2,
+        "neg": 0,
+        "neu": 5,
+        "pos": 4
+    },
+    {
+        "date": "2013-03",
+        "compound": 3,
+        "neg": 6,
+        "neu": 6,
+        "pos": 1
+    },
+    {
+        "date": "2013-04",
+        "compound": 4,
+        "neg": 1,
+        "neu": 4,
+        "pos": 0
+    },
+    {
+        "date": "2013-05",
+        "compound": 6,
+        "neg": 0,
+        "neu": 8,
+        "pos": 2
+    },
+    {
+        "date": "2013-06",
+        "compound": 4,
+        "neg": 0,
+        "neu": 4,
+        "pos": 2
+    },
+    {
+        "date": "2013-07",
+        "compound": 3,
+        "neg": 1,
+        "neu": 10,
+        "pos": 1
+    },
+    {
+        "date": "2013-08",
+        "compound": 3,
+        "neg": 0,
+        "neu": 5,
+        "pos": 1
+    },
+    {
+        "date": "2013-09",
+        "compound": 3,
+        "neg": 0,
+        "neu": 4,
+        "pos": 0
+    },
+    {
+        "date": "2013-10",
+        "compound": 3,
+        "neg": 0,
+        "neu": 11,
+        "pos": 4
+    },
+    {
+        "date": "2013-11",
+        "compound": 10,
+        "neg": 4,
+        "neu": 14,
+        "pos": 8
+    },
+    {
+        "date": "2013-12",
+        "compound": 61,
+        "neg": 17,
+        "neu": 116,
+        "pos": 30
+    },
+    {
+        "date": "2014-01",
+        "compound": 43,
+        "neg": 15,
+        "neu": 79,
+        "pos": 15
+    },
+    {
+        "date": "2014-02",
+        "compound": 49,
+        "neg": 10,
+        "neu": 81,
+        "pos": 18
+    },
+    {
+        "date": "2014-03",
+        "compound": 34,
+        "neg": 4,
+        "neu": 38,
+        "pos": 13
+    },
+    {
+        "date": "2014-04",
+        "compound": 18,
+        "neg": 2,
+        "neu": 31,
+        "pos": 7
+    },
+    {
+        "date": "2014-05",
+        "compound": 98,
+        "neg": 10,
+        "neu": 136,
+        "pos": 21
+    },
+    {
+        "date": "2014-06",
+        "compound": 141,
+        "neg": 14,
+        "neu": 207,
+        "pos": 47
+    },
+    {
+        "date": "2014-07",
+        "compound": 69,
+        "neg": 8,
+        "neu": 91,
+        "pos": 16
+    },
+    {
+        "date": "2014-08",
+        "compound": 48,
+        "neg": 7,
+        "neu": 77,
+        "pos": 24
+    },
+    {
+        "date": "2014-09",
+        "compound": 120,
+        "neg": 5,
+        "neu": 85,
+        "pos": 17
+    },
+    {
+        "date": "2014-10",
+        "compound": 35,
+        "neg": 4,
+        "neu": 55,
+        "pos": 11
+    },
+    {
+        "date": "2014-11",
+        "compound": 43,
+        "neg": 5,
+        "neu": 68,
+        "pos": 9
+    },
+    {
+        "date": "2014-12",
+        "compound": 34,
+        "neg": 4,
+        "neu": 61,
+        "pos": 9
+    },
+    {
+        "date": "2015-01",
+        "compound": 89,
+        "neg": 4,
+        "neu": 94,
+        "pos": 11
+    },
+    {
+        "date": "2015-02",
+        "compound": 58,
+        "neg": 3,
+        "neu": 55,
+        "pos": 8
+    },
+    {
+        "date": "2015-03",
+        "compound": 49,
+        "neg": 4,
+        "neu": 86,
+        "pos": 9
+    },
+    {
+        "date": "2015-04",
+        "compound": 230,
+        "neg": 16,
+        "neu": 542,
+        "pos": 61
+    },
+    {
+        "date": "2015-05",
+        "compound": 169,
+        "neg": 10,
+        "neu": 345,
+        "pos": 45
+    },
+    {
+        "date": "2015-06",
+        "compound": 139,
+        "neg": 12,
+        "neu": 266,
+        "pos": 39
+    },
+    {
+        "date": "2015-07",
+        "compound": 93,
+        "neg": 9,
+        "neu": 205,
+        "pos": 28
+    },
+    {
+        "date": "2015-08",
+        "compound": 85,
+        "neg": 7,
+        "neu": 173,
+        "pos": 25
+    },
+    {
+        "date": "2015-09",
+        "compound": 60,
+        "neg": 6,
+        "neu": 133,
+        "pos": 19
+    },
+    {
+        "date": "2015-10",
+        "compound": 74,
+        "neg": 5,
+        "neu": 143,
+        "pos": 22
+    },
+    {
+        "date": "2015-11",
+        "compound": 54,
+        "neg": 5,
+        "neu": 114,
+        "pos": 21
+    },
+    {
+        "date": "2015-12",
+        "compound": 57,
+        "neg": 8,
+        "neu": 128,
+        "pos": 24
+    },
+    {
+        "date": "2016-01",
+        "compound": 96,
+        "neg": 7,
+        "neu": 138,
+        "pos": 21
+    },
+    {
+        "date": "2016-02",
+        "compound": 62,
+        "neg": 5,
+        "neu": 112,
+        "pos": 14
+    },
+    {
+        "date": "2016-03",
+        "compound": 39,
+        "neg": 7,
+        "neu": 74,
+        "pos": 13
+    },
+    {
+        "date": "2016-04",
+        "compound": 32,
+        "neg": 5,
+        "neu": 69,
+        "pos": 9
+    },
+    {
+        "date": "2016-05",
+        "compound": 36,
+        "neg": 2,
+        "neu": 67,
+        "pos": 10
+    },
+    {
+        "date": "2016-06",
+        "compound": 38,
+        "neg": 5,
+        "neu": 69,
+        "pos": 13
+    },
+    {
+        "date": "2016-07",
+        "compound": 34,
+        "neg": 2,
+        "neu": 63,
+        "pos": 9
+    },
+    {
+        "date": "2016-08",
+        "compound": 51,
+        "neg": 3,
+        "neu": 63,
+        "pos": 9
+    },
+    {
+        "date": "2016-09",
+        "compound": 84,
+        "neg": 6,
+        "neu": 92,
+        "pos": 12
+    },
+    {
+        "date": "2016-10",
+        "compound": 64,
+        "neg": 4,
+        "neu": 79,
+        "pos": 8
+    },
+    {
+        "date": "2016-11",
+        "compound": 55,
+        "neg": 6,
+        "neu": 94,
+        "pos": 17
+    },
+    {
+        "date": "2016-12",
+        "compound": 32,
+        "neg": 2,
+        "neu": 41,
+        "pos": 9
+    },
+    {
+        "date": "2017-01",
+        "compound": 26,
+        "neg": 2,
+        "neu": 42,
+        "pos": 6
+    },
+    {
+        "date": "2017-02",
+        "compound": 20,
+        "neg": 2,
+        "neu": 32,
+        "pos": 6
+    },
+    {
+        "date": "2017-03",
+        "compound": 23,
+        "neg": 3,
+        "neu": 37,
+        "pos": 6
+    },
+    {
+        "date": "2017-04",
+        "compound": 24,
+        "neg": 2,
+        "neu": 31,
+        "pos": 6
+    },
+    {
+        "date": "2017-05",
+        "compound": 22,
+        "neg": 2,
+        "neu": 37,
+        "pos": 5
+    },
+    {
+        "date": "2017-06",
+        "compound": 30,
+        "neg": 3,
+        "neu": 45,
+        "pos": 9
+    },
+    {
+        "date": "2017-07",
+        "compound": 40,
+        "neg": 3,
+        "neu": 64,
+        "pos": 12
+    },
+    {
+        "date": "2017-08",
+        "compound": 54,
+        "neg": 4,
+        "neu": 68,
+        "pos": 8
+    },
+    {
+        "date": "2017-09",
+        "compound": 36,
+        "neg": 4,
+        "neu": 49,
+        "pos": 10
+    },
+    {
+        "date": "2017-10",
+        "compound": 32,
+        "neg": 2,
+        "neu": 51,
+        "pos": 8
+    },
+    {
+        "date": "2017-11",
+        "compound": 43,
+        "neg": 4,
+        "neu": 65,
+        "pos": 15
+    },
+    {
+        "date": "2017-12",
+        "compound": 25,
+        "neg": 2,
+        "neu": 46,
+        "pos": 8
+    },
+    {
+        "date": "2018-01",
+        "compound": 23,
+        "neg": 3,
+        "neu": 41,
+        "pos": 7
+    },
+    {
+        "date": "2018-02",
+        "compound": 28,
+        "neg": 2,
+        "neu": 39,
+        "pos": 6
+    },
+    {
+        "date": "2018-03",
+        "compound": 20,
+        "neg": 2,
+        "neu": 36,
+        "pos": 6
+    },
+    {
+        "date": "2018-04",
+        "compound": 19,
+        "neg": 2,
+        "neu": 33,
+        "pos": 4
+    },
+    {
+        "date": "2018-05",
+        "compound": 18,
+        "neg": 2,
+        "neu": 33,
+        "pos": 6
+    },
+    {
+        "date": "2018-06",
+        "compound": 22,
+        "neg": 3,
+        "neu": 38,
+        "pos": 5
+    },
+    {
+        "date": "2018-07",
+        "compound": 20,
+        "neg": 1,
+        "neu": 32,
+        "pos": 4
+    },
+    {
+        "date": "2018-08",
+        "compound": 16,
+        "neg": 0,
+        "neu": 32,
+        "pos": 3
+    },
+    {
+        "date": "2018-09",
+        "compound": 13,
+        "neg": 1,
+        "neu": 23,
+        "pos": 4
+    },
+    {
+        "date": "2018-10",
+        "compound": 20,
+        "neg": 2,
+        "neu": 33,
+        "pos": 4
+    },
+    {
+        "date": "2018-11",
+        "compound": 28,
+        "neg": 2,
+        "neu": 36,
+        "pos": 11
+    },
+    {
+        "date": "2018-12",
+        "compound": 13,
+        "neg": 1,
+        "neu": 27,
+        "pos": 5
+    },
+    {
+        "date": "2019-01",
+        "compound": 20,
+        "neg": 2,
+        "neu": 31,
+        "pos": 4
+    },
+    {
+        "date": "2019-02",
+        "compound": 14,
+        "neg": 1,
+        "neu": 20,
+        "pos": 5
+    },
+    {
+        "date": "2019-03",
+        "compound": 18,
+        "neg": 1,
+        "neu": 25,
+        "pos": 4
+    },
+    {
+        "date": "2019-04",
+        "compound": 14,
+        "neg": 2,
+        "neu": 28,
+        "pos": 5
+    },
+    {
+        "date": "2019-05",
+        "compound": 13,
+        "neg": 2,
+        "neu": 18,
+        "pos": 6
+    },
+    {
+        "date": "2019-06",
+        "compound": 35,
+        "neg": 5,
+        "neu": 55,
+        "pos": 17
+    },
+    {
+        "date": "2019-07",
+        "compound": 40,
+        "neg": 5,
+        "neu": 64,
+        "pos": 23
+    },
+    {
+        "date": "2019-08",
+        "compound": 12,
+        "neg": 1,
+        "neu": 23,
+        "pos": 3
+    },
+    {
+        "date": "2019-09",
+        "compound": 9,
+        "neg": 1,
+        "neu": 16,
+        "pos": 2
+    },
+    {
+        "date": "2019-10",
+        "compound": 15,
+        "neg": 2,
+        "neu": 25,
+        "pos": 6
+    },
+    {
+        "date": "2019-11",
+        "compound": 59,
+        "neg": 7,
+        "neu": 90,
+        "pos": 42
+    },
+    {
+        "date": "2019-12",
+        "compound": 41,
+        "neg": 4,
+        "neu": 68,
+        "pos": 29
+    },
+    {
+        "date": "2020-01",
+        "compound": 45,
+        "neg": 5,
+        "neu": 67,
+        "pos": 27
+    },
+    {
+        "date": "2020-02",
+        "compound": 34,
+        "neg": 4,
+        "neu": 52,
+        "pos": 21
+    },
+    {
+        "date": "2020-03",
+        "compound": 36,
+        "neg": 4,
+        "neu": 60,
+        "pos": 23
+    },
+    {
+        "date": "2020-04",
+        "compound": 40,
+        "neg": 5,
+        "neu": 63,
+        "pos": 29
+    },
+    {
+        "date": "2020-05",
+        "compound": 39,
+        "neg": 4,
+        "neu": 59,
+        "pos": 21
+    },
+    {
+        "date": "2020-06",
+        "compound": 28,
+        "neg": 5,
+        "neu": 52,
+        "pos": 18
+    },
+    {
+        "date": "2020-07",
+        "compound": 29,
+        "neg": 3,
+        "neu": 55,
+        "pos": 20
+    },
+    {
+        "date": "2020-08",
+        "compound": 27,
+        "neg": 3,
+        "neu": 53,
+        "pos": 19
+    },
+    {
+        "date": "2020-09",
+        "compound": 26,
+        "neg": 4,
+        "neu": 47,
+        "pos": 18
+    },
+    {
+        "date": "2020-10",
+        "compound": 24,
+        "neg": 4,
+        "neu": 45,
+        "pos": 14
+    },
+    {
+        "date": "2020-11",
+        "compound": 26,
+        "neg": 4,
+        "neu": 49,
+        "pos": 21
+    },
+    {
+        "date": "2020-12",
+        "compound": 28,
+        "neg": 5,
+        "neu": 60,
+        "pos": 24
+    },
+    {
+        "date": "2021-01",
+        "compound": 37,
+        "neg": 5,
+        "neu": 85,
+        "pos": 31
+    },
+    {
+        "date": "2021-02",
+        "compound": 31,
+        "neg": 5,
+        "neu": 75,
+        "pos": 27
+    },
+    {
+        "date": "2021-03",
+        "compound": 27,
+        "neg": 4,
+        "neu": 64,
+        "pos": 22
+    },
+    {
+        "date": "2021-04",
+        "compound": 26,
+        "neg": 5,
+        "neu": 55,
+        "pos": 20
+    },
+    {
+        "date": "2021-05",
+        "compound": 26,
+        "neg": 5,
+        "neu": 55,
+        "pos": 20
+    },
+    {
+        "date": "2021-06",
+        "compound": 22,
+        "neg": 6,
+        "neu": 51,
+        "pos": 15
+    },
+    {
+        "date": "2021-07",
+        "compound": 24,
+        "neg": 4,
+        "neu": 55,
+        "pos": 19
+    },
+    {
+        "date": "2021-08",
+        "compound": 26,
+        "neg": 5,
+        "neu": 54,
+        "pos": 18
+    },
+    {
+        "date": "2021-09",
+        "compound": 26,
+        "neg": 5,
+        "neu": 56,
+        "pos": 20
+    },
+    {
+        "date": "2021-10",
+        "compound": 38,
+        "neg": 6,
+        "neu": 83,
+        "pos": 26
+    },
+    {
+        "date": "2021-11",
+        "compound": 25,
+        "neg": 5,
+        "neu": 51,
+        "pos": 22
+    },
+    {
+        "date": "2021-12",
+        "compound": 20,
+        "neg": 6,
+        "neu": 56,
+        "pos": 14
+    },
+    {
+        "date": "2022-01",
+        "compound": 21,
+        "neg": 5,
+        "neu": 53,
+        "pos": 13
+    },
+    {
+        "date": "2022-02",
+        "compound": 17,
+        "neg": 4,
+        "neu": 42,
+        "pos": 14
+    },
+    {
+        "date": "2022-03",
+        "compound": 19,
+        "neg": 5,
+        "neu": 41,
+        "pos": 13
+    },
+    {
+        "date": "2022-04",
+        "compound": 16,
+        "neg": 3,
+        "neu": 39,
+        "pos": 12
+    },
+    {
+        "date": "2022-05",
+        "compound": 15,
+        "neg": 4,
+        "neu": 41,
+        "pos": 13
+    },
+    {
+        "date": "2022-06",
+        "compound": 16,
+        "neg": 6,
+        "neu": 54,
+        "pos": 14
+    },
+    {
+        "date": "2022-07",
+        "compound": 19,
+        "neg": 4,
+        "neu": 50,
+        "pos": 13
+    },
+    {
+        "date": "2022-08",
+        "compound": 18,
+        "neg": 3,
+        "neu": 43,
+        "pos": 12
+    },
+    {
+        "date": "2022-09",
+        "compound": 15,
+        "neg": 2,
+        "neu": 39,
+        "pos": 12
+    },
+    {
+        "date": "2022-10",
+        "compound": 16,
+        "neg": 3,
+        "neu": 37,
+        "pos": 10
+    },
+    {
+        "date": "2022-11",
+        "compound": 23,
+        "neg": 3,
+        "neu": 48,
+        "pos": 13
+    },
+    {
+        "date": "2022-12",
+        "compound": 18,
+        "neg": 2,
+        "neu": 39,
+        "pos": 11
+    },
+    {
+        "date": "2023-01",
+        "compound": 18,
+        "neg": 3,
+        "neu": 45,
+        "pos": 12
+    },
+    {
+        "date": "2023-02",
+        "compound": 17,
+        "neg": 2,
+        "neu": 39,
+        "pos": 10
+    },
+    {
+        "date": "2023-03",
+        "compound": 16,
+        "neg": 2,
+        "neu": 40,
+        "pos": 9
+    },
+    {
+        "date": "2023-04",
+        "compound": 16,
+        "neg": 2,
+        "neu": 36,
+        "pos": 9
+    },
+    {
+        "date": "2023-05",
+        "compound": 17,
+        "neg": 4,
+        "neu": 42,
+        "pos": 12
+    },
+    {
+        "date": "2023-06",
+        "compound": 18,
+        "neg": 4,
+        "neu": 42,
+        "pos": 15
+    },
+    {
+        "date": "2023-07",
+        "compound": 18,
+        "neg": 5,
+        "neu": 45,
+        "pos": 15
+    },
+    {
+        "date": "2023-08",
+        "compound": 22,
+        "neg": 4,
+        "neu": 61,
+        "pos": 13
+    },
+    {
+        "date": "2023-09",
+        "compound": 13,
+        "neg": 3,
+        "neu": 35,
+        "pos": 10
+    },
+    {
+        "date": "2023-10",
+        "compound": 16,
+        "neg": 3,
+        "neu": 43,
+        "pos": 14
+    },
+    {
+        "date": "2023-11",
+        "compound": 16,
+        "neg": 3,
+        "neu": 44,
+        "pos": 11
+    },
+    {
+        "date": "2023-12",
+        "compound": 15,
+        "neg": 3,
+        "neu": 40,
+        "pos": 10
+    },
+    {
+        "date": "2024-01",
+        "compound": 18,
+        "neg": 2,
+        "neu": 41,
+        "pos": 12
+    },
+    {
+        "date": "2024-02",
+        "compound": 34,
+        "neg": 9,
+        "neu": 85,
+        "pos": 27
+    },
+    {
+        "date": "2024-03",
+        "compound": 42,
+        "neg": 11,
+        "neu": 128,
+        "pos": 34
+    },
+    {
+        "date": "2024-04",
+        "compound": 13,
+        "neg": 4,
+        "neu": 35,
+        "pos": 11
+    }
+]

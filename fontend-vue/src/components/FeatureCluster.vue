@@ -106,7 +106,7 @@ export default {
                 var centroid = centroidsData.find(function(c) { return c.category === d; });
                 return centroid.y + Math.random() * 20 - 10;
             })
-            .attr("r", 3) // 固定点的半径
+            .attr("r", 4) // 固定点的半径
             .attr("fill", function(d) {
                 return highlight_id.includes(d) ? colorScale(d) : "#ccc";
             }); // 设置颜色，高亮点为多样色，非高亮点为灰色
@@ -141,11 +141,11 @@ export default {
                 var centroid = centroidsData.find(function(c) { return c.category === d; });
                 return centroid.y + Math.random() * 20 - 10;
             })
-            .attr("r", 3)
+            .attr("r", 4)
             .attr("fill", function(d) {
                 return colorScale(d);
             })
-            .attr("stroke", "yellow")
+            .attr("stroke", "#FFFDD0")
             .attr("stroke-width", 2)
             // 鼠标悬停时显示提示框
             .on('mouseover', tip.show)

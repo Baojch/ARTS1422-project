@@ -1,0 +1,1162 @@
+{
+    "RPG": [
+        {
+            "appid": 204360,
+            "num_comment": 108223,
+            "playtime": 227440149,
+            "voted_up": 105101,
+            "negative": 1197,
+            "comment_comment": 7354
+        },
+        {
+            "appid": 335300,
+            "num_comment": 99867,
+            "playtime": 807673853,
+            "voted_up": 223948,
+            "negative": 2284,
+            "comment_comment": 16073
+        },
+        {
+            "appid": 359320,
+            "num_comment": 92229,
+            "playtime": 2844724530,
+            "voted_up": 393961,
+            "negative": 1048,
+            "comment_comment": 31965
+        },
+        {
+            "appid": 213670,
+            "num_comment": 60349,
+            "playtime": 102733579,
+            "voted_up": 96101,
+            "negative": 634,
+            "comment_comment": 4729
+        },
+        {
+            "appid": 269210,
+            "num_comment": 39956,
+            "playtime": 254488853,
+            "voted_up": 96276,
+            "negative": 531,
+            "comment_comment": 4428
+        },
+        {
+            "appid": 261640,
+            "num_comment": 38183,
+            "playtime": 178658809,
+            "voted_up": 82612,
+            "negative": 614,
+            "comment_comment": 5192
+        },
+        {
+            "appid": 104900,
+            "num_comment": 28664,
+            "playtime": 23245936,
+            "voted_up": 69516,
+            "negative": 812,
+            "comment_comment": 4856
+        },
+        {
+            "appid": 41700,
+            "num_comment": 26811,
+            "playtime": 126069064,
+            "voted_up": 101099,
+            "negative": 227,
+            "comment_comment": 5975
+        },
+        {
+            "appid": 228280,
+            "num_comment": 14951,
+            "playtime": 128952300,
+            "voted_up": 39638,
+            "negative": 94,
+            "comment_comment": 2278
+        },
+        {
+            "appid": 606280,
+            "num_comment": 14047,
+            "playtime": 28113459,
+            "voted_up": 41869,
+            "negative": 111,
+            "comment_comment": 2458
+        }
+    ],
+    "Indie": [
+        {
+            "appid": 244850,
+            "num_comment": 122816,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 1501,
+            "comment_comment": 0
+        },
+        {
+            "appid": 204360,
+            "num_comment": 108223,
+            "playtime": 227440149,
+            "voted_up": 105101,
+            "negative": 1197,
+            "comment_comment": 7354
+        },
+        {
+            "appid": 219740,
+            "num_comment": 105888,
+            "playtime": 731794186,
+            "voted_up": 136096,
+            "negative": 1288,
+            "comment_comment": 7445
+        },
+        {
+            "appid": 212680,
+            "num_comment": 70672,
+            "playtime": 492217173,
+            "voted_up": 82807,
+            "negative": 1244,
+            "comment_comment": 5194
+        },
+        {
+            "appid": 346900,
+            "num_comment": 57054,
+            "playtime": 561661404,
+            "voted_up": 68617,
+            "negative": 1337,
+            "comment_comment": 4477
+        },
+        {
+            "appid": 346010,
+            "num_comment": 46722,
+            "playtime": 255900408,
+            "voted_up": 116123,
+            "negative": 583,
+            "comment_comment": 4415
+        },
+        {
+            "appid": 239820,
+            "num_comment": 41737,
+            "playtime": 89594298,
+            "voted_up": 79832,
+            "negative": 327,
+            "comment_comment": 3137
+        },
+        {
+            "appid": 242920,
+            "num_comment": 40918,
+            "playtime": 337643052,
+            "voted_up": 124105,
+            "negative": 440,
+            "comment_comment": 4629
+        },
+        {
+            "appid": 269210,
+            "num_comment": 39956,
+            "playtime": 254488853,
+            "voted_up": 96276,
+            "negative": 531,
+            "comment_comment": 4428
+        },
+        {
+            "appid": 245170,
+            "num_comment": 29493,
+            "playtime": 112709406,
+            "voted_up": 121336,
+            "negative": 550,
+            "comment_comment": 4639
+        }
+    ],
+    "Action": [
+        {
+            "appid": 221100,
+            "num_comment": 182799,
+            "playtime": 8263377745,
+            "voted_up": 338016,
+            "negative": 3764,
+            "comment_comment": 11067
+        },
+        {
+            "appid": 244850,
+            "num_comment": 122816,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 1501,
+            "comment_comment": 0
+        },
+        {
+            "appid": 208650,
+            "num_comment": 117666,
+            "playtime": 418787538,
+            "voted_up": 336370,
+            "negative": 1302,
+            "comment_comment": 17315
+        },
+        {
+            "appid": 204360,
+            "num_comment": 108223,
+            "playtime": 227440149,
+            "voted_up": 105101,
+            "negative": 1197,
+            "comment_comment": 7354
+        },
+        {
+            "appid": 335300,
+            "num_comment": 99867,
+            "playtime": 807673853,
+            "voted_up": 223948,
+            "negative": 2284,
+            "comment_comment": 16073
+        },
+        {
+            "appid": 359320,
+            "num_comment": 92229,
+            "playtime": 2844724530,
+            "voted_up": 393961,
+            "negative": 1048,
+            "comment_comment": 31965
+        },
+        {
+            "appid": 374320,
+            "num_comment": 77499,
+            "playtime": 635469902,
+            "voted_up": 166719,
+            "negative": 1717,
+            "comment_comment": 5024
+        },
+        {
+            "appid": 213670,
+            "num_comment": 60349,
+            "playtime": 102733579,
+            "voted_up": 96101,
+            "negative": 634,
+            "comment_comment": 4729
+        },
+        {
+            "appid": 386180,
+            "num_comment": 59379,
+            "playtime": 1219838662,
+            "voted_up": 120995,
+            "negative": 674,
+            "comment_comment": 10128
+        },
+        {
+            "appid": 50130,
+            "num_comment": 51944,
+            "playtime": 181400454,
+            "voted_up": 103353,
+            "negative": 212,
+            "comment_comment": 8071
+        }
+    ],
+    "Early Access": [
+        {
+            "appid": 376210,
+            "num_comment": 22800,
+            "playtime": 362290636,
+            "voted_up": 40190,
+            "negative": 399,
+            "comment_comment": 1383
+        },
+        {
+            "appid": 332570,
+            "num_comment": 9677,
+            "playtime": 41099513,
+            "voted_up": 13378,
+            "negative": 167,
+            "comment_comment": 1167
+        },
+        {
+            "appid": 366090,
+            "num_comment": 7448,
+            "playtime": 45466867,
+            "voted_up": 19541,
+            "negative": 100,
+            "comment_comment": 1032
+        },
+        {
+            "appid": 513710,
+            "num_comment": 6959,
+            "playtime": 178505754,
+            "voted_up": 15827,
+            "negative": 55,
+            "comment_comment": 400
+        },
+        {
+            "appid": 438100,
+            "num_comment": 4599,
+            "playtime": 97865924,
+            "voted_up": 3969,
+            "negative": 167,
+            "comment_comment": 311
+        },
+        {
+            "appid": 598960,
+            "num_comment": 2539,
+            "playtime": 22166490,
+            "voted_up": 7442,
+            "negative": 10,
+            "comment_comment": 626
+        },
+        {
+            "appid": 587450,
+            "num_comment": 1638,
+            "playtime": 2171882,
+            "voted_up": 9121,
+            "negative": 23,
+            "comment_comment": 661
+        },
+        {
+            "appid": 1623730,
+            "num_comment": 1200,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 10,
+            "comment_comment": 0
+        },
+        {
+            "appid": 1423330,
+            "num_comment": 1173,
+            "playtime": 1472403,
+            "voted_up": 5118,
+            "negative": 1,
+            "comment_comment": 87
+        },
+        {
+            "appid": 397100,
+            "num_comment": 887,
+            "playtime": 27966822,
+            "voted_up": 2037,
+            "negative": 25,
+            "comment_comment": 535
+        }
+    ],
+    "Strategy": [
+        {
+            "appid": 8930,
+            "num_comment": 196621,
+            "playtime": 6778339270,
+            "voted_up": 291629,
+            "negative": 2473,
+            "comment_comment": 17687
+        },
+        {
+            "appid": 244850,
+            "num_comment": 122816,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 1501,
+            "comment_comment": 0
+        },
+        {
+            "appid": 359320,
+            "num_comment": 92229,
+            "playtime": 2844724530,
+            "voted_up": 393961,
+            "negative": 1048,
+            "comment_comment": 31965
+        },
+        {
+            "appid": 212680,
+            "num_comment": 70672,
+            "playtime": 492217173,
+            "voted_up": 82807,
+            "negative": 1244,
+            "comment_comment": 5194
+        },
+        {
+            "appid": 1180320,
+            "num_comment": 47980,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 30,
+            "comment_comment": 0
+        },
+        {
+            "appid": 239820,
+            "num_comment": 41737,
+            "playtime": 89594298,
+            "voted_up": 79832,
+            "negative": 327,
+            "comment_comment": 3137
+        },
+        {
+            "appid": 242920,
+            "num_comment": 40918,
+            "playtime": 337643052,
+            "voted_up": 124105,
+            "negative": 440,
+            "comment_comment": 4629
+        },
+        {
+            "appid": 4700,
+            "num_comment": 30376,
+            "playtime": 714663774,
+            "voted_up": 60016,
+            "negative": 506,
+            "comment_comment": 3308
+        },
+        {
+            "appid": 248570,
+            "num_comment": 16319,
+            "playtime": 86721341,
+            "voted_up": 21128,
+            "negative": 481,
+            "comment_comment": 1943
+        },
+        {
+            "appid": 204880,
+            "num_comment": 15445,
+            "playtime": 302446071,
+            "voted_up": 28364,
+            "negative": 164,
+            "comment_comment": 1970
+        }
+    ],
+    "Simulation": [
+        {
+            "appid": 244850,
+            "num_comment": 122816,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 1501,
+            "comment_comment": 0
+        },
+        {
+            "appid": 219740,
+            "num_comment": 105888,
+            "playtime": 731794186,
+            "voted_up": 136096,
+            "negative": 1288,
+            "comment_comment": 7445
+        },
+        {
+            "appid": 359320,
+            "num_comment": 92229,
+            "playtime": 2844724530,
+            "voted_up": 393961,
+            "negative": 1048,
+            "comment_comment": 31965
+        },
+        {
+            "appid": 212680,
+            "num_comment": 70672,
+            "playtime": 492217173,
+            "voted_up": 82807,
+            "negative": 1244,
+            "comment_comment": 5194
+        },
+        {
+            "appid": 346010,
+            "num_comment": 46722,
+            "playtime": 255900408,
+            "voted_up": 116123,
+            "negative": 583,
+            "comment_comment": 4415
+        },
+        {
+            "appid": 239820,
+            "num_comment": 41737,
+            "playtime": 89594298,
+            "voted_up": 79832,
+            "negative": 327,
+            "comment_comment": 3137
+        },
+        {
+            "appid": 242920,
+            "num_comment": 40918,
+            "playtime": 337643052,
+            "voted_up": 124105,
+            "negative": 440,
+            "comment_comment": 4629
+        },
+        {
+            "appid": 365450,
+            "num_comment": 23957,
+            "playtime": 40847111,
+            "voted_up": 57525,
+            "negative": 104,
+            "comment_comment": 2335
+        },
+        {
+            "appid": 376210,
+            "num_comment": 22800,
+            "playtime": 362290636,
+            "voted_up": 40190,
+            "negative": 399,
+            "comment_comment": 1383
+        },
+        {
+            "appid": 204880,
+            "num_comment": 15445,
+            "playtime": 302446071,
+            "voted_up": 28364,
+            "negative": 164,
+            "comment_comment": 1970
+        }
+    ],
+    "Racing": [
+        {
+            "appid": 386180,
+            "num_comment": 59379,
+            "playtime": 1219838662,
+            "voted_up": 120995,
+            "negative": 674,
+            "comment_comment": 10128
+        },
+        {
+            "appid": 586980,
+            "num_comment": 4491,
+            "playtime": 6372939,
+            "voted_up": 6477,
+            "negative": 33,
+            "comment_comment": 207
+        },
+        {
+            "appid": 550320,
+            "num_comment": 3700,
+            "playtime": 9319266,
+            "voted_up": 6867,
+            "negative": 42,
+            "comment_comment": 235
+        },
+        {
+            "appid": 359800,
+            "num_comment": 2631,
+            "playtime": 854535,
+            "voted_up": 7454,
+            "negative": 60,
+            "comment_comment": 426
+        },
+        {
+            "appid": 204630,
+            "num_comment": 2352,
+            "playtime": 1355936,
+            "voted_up": 5629,
+            "negative": 21,
+            "comment_comment": 397
+        },
+        {
+            "appid": 245490,
+            "num_comment": 2222,
+            "playtime": 10691799,
+            "voted_up": 8509,
+            "negative": 44,
+            "comment_comment": 451
+        },
+        {
+            "appid": 331160,
+            "num_comment": 2198,
+            "playtime": 2815926,
+            "voted_up": 14171,
+            "negative": 13,
+            "comment_comment": 578
+        },
+        {
+            "appid": 325260,
+            "num_comment": 1241,
+            "playtime": 1676591,
+            "voted_up": 1749,
+            "negative": 23,
+            "comment_comment": 39
+        },
+        {
+            "appid": 488550,
+            "num_comment": 1004,
+            "playtime": 11156920,
+            "voted_up": 2566,
+            "negative": 18,
+            "comment_comment": 226
+        },
+        {
+            "appid": 587420,
+            "num_comment": 932,
+            "playtime": 282306,
+            "voted_up": 1620,
+            "negative": 14,
+            "comment_comment": 71
+        }
+    ],
+    "Casual": [
+        {
+            "appid": 204360,
+            "num_comment": 108223,
+            "playtime": 227440149,
+            "voted_up": 105101,
+            "negative": 1197,
+            "comment_comment": 7354
+        },
+        {
+            "appid": 346900,
+            "num_comment": 57054,
+            "playtime": 561661404,
+            "voted_up": 68617,
+            "negative": 1337,
+            "comment_comment": 4477
+        },
+        {
+            "appid": 239820,
+            "num_comment": 41737,
+            "playtime": 89594298,
+            "voted_up": 79832,
+            "negative": 327,
+            "comment_comment": 3137
+        },
+        {
+            "appid": 221260,
+            "num_comment": 11901,
+            "playtime": 8272772,
+            "voted_up": 13662,
+            "negative": 213,
+            "comment_comment": 824
+        },
+        {
+            "appid": 602520,
+            "num_comment": 11810,
+            "playtime": 169421178,
+            "voted_up": 88405,
+            "negative": 63,
+            "comment_comment": 8398
+        },
+        {
+            "appid": 429790,
+            "num_comment": 8776,
+            "playtime": 100132119,
+            "voted_up": 12819,
+            "negative": 164,
+            "comment_comment": 1316
+        },
+        {
+            "appid": 367580,
+            "num_comment": 8775,
+            "playtime": 2254656,
+            "voted_up": 9187,
+            "negative": 27,
+            "comment_comment": 471
+        },
+        {
+            "appid": 420110,
+            "num_comment": 7600,
+            "playtime": 98966924,
+            "voted_up": 40640,
+            "negative": 62,
+            "comment_comment": 2678
+        },
+        {
+            "appid": 615530,
+            "num_comment": 6355,
+            "playtime": 21431576,
+            "voted_up": 46206,
+            "negative": 7,
+            "comment_comment": 2141
+        },
+        {
+            "appid": 546050,
+            "num_comment": 5342,
+            "playtime": 40235872,
+            "voted_up": 12290,
+            "negative": 90,
+            "comment_comment": 655
+        }
+    ],
+    "Adventure": [
+        {
+            "appid": 221100,
+            "num_comment": 182799,
+            "playtime": 8263377745,
+            "voted_up": 338016,
+            "negative": 3764,
+            "comment_comment": 11067
+        },
+        {
+            "appid": 208650,
+            "num_comment": 117666,
+            "playtime": 418787538,
+            "voted_up": 336370,
+            "negative": 1302,
+            "comment_comment": 17315
+        },
+        {
+            "appid": 204360,
+            "num_comment": 108223,
+            "playtime": 227440149,
+            "voted_up": 105101,
+            "negative": 1197,
+            "comment_comment": 7354
+        },
+        {
+            "appid": 219740,
+            "num_comment": 105888,
+            "playtime": 731794186,
+            "voted_up": 136096,
+            "negative": 1288,
+            "comment_comment": 7445
+        },
+        {
+            "appid": 359320,
+            "num_comment": 92229,
+            "playtime": 2844724530,
+            "voted_up": 393961,
+            "negative": 1048,
+            "comment_comment": 31965
+        },
+        {
+            "appid": 207610,
+            "num_comment": 66710,
+            "playtime": 93855072,
+            "voted_up": 102990,
+            "negative": 1073,
+            "comment_comment": 9290
+        },
+        {
+            "appid": 213670,
+            "num_comment": 60349,
+            "playtime": 102733579,
+            "voted_up": 96101,
+            "negative": 634,
+            "comment_comment": 4729
+        },
+        {
+            "appid": 108710,
+            "num_comment": 44388,
+            "playtime": 49262967,
+            "voted_up": 73895,
+            "negative": 316,
+            "comment_comment": 6247
+        },
+        {
+            "appid": 269210,
+            "num_comment": 39956,
+            "playtime": 254488853,
+            "voted_up": 96276,
+            "negative": 531,
+            "comment_comment": 4428
+        },
+        {
+            "appid": 104900,
+            "num_comment": 28664,
+            "playtime": 23245936,
+            "voted_up": 69516,
+            "negative": 812,
+            "comment_comment": 4856
+        }
+    ],
+    "Free to Play": [
+        {
+            "appid": 386180,
+            "num_comment": 59379,
+            "playtime": 1219838662,
+            "voted_up": 120995,
+            "negative": 674,
+            "comment_comment": 10128
+        },
+        {
+            "appid": 346900,
+            "num_comment": 57054,
+            "playtime": 561661404,
+            "voted_up": 68617,
+            "negative": 1337,
+            "comment_comment": 4477
+        },
+        {
+            "appid": 1180320,
+            "num_comment": 47980,
+            "playtime": 0,
+            "voted_up": 0,
+            "negative": 30,
+            "comment_comment": 0
+        },
+        {
+            "appid": 332950,
+            "num_comment": 17757,
+            "playtime": 31696888,
+            "voted_up": 49089,
+            "negative": 374,
+            "comment_comment": 1163
+        },
+        {
+            "appid": 248570,
+            "num_comment": 16319,
+            "playtime": 86721341,
+            "voted_up": 21128,
+            "negative": 481,
+            "comment_comment": 1943
+        },
+        {
+            "appid": 311310,
+            "num_comment": 12120,
+            "playtime": 601523637,
+            "voted_up": 86136,
+            "negative": 178,
+            "comment_comment": 4878
+        },
+        {
+            "appid": 47410,
+            "num_comment": 9057,
+            "playtime": 445571988,
+            "voted_up": 29388,
+            "negative": 207,
+            "comment_comment": 1664
+        },
+        {
+            "appid": 429790,
+            "num_comment": 8776,
+            "playtime": 100132119,
+            "voted_up": 12819,
+            "negative": 164,
+            "comment_comment": 1316
+        },
+        {
+            "appid": 324810,
+            "num_comment": 5641,
+            "playtime": 5534235,
+            "voted_up": 20801,
+            "negative": 118,
+            "comment_comment": 2143
+        },
+        {
+            "appid": 438100,
+            "num_comment": 4599,
+            "playtime": 97865924,
+            "voted_up": 3969,
+            "negative": 167,
+            "comment_comment": 311
+        }
+    ],
+    "Sports": [
+        {
+            "appid": 438100,
+            "num_comment": 4599,
+            "playtime": 97865924,
+            "voted_up": 3969,
+            "negative": 167,
+            "comment_comment": 311
+        },
+        {
+            "appid": 586980,
+            "num_comment": 4491,
+            "playtime": 6372939,
+            "voted_up": 6477,
+            "negative": 33,
+            "comment_comment": 207
+        },
+        {
+            "appid": 375530,
+            "num_comment": 3800,
+            "playtime": 37512655,
+            "voted_up": 7115,
+            "negative": 13,
+            "comment_comment": 602
+        },
+        {
+            "appid": 550320,
+            "num_comment": 3700,
+            "playtime": 9319266,
+            "voted_up": 6867,
+            "negative": 42,
+            "comment_comment": 235
+        },
+        {
+            "appid": 321400,
+            "num_comment": 3240,
+            "playtime": 12502783,
+            "voted_up": 5162,
+            "negative": 96,
+            "comment_comment": 880
+        },
+        {
+            "appid": 399820,
+            "num_comment": 2714,
+            "playtime": 3400369,
+            "voted_up": 5464,
+            "negative": 10,
+            "comment_comment": 446
+        },
+        {
+            "appid": 359800,
+            "num_comment": 2631,
+            "playtime": 854535,
+            "voted_up": 7454,
+            "negative": 60,
+            "comment_comment": 426
+        },
+        {
+            "appid": 63200,
+            "num_comment": 1152,
+            "playtime": 2847773,
+            "voted_up": 5478,
+            "negative": 43,
+            "comment_comment": 277
+        },
+        {
+            "appid": 244590,
+            "num_comment": 1145,
+            "playtime": 361164,
+            "voted_up": 3015,
+            "negative": 45,
+            "comment_comment": 114
+        },
+        {
+            "appid": 288140,
+            "num_comment": 889,
+            "playtime": 35860668,
+            "voted_up": 5297,
+            "negative": 9,
+            "comment_comment": 496
+        }
+    ],
+    "Massively Multiplayer": [
+        {
+            "appid": 221100,
+            "num_comment": 182799,
+            "playtime": 8263377745,
+            "voted_up": 338016,
+            "negative": 3764,
+            "comment_comment": 11067
+        },
+        {
+            "appid": 359320,
+            "num_comment": 92229,
+            "playtime": 2844724530,
+            "voted_up": 393961,
+            "negative": 1048,
+            "comment_comment": 31965
+        },
+        {
+            "appid": 386180,
+            "num_comment": 59379,
+            "playtime": 1219838662,
+            "voted_up": 120995,
+            "negative": 674,
+            "comment_comment": 10128
+        },
+        {
+            "appid": 269210,
+            "num_comment": 39956,
+            "playtime": 254488853,
+            "voted_up": 96276,
+            "negative": 531,
+            "comment_comment": 4428
+        },
+        {
+            "appid": 376210,
+            "num_comment": 22800,
+            "playtime": 362290636,
+            "voted_up": 40190,
+            "negative": 399,
+            "comment_comment": 1383
+        },
+        {
+            "appid": 311310,
+            "num_comment": 12120,
+            "playtime": 601523637,
+            "voted_up": 86136,
+            "negative": 178,
+            "comment_comment": 4878
+        },
+        {
+            "appid": 47410,
+            "num_comment": 9057,
+            "playtime": 445571988,
+            "voted_up": 29388,
+            "negative": 207,
+            "comment_comment": 1664
+        },
+        {
+            "appid": 429790,
+            "num_comment": 8776,
+            "playtime": 100132119,
+            "voted_up": 12819,
+            "negative": 164,
+            "comment_comment": 1316
+        },
+        {
+            "appid": 513710,
+            "num_comment": 6959,
+            "playtime": 178505754,
+            "voted_up": 15827,
+            "negative": 55,
+            "comment_comment": 400
+        },
+        {
+            "appid": 438100,
+            "num_comment": 4599,
+            "playtime": 97865924,
+            "voted_up": 3969,
+            "negative": 167,
+            "comment_comment": 311
+        }
+    ],
+    "Violent": [
+        {
+            "appid": 560370,
+            "num_comment": 321,
+            "playtime": 338304,
+            "voted_up": 3880,
+            "negative": 12,
+            "comment_comment": 254
+        },
+        {
+            "appid": 364910,
+            "num_comment": 294,
+            "playtime": 170938,
+            "voted_up": 1243,
+            "negative": 2,
+            "comment_comment": 34
+        },
+        {
+            "appid": 543010,
+            "num_comment": 260,
+            "playtime": 396529,
+            "voted_up": 824,
+            "negative": 3,
+            "comment_comment": 62
+        },
+        {
+            "appid": 571340,
+            "num_comment": 64,
+            "playtime": 8689,
+            "voted_up": 391,
+            "negative": 0,
+            "comment_comment": 39
+        },
+        {
+            "appid": 434600,
+            "num_comment": 52,
+            "playtime": 9454,
+            "voted_up": 229,
+            "negative": 1,
+            "comment_comment": 13
+        },
+        {
+            "appid": 598170,
+            "num_comment": 50,
+            "playtime": 16506,
+            "voted_up": 107,
+            "negative": 2,
+            "comment_comment": 7
+        },
+        {
+            "appid": 405240,
+            "num_comment": 26,
+            "playtime": 13884,
+            "voted_up": 231,
+            "negative": 0,
+            "comment_comment": 40
+        },
+        {
+            "appid": 542410,
+            "num_comment": 23,
+            "playtime": 3009,
+            "voted_up": 88,
+            "negative": 0,
+            "comment_comment": 7
+        },
+        {
+            "appid": 611810,
+            "num_comment": 12,
+            "playtime": 799,
+            "voted_up": 59,
+            "negative": 0,
+            "comment_comment": 38
+        },
+        {
+            "appid": 591130,
+            "num_comment": 7,
+            "playtime": 376,
+            "voted_up": 34,
+            "negative": 0,
+            "comment_comment": 12
+        }
+    ],
+    "Gore": [
+        {
+            "appid": 364910,
+            "num_comment": 294,
+            "playtime": 170938,
+            "voted_up": 1243,
+            "negative": 2,
+            "comment_comment": 34
+        },
+        {
+            "appid": 432950,
+            "num_comment": 104,
+            "playtime": 34807,
+            "voted_up": 393,
+            "negative": 0,
+            "comment_comment": 53
+        },
+        {
+            "appid": 571340,
+            "num_comment": 64,
+            "playtime": 8689,
+            "voted_up": 391,
+            "negative": 0,
+            "comment_comment": 39
+        },
+        {
+            "appid": 611810,
+            "num_comment": 12,
+            "playtime": 799,
+            "voted_up": 59,
+            "negative": 0,
+            "comment_comment": 38
+        },
+        {
+            "appid": 611050,
+            "num_comment": 8,
+            "playtime": 343,
+            "voted_up": 9,
+            "negative": 0,
+            "comment_comment": 3
+        },
+        {
+            "appid": 591130,
+            "num_comment": 7,
+            "playtime": 376,
+            "voted_up": 34,
+            "negative": 0,
+            "comment_comment": 12
+        }
+    ],
+    "Sexual Content": [
+        {
+            "appid": 610350,
+            "num_comment": 54,
+            "playtime": 4022,
+            "voted_up": 179,
+            "negative": 1,
+            "comment_comment": 20
+        },
+        {
+            "appid": 405240,
+            "num_comment": 26,
+            "playtime": 13884,
+            "voted_up": 231,
+            "negative": 0,
+            "comment_comment": 40
+        },
+        {
+            "appid": 543290,
+            "num_comment": 10,
+            "playtime": 533,
+            "voted_up": 50,
+            "negative": 0,
+            "comment_comment": 2
+        }
+    ],
+    "Nudity": [
+        {
+            "appid": 364910,
+            "num_comment": 294,
+            "playtime": 170938,
+            "voted_up": 1243,
+            "negative": 2,
+            "comment_comment": 34
+        },
+        {
+            "appid": 405240,
+            "num_comment": 26,
+            "playtime": 13884,
+            "voted_up": 231,
+            "negative": 0,
+            "comment_comment": 40
+        }
+    ]
+}
